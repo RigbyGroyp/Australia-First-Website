@@ -57,6 +57,10 @@
     "photo_url": { "type": "string" },
     "official_page": { "type": "string", "description": "Link to APH/parliament profile." },
     "last_updated": { "type": "string", "description": "ISO date (YYYY-MM-DD) of last edit." },
+    "roster_source": {
+      "allOf": [{ "$ref": "#/definitions/source" }],
+      "description": "Citation for the roster facts (party, electorate, state, chamber)."
+    },
     "positions": {
       "type": "object",
       "description": "Each key holds a sourced factual position. Omit a key if no sourced information exists yet.",

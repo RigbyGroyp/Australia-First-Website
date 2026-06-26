@@ -10,7 +10,7 @@ const POSITION_LABELS = {
 
 const state = {
   all: [],
-  filters: { search: '', chamber: '', state: '', status: '' },
+  filters: { search: '', chamber: '', party: '', state: '', status: '' },
 };
 
 async function load() {
@@ -24,8 +24,20 @@ async function load() {
       `<p class="empty">Could not load data (${err.message}). If opening the file directly, serve the folder instead: <code>python3 -m http.server</code>.</p>`;
     return;
   }
+  populatePartyFilter();
   wireControls();
   render();
+}
+
+function populatePartyFilter() {
+  const sel = document.getElementById('filter-party');
+  const parties = [...new Set(state.all.map((c) => c.party).filter(Boolean))].sort();
+  parties.forEach((p) => {
+    const opt = document.createElement('option');
+    opt.value = p;
+    opt.textContent = p;
+    sel.appendChild(opt);
+  });
 }
 
 function wireControls() {
@@ -38,6 +50,7 @@ function wireControls() {
   };
   bind('search', 'search');
   bind('filter-chamber', 'chamber');
+  bind('filter-party', 'party');
   bind('filter-state', 'state');
   bind('filter-status', 'status');
 }
@@ -45,6 +58,7 @@ function wireControls() {
 function matches(c) {
   const f = state.filters;
   if (f.chamber && c.chamber !== f.chamber) return false;
+  if (f.party && c.party !== f.party) return false;
   if (f.state && c.state !== f.state) return false;
   if (f.status && c.status !== f.status) return false;
   if (f.search) {
@@ -133,7 +147,19 @@ function renderCard(c) {
     c.electorate ? `${c.electorate} (${c.state || ''})` : c.state,
     c.status,
   ].filter(Boolean);
-  node.querySelector('.c-meta').textContent = metaBits.join(' · ');
+  const meta = node.querySelector('.c-meta');
+  meta.textContent = metaBits.join(' · ');
+  if (c.roster_source && c.roster_source.url) {
+    meta.appendChild(document.createTextNode(' · '));
+    const a = document.createElement('a');
+    a.className = 'roster-src';
+    a.href = c.roster_source.url;
+    a.target = '_blank';
+    a.rel = 'noopener noreferrer';
+    a.textContent = 'roster source';
+    a.title = c.roster_source.title || '';
+    meta.appendChild(a);
+  }
 
   const dl = node.querySelector('.positions');
   const positions = c.positions || {};

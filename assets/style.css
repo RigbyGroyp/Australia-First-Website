@@ -72,6 +72,8 @@ body {
 .card-head { border-bottom: 1px solid var(--line); padding-bottom: .6rem; margin-bottom: .8rem; }
 .c-name { margin: 0 0 .2rem; font-size: 1.2rem; }
 .c-meta { margin: 0; color: var(--muted); font-size: .9rem; }
+.c-meta .roster-src { color: var(--accent); text-decoration: none; }
+.c-meta .roster-src:hover { text-decoration: underline; }
 
 .positions { margin: 0; display: grid; gap: .8rem; }
 .pos { background: var(--panel-2); border-radius: 8px; padding: .7rem .8rem; }
