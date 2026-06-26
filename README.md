@@ -42,14 +42,35 @@ These are non-negotiable and are enforced by the data schema:
 
 ```
 data/
-  schema.json        JSON Schema all candidate records must validate against
-  candidates.json    The candidate dataset
-index.html           Searchable, filterable front-end (static, no build step)
+  schema.json              JSON Schema all candidate records must validate against
+  candidates.json          The candidate dataset
+  candidate.template.json  Copy this to add a new candidate
+index.html                 Searchable, filterable front-end (static, no build step)
 assets/
   style.css
   app.js
-CONTRIBUTING.md      Sourcing standards and how to add/correct an entry
+scripts/
+  import_aec_donors.py     Imports AEC Member-of-Parliament donor disclosures
+CONTRIBUTING.md            Sourcing standards and how to add/correct an entry
 ```
+
+## Donor data
+
+The `donors` field is populated from the AEC Transparency Register's
+[All Annual Data](https://transparency.aec.gov.au/Download/AllAnnualData) bulk
+download, via `scripts/import_aec_donors.py`. To refresh it:
+
+```
+# download + unzip the AEC "All Annual Data" archive into a folder, then:
+python3 scripts/import_aec_donors.py path/to/aec_csv_dir
+```
+
+**Scope caveat:** AEC *Member of Parliament* returns only capture donations
+made **directly to a member**. Most political money flows through party returns,
+which are not attributed to individuals — so this donor data is partial and is
+weighted toward independents and crossbenchers, who are required to lodge member
+returns. Each record's summary states this. Foreign-vs-domestic status isn't
+flagged in the source data, so `source_type` is recorded as `unknown`.
 
 ## Running it
 
@@ -64,5 +85,7 @@ python3 -m http.server 8000
 ## Roadmap
 
 - [x] Federal House of Representatives + Senate schema and front-end
-- [ ] Populate federal sitting members with sourced entries
+- [x] Import AEC donor disclosures for members who lodged returns
+- [ ] Add party, electorate, state, and status to each member
+- [ ] Populate policy positions (immigration, faith, etc.) with sources
 - [ ] State and territory parliaments

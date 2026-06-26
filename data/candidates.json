@@ -1,72 +1,1474 @@
 {
   "meta": {
-    "description": "Australian federal candidate transparency dataset. Every populated position requires sources. See ../CONTRIBUTING.md and schema.json.",
+    "description": "Australian federal candidate transparency dataset. Donor data imported from AEC Member of Parliament annual returns; policy positions to be added with sources. See ../CONTRIBUTING.md.",
+    "donor_source": "https://transparency.aec.gov.au/Download/AllAnnualData",
     "last_updated": "2026-06-26"
   },
   "candidates": [
     {
-      "id": "example-template",
-      "name": "EXAMPLE — Template Entry (not a real person)",
-      "party": "Independent",
+      "id": "helen-haines",
+      "name": "Dr Helen Haines MP",
+      "party": "",
       "chamber": "House of Representatives",
-      "electorate": "Example",
-      "state": "NSW",
-      "status": "candidate",
+      "electorate": "",
       "official_page": "",
       "last_updated": "2026-06-26",
-      "positions": {
-        "immigration": {
-          "summary": "Describe the candidate's stated immigration position or recorded votes here. Keep it factual and neutral. Replace this text.",
-          "sources": [
-            {
-              "title": "Example source — replace with a real citation",
-              "url": "https://www.aph.gov.au/",
-              "publisher": "Parliament of Australia",
-              "date": "2026-01-01"
-            }
-          ],
-          "verified": false
-        },
-        "faith": {
-          "summary": "Record only publicly stated faith or on-record statements about religion. Replace this text.",
-          "sources": [],
-          "verified": false
-        },
-        "economic_nationalism": {
-          "summary": "Record positions/votes on local infrastructure, manufacturing, local employment, procurement, foreign ownership. Replace this text.",
-          "sources": [],
-          "verified": false
-        },
-        "foreign_policy": {
-          "summary": "Record foreign-policy positions and votes, including foreign aid and Middle East policy. Replace this text.",
-          "sources": [],
-          "verified": false
-        },
-        "citizenship_eligibility": {
-          "summary": "Record Section 44 constitutional eligibility status only (e.g. 'Confirmed sole Australian citizen; renounced prior citizenship on DATE'). Replace this text.",
-          "sources": [],
-          "verified": false
-        }
-      },
+      "positions": {},
       "donors": {
-        "summary": "Summarise disclosed donations from AEC records. Replace this text.",
+        "summary": "Donations disclosed directly to this member in AEC Member of Parliament returns. 2023-24: $58,318 across 176 donor(s); 2022-23: $3,379 across 17 donor(s); 2021-22: $241 across 8 donor(s); 2020-21: $70,066 across 282 donor(s). Note: member returns capture only donations made directly to the member, not money received via a party; figures are partial.",
+        "entries": [],
+        "sources": [
+          {
+            "title": "AEC Member of Parliament annual return — Dr Helen Haines MP (2023-24)",
+            "url": "https://transparency.aec.gov.au/MemberOfParliament",
+            "publisher": "Australian Electoral Commission",
+            "date": ""
+          }
+        ]
+      }
+    },
+    {
+      "id": "monique-ryan",
+      "name": "Dr Monique Ryan MP",
+      "party": "",
+      "chamber": "House of Representatives",
+      "electorate": "",
+      "official_page": "",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "donors": {
+        "summary": "Donations disclosed directly to this member in AEC Member of Parliament returns. 2024-25: $180 across 4 donor(s); 2023-24: $681,218 across 486 donor(s); 2022-23: $135,150 across 220 donor(s). Note: member returns capture only donations made directly to the member, not money received via a party; figures are partial.",
         "entries": [
           {
-            "donor": "Example Donor Pty Ltd",
-            "amount_aud": null,
+            "donor": "RUTH HARGRAVE",
+            "amount_aud": 25000.0,
             "financial_year": "2023-24",
             "source_type": "unknown",
             "sources": [
               {
-                "title": "AEC Annual Returns — replace with a real disclosure link",
-                "url": "https://transparency.aec.gov.au/",
+                "title": "AEC Member of Parliament annual return — Dr Monique Ryan MP (2023-24)",
+                "url": "https://transparency.aec.gov.au/MemberOfParliament",
                 "publisher": "Australian Electoral Commission",
-                "date": "2024-02-01"
+                "date": ""
+              }
+            ]
+          },
+          {
+            "donor": "RUTH HARGRAVE",
+            "amount_aud": 5000.0,
+            "financial_year": "2023-24",
+            "source_type": "unknown",
+            "sources": [
+              {
+                "title": "AEC Member of Parliament annual return — Dr Monique Ryan MP (2023-24)",
+                "url": "https://transparency.aec.gov.au/MemberOfParliament",
+                "publisher": "Australian Electoral Commission",
+                "date": ""
+              }
+            ]
+          },
+          {
+            "donor": "LISA BARLOW",
+            "amount_aud": 100000.0,
+            "financial_year": "2023-24",
+            "source_type": "unknown",
+            "sources": [
+              {
+                "title": "AEC Member of Parliament annual return — Dr Monique Ryan MP (2023-24)",
+                "url": "https://transparency.aec.gov.au/MemberOfParliament",
+                "publisher": "Australian Electoral Commission",
+                "date": ""
+              }
+            ]
+          },
+          {
+            "donor": "DOUGLAS ENGLISH",
+            "amount_aud": 50000.0,
+            "financial_year": "2023-24",
+            "source_type": "unknown",
+            "sources": [
+              {
+                "title": "AEC Member of Parliament annual return — Dr Monique Ryan MP (2023-24)",
+                "url": "https://transparency.aec.gov.au/MemberOfParliament",
+                "publisher": "Australian Electoral Commission",
+                "date": ""
+              }
+            ]
+          },
+          {
+            "donor": "CLIMATE 200 PTY LTD",
+            "amount_aud": 22500.0,
+            "financial_year": "2023-24",
+            "source_type": "unknown",
+            "sources": [
+              {
+                "title": "AEC Member of Parliament annual return — Dr Monique Ryan MP (2023-24)",
+                "url": "https://transparency.aec.gov.au/MemberOfParliament",
+                "publisher": "Australian Electoral Commission",
+                "date": ""
+              }
+            ]
+          },
+          {
+            "donor": "CLIMATE 200 PTY LTD",
+            "amount_aud": 22500.0,
+            "financial_year": "2023-24",
+            "source_type": "unknown",
+            "sources": [
+              {
+                "title": "AEC Member of Parliament annual return — Dr Monique Ryan MP (2023-24)",
+                "url": "https://transparency.aec.gov.au/MemberOfParliament",
+                "publisher": "Australian Electoral Commission",
+                "date": ""
+              }
+            ]
+          },
+          {
+            "donor": "CLIMATE 200 PTY LTD",
+            "amount_aud": 22500.0,
+            "financial_year": "2023-24",
+            "source_type": "unknown",
+            "sources": [
+              {
+                "title": "AEC Member of Parliament annual return — Dr Monique Ryan MP (2023-24)",
+                "url": "https://transparency.aec.gov.au/MemberOfParliament",
+                "publisher": "Australian Electoral Commission",
+                "date": ""
+              }
+            ]
+          },
+          {
+            "donor": "CLIMATE 200 PTY LTD",
+            "amount_aud": 22500.0,
+            "financial_year": "2023-24",
+            "source_type": "unknown",
+            "sources": [
+              {
+                "title": "AEC Member of Parliament annual return — Dr Monique Ryan MP (2023-24)",
+                "url": "https://transparency.aec.gov.au/MemberOfParliament",
+                "publisher": "Australian Electoral Commission",
+                "date": ""
+              }
+            ]
+          },
+          {
+            "donor": "CLIMATE 200 PTY LTD",
+            "amount_aud": 20000.0,
+            "financial_year": "2023-24",
+            "source_type": "unknown",
+            "sources": [
+              {
+                "title": "AEC Member of Parliament annual return — Dr Monique Ryan MP (2023-24)",
+                "url": "https://transparency.aec.gov.au/MemberOfParliament",
+                "publisher": "Australian Electoral Commission",
+                "date": ""
+              }
+            ]
+          },
+          {
+            "donor": "BRIAN SNAPE",
+            "amount_aud": 50000.0,
+            "financial_year": "2023-24",
+            "source_type": "unknown",
+            "sources": [
+              {
+                "title": "AEC Member of Parliament annual return — Dr Monique Ryan MP (2023-24)",
+                "url": "https://transparency.aec.gov.au/MemberOfParliament",
+                "publisher": "Australian Electoral Commission",
+                "date": ""
+              }
+            ]
+          },
+          {
+            "donor": "Lisa Jane Barlow",
+            "amount_aud": 20000.0,
+            "financial_year": "2022-23",
+            "source_type": "unknown",
+            "sources": [
+              {
+                "title": "AEC Member of Parliament annual return — Dr Monique Ryan MP (2022-23)",
+                "url": "https://transparency.aec.gov.au/MemberOfParliament",
+                "publisher": "Australian Electoral Commission",
+                "date": ""
               }
             ]
           }
         ],
-        "sources": []
+        "sources": [
+          {
+            "title": "AEC Member of Parliament annual return — Dr Monique Ryan MP (2024-25)",
+            "url": "https://transparency.aec.gov.au/MemberOfParliament",
+            "publisher": "Australian Electoral Commission",
+            "date": ""
+          }
+        ]
+      }
+    },
+    {
+      "id": "sophie-scamps",
+      "name": "Dr Sophie Scamps MP",
+      "party": "",
+      "chamber": "House of Representatives",
+      "electorate": "",
+      "official_page": "",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "donors": {
+        "summary": "Donations disclosed directly to this member in AEC Member of Parliament returns. 2023-24: $144,837 across 33 donor(s); 2022-23: $97,046 across 58 donor(s). Note: member returns capture only donations made directly to the member, not money received via a party; figures are partial.",
+        "entries": [
+          {
+            "donor": "Keep Them Honest Pty Ltd",
+            "amount_aud": 37000.0,
+            "financial_year": "2023-24",
+            "source_type": "unknown",
+            "sources": [
+              {
+                "title": "AEC Member of Parliament annual return — Dr Sophie Scamps MP (2023-24)",
+                "url": "https://transparency.aec.gov.au/MemberOfParliament",
+                "publisher": "Australian Electoral Commission",
+                "date": ""
+              }
+            ]
+          },
+          {
+            "donor": "Keep Them Honest Pty Ltd",
+            "amount_aud": 8000.0,
+            "financial_year": "2023-24",
+            "source_type": "unknown",
+            "sources": [
+              {
+                "title": "AEC Member of Parliament annual return — Dr Sophie Scamps MP (2023-24)",
+                "url": "https://transparency.aec.gov.au/MemberOfParliament",
+                "publisher": "Australian Electoral Commission",
+                "date": ""
+              }
+            ]
+          },
+          {
+            "donor": "Climate 200 Pty Ltd",
+            "amount_aud": 25000.0,
+            "financial_year": "2023-24",
+            "source_type": "unknown",
+            "sources": [
+              {
+                "title": "AEC Member of Parliament annual return — Dr Sophie Scamps MP (2023-24)",
+                "url": "https://transparency.aec.gov.au/MemberOfParliament",
+                "publisher": "Australian Electoral Commission",
+                "date": ""
+              }
+            ]
+          },
+          {
+            "donor": "Climate 200 Pty Ltd",
+            "amount_aud": 2498.0,
+            "financial_year": "2023-24",
+            "source_type": "unknown",
+            "sources": [
+              {
+                "title": "AEC Member of Parliament annual return — Dr Sophie Scamps MP (2023-24)",
+                "url": "https://transparency.aec.gov.au/MemberOfParliament",
+                "publisher": "Australian Electoral Commission",
+                "date": ""
+              }
+            ]
+          },
+          {
+            "donor": "Christian Kent",
+            "amount_aud": 10000.0,
+            "financial_year": "2023-24",
+            "source_type": "unknown",
+            "sources": [
+              {
+                "title": "AEC Member of Parliament annual return — Dr Sophie Scamps MP (2023-24)",
+                "url": "https://transparency.aec.gov.au/MemberOfParliament",
+                "publisher": "Australian Electoral Commission",
+                "date": ""
+              }
+            ]
+          },
+          {
+            "donor": "Christian Kent",
+            "amount_aud": 10000.0,
+            "financial_year": "2023-24",
+            "source_type": "unknown",
+            "sources": [
+              {
+                "title": "AEC Member of Parliament annual return — Dr Sophie Scamps MP (2023-24)",
+                "url": "https://transparency.aec.gov.au/MemberOfParliament",
+                "publisher": "Australian Electoral Commission",
+                "date": ""
+              }
+            ]
+          }
+        ],
+        "sources": [
+          {
+            "title": "AEC Member of Parliament annual return — Dr Sophie Scamps MP (2023-24)",
+            "url": "https://transparency.aec.gov.au/MemberOfParliament",
+            "publisher": "Australian Electoral Commission",
+            "date": ""
+          }
+        ]
+      }
+    },
+    {
+      "id": "andrew-gee",
+      "name": "Hon Andrew Gee MP",
+      "party": "",
+      "chamber": "House of Representatives",
+      "electorate": "",
+      "official_page": "",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "donors": {
+        "summary": "Donations disclosed directly to this member in AEC Member of Parliament returns. 2024-25: $4,484 across 6 donor(s). Note: member returns capture only donations made directly to the member, not money received via a party; figures are partial.",
+        "entries": [],
+        "sources": [
+          {
+            "title": "AEC Member of Parliament annual return — Hon Andrew Gee MP (2024-25)",
+            "url": "https://transparency.aec.gov.au/MemberOfParliament",
+            "publisher": "Australian Electoral Commission",
+            "date": ""
+          }
+        ]
+      }
+    },
+    {
+      "id": "andrew-hastie",
+      "name": "Hon Andrew Hastie MP",
+      "party": "",
+      "chamber": "House of Representatives",
+      "electorate": "",
+      "official_page": "",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "donors": {
+        "summary": "Donations disclosed directly to this member in AEC Member of Parliament returns. 2024-25: $1,000 across 1 donor(s). Note: member returns capture only donations made directly to the member, not money received via a party; figures are partial.",
+        "entries": [
+          {
+            "donor": "National Rugby League",
+            "amount_aud": 1000.0,
+            "financial_year": "2024-25",
+            "source_type": "unknown",
+            "sources": [
+              {
+                "title": "AEC Member of Parliament annual return — Hon Andrew Hastie MP (2024-25)",
+                "url": "https://transparency.aec.gov.au/MemberOfParliament",
+                "publisher": "Australian Electoral Commission",
+                "date": ""
+              }
+            ]
+          }
+        ],
+        "sources": [
+          {
+            "title": "AEC Member of Parliament annual return — Hon Andrew Hastie MP (2024-25)",
+            "url": "https://transparency.aec.gov.au/MemberOfParliament",
+            "publisher": "Australian Electoral Commission",
+            "date": ""
+          }
+        ]
+      }
+    },
+    {
+      "id": "andrew-leigh",
+      "name": "Hon Dr Andrew Leigh MP",
+      "party": "",
+      "chamber": "House of Representatives",
+      "electorate": "",
+      "official_page": "",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "donors": {
+        "summary": "Donations disclosed directly to this member in AEC Member of Parliament returns. Note: member returns capture only donations made directly to the member, not money received via a party; figures are partial.",
+        "entries": [],
+        "sources": [
+          {
+            "title": "AEC Member of Parliament annual return — Hon Dr Andrew Leigh MP (2020-21)",
+            "url": "https://transparency.aec.gov.au/MemberOfParliament",
+            "publisher": "Australian Electoral Commission",
+            "date": ""
+          }
+        ]
+      }
+    },
+    {
+      "id": "anne-aly",
+      "name": "Hon Dr Anne Aly MP",
+      "party": "",
+      "chamber": "House of Representatives",
+      "electorate": "",
+      "official_page": "",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "donors": {
+        "summary": "Donations disclosed directly to this member in AEC Member of Parliament returns. 2020-21: $12,482 across 10 donor(s). Note: member returns capture only donations made directly to the member, not money received via a party; figures are partial.",
+        "entries": [],
+        "sources": [
+          {
+            "title": "AEC Member of Parliament annual return — Hon Dr Anne Aly MP (2020-21)",
+            "url": "https://transparency.aec.gov.au/MemberOfParliament",
+            "publisher": "Australian Electoral Commission",
+            "date": ""
+          }
+        ]
+      }
+    },
+    {
+      "id": "robert-katter",
+      "name": "Hon Robert Katter MP",
+      "party": "",
+      "chamber": "House of Representatives",
+      "electorate": "",
+      "official_page": "",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "donors": {
+        "summary": "Donations disclosed directly to this member in AEC Member of Parliament returns. Note: member returns capture only donations made directly to the member, not money received via a party; figures are partial.",
+        "entries": [],
+        "sources": [
+          {
+            "title": "AEC Member of Parliament annual return — Hon Robert Katter MP (2020-21)",
+            "url": "https://transparency.aec.gov.au/MemberOfParliament",
+            "publisher": "Australian Electoral Commission",
+            "date": ""
+          }
+        ]
+      }
+    },
+    {
+      "id": "andrew-laming",
+      "name": "Mr Andrew Laming MP",
+      "party": "",
+      "chamber": "House of Representatives",
+      "electorate": "",
+      "official_page": "",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "donors": {
+        "summary": "Donations disclosed directly to this member in AEC Member of Parliament returns. 2020-21: $7,500 across 41 donor(s). Note: member returns capture only donations made directly to the member, not money received via a party; figures are partial.",
+        "entries": [],
+        "sources": [
+          {
+            "title": "AEC Member of Parliament annual return — Mr Andrew Laming MP (2020-21)",
+            "url": "https://transparency.aec.gov.au/MemberOfParliament",
+            "publisher": "Australian Electoral Commission",
+            "date": ""
+          }
+        ]
+      }
+    },
+    {
+      "id": "andrew-wilkie",
+      "name": "Mr Andrew Wilkie MP",
+      "party": "",
+      "chamber": "House of Representatives",
+      "electorate": "",
+      "official_page": "",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "donors": {
+        "summary": "Donations disclosed directly to this member in AEC Member of Parliament returns. 2024-25: $535 across 3 donor(s); 2023-24: $11,411 across 10 donor(s); 2022-23: $1,435 across 8 donor(s); 2021-22: $25 across 1 donor(s); 2020-21: $4,265 across 12 donor(s). Note: member returns capture only donations made directly to the member, not money received via a party; figures are partial.",
+        "entries": [],
+        "sources": [
+          {
+            "title": "AEC Member of Parliament annual return — Mr Andrew Wilkie MP (2024-25)",
+            "url": "https://transparency.aec.gov.au/MemberOfParliament",
+            "publisher": "Australian Electoral Commission",
+            "date": ""
+          }
+        ]
+      }
+    },
+    {
+      "id": "antonio-zappia",
+      "name": "Mr Antonio Zappia MP",
+      "party": "",
+      "chamber": "House of Representatives",
+      "electorate": "",
+      "official_page": "",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "donors": {
+        "summary": "Donations disclosed directly to this member in AEC Member of Parliament returns. Note: member returns capture only donations made directly to the member, not money received via a party; figures are partial.",
+        "entries": [],
+        "sources": [
+          {
+            "title": "AEC Member of Parliament annual return — Mr Antonio Zappia MP (2020-21)",
+            "url": "https://transparency.aec.gov.au/MemberOfParliament",
+            "publisher": "Australian Electoral Commission",
+            "date": ""
+          }
+        ]
+      }
+    },
+    {
+      "id": "antony-pasin",
+      "name": "Mr Antony Pasin MP",
+      "party": "",
+      "chamber": "House of Representatives",
+      "electorate": "",
+      "official_page": "",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "donors": {
+        "summary": "Donations disclosed directly to this member in AEC Member of Parliament returns. 2021-22: $20,000 across 1 donor(s). Note: member returns capture only donations made directly to the member, not money received via a party; figures are partial.",
+        "entries": [
+          {
+            "donor": "SE Timber Processors Association",
+            "amount_aud": 20000.0,
+            "financial_year": "2021-22",
+            "source_type": "unknown",
+            "sources": [
+              {
+                "title": "AEC Member of Parliament annual return — Mr Antony Pasin MP (2021-22)",
+                "url": "https://transparency.aec.gov.au/MemberOfParliament",
+                "publisher": "Australian Electoral Commission",
+                "date": ""
+              }
+            ]
+          }
+        ],
+        "sources": [
+          {
+            "title": "AEC Member of Parliament annual return — Mr Antony Pasin MP (2021-22)",
+            "url": "https://transparency.aec.gov.au/MemberOfParliament",
+            "publisher": "Australian Electoral Commission",
+            "date": ""
+          }
+        ]
+      }
+    },
+    {
+      "id": "david-smith",
+      "name": "Mr David Smith MP",
+      "party": "",
+      "chamber": "House of Representatives",
+      "electorate": "",
+      "official_page": "",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "donors": {
+        "summary": "Donations disclosed directly to this member in AEC Member of Parliament returns. Note: member returns capture only donations made directly to the member, not money received via a party; figures are partial.",
+        "entries": [],
+        "sources": [
+          {
+            "title": "AEC Member of Parliament annual return — Mr David Smith MP (2020-21)",
+            "url": "https://transparency.aec.gov.au/MemberOfParliament",
+            "publisher": "Australian Electoral Commission",
+            "date": ""
+          }
+        ]
+      }
+    },
+    {
+      "id": "alicia-payne",
+      "name": "Ms Alicia Payne MP",
+      "party": "",
+      "chamber": "House of Representatives",
+      "electorate": "",
+      "official_page": "",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "donors": {
+        "summary": "Donations disclosed directly to this member in AEC Member of Parliament returns. Note: member returns capture only donations made directly to the member, not money received via a party; figures are partial.",
+        "entries": [],
+        "sources": [
+          {
+            "title": "AEC Member of Parliament annual return — Ms Alicia Payne MP (2020-21)",
+            "url": "https://transparency.aec.gov.au/MemberOfParliament",
+            "publisher": "Australian Electoral Commission",
+            "date": ""
+          }
+        ]
+      }
+    },
+    {
+      "id": "allegra-spender",
+      "name": "Ms Allegra Spender MP",
+      "party": "",
+      "chamber": "House of Representatives",
+      "electorate": "",
+      "official_page": "",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "donors": {
+        "summary": "Donations disclosed directly to this member in AEC Member of Parliament returns. 2024-25: $500 across 1 donor(s); 2023-24: $567,226 across 138 donor(s); 2022-23: $317,803 across 57 donor(s). Note: member returns capture only donations made directly to the member, not money received via a party; figures are partial.",
+        "entries": [
+          {
+            "donor": "William Taylor Nominees Pty Ltd",
+            "amount_aud": 200000.0,
+            "financial_year": "2023-24",
+            "source_type": "unknown",
+            "sources": [
+              {
+                "title": "AEC Member of Parliament annual return — Ms Allegra Spender MP (2023-24)",
+                "url": "https://transparency.aec.gov.au/MemberOfParliament",
+                "publisher": "Australian Electoral Commission",
+                "date": ""
+              }
+            ]
+          },
+          {
+            "donor": "Polka Dot Ventures Pty Ltd",
+            "amount_aud": 25000.0,
+            "financial_year": "2023-24",
+            "source_type": "unknown",
+            "sources": [
+              {
+                "title": "AEC Member of Parliament annual return — Ms Allegra Spender MP (2023-24)",
+                "url": "https://transparency.aec.gov.au/MemberOfParliament",
+                "publisher": "Australian Electoral Commission",
+                "date": ""
+              }
+            ]
+          },
+          {
+            "donor": "Keep Them Honest Pty Ltd",
+            "amount_aud": 40000.0,
+            "financial_year": "2023-24",
+            "source_type": "unknown",
+            "sources": [
+              {
+                "title": "AEC Member of Parliament annual return — Ms Allegra Spender MP (2023-24)",
+                "url": "https://transparency.aec.gov.au/MemberOfParliament",
+                "publisher": "Australian Electoral Commission",
+                "date": ""
+              }
+            ]
+          },
+          {
+            "donor": "Keep Them Honest Pty Ltd",
+            "amount_aud": 5000.0,
+            "financial_year": "2023-24",
+            "source_type": "unknown",
+            "sources": [
+              {
+                "title": "AEC Member of Parliament annual return — Ms Allegra Spender MP (2023-24)",
+                "url": "https://transparency.aec.gov.au/MemberOfParliament",
+                "publisher": "Australian Electoral Commission",
+                "date": ""
+              }
+            ]
+          },
+          {
+            "donor": "David Haslingden",
+            "amount_aud": 25000.0,
+            "financial_year": "2023-24",
+            "source_type": "unknown",
+            "sources": [
+              {
+                "title": "AEC Member of Parliament annual return — Ms Allegra Spender MP (2023-24)",
+                "url": "https://transparency.aec.gov.au/MemberOfParliament",
+                "publisher": "Australian Electoral Commission",
+                "date": ""
+              }
+            ]
+          },
+          {
+            "donor": "Climate 200 Pty Ltd",
+            "amount_aud": 50000.0,
+            "financial_year": "2023-24",
+            "source_type": "unknown",
+            "sources": [
+              {
+                "title": "AEC Member of Parliament annual return — Ms Allegra Spender MP (2023-24)",
+                "url": "https://transparency.aec.gov.au/MemberOfParliament",
+                "publisher": "Australian Electoral Commission",
+                "date": ""
+              }
+            ]
+          },
+          {
+            "donor": "Climate 200 Pty Ltd",
+            "amount_aud": 20000.0,
+            "financial_year": "2023-24",
+            "source_type": "unknown",
+            "sources": [
+              {
+                "title": "AEC Member of Parliament annual return — Ms Allegra Spender MP (2023-24)",
+                "url": "https://transparency.aec.gov.au/MemberOfParliament",
+                "publisher": "Australian Electoral Commission",
+                "date": ""
+              }
+            ]
+          },
+          {
+            "donor": "Climate 200 Pty Ltd",
+            "amount_aud": 8665.0,
+            "financial_year": "2023-24",
+            "source_type": "unknown",
+            "sources": [
+              {
+                "title": "AEC Member of Parliament annual return — Ms Allegra Spender MP (2023-24)",
+                "url": "https://transparency.aec.gov.au/MemberOfParliament",
+                "publisher": "Australian Electoral Commission",
+                "date": ""
+              }
+            ]
+          },
+          {
+            "donor": "William Taylor Nominees Pty Ltd",
+            "amount_aud": 75000.0,
+            "financial_year": "2022-23",
+            "source_type": "unknown",
+            "sources": [
+              {
+                "title": "AEC Member of Parliament annual return — Ms Allegra Spender MP (2022-23)",
+                "url": "https://transparency.aec.gov.au/MemberOfParliament",
+                "publisher": "Australian Electoral Commission",
+                "date": ""
+              }
+            ]
+          },
+          {
+            "donor": "William Taylor Nominees Pty Ltd",
+            "amount_aud": 75000.0,
+            "financial_year": "2022-23",
+            "source_type": "unknown",
+            "sources": [
+              {
+                "title": "AEC Member of Parliament annual return — Ms Allegra Spender MP (2022-23)",
+                "url": "https://transparency.aec.gov.au/MemberOfParliament",
+                "publisher": "Australian Electoral Commission",
+                "date": ""
+              }
+            ]
+          },
+          {
+            "donor": "Polka Dot Ventures Pty Ltd",
+            "amount_aud": 15000.0,
+            "financial_year": "2022-23",
+            "source_type": "unknown",
+            "sources": [
+              {
+                "title": "AEC Member of Parliament annual return — Ms Allegra Spender MP (2022-23)",
+                "url": "https://transparency.aec.gov.au/MemberOfParliament",
+                "publisher": "Australian Electoral Commission",
+                "date": ""
+              }
+            ]
+          },
+          {
+            "donor": "Polka Dot Ventures Pty Ltd",
+            "amount_aud": 10000.0,
+            "financial_year": "2022-23",
+            "source_type": "unknown",
+            "sources": [
+              {
+                "title": "AEC Member of Parliament annual return — Ms Allegra Spender MP (2022-23)",
+                "url": "https://transparency.aec.gov.au/MemberOfParliament",
+                "publisher": "Australian Electoral Commission",
+                "date": ""
+              }
+            ]
+          }
+        ],
+        "sources": [
+          {
+            "title": "AEC Member of Parliament annual return — Ms Allegra Spender MP (2024-25)",
+            "url": "https://transparency.aec.gov.au/MemberOfParliament",
+            "publisher": "Australian Electoral Commission",
+            "date": ""
+          }
+        ]
+      }
+    },
+    {
+      "id": "kara-cook",
+      "name": "Ms Kara Cook MP",
+      "party": "",
+      "chamber": "House of Representatives",
+      "electorate": "",
+      "official_page": "",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "donors": {
+        "summary": "Donations disclosed directly to this member in AEC Member of Parliament returns. Note: member returns capture only donations made directly to the member, not money received via a party; figures are partial.",
+        "entries": [],
+        "sources": [
+          {
+            "title": "AEC Member of Parliament annual return — Ms Kara Cook MP (2024-25)",
+            "url": "https://transparency.aec.gov.au/MemberOfParliament",
+            "publisher": "Australian Electoral Commission",
+            "date": ""
+          }
+        ]
+      }
+    },
+    {
+      "id": "kate-chaney",
+      "name": "Ms Kate Chaney MP",
+      "party": "",
+      "chamber": "House of Representatives",
+      "electorate": "",
+      "official_page": "",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "donors": {
+        "summary": "Donations disclosed directly to this member in AEC Member of Parliament returns. 2024-25: $1,901 across 5 donor(s); 2023-24: $116,059 across 82 donor(s); 2022-23: $26,829 across 27 donor(s). Note: member returns capture only donations made directly to the member, not money received via a party; figures are partial.",
+        "entries": [
+          {
+            "donor": "Keep Them Honest Pty Ltd",
+            "amount_aud": 45000.0,
+            "financial_year": "2023-24",
+            "source_type": "unknown",
+            "sources": [
+              {
+                "title": "AEC Member of Parliament annual return — Ms Kate Chaney MP (2023-24)",
+                "url": "https://transparency.aec.gov.au/MemberOfParliament",
+                "publisher": "Australian Electoral Commission",
+                "date": ""
+              }
+            ]
+          },
+          {
+            "donor": "Climate 200 Pty Ltd",
+            "amount_aud": 16848.0,
+            "financial_year": "2023-24",
+            "source_type": "unknown",
+            "sources": [
+              {
+                "title": "AEC Member of Parliament annual return — Ms Kate Chaney MP (2023-24)",
+                "url": "https://transparency.aec.gov.au/MemberOfParliament",
+                "publisher": "Australian Electoral Commission",
+                "date": ""
+              }
+            ]
+          },
+          {
+            "donor": "Climate 200 Pty Ltd",
+            "amount_aud": 12500.0,
+            "financial_year": "2023-24",
+            "source_type": "unknown",
+            "sources": [
+              {
+                "title": "AEC Member of Parliament annual return — Ms Kate Chaney MP (2023-24)",
+                "url": "https://transparency.aec.gov.au/MemberOfParliament",
+                "publisher": "Australian Electoral Commission",
+                "date": ""
+              }
+            ]
+          }
+        ],
+        "sources": [
+          {
+            "title": "AEC Member of Parliament annual return — Ms Kate Chaney MP (2024-25)",
+            "url": "https://transparency.aec.gov.au/MemberOfParliament",
+            "publisher": "Australian Electoral Commission",
+            "date": ""
+          }
+        ]
+      }
+    },
+    {
+      "id": "maria-vamvakinou",
+      "name": "Ms Maria Vamvakinou MP",
+      "party": "",
+      "chamber": "House of Representatives",
+      "electorate": "",
+      "official_page": "",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "donors": {
+        "summary": "Donations disclosed directly to this member in AEC Member of Parliament returns. Note: member returns capture only donations made directly to the member, not money received via a party; figures are partial.",
+        "entries": [],
+        "sources": [
+          {
+            "title": "AEC Member of Parliament annual return — Ms Maria Vamvakinou MP (2022-23)",
+            "url": "https://transparency.aec.gov.au/MemberOfParliament",
+            "publisher": "Australian Electoral Commission",
+            "date": ""
+          }
+        ]
+      }
+    },
+    {
+      "id": "marion-scrymgour",
+      "name": "Ms Marion Scrymgour MP",
+      "party": "",
+      "chamber": "House of Representatives",
+      "electorate": "",
+      "official_page": "",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "donors": {
+        "summary": "Donations disclosed directly to this member in AEC Member of Parliament returns. Note: member returns capture only donations made directly to the member, not money received via a party; figures are partial.",
+        "entries": [],
+        "sources": [
+          {
+            "title": "AEC Member of Parliament annual return — Ms Marion Scrymgour MP (2022-23)",
+            "url": "https://transparency.aec.gov.au/MemberOfParliament",
+            "publisher": "Australian Electoral Commission",
+            "date": ""
+          }
+        ]
+      }
+    },
+    {
+      "id": "susan-templeman",
+      "name": "Ms Susan Templeman MP",
+      "party": "",
+      "chamber": "House of Representatives",
+      "electorate": "",
+      "official_page": "",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "donors": {
+        "summary": "Donations disclosed directly to this member in AEC Member of Parliament returns. Note: member returns capture only donations made directly to the member, not money received via a party; figures are partial.",
+        "entries": [],
+        "sources": [
+          {
+            "title": "AEC Member of Parliament annual return — Ms Susan Templeman MP (2020-21)",
+            "url": "https://transparency.aec.gov.au/MemberOfParliament",
+            "publisher": "Australian Electoral Commission",
+            "date": ""
+          }
+        ]
+      }
+    },
+    {
+      "id": "zali-steggall",
+      "name": "Ms Zali Steggall OAM MP",
+      "party": "",
+      "chamber": "House of Representatives",
+      "electorate": "",
+      "official_page": "",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "donors": {
+        "summary": "Donations disclosed directly to this member in AEC Member of Parliament returns. 2024-25: $174,020 across 48 donor(s); 2023-24: $264,127 across 98 donor(s); 2022-23: $139,864 across 282 donor(s); 2020-21: $157,300 across 21 donor(s). Note: member returns capture only donations made directly to the member, not money received via a party; figures are partial.",
+        "entries": [
+          {
+            "donor": "Matthias Krups",
+            "amount_aud": 25000.0,
+            "financial_year": "2024-25",
+            "source_type": "unknown",
+            "sources": [
+              {
+                "title": "AEC Member of Parliament annual return — Ms Zali Steggall OAM MP (2024-25)",
+                "url": "https://transparency.aec.gov.au/MemberOfParliament",
+                "publisher": "Australian Electoral Commission",
+                "date": ""
+              }
+            ]
+          },
+          {
+            "donor": "Extend Your Edge Pty Limited",
+            "amount_aud": 20000.0,
+            "financial_year": "2024-25",
+            "source_type": "unknown",
+            "sources": [
+              {
+                "title": "AEC Member of Parliament annual return — Ms Zali Steggall OAM MP (2024-25)",
+                "url": "https://transparency.aec.gov.au/MemberOfParliament",
+                "publisher": "Australian Electoral Commission",
+                "date": ""
+              }
+            ]
+          },
+          {
+            "donor": "Extend Your Edge Pty Limited",
+            "amount_aud": 10000.0,
+            "financial_year": "2024-25",
+            "source_type": "unknown",
+            "sources": [
+              {
+                "title": "AEC Member of Parliament annual return — Ms Zali Steggall OAM MP (2024-25)",
+                "url": "https://transparency.aec.gov.au/MemberOfParliament",
+                "publisher": "Australian Electoral Commission",
+                "date": ""
+              }
+            ]
+          },
+          {
+            "donor": "Robert Purves",
+            "amount_aud": 20000.0,
+            "financial_year": "2023-24",
+            "source_type": "unknown",
+            "sources": [
+              {
+                "title": "AEC Member of Parliament annual return — Ms Zali Steggall OAM MP (2023-24)",
+                "url": "https://transparency.aec.gov.au/MemberOfParliament",
+                "publisher": "Australian Electoral Commission",
+                "date": ""
+              }
+            ]
+          },
+          {
+            "donor": "Robert Purves",
+            "amount_aud": 5000.0,
+            "financial_year": "2023-24",
+            "source_type": "unknown",
+            "sources": [
+              {
+                "title": "AEC Member of Parliament annual return — Ms Zali Steggall OAM MP (2023-24)",
+                "url": "https://transparency.aec.gov.au/MemberOfParliament",
+                "publisher": "Australian Electoral Commission",
+                "date": ""
+              }
+            ]
+          },
+          {
+            "donor": "Nick Catsaras",
+            "amount_aud": 20000.0,
+            "financial_year": "2023-24",
+            "source_type": "unknown",
+            "sources": [
+              {
+                "title": "AEC Member of Parliament annual return — Ms Zali Steggall OAM MP (2023-24)",
+                "url": "https://transparency.aec.gov.au/MemberOfParliament",
+                "publisher": "Australian Electoral Commission",
+                "date": ""
+              }
+            ]
+          },
+          {
+            "donor": "Matthiaus Krups",
+            "amount_aud": 25000.0,
+            "financial_year": "2023-24",
+            "source_type": "unknown",
+            "sources": [
+              {
+                "title": "AEC Member of Parliament annual return — Ms Zali Steggall OAM MP (2023-24)",
+                "url": "https://transparency.aec.gov.au/MemberOfParliament",
+                "publisher": "Australian Electoral Commission",
+                "date": ""
+              }
+            ]
+          },
+          {
+            "donor": "Keep Them Honest Pty Limited",
+            "amount_aud": 27000.0,
+            "financial_year": "2023-24",
+            "source_type": "unknown",
+            "sources": [
+              {
+                "title": "AEC Member of Parliament annual return — Ms Zali Steggall OAM MP (2023-24)",
+                "url": "https://transparency.aec.gov.au/MemberOfParliament",
+                "publisher": "Australian Electoral Commission",
+                "date": ""
+              }
+            ]
+          },
+          {
+            "donor": "Keep Them Honest Pty Limited",
+            "amount_aud": 18000.0,
+            "financial_year": "2023-24",
+            "source_type": "unknown",
+            "sources": [
+              {
+                "title": "AEC Member of Parliament annual return — Ms Zali Steggall OAM MP (2023-24)",
+                "url": "https://transparency.aec.gov.au/MemberOfParliament",
+                "publisher": "Australian Electoral Commission",
+                "date": ""
+              }
+            ]
+          },
+          {
+            "donor": "Keep Them Honest Pty Limited",
+            "amount_aud": 5000.0,
+            "financial_year": "2023-24",
+            "source_type": "unknown",
+            "sources": [
+              {
+                "title": "AEC Member of Parliament annual return — Ms Zali Steggall OAM MP (2023-24)",
+                "url": "https://transparency.aec.gov.au/MemberOfParliament",
+                "publisher": "Australian Electoral Commission",
+                "date": ""
+              }
+            ]
+          },
+          {
+            "donor": "Climate 200 Pty Limited",
+            "amount_aud": 30000.0,
+            "financial_year": "2023-24",
+            "source_type": "unknown",
+            "sources": [
+              {
+                "title": "AEC Member of Parliament annual return — Ms Zali Steggall OAM MP (2023-24)",
+                "url": "https://transparency.aec.gov.au/MemberOfParliament",
+                "publisher": "Australian Electoral Commission",
+                "date": ""
+              }
+            ]
+          },
+          {
+            "donor": "Mr Matthias Krups",
+            "amount_aud": 25000.0,
+            "financial_year": "2022-23",
+            "source_type": "unknown",
+            "sources": [
+              {
+                "title": "AEC Member of Parliament annual return — Ms Zali Steggall OAM MP (2022-23)",
+                "url": "https://transparency.aec.gov.au/MemberOfParliament",
+                "publisher": "Australian Electoral Commission",
+                "date": ""
+              }
+            ]
+          },
+          {
+            "donor": "Robert Purves",
+            "amount_aud": 15000.0,
+            "financial_year": "2020-21",
+            "source_type": "unknown",
+            "sources": [
+              {
+                "title": "AEC Member of Parliament annual return — Ms Zali Steggall OAM MP (2020-21)",
+                "url": "https://transparency.aec.gov.au/MemberOfParliament",
+                "publisher": "Australian Electoral Commission",
+                "date": ""
+              }
+            ]
+          },
+          {
+            "donor": "Robert Purves",
+            "amount_aud": 12000.0,
+            "financial_year": "2020-21",
+            "source_type": "unknown",
+            "sources": [
+              {
+                "title": "AEC Member of Parliament annual return — Ms Zali Steggall OAM MP (2020-21)",
+                "url": "https://transparency.aec.gov.au/MemberOfParliament",
+                "publisher": "Australian Electoral Commission",
+                "date": ""
+              }
+            ]
+          },
+          {
+            "donor": "Extend Your Edge Pty Limited",
+            "amount_aud": 15000.0,
+            "financial_year": "2020-21",
+            "source_type": "unknown",
+            "sources": [
+              {
+                "title": "AEC Member of Parliament annual return — Ms Zali Steggall OAM MP (2020-21)",
+                "url": "https://transparency.aec.gov.au/MemberOfParliament",
+                "publisher": "Australian Electoral Commission",
+                "date": ""
+              }
+            ]
+          },
+          {
+            "donor": "Anna Josephson Foundation Pty Ltd",
+            "amount_aud": 15000.0,
+            "financial_year": "2020-21",
+            "source_type": "unknown",
+            "sources": [
+              {
+                "title": "AEC Member of Parliament annual return — Ms Zali Steggall OAM MP (2020-21)",
+                "url": "https://transparency.aec.gov.au/MemberOfParliament",
+                "publisher": "Australian Electoral Commission",
+                "date": ""
+              }
+            ]
+          }
+        ],
+        "sources": [
+          {
+            "title": "AEC Member of Parliament annual return — Ms Zali Steggall OAM MP (2024-25)",
+            "url": "https://transparency.aec.gov.au/MemberOfParliament",
+            "publisher": "Australian Electoral Commission",
+            "date": ""
+          }
+        ]
+      }
+    },
+    {
+      "id": "zoe-daniel",
+      "name": "Ms Zoe Daniel MP",
+      "party": "",
+      "chamber": "House of Representatives",
+      "electorate": "",
+      "official_page": "",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "donors": {
+        "summary": "Donations disclosed directly to this member in AEC Member of Parliament returns. 2023-24: $374,010 across 342 donor(s); 2022-23: $12,468 across 18 donor(s). Note: member returns capture only donations made directly to the member, not money received via a party; figures are partial.",
+        "entries": [
+          {
+            "donor": "Keep Them Honest Pty Ltd",
+            "amount_aud": 45000.0,
+            "financial_year": "2023-24",
+            "source_type": "unknown",
+            "sources": [
+              {
+                "title": "AEC Member of Parliament annual return — Ms Zoe Daniel MP (2023-24)",
+                "url": "https://transparency.aec.gov.au/MemberOfParliament",
+                "publisher": "Australian Electoral Commission",
+                "date": ""
+              }
+            ]
+          },
+          {
+            "donor": "Climate200",
+            "amount_aud": 20000.0,
+            "financial_year": "2023-24",
+            "source_type": "unknown",
+            "sources": [
+              {
+                "title": "AEC Member of Parliament annual return — Ms Zoe Daniel MP (2023-24)",
+                "url": "https://transparency.aec.gov.au/MemberOfParliament",
+                "publisher": "Australian Electoral Commission",
+                "date": ""
+              }
+            ]
+          },
+          {
+            "donor": "Climate 2oo Pty Ltd",
+            "amount_aud": 20000.0,
+            "financial_year": "2023-24",
+            "source_type": "unknown",
+            "sources": [
+              {
+                "title": "AEC Member of Parliament annual return — Ms Zoe Daniel MP (2023-24)",
+                "url": "https://transparency.aec.gov.au/MemberOfParliament",
+                "publisher": "Australian Electoral Commission",
+                "date": ""
+              }
+            ]
+          },
+          {
+            "donor": "Climate 200 Pty Ltd",
+            "amount_aud": 40000.0,
+            "financial_year": "2023-24",
+            "source_type": "unknown",
+            "sources": [
+              {
+                "title": "AEC Member of Parliament annual return — Ms Zoe Daniel MP (2023-24)",
+                "url": "https://transparency.aec.gov.au/MemberOfParliament",
+                "publisher": "Australian Electoral Commission",
+                "date": ""
+              }
+            ]
+          },
+          {
+            "donor": "Climate 200 Pty Ltd",
+            "amount_aud": 20000.0,
+            "financial_year": "2023-24",
+            "source_type": "unknown",
+            "sources": [
+              {
+                "title": "AEC Member of Parliament annual return — Ms Zoe Daniel MP (2023-24)",
+                "url": "https://transparency.aec.gov.au/MemberOfParliament",
+                "publisher": "Australian Electoral Commission",
+                "date": ""
+              }
+            ]
+          },
+          {
+            "donor": "Climate 200 Pty Ltd",
+            "amount_aud": 4965.0,
+            "financial_year": "2023-24",
+            "source_type": "unknown",
+            "sources": [
+              {
+                "title": "AEC Member of Parliament annual return — Ms Zoe Daniel MP (2023-24)",
+                "url": "https://transparency.aec.gov.au/MemberOfParliament",
+                "publisher": "Australian Electoral Commission",
+                "date": ""
+              }
+            ]
+          },
+          {
+            "donor": "Climate 200",
+            "amount_aud": 40000.0,
+            "financial_year": "2023-24",
+            "source_type": "unknown",
+            "sources": [
+              {
+                "title": "AEC Member of Parliament annual return — Ms Zoe Daniel MP (2023-24)",
+                "url": "https://transparency.aec.gov.au/MemberOfParliament",
+                "publisher": "Australian Electoral Commission",
+                "date": ""
+              }
+            ]
+          }
+        ],
+        "sources": [
+          {
+            "title": "AEC Member of Parliament annual return — Ms Zoe Daniel MP (2023-24)",
+            "url": "https://transparency.aec.gov.au/MemberOfParliament",
+            "publisher": "Australian Electoral Commission",
+            "date": ""
+          }
+        ]
+      }
+    },
+    {
+      "id": "anthony-chisholm",
+      "name": "Senator Anthony Chisholm",
+      "party": "",
+      "chamber": "Senate",
+      "electorate": "",
+      "official_page": "",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "donors": {
+        "summary": "Donations disclosed directly to this member in AEC Member of Parliament returns. Note: member returns capture only donations made directly to the member, not money received via a party; figures are partial.",
+        "entries": [],
+        "sources": [
+          {
+            "title": "AEC Member of Parliament annual return — Senator Anthony Chisholm (2024-25)",
+            "url": "https://transparency.aec.gov.au/MemberOfParliament",
+            "publisher": "Australian Electoral Commission",
+            "date": ""
+          }
+        ]
+      }
+    },
+    {
+      "id": "concetta-fierravanti-wells",
+      "name": "Senator Concetta Fierravanti-Wells",
+      "party": "",
+      "chamber": "Senate",
+      "electorate": "",
+      "official_page": "",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "donors": {
+        "summary": "Donations disclosed directly to this member in AEC Member of Parliament returns. Note: member returns capture only donations made directly to the member, not money received via a party; figures are partial.",
+        "entries": [],
+        "sources": [
+          {
+            "title": "AEC Member of Parliament annual return — Senator Concetta Fierravanti-Wells (2020-21)",
+            "url": "https://transparency.aec.gov.au/MemberOfParliament",
+            "publisher": "Australian Electoral Commission",
+            "date": ""
+          }
+        ]
+      }
+    },
+    {
+      "id": "kerrynne-liddle",
+      "name": "Senator Kerrynne Liddle",
+      "party": "",
+      "chamber": "Senate",
+      "electorate": "",
+      "official_page": "",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "donors": {
+        "summary": "Donations disclosed directly to this member in AEC Member of Parliament returns. 2024-25: $22,374 across 95 donor(s); 2023-24: $29,700 across 19 donor(s). Note: member returns capture only donations made directly to the member, not money received via a party; figures are partial.",
+        "entries": [],
+        "sources": [
+          {
+            "title": "AEC Member of Parliament annual return — Senator Kerrynne Liddle (2024-25)",
+            "url": "https://transparency.aec.gov.au/MemberOfParliament",
+            "publisher": "Australian Electoral Commission",
+            "date": ""
+          }
+        ]
+      }
+    },
+    {
+      "id": "lidia-thorpe",
+      "name": "Senator Lidia Thorpe",
+      "party": "",
+      "chamber": "Senate",
+      "electorate": "",
+      "official_page": "",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "donors": {
+        "summary": "Donations disclosed directly to this member in AEC Member of Parliament returns. 2024-25: $26,458 across 158 donor(s); 2023-24: $15,219 across 52 donor(s); 2022-23: $100 across 1 donor(s). Note: member returns capture only donations made directly to the member, not money received via a party; figures are partial.",
+        "entries": [],
+        "sources": [
+          {
+            "title": "AEC Member of Parliament annual return — Senator Lidia Thorpe (2024-25)",
+            "url": "https://transparency.aec.gov.au/MemberOfParliament",
+            "publisher": "Australian Electoral Commission",
+            "date": ""
+          }
+        ]
+      }
+    },
+    {
+      "id": "malcolm-roberts",
+      "name": "Senator Malcolm Roberts",
+      "party": "",
+      "chamber": "Senate",
+      "electorate": "",
+      "official_page": "",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "donors": {
+        "summary": "Donations disclosed directly to this member in AEC Member of Parliament returns. Note: member returns capture only donations made directly to the member, not money received via a party; figures are partial.",
+        "entries": [],
+        "sources": [
+          {
+            "title": "AEC Member of Parliament annual return — Senator Malcolm Roberts (2024-25)",
+            "url": "https://transparency.aec.gov.au/MemberOfParliament",
+            "publisher": "Australian Electoral Commission",
+            "date": ""
+          }
+        ]
+      }
+    },
+    {
+      "id": "peter-whish-wilson",
+      "name": "Senator Peter Whish-Wilson",
+      "party": "",
+      "chamber": "Senate",
+      "electorate": "",
+      "official_page": "",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "donors": {
+        "summary": "Donations disclosed directly to this member in AEC Member of Parliament returns. Note: member returns capture only donations made directly to the member, not money received via a party; figures are partial.",
+        "entries": [],
+        "sources": [
+          {
+            "title": "AEC Member of Parliament annual return — Senator Peter Whish-Wilson (2020-21)",
+            "url": "https://transparency.aec.gov.au/MemberOfParliament",
+            "publisher": "Australian Electoral Commission",
+            "date": ""
+          }
+        ]
+      }
+    },
+    {
+      "id": "the-james-mcgrath",
+      "name": "Senator the Hon James McGrath",
+      "party": "",
+      "chamber": "Senate",
+      "electorate": "",
+      "official_page": "",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "donors": {
+        "summary": "Donations disclosed directly to this member in AEC Member of Parliament returns. Note: member returns capture only donations made directly to the member, not money received via a party; figures are partial.",
+        "entries": [],
+        "sources": [
+          {
+            "title": "AEC Member of Parliament annual return — Senator the Hon James McGrath (2020-21)",
+            "url": "https://transparency.aec.gov.au/MemberOfParliament",
+            "publisher": "Australian Electoral Commission",
+            "date": ""
+          }
+        ]
+      }
+    },
+    {
+      "id": "the-katy-gallagher",
+      "name": "Senator the Hon Katy Gallagher",
+      "party": "",
+      "chamber": "Senate",
+      "electorate": "",
+      "official_page": "",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "donors": {
+        "summary": "Donations disclosed directly to this member in AEC Member of Parliament returns. Note: member returns capture only donations made directly to the member, not money received via a party; figures are partial.",
+        "entries": [],
+        "sources": [
+          {
+            "title": "AEC Member of Parliament annual return — Senator the Hon Katy Gallagher (2020-21)",
+            "url": "https://transparency.aec.gov.au/MemberOfParliament",
+            "publisher": "Australian Electoral Commission",
+            "date": ""
+          }
+        ]
       }
     }
   ]

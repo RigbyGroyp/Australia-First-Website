@@ -42,7 +42,7 @@ fact, or anything you can't link to.
 
 ## Adding a candidate
 
-1. Copy the `example-template` entry in `data/candidates.json`.
+1. Copy `data/candidate.template.json`.
 2. Give it a unique `id` slug (e.g. `jane-smith-wills`).
 3. Fill only the fields you can source. Set `"verified": true` on a position
    *only* when its `summary` is fully supported by the listed `sources`.
