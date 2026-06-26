@@ -1,0 +1,73 @@
+{
+  "meta": {
+    "description": "Australian federal candidate transparency dataset. Every populated position requires sources. See ../CONTRIBUTING.md and schema.json.",
+    "last_updated": "2026-06-26"
+  },
+  "candidates": [
+    {
+      "id": "example-template",
+      "name": "EXAMPLE — Template Entry (not a real person)",
+      "party": "Independent",
+      "chamber": "House of Representatives",
+      "electorate": "Example",
+      "state": "NSW",
+      "status": "candidate",
+      "official_page": "",
+      "last_updated": "2026-06-26",
+      "positions": {
+        "immigration": {
+          "summary": "Describe the candidate's stated immigration position or recorded votes here. Keep it factual and neutral. Replace this text.",
+          "sources": [
+            {
+              "title": "Example source — replace with a real citation",
+              "url": "https://www.aph.gov.au/",
+              "publisher": "Parliament of Australia",
+              "date": "2026-01-01"
+            }
+          ],
+          "verified": false
+        },
+        "faith": {
+          "summary": "Record only publicly stated faith or on-record statements about religion. Replace this text.",
+          "sources": [],
+          "verified": false
+        },
+        "economic_nationalism": {
+          "summary": "Record positions/votes on local infrastructure, manufacturing, local employment, procurement, foreign ownership. Replace this text.",
+          "sources": [],
+          "verified": false
+        },
+        "foreign_policy": {
+          "summary": "Record foreign-policy positions and votes, including foreign aid and Middle East policy. Replace this text.",
+          "sources": [],
+          "verified": false
+        },
+        "citizenship_eligibility": {
+          "summary": "Record Section 44 constitutional eligibility status only (e.g. 'Confirmed sole Australian citizen; renounced prior citizenship on DATE'). Replace this text.",
+          "sources": [],
+          "verified": false
+        }
+      },
+      "donors": {
+        "summary": "Summarise disclosed donations from AEC records. Replace this text.",
+        "entries": [
+          {
+            "donor": "Example Donor Pty Ltd",
+            "amount_aud": null,
+            "financial_year": "2023-24",
+            "source_type": "unknown",
+            "sources": [
+              {
+                "title": "AEC Annual Returns — replace with a real disclosure link",
+                "url": "https://transparency.aec.gov.au/",
+                "publisher": "Australian Electoral Commission",
+                "date": "2024-02-01"
+              }
+            ]
+          }
+        ],
+        "sources": []
+      }
+    }
+  ]
+}
