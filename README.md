@@ -100,5 +100,15 @@ python3 -m http.server 8000
 - [x] Federal House of Representatives + Senate schema and front-end
 - [x] Import AEC donor disclosures for members who lodged returns
 - [x] Full 48th Parliament roster (226 members) with party, electorate, state, status
-- [ ] Populate policy positions (immigration, faith, etc.) with sources
+- [x] Faith & religion positions where explicitly self-disclosed / publicly reported (54 sourced so far)
+- [ ] Immigration, foreign policy & aid, economic nationalism positions
 - [ ] State and territory parliaments
+
+### Coverage note on faith
+
+Faith is recorded only where a member has **explicitly self-disclosed it or it is
+publicly reported with a citation** (maiden speeches, interviews, reputable
+reporting). It is never inferred from a person's name, ancestry, or schooling.
+Most members have no public statement of faith on record, so this field is
+deliberately sparse rather than guessed — 54 of 226 at present. The same
+evidence bar applies to every issue.
