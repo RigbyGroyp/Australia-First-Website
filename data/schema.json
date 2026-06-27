@@ -58,7 +58,8 @@
       "enum": ["incumbent", "candidate", "former"],
       "description": "Current standing."
     },
-    "photo_url": { "type": "string" },
+    "photo_url": { "type": "string", "description": "Portrait image URL (Wikimedia Commons via Wikipedia)." },
+    "photo_credit_url": { "type": "string", "description": "Source page (Wikipedia article) for image attribution." },
     "official_page": { "type": "string", "description": "Link to APH/parliament profile." },
     "last_updated": { "type": "string", "description": "ISO date (YYYY-MM-DD) of last edit." },
     "roster_source": {

@@ -181,6 +181,19 @@ function renderCard(c) {
   const tpl = document.getElementById('card-template');
   const node = tpl.content.cloneNode(true);
   node.querySelector('.c-name').textContent = c.name;
+
+  // Portrait (Wikimedia Commons via Wikipedia), linked to its source page.
+  if (c.photo_url) {
+    const link = node.querySelector('.c-photo-link');
+    const img = node.querySelector('.c-photo');
+    img.src = c.photo_url;
+    img.alt = `Portrait of ${c.name}`;
+    if (c.photo_credit_url) link.href = c.photo_credit_url;
+    else link.removeAttribute('href');
+    link.hidden = false;
+    // If the image fails to load, hide the broken element.
+    img.addEventListener('error', () => { link.hidden = true; });
+  }
   const metaBits = [
     c.party,
     c.chamber,
@@ -208,7 +221,7 @@ function renderCard(c) {
   });
   if (hasIssue(c, 'donors')) chipRow.appendChild(el('span', 'chip chip-donor', 'Donors'));
   if (chipRow.children.length === 0) chipRow.appendChild(el('span', 'chip chip-empty', 'No positions on record'));
-  node.querySelector('.card-head').appendChild(chipRow);
+  node.querySelector('.c-headtext').appendChild(chipRow);
 
   const dl = node.querySelector('.positions');
   const positions = c.positions || {};

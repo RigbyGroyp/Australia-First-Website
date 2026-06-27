@@ -258,6 +258,15 @@ def build_roster():
     return records, keys
 
 
+def load_photos():
+    """Load member portrait URLs (Wikipedia/Wikimedia Commons) keyed by id."""
+    path = os.path.join(HERE, "..", "data", "photos.json")
+    if not os.path.isfile(path):
+        return {}
+    with open(path, encoding="utf-8") as f:
+        return json.load(f)
+
+
 def load_positions():
     """Load hand-sourced positions, merged by candidate id. Rebuild-safe:
     positions live in data/positions/<issue>.json, never in candidates.json."""
@@ -339,6 +348,13 @@ def main():
             rec["party"] = ""
         rec["party_group"] = party_group(rec.get("party", ""))
 
+    photos = load_photos()
+    for rec in all_records:
+        ph = photos.get(rec["id"])
+        if ph:
+            rec["photo_url"] = ph["photo_url"]
+            rec["photo_credit_url"] = ph.get("page_url", "")
+
     positions = load_positions()
     pos_matched = attach_positions(all_records, positions)
 
@@ -363,6 +379,7 @@ def main():
           f"({len(roster)} incumbents, {len(former)} former).")
     print(f"Donor records matched to current members: {matched}/{len(donors)}.")
     print(f"Records with hand-sourced positions: {pos_matched}.")
+    print(f"Records with a portrait: {sum(1 for r in all_records if r.get('photo_url'))}.")
     if former:
         print("Retained as former (donor data, not in current roster):")
         for r in former:

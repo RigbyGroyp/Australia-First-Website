@@ -61,13 +61,22 @@
       heritage is recorded. Citizenship reflects Section 44 constitutional
       eligibility only. Found an error? Open an issue with a better source.
     </p>
+    <p>
+      Member portraits are sourced from Wikimedia Commons via each member's
+      Wikipedia article (click a portrait for the source and image licensing).
+    </p>
   </footer>
 
   <template id="card-template">
     <article class="card">
       <header class="card-head">
-        <h2 class="c-name"></h2>
-        <p class="c-meta"></p>
+        <a class="c-photo-link" target="_blank" rel="noopener noreferrer" hidden>
+          <img class="c-photo" alt="" loading="lazy" />
+        </a>
+        <div class="c-headtext">
+          <h2 class="c-name"></h2>
+          <p class="c-meta"></p>
+        </div>
       </header>
       <dl class="positions"></dl>
     </article>

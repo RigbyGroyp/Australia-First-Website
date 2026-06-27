@@ -69,7 +69,24 @@ body {
   border-radius: 12px;
   padding: 1.1rem 1.2rem;
 }
-.card-head { border-bottom: 1px solid var(--line); padding-bottom: .6rem; margin-bottom: .8rem; }
+.card-head {
+  border-bottom: 1px solid var(--line);
+  padding-bottom: .6rem;
+  margin-bottom: .8rem;
+  display: flex;
+  gap: .9rem;
+  align-items: flex-start;
+}
+.c-headtext { flex: 1; min-width: 0; }
+.c-photo-link { flex: 0 0 auto; line-height: 0; }
+.c-photo {
+  width: 64px;
+  height: 64px;
+  object-fit: cover;
+  border-radius: 10px;
+  border: 1px solid var(--line);
+  background: var(--panel-2);
+}
 .c-name { margin: 0 0 .2rem; font-size: 1.2rem; }
 .c-meta { margin: 0; color: var(--muted); font-size: .9rem; }
 .c-meta .roster-src { color: var(--accent); text-decoration: none; }
