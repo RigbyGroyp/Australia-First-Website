@@ -50,8 +50,10 @@ index.html                 Searchable, filterable front-end (static, no build st
 assets/
   style.css
   app.js
+  photos.json              Member portrait URLs (Wikimedia Commons via Wikipedia)
 scripts/
   build_candidates.py      Builds candidates.json from data/sources/
+  fetch_photos.py          Resolves member portraits from Wikipedia
 CONTRIBUTING.md            Sourcing standards and how to add/correct an entry
 ```
 
@@ -116,6 +118,12 @@ python3 -m http.server 8000
 | Foreign policy & aid | 82 |
 | Economic nationalism | 73 |
 | Citizenship (s44 eligibility) | 33 |
+
+Member portraits (170 of 226) come from each member's Wikipedia article
+(Wikimedia Commons, freely licensed) via `scripts/fetch_photos.py`. A portrait
+is attached only when the resolved page is described as a politician and the
+member's surname appears in the page title, so the wrong person's photo is never
+shown; each portrait links to its source page for attribution.
 
 The citizenship field records constitutional eligibility under s44 only —
 renunciations of foreign citizenship, overseas birth with citizenship resolved,
