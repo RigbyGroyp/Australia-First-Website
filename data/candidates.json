@@ -20008,7 +20008,38 @@
       "state": "SA",
       "status": "incumbent",
       "last_updated": "2026-06-26",
-      "positions": {},
+      "positions": {
+        "abortion": {
+          "summary": "Voted in favour of Sarah Game's bill to restrict access to late-term abortions in the Legislative Council on 17 June 2026, where it passed 10 votes to 9 before being defeated in the House of Assembly.",
+          "sources": [
+            {
+              "title": "How your MP voted on the abortion bill",
+              "url": "https://www.indailysa.com.au/news/just-in/2026/06/17/how-your-mp-voted-on-the-abortion-bill",
+              "publisher": "InDaily",
+              "date": "2026-06-17"
+            }
+          ],
+          "verified": true
+        },
+        "gender_lgbtq": {
+          "summary": "One Nation MLC and party state leader; former Liberal senator. A long-standing opponent of same-sex marriage: in a federal speech he linked redefining marriage to bestiality, and in 2026 said he stands by those comments '100 per cent.' In his SA maiden speech to the Legislative Council on 20 May 2026 he criticised gender-affirming healthcare, stating 'the government allows doctors to mutilate children in the name of gender-affirming care,' prompting Greens MLCs to walk out.",
+          "sources": [
+            {
+              "title": "Cory Bernardi Backs Gay Marriage And Bestiality Claims Ahead Of Election",
+              "url": "https://www.starobserver.com.au/news/cory-bernardi-backs-gay-marriage-and-bestiality-claims-ahead-of-election/241131",
+              "publisher": "Star Observer",
+              "date": "2026"
+            },
+            {
+              "title": "Cory Bernardi's Maiden Speech To SA Parliament Sparks Walkout",
+              "url": "https://www.starobserver.com.au/news/cory-bernardi-speech-walkout/241900",
+              "publisher": "Star Observer",
+              "date": "2026-05-20"
+            }
+          ],
+          "verified": true
+        }
+      },
       "roster_source": {
         "title": "Members of the South Australian Legislative Council, 2026–2030",
         "url": "https://en.wikipedia.org/wiki/Members_of_the_South_Australian_Legislative_Council,_2026%E2%80%932030",
@@ -20027,7 +20058,38 @@
       "state": "SA",
       "status": "incumbent",
       "last_updated": "2026-06-26",
-      "positions": {},
+      "positions": {
+        "abortion": {
+          "summary": "Voted against Sarah Game's bill to restrict access to late-term abortions in the Legislative Council on 17 June 2026; the bill passed the upper house 10 votes to 9 but was later defeated in the House of Assembly. Also voted against Liberal MLC Ben Hood's 2024 Termination of Pregnancy amendment bill, which was defeated in the Legislative Council 10 votes to 9 in October 2024.",
+          "sources": [
+            {
+              "title": "How your MP voted on the abortion bill",
+              "url": "https://www.indailysa.com.au/news/just-in/2026/06/17/how-your-mp-voted-on-the-abortion-bill",
+              "publisher": "InDaily",
+              "date": "2026-06-17"
+            },
+            {
+              "title": "Abortion vote falls short after night of parliamentary chaos",
+              "url": "https://www.indailysa.com.au/news/just-in/2024/10/17/abortion-vote-falls-short-after-night-of-parliamentary-chaos",
+              "publisher": "InDaily",
+              "date": "2024-10-17"
+            }
+          ],
+          "verified": true
+        },
+        "voluntary_assisted_dying": {
+          "summary": "Voted in favour (Aye) of the Voluntary Assisted Dying Bill at its final reading in the SA Legislative Council on 5 May 2021, which passed 14 votes to 7.",
+          "sources": [
+            {
+              "title": "VAD passes overwhelmingly in SA Legislative Council",
+              "url": "https://www.vadsa.org.au/vad_passes_overwhelmingly_in_sa_legislative_council",
+              "publisher": "Voluntary Assisted Dying South Australia (VADSA)",
+              "date": "2021-05-06"
+            }
+          ],
+          "verified": true
+        }
+      },
       "roster_source": {
         "title": "Members of the South Australian Legislative Council, 2026–2030",
         "url": "https://en.wikipedia.org/wiki/Members_of_the_South_Australian_Legislative_Council,_2026%E2%80%932030",
@@ -20046,7 +20108,38 @@
       "state": "SA",
       "status": "incumbent",
       "last_updated": "2026-06-26",
-      "positions": {},
+      "positions": {
+        "abortion": {
+          "summary": "Voted in favour of Sarah Game's bill to restrict access to late-term abortions in the Legislative Council on 17 June 2026, where it passed 10 votes to 9 before being defeated in the House of Assembly. Also voted in favour of Liberal MLC Ben Hood's 2024 Termination of Pregnancy amendment bill, which was defeated in the Legislative Council 10 votes to 9 in October 2024.",
+          "sources": [
+            {
+              "title": "How your MP voted on the abortion bill",
+              "url": "https://www.indailysa.com.au/news/just-in/2026/06/17/how-your-mp-voted-on-the-abortion-bill",
+              "publisher": "InDaily",
+              "date": "2026-06-17"
+            },
+            {
+              "title": "Abortion vote falls short after night of parliamentary chaos",
+              "url": "https://www.indailysa.com.au/news/just-in/2024/10/17/abortion-vote-falls-short-after-night-of-parliamentary-chaos",
+              "publisher": "InDaily",
+              "date": "2024-10-17"
+            }
+          ],
+          "verified": true
+        },
+        "voluntary_assisted_dying": {
+          "summary": "Voted against (Noe) the Voluntary Assisted Dying Bill at its final reading in the SA Legislative Council on 5 May 2021 (the bill passed 14 votes to 7).",
+          "sources": [
+            {
+              "title": "VAD passes overwhelmingly in SA Legislative Council",
+              "url": "https://www.vadsa.org.au/vad_passes_overwhelmingly_in_sa_legislative_council",
+              "publisher": "Voluntary Assisted Dying South Australia (VADSA)",
+              "date": "2021-05-06"
+            }
+          ],
+          "verified": true
+        }
+      },
       "roster_source": {
         "title": "Members of the South Australian Legislative Council, 2026–2030",
         "url": "https://en.wikipedia.org/wiki/Members_of_the_South_Australian_Legislative_Council,_2026%E2%80%932030",
@@ -20065,7 +20158,26 @@
       "state": "SA",
       "status": "incumbent",
       "last_updated": "2026-06-26",
-      "positions": {},
+      "positions": {
+        "abortion": {
+          "summary": "Voted against Sarah Game's bill to restrict access to late-term abortions in the Legislative Council on 17 June 2026; the bill passed the upper house 10 votes to 9 but was later defeated in the House of Assembly. Also voted against Liberal MLC Ben Hood's 2024 Termination of Pregnancy amendment bill, which was defeated in the Legislative Council 10 votes to 9 in October 2024.",
+          "sources": [
+            {
+              "title": "How your MP voted on the abortion bill",
+              "url": "https://www.indailysa.com.au/news/just-in/2026/06/17/how-your-mp-voted-on-the-abortion-bill",
+              "publisher": "InDaily",
+              "date": "2026-06-17"
+            },
+            {
+              "title": "Abortion vote falls short after night of parliamentary chaos",
+              "url": "https://www.indailysa.com.au/news/just-in/2024/10/17/abortion-vote-falls-short-after-night-of-parliamentary-chaos",
+              "publisher": "InDaily",
+              "date": "2024-10-17"
+            }
+          ],
+          "verified": true
+        }
+      },
       "roster_source": {
         "title": "Members of the South Australian Legislative Council, 2026–2030",
         "url": "https://en.wikipedia.org/wiki/Members_of_the_South_Australian_Legislative_Council,_2026%E2%80%932030",
@@ -20084,7 +20196,50 @@
       "state": "SA",
       "status": "incumbent",
       "last_updated": "2026-06-26",
-      "positions": {},
+      "positions": {
+        "faith": {
+          "summary": "Sarah Game has Jewish heritage and was confirmed Catholic, but has stated 'my values are Christian, [but] I don't align myself now with any particular religion'; she chose to make an affirmation rather than a religious oath when sworn into the Legislative Council.",
+          "sources": [
+            {
+              "title": "Sarah Game - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Sarah_Game",
+              "publisher": "Wikipedia",
+              "date": ""
+            }
+          ],
+          "verified": true
+        },
+        "abortion": {
+          "summary": "Introduced (as Family First MLC) the 2026 bill to restrict access to late-term abortions and voted for it in the Legislative Council on 17 June 2026, where it passed 10 votes to 9 before being defeated in the House of Assembly. Also voted in favour of Liberal MLC Ben Hood's 2024 Termination of Pregnancy amendment bill, which was defeated in the Legislative Council 10 votes to 9 in October 2024; she had earlier introduced her own 2025 restriction bill.",
+          "sources": [
+            {
+              "title": "How your MP voted on the abortion bill",
+              "url": "https://www.indailysa.com.au/news/just-in/2026/06/17/how-your-mp-voted-on-the-abortion-bill",
+              "publisher": "InDaily",
+              "date": "2026-06-17"
+            },
+            {
+              "title": "Abortion vote falls short after night of parliamentary chaos",
+              "url": "https://www.indailysa.com.au/news/just-in/2024/10/17/abortion-vote-falls-short-after-night-of-parliamentary-chaos",
+              "publisher": "InDaily",
+              "date": "2024-10-17"
+            }
+          ],
+          "verified": true
+        },
+        "gender_lgbtq": {
+          "summary": "Legislative Council member (elected for One Nation in 2022; in 2026 announced she would join the Family First Party). Per her Wikipedia profile she has stated she 'does not hold to strict interpretations of complex personal issues relating to abortion and transgender issues,' indicating a non-dogmatic stance; no detailed voting record on LGBTQ/gender bills is documented in the sourced material reviewed.",
+          "sources": [
+            {
+              "title": "Sarah Game",
+              "url": "https://en.wikipedia.org/wiki/Sarah_Game",
+              "publisher": "Wikipedia",
+              "date": ""
+            }
+          ],
+          "verified": true
+        }
+      },
       "roster_source": {
         "title": "Members of the South Australian Legislative Council, 2026–2030",
         "url": "https://en.wikipedia.org/wiki/Members_of_the_South_Australian_Legislative_Council,_2026%E2%80%932030",
@@ -20103,7 +20258,26 @@
       "state": "SA",
       "status": "incumbent",
       "last_updated": "2026-06-26",
-      "positions": {},
+      "positions": {
+        "abortion": {
+          "summary": "Voted in favour of Sarah Game's bill to restrict access to late-term abortions in the Legislative Council on 17 June 2026, where it passed 10 votes to 9 before being defeated in the House of Assembly. Also voted in favour of Liberal MLC Ben Hood's 2024 Termination of Pregnancy amendment bill, which was defeated in the Legislative Council 10 votes to 9 in October 2024.",
+          "sources": [
+            {
+              "title": "How your MP voted on the abortion bill",
+              "url": "https://www.indailysa.com.au/news/just-in/2026/06/17/how-your-mp-voted-on-the-abortion-bill",
+              "publisher": "InDaily",
+              "date": "2026-06-17"
+            },
+            {
+              "title": "Abortion vote falls short after night of parliamentary chaos",
+              "url": "https://www.indailysa.com.au/news/just-in/2024/10/17/abortion-vote-falls-short-after-night-of-parliamentary-chaos",
+              "publisher": "InDaily",
+              "date": "2024-10-17"
+            }
+          ],
+          "verified": true
+        }
+      },
       "roster_source": {
         "title": "Members of the South Australian Legislative Council, 2026–2030",
         "url": "https://en.wikipedia.org/wiki/Members_of_the_South_Australian_Legislative_Council,_2026%E2%80%932030",
@@ -20122,7 +20296,20 @@
       "state": "SA",
       "status": "incumbent",
       "last_updated": "2026-06-26",
-      "positions": {},
+      "positions": {
+        "abortion": {
+          "summary": "Voted against Sarah Game's bill to restrict access to late-term abortions in the Legislative Council on 17 June 2026; the bill passed the upper house 10 votes to 9 but was later defeated in the House of Assembly.",
+          "sources": [
+            {
+              "title": "How your MP voted on the abortion bill",
+              "url": "https://www.indailysa.com.au/news/just-in/2026/06/17/how-your-mp-voted-on-the-abortion-bill",
+              "publisher": "InDaily",
+              "date": "2026-06-17"
+            }
+          ],
+          "verified": true
+        }
+      },
       "roster_source": {
         "title": "Members of the South Australian Legislative Council, 2026–2030",
         "url": "https://en.wikipedia.org/wiki/Members_of_the_South_Australian_Legislative_Council,_2026%E2%80%932030",
@@ -20141,7 +20328,38 @@
       "state": "SA",
       "status": "incumbent",
       "last_updated": "2026-06-26",
-      "positions": {},
+      "positions": {
+        "abortion": {
+          "summary": "Voted against Sarah Game's bill to restrict access to late-term abortions in the Legislative Council on 17 June 2026; the bill passed the upper house 10 votes to 9 but was later defeated in the House of Assembly. Also voted against Liberal MLC Ben Hood's 2024 Termination of Pregnancy amendment bill, which was defeated in the Legislative Council 10 votes to 9 in October 2024.",
+          "sources": [
+            {
+              "title": "How your MP voted on the abortion bill",
+              "url": "https://www.indailysa.com.au/news/just-in/2026/06/17/how-your-mp-voted-on-the-abortion-bill",
+              "publisher": "InDaily",
+              "date": "2026-06-17"
+            },
+            {
+              "title": "Abortion vote falls short after night of parliamentary chaos",
+              "url": "https://www.indailysa.com.au/news/just-in/2024/10/17/abortion-vote-falls-short-after-night-of-parliamentary-chaos",
+              "publisher": "InDaily",
+              "date": "2024-10-17"
+            }
+          ],
+          "verified": true
+        },
+        "voluntary_assisted_dying": {
+          "summary": "Voted in favour (Aye) of the Voluntary Assisted Dying Bill at its final reading in the SA Legislative Council on 5 May 2021, which passed 14 votes to 7.",
+          "sources": [
+            {
+              "title": "VAD passes overwhelmingly in SA Legislative Council",
+              "url": "https://www.vadsa.org.au/vad_passes_overwhelmingly_in_sa_legislative_council",
+              "publisher": "Voluntary Assisted Dying South Australia (VADSA)",
+              "date": "2021-05-06"
+            }
+          ],
+          "verified": true
+        }
+      },
       "roster_source": {
         "title": "Members of the South Australian Legislative Council, 2026–2030",
         "url": "https://en.wikipedia.org/wiki/Members_of_the_South_Australian_Legislative_Council,_2026%E2%80%932030",
@@ -20160,7 +20378,38 @@
       "state": "SA",
       "status": "incumbent",
       "last_updated": "2026-06-26",
-      "positions": {},
+      "positions": {
+        "abortion": {
+          "summary": "On 17 June 2026 was paired in favour of Sarah Game's late-term abortion restriction bill in the Legislative Council, her vote paired against Michelle Lensink's vote opposing it. Also voted in favour of Liberal MLC Ben Hood's 2024 amendment bill, defeated in the Legislative Council 10 votes to 9 in October 2024.",
+          "sources": [
+            {
+              "title": "How your MP voted on the abortion bill",
+              "url": "https://www.indailysa.com.au/news/just-in/2026/06/17/how-your-mp-voted-on-the-abortion-bill",
+              "publisher": "InDaily",
+              "date": "2026-06-17"
+            },
+            {
+              "title": "Abortion vote falls short after night of parliamentary chaos",
+              "url": "https://www.indailysa.com.au/news/just-in/2024/10/17/abortion-vote-falls-short-after-night-of-parliamentary-chaos",
+              "publisher": "InDaily",
+              "date": "2024-10-17"
+            }
+          ],
+          "verified": true
+        },
+        "gender_lgbtq": {
+          "summary": "Liberal MLC. In the Legislative Council on 24 September 2024 she spoke against the Conversion Practices Prohibition Bill 2024 (a conscience vote for the Liberal Party), calling it 'incredible overreach into the personal lives of people in this state' and arguing 'it is not for us as a parliament to tell parents what conversations they can and cannot have.' She raised concerns about the bill's definitions and parental rights.",
+          "sources": [
+            {
+              "title": "Conversion Practices Prohibition Bill",
+              "url": "https://laurahenderson.com.au/posts/conversion-practices-prohibition-bill",
+              "publisher": "Laura Henderson MLC (official site)",
+              "date": "2024-09-24"
+            }
+          ],
+          "verified": true
+        }
+      },
       "roster_source": {
         "title": "Members of the South Australian Legislative Council, 2026–2030",
         "url": "https://en.wikipedia.org/wiki/Members_of_the_South_Australian_Legislative_Council,_2026%E2%80%932030",
@@ -20179,7 +20428,20 @@
       "state": "SA",
       "status": "incumbent",
       "last_updated": "2026-06-26",
-      "positions": {},
+      "positions": {
+        "abortion": {
+          "summary": "Voted in favour of Sarah Game's bill to restrict access to late-term abortions in the Legislative Council on 17 June 2026, where it passed 10 votes to 9 before being defeated in the House of Assembly.",
+          "sources": [
+            {
+              "title": "How your MP voted on the abortion bill",
+              "url": "https://www.indailysa.com.au/news/just-in/2026/06/17/how-your-mp-voted-on-the-abortion-bill",
+              "publisher": "InDaily",
+              "date": "2026-06-17"
+            }
+          ],
+          "verified": true
+        }
+      },
       "roster_source": {
         "title": "Members of the South Australian Legislative Council, 2026–2030",
         "url": "https://en.wikipedia.org/wiki/Members_of_the_South_Australian_Legislative_Council,_2026%E2%80%932030",
@@ -20198,7 +20460,26 @@
       "state": "SA",
       "status": "incumbent",
       "last_updated": "2026-06-26",
-      "positions": {},
+      "positions": {
+        "abortion": {
+          "summary": "Introduced the 2024 Termination of Pregnancy (Terminations and Live Births) Amendment Bill (defeated in the Legislative Council 10 votes to 9 in October 2024) and voted for it. Also voted in favour of Sarah Game's 2026 late-term abortion restriction bill in the Legislative Council on 17 June 2026, where it passed 10 votes to 9 before being defeated in the House of Assembly.",
+          "sources": [
+            {
+              "title": "How your MP voted on the abortion bill",
+              "url": "https://www.indailysa.com.au/news/just-in/2026/06/17/how-your-mp-voted-on-the-abortion-bill",
+              "publisher": "InDaily",
+              "date": "2026-06-17"
+            },
+            {
+              "title": "Abortion vote falls short after night of parliamentary chaos",
+              "url": "https://www.indailysa.com.au/news/just-in/2024/10/17/abortion-vote-falls-short-after-night-of-parliamentary-chaos",
+              "publisher": "InDaily",
+              "date": "2024-10-17"
+            }
+          ],
+          "verified": true
+        }
+      },
       "roster_source": {
         "title": "Members of the South Australian Legislative Council, 2026–2030",
         "url": "https://en.wikipedia.org/wiki/Members_of_the_South_Australian_Legislative_Council,_2026%E2%80%932030",
@@ -20217,7 +20498,32 @@
       "state": "SA",
       "status": "incumbent",
       "last_updated": "2026-06-26",
-      "positions": {},
+      "positions": {
+        "abortion": {
+          "summary": "Voted in favour of Sarah Game's bill to restrict access to late-term abortions in the Legislative Council on 17 June 2026, where it passed 10 votes to 9 before being defeated in the House of Assembly.",
+          "sources": [
+            {
+              "title": "How your MP voted on the abortion bill",
+              "url": "https://www.indailysa.com.au/news/just-in/2026/06/17/how-your-mp-voted-on-the-abortion-bill",
+              "publisher": "InDaily",
+              "date": "2026-06-17"
+            }
+          ],
+          "verified": true
+        },
+        "voluntary_assisted_dying": {
+          "summary": "Voted against (Noe) the Voluntary Assisted Dying Bill at its final reading in the SA Legislative Council on 5 May 2021 (the bill passed 14 votes to 7).",
+          "sources": [
+            {
+              "title": "VAD passes overwhelmingly in SA Legislative Council",
+              "url": "https://www.vadsa.org.au/vad_passes_overwhelmingly_in_sa_legislative_council",
+              "publisher": "Voluntary Assisted Dying South Australia (VADSA)",
+              "date": "2021-05-06"
+            }
+          ],
+          "verified": true
+        }
+      },
       "roster_source": {
         "title": "Members of the South Australian Legislative Council, 2026–2030",
         "url": "https://en.wikipedia.org/wiki/Members_of_the_South_Australian_Legislative_Council,_2026%E2%80%932030",
@@ -20236,7 +20542,56 @@
       "state": "SA",
       "status": "incumbent",
       "last_updated": "2026-06-26",
-      "positions": {},
+      "positions": {
+        "abortion": {
+          "summary": "Voted against Sarah Game's bill to restrict access to late-term abortions in the Legislative Council on 17 June 2026; the bill passed the upper house 10 votes to 9 but was later defeated in the House of Assembly. Also voted against Liberal MLC Ben Hood's 2024 Termination of Pregnancy amendment bill, which was defeated in the Legislative Council 10 votes to 9 in October 2024.",
+          "sources": [
+            {
+              "title": "How your MP voted on the abortion bill",
+              "url": "https://www.indailysa.com.au/news/just-in/2026/06/17/how-your-mp-voted-on-the-abortion-bill",
+              "publisher": "InDaily",
+              "date": "2026-06-17"
+            },
+            {
+              "title": "Abortion vote falls short after night of parliamentary chaos",
+              "url": "https://www.indailysa.com.au/news/just-in/2024/10/17/abortion-vote-falls-short-after-night-of-parliamentary-chaos",
+              "publisher": "InDaily",
+              "date": "2024-10-17"
+            }
+          ],
+          "verified": true
+        },
+        "voluntary_assisted_dying": {
+          "summary": "Voted in favour (Aye) of the Voluntary Assisted Dying Bill at its final reading in the SA Legislative Council on 5 May 2021, which passed 14 votes to 7.",
+          "sources": [
+            {
+              "title": "VAD passes overwhelmingly in SA Legislative Council",
+              "url": "https://www.vadsa.org.au/vad_passes_overwhelmingly_in_sa_legislative_council",
+              "publisher": "Voluntary Assisted Dying South Australia (VADSA)",
+              "date": "2021-05-06"
+            }
+          ],
+          "verified": true
+        },
+        "gender_lgbtq": {
+          "summary": "Long-serving Labor MLC and the first openly gay/LGBTI member of the SA Parliament and Cabinet. A prominent same-sex marriage advocate: delivered a 2009 parliamentary speech calling for marriage equality and co-sponsored a 2011 Marriage Equality Bill with Greens MLC Tammy Franks, at one point calling Labor's then-policy on marriage 'morally bankrupt'. He married his partner overseas before Australian law recognised same-sex marriage. In Nov 2023 he spoke in the Legislative Council relaying a survivor's account in support of banning conversion practices.",
+          "sources": [
+            {
+              "title": "Ian Hunter (politician)",
+              "url": "https://en.wikipedia.org/wiki/Ian_Hunter_(politician)",
+              "publisher": "Wikipedia",
+              "date": ""
+            },
+            {
+              "title": "Conversion practices",
+              "url": "https://www.saraa.org.au/conversion-practices/",
+              "publisher": "SA Rainbow Advocacy Alliance",
+              "date": "2024"
+            }
+          ],
+          "verified": true
+        }
+      },
       "roster_source": {
         "title": "Members of the South Australian Legislative Council, 2026–2030",
         "url": "https://en.wikipedia.org/wiki/Members_of_the_South_Australian_Legislative_Council,_2026%E2%80%932030",
@@ -20255,7 +20610,38 @@
       "state": "SA",
       "status": "incumbent",
       "last_updated": "2026-06-26",
-      "positions": {},
+      "positions": {
+        "abortion": {
+          "summary": "On 17 June 2026 was paired against Sarah Game's late-term abortion restriction bill in the Legislative Council (absent due to illness), with her vote paired against Laura Henderson's vote in favour. In October 2024 she was recorded as opposing Liberal MLC Ben Hood's amendment bill (absent on medical leave during the 10-9 division but counted as against it).",
+          "sources": [
+            {
+              "title": "How your MP voted on the abortion bill",
+              "url": "https://www.indailysa.com.au/news/just-in/2026/06/17/how-your-mp-voted-on-the-abortion-bill",
+              "publisher": "InDaily",
+              "date": "2026-06-17"
+            },
+            {
+              "title": "Abortion vote falls short after night of parliamentary chaos",
+              "url": "https://www.indailysa.com.au/news/just-in/2024/10/17/abortion-vote-falls-short-after-night-of-parliamentary-chaos",
+              "publisher": "InDaily",
+              "date": "2024-10-17"
+            }
+          ],
+          "verified": true
+        },
+        "voluntary_assisted_dying": {
+          "summary": "Voted in favour (Aye) of the Voluntary Assisted Dying Bill at its final reading in the SA Legislative Council on 5 May 2021, which passed 14 votes to 7.",
+          "sources": [
+            {
+              "title": "VAD passes overwhelmingly in SA Legislative Council",
+              "url": "https://www.vadsa.org.au/vad_passes_overwhelmingly_in_sa_legislative_council",
+              "publisher": "Voluntary Assisted Dying South Australia (VADSA)",
+              "date": "2021-05-06"
+            }
+          ],
+          "verified": true
+        }
+      },
       "roster_source": {
         "title": "Members of the South Australian Legislative Council, 2026–2030",
         "url": "https://en.wikipedia.org/wiki/Members_of_the_South_Australian_Legislative_Council,_2026%E2%80%932030",
@@ -20274,7 +20660,56 @@
       "state": "SA",
       "status": "incumbent",
       "last_updated": "2026-06-26",
-      "positions": {},
+      "positions": {
+        "abortion": {
+          "summary": "Voted against Sarah Game's bill to restrict access to late-term abortions in the Legislative Council on 17 June 2026; the bill passed the upper house 10 votes to 9 but was later defeated in the House of Assembly. Also voted against Liberal MLC Ben Hood's 2024 Termination of Pregnancy amendment bill, which was defeated in the Legislative Council 10 votes to 9 in October 2024.",
+          "sources": [
+            {
+              "title": "How your MP voted on the abortion bill",
+              "url": "https://www.indailysa.com.au/news/just-in/2026/06/17/how-your-mp-voted-on-the-abortion-bill",
+              "publisher": "InDaily",
+              "date": "2026-06-17"
+            },
+            {
+              "title": "Abortion vote falls short after night of parliamentary chaos",
+              "url": "https://www.indailysa.com.au/news/just-in/2024/10/17/abortion-vote-falls-short-after-night-of-parliamentary-chaos",
+              "publisher": "InDaily",
+              "date": "2024-10-17"
+            }
+          ],
+          "verified": true
+        },
+        "voluntary_assisted_dying": {
+          "summary": "As Shadow Attorney-General and Labor Leader in the Legislative Council, Kyam Maher introduced the Voluntary Assisted Dying Bill in December 2020 and voted in favour of it at the final reading in the SA Legislative Council on 5 May 2021 (which passed 14 votes to 7).",
+          "sources": [
+            {
+              "title": "VAD passes overwhelmingly in SA Legislative Council",
+              "url": "https://www.vadsa.org.au/vad_passes_overwhelmingly_in_sa_legislative_council",
+              "publisher": "Voluntary Assisted Dying South Australia (VADSA)",
+              "date": "2021-05-06"
+            }
+          ],
+          "verified": true
+        },
+        "gender_lgbtq": {
+          "summary": "Labor MLC and Attorney-General. Drafted the Conversion Practices Prohibition Bill 2024, the Malinauskas Government's legislation banning LGBTIQ conversion practices (passed October 2024, effective 1 April 2025). Publicly described conversion practices as 'a damaging practice that seeks to force members of the LGBTIQ community to abandon who they are under the guise of \"saving\" or \"helping\" them.'",
+          "sources": [
+            {
+              "title": "Conversion practices to be banned",
+              "url": "https://www.agd.sa.gov.au/news/conversion-practices-to-be-banned",
+              "publisher": "SA Attorney-General's Department",
+              "date": "2024"
+            },
+            {
+              "title": "Conversion practices",
+              "url": "https://www.saraa.org.au/conversion-practices/",
+              "publisher": "SA Rainbow Advocacy Alliance",
+              "date": "2024"
+            }
+          ],
+          "verified": true
+        }
+      },
       "roster_source": {
         "title": "Members of the South Australian Legislative Council, 2026–2030",
         "url": "https://en.wikipedia.org/wiki/Members_of_the_South_Australian_Legislative_Council,_2026%E2%80%932030",
@@ -20293,7 +20728,20 @@
       "state": "SA",
       "status": "incumbent",
       "last_updated": "2026-06-26",
-      "positions": {},
+      "positions": {
+        "abortion": {
+          "summary": "Voted against Liberal MLC Ben Hood's 2024 Termination of Pregnancy amendment bill, which was defeated in the Legislative Council 10 votes to 9 in October 2024.",
+          "sources": [
+            {
+              "title": "Abortion vote falls short after night of parliamentary chaos",
+              "url": "https://www.indailysa.com.au/news/just-in/2024/10/17/abortion-vote-falls-short-after-night-of-parliamentary-chaos",
+              "publisher": "InDaily",
+              "date": "2024-10-17"
+            }
+          ],
+          "verified": true
+        }
+      },
       "roster_source": {
         "title": "Members of the South Australian Legislative Council, 2026–2030",
         "url": "https://en.wikipedia.org/wiki/Members_of_the_South_Australian_Legislative_Council,_2026%E2%80%932030",
@@ -20312,7 +20760,38 @@
       "state": "SA",
       "status": "incumbent",
       "last_updated": "2026-06-26",
-      "positions": {},
+      "positions": {
+        "abortion": {
+          "summary": "Voted in favour of Sarah Game's bill to restrict access to late-term abortions in the Legislative Council on 17 June 2026, where it passed 10 votes to 9 before being defeated in the House of Assembly. Also voted in favour of Liberal MLC Ben Hood's 2024 Termination of Pregnancy amendment bill, which was defeated in the Legislative Council 10 votes to 9 in October 2024.",
+          "sources": [
+            {
+              "title": "How your MP voted on the abortion bill",
+              "url": "https://www.indailysa.com.au/news/just-in/2026/06/17/how-your-mp-voted-on-the-abortion-bill",
+              "publisher": "InDaily",
+              "date": "2026-06-17"
+            },
+            {
+              "title": "Abortion vote falls short after night of parliamentary chaos",
+              "url": "https://www.indailysa.com.au/news/just-in/2024/10/17/abortion-vote-falls-short-after-night-of-parliamentary-chaos",
+              "publisher": "InDaily",
+              "date": "2024-10-17"
+            }
+          ],
+          "verified": true
+        },
+        "voluntary_assisted_dying": {
+          "summary": "Voted against (Noe) the Voluntary Assisted Dying Bill at its final reading in the SA Legislative Council on 5 May 2021 (the bill passed 14 votes to 7).",
+          "sources": [
+            {
+              "title": "VAD passes overwhelmingly in SA Legislative Council",
+              "url": "https://www.vadsa.org.au/vad_passes_overwhelmingly_in_sa_legislative_council",
+              "publisher": "Voluntary Assisted Dying South Australia (VADSA)",
+              "date": "2021-05-06"
+            }
+          ],
+          "verified": true
+        }
+      },
       "roster_source": {
         "title": "Members of the South Australian Legislative Council, 2026–2030",
         "url": "https://en.wikipedia.org/wiki/Members_of_the_South_Australian_Legislative_Council,_2026%E2%80%932030",
@@ -20331,7 +20810,20 @@
       "state": "SA",
       "status": "incumbent",
       "last_updated": "2026-06-26",
-      "positions": {},
+      "positions": {
+        "abortion": {
+          "summary": "Voted in favour of Sarah Game's bill to restrict access to late-term abortions in the Legislative Council on 17 June 2026, where it passed 10 votes to 9 before being defeated in the House of Assembly.",
+          "sources": [
+            {
+              "title": "How your MP voted on the abortion bill",
+              "url": "https://www.indailysa.com.au/news/just-in/2026/06/17/how-your-mp-voted-on-the-abortion-bill",
+              "publisher": "InDaily",
+              "date": "2026-06-17"
+            }
+          ],
+          "verified": true
+        }
+      },
       "roster_source": {
         "title": "Members of the South Australian Legislative Council, 2026–2030",
         "url": "https://en.wikipedia.org/wiki/Members_of_the_South_Australian_Legislative_Council,_2026%E2%80%932030",
@@ -20350,7 +20842,44 @@
       "state": "SA",
       "status": "incumbent",
       "last_updated": "2026-06-26",
-      "positions": {},
+      "positions": {
+        "abortion": {
+          "summary": "Voted in favour of Sarah Game's bill to restrict access to late-term abortions in the Legislative Council on 17 June 2026, where it passed 10 votes to 9 before being defeated in the House of Assembly. Also voted in favour of Liberal MLC Ben Hood's 2024 Termination of Pregnancy amendment bill, which was defeated in the Legislative Council 10 votes to 9 in October 2024.",
+          "sources": [
+            {
+              "title": "How your MP voted on the abortion bill",
+              "url": "https://www.indailysa.com.au/news/just-in/2026/06/17/how-your-mp-voted-on-the-abortion-bill",
+              "publisher": "InDaily",
+              "date": "2026-06-17"
+            },
+            {
+              "title": "Abortion vote falls short after night of parliamentary chaos",
+              "url": "https://www.indailysa.com.au/news/just-in/2024/10/17/abortion-vote-falls-short-after-night-of-parliamentary-chaos",
+              "publisher": "InDaily",
+              "date": "2024-10-17"
+            }
+          ],
+          "verified": true
+        },
+        "voluntary_assisted_dying": {
+          "summary": "Voted against (Noe) the Voluntary Assisted Dying Bill at its final reading in the SA Legislative Council on 5 May 2021 (the bill passed 14 votes to 7). Ahead of the vote she told InDaily, 'there is clear evidence that safeguards are ignored or diluted in practice once voluntary euthanasia becomes legal... I will not be supporting the bill.'",
+          "sources": [
+            {
+              "title": "VAD passes overwhelmingly in SA Legislative Council",
+              "url": "https://www.vadsa.org.au/vad_passes_overwhelmingly_in_sa_legislative_council",
+              "publisher": "Voluntary Assisted Dying South Australia (VADSA)",
+              "date": "2021-05-06"
+            },
+            {
+              "title": "MP 'courage' plea ahead of latest voluntary euthanasia bill vote",
+              "url": "https://indaily.com.au/news/2021/04/27/mp-courage-plea-ahead-of-latest-voluntary-euthanasia-bill-vote/",
+              "publisher": "InDaily",
+              "date": "2021-04-27"
+            }
+          ],
+          "verified": true
+        }
+      },
       "roster_source": {
         "title": "Members of the South Australian Legislative Council, 2026–2030",
         "url": "https://en.wikipedia.org/wiki/Members_of_the_South_Australian_Legislative_Council,_2026%E2%80%932030",
@@ -20369,7 +20898,32 @@
       "state": "SA",
       "status": "incumbent",
       "last_updated": "2026-06-26",
-      "positions": {},
+      "positions": {
+        "abortion": {
+          "summary": "Voted against Sarah Game's bill to restrict access to late-term abortions in the Legislative Council on 17 June 2026; the bill passed the upper house 10 votes to 9 but was later defeated in the House of Assembly.",
+          "sources": [
+            {
+              "title": "How your MP voted on the abortion bill",
+              "url": "https://www.indailysa.com.au/news/just-in/2026/06/17/how-your-mp-voted-on-the-abortion-bill",
+              "publisher": "InDaily",
+              "date": "2026-06-17"
+            }
+          ],
+          "verified": true
+        },
+        "gender_lgbtq": {
+          "summary": "Greens MLC elected at the March 2026 state election. On 20 May 2026 she walked out of the Legislative Council, alongside fellow Greens MLC Robert Simms, during One Nation MLC Cory Bernardi's maiden speech in protest at his comments about transgender people and gender-affirming healthcare. She has aligned with the Greens' platform of advancing LGBTIQ+ rights and accessible gender-affirming healthcare.",
+          "sources": [
+            {
+              "title": "Cory Bernardi's Maiden Speech To SA Parliament Sparks Walkout",
+              "url": "https://www.starobserver.com.au/news/cory-bernardi-speech-walkout/241900",
+              "publisher": "Star Observer",
+              "date": "2026-05-20"
+            }
+          ],
+          "verified": true
+        }
+      },
       "roster_source": {
         "title": "Members of the South Australian Legislative Council, 2026–2030",
         "url": "https://en.wikipedia.org/wiki/Members_of_the_South_Australian_Legislative_Council,_2026%E2%80%932030",
@@ -20388,7 +20942,56 @@
       "state": "SA",
       "status": "incumbent",
       "last_updated": "2026-06-26",
-      "positions": {},
+      "positions": {
+        "abortion": {
+          "summary": "Voted against Sarah Game's bill to restrict access to late-term abortions in the Legislative Council on 17 June 2026; the bill passed the upper house 10 votes to 9 but was later defeated in the House of Assembly. Also voted against Liberal MLC Ben Hood's 2024 Termination of Pregnancy amendment bill, which was defeated in the Legislative Council 10 votes to 9 in October 2024.",
+          "sources": [
+            {
+              "title": "How your MP voted on the abortion bill",
+              "url": "https://www.indailysa.com.au/news/just-in/2026/06/17/how-your-mp-voted-on-the-abortion-bill",
+              "publisher": "InDaily",
+              "date": "2026-06-17"
+            },
+            {
+              "title": "Abortion vote falls short after night of parliamentary chaos",
+              "url": "https://www.indailysa.com.au/news/just-in/2024/10/17/abortion-vote-falls-short-after-night-of-parliamentary-chaos",
+              "publisher": "InDaily",
+              "date": "2024-10-17"
+            }
+          ],
+          "verified": true
+        },
+        "voluntary_assisted_dying": {
+          "summary": "Voted in favour (Aye) of the Voluntary Assisted Dying Bill at its final reading in the SA Legislative Council on 5 May 2021, which passed 14 votes to 7.",
+          "sources": [
+            {
+              "title": "VAD passes overwhelmingly in SA Legislative Council",
+              "url": "https://www.vadsa.org.au/vad_passes_overwhelmingly_in_sa_legislative_council",
+              "publisher": "Voluntary Assisted Dying South Australia (VADSA)",
+              "date": "2021-05-06"
+            }
+          ],
+          "verified": true
+        },
+        "gender_lgbtq": {
+          "summary": "Greens MLC and SA Greens leader; openly gay and the first out gay man to represent SA in federal parliament. Long-standing LGBTIQ advocate: as a federal senator was Greens spokesperson on marriage equality; in SA has introduced birth-certificate reform for rainbow families and a bill to remove religious exemptions from anti-discrimination laws, and supported the 2024 conversion practices ban (moving amendments with Tammy Franks). On 20 May 2026 he walked out of the Legislative Council during One Nation MLC Cory Bernardi's maiden speech over Bernardi's remarks on transgender people and gender-affirming care.",
+          "sources": [
+            {
+              "title": "SA Greens announce plans to advance the rights of LGBTIQ+ people",
+              "url": "https://qnews.com.au/sa-greens-announce-plans-to-advance-the-rights-of-lgbtiq-people/",
+              "publisher": "QNews",
+              "date": ""
+            },
+            {
+              "title": "Cory Bernardi's Maiden Speech To SA Parliament Sparks Walkout",
+              "url": "https://www.starobserver.com.au/news/cory-bernardi-speech-walkout/241900",
+              "publisher": "Star Observer",
+              "date": "2026-05-20"
+            }
+          ],
+          "verified": true
+        }
+      },
       "roster_source": {
         "title": "Members of the South Australian Legislative Council, 2026–2030",
         "url": "https://en.wikipedia.org/wiki/Members_of_the_South_Australian_Legislative_Council,_2026%E2%80%932030",
@@ -20407,7 +21010,38 @@
       "state": "SA",
       "status": "incumbent",
       "last_updated": "2026-06-26",
-      "positions": {},
+      "positions": {
+        "abortion": {
+          "summary": "Voted against Sarah Game's bill to restrict access to late-term abortions in the Legislative Council on 17 June 2026; the bill passed the upper house 10 votes to 9 but was later defeated in the House of Assembly. Also voted against Liberal MLC Ben Hood's 2024 Termination of Pregnancy amendment bill, which was defeated in the Legislative Council 10 votes to 9 in October 2024.",
+          "sources": [
+            {
+              "title": "How your MP voted on the abortion bill",
+              "url": "https://www.indailysa.com.au/news/just-in/2026/06/17/how-your-mp-voted-on-the-abortion-bill",
+              "publisher": "InDaily",
+              "date": "2026-06-17"
+            },
+            {
+              "title": "Abortion vote falls short after night of parliamentary chaos",
+              "url": "https://www.indailysa.com.au/news/just-in/2024/10/17/abortion-vote-falls-short-after-night-of-parliamentary-chaos",
+              "publisher": "InDaily",
+              "date": "2024-10-17"
+            }
+          ],
+          "verified": true
+        },
+        "voluntary_assisted_dying": {
+          "summary": "Voted in favour (Aye) of the Voluntary Assisted Dying Bill at its final reading in the SA Legislative Council on 5 May 2021, which passed 14 votes to 7.",
+          "sources": [
+            {
+              "title": "VAD passes overwhelmingly in SA Legislative Council",
+              "url": "https://www.vadsa.org.au/vad_passes_overwhelmingly_in_sa_legislative_council",
+              "publisher": "Voluntary Assisted Dying South Australia (VADSA)",
+              "date": "2021-05-06"
+            }
+          ],
+          "verified": true
+        }
+      },
       "roster_source": {
         "title": "Members of the South Australian Legislative Council, 2026–2030",
         "url": "https://en.wikipedia.org/wiki/Members_of_the_South_Australian_Legislative_Council,_2026%E2%80%932030",
@@ -20426,7 +21060,20 @@
       "state": "SA",
       "status": "incumbent",
       "last_updated": "2026-06-26",
-      "positions": {},
+      "positions": {
+        "abortion": {
+          "summary": "Voted against Family First MLC Sarah Game's bill to restrict access to late-term abortions in the House of Assembly on 18 June 2026; the bill was defeated in the lower house 36 votes to 9.",
+          "sources": [
+            {
+              "title": "How your MP voted on the abortion bill",
+              "url": "https://www.indailysa.com.au/news/just-in/2026/06/17/how-your-mp-voted-on-the-abortion-bill",
+              "publisher": "InDaily",
+              "date": "2026-06-17"
+            }
+          ],
+          "verified": true
+        }
+      },
       "roster_source": {
         "title": "Members of the South Australian House of Assembly, 2026–2030",
         "url": "https://en.wikipedia.org/wiki/Members_of_the_South_Australian_House_of_Assembly,_2026%E2%80%932030",
@@ -20445,7 +21092,20 @@
       "state": "SA",
       "status": "incumbent",
       "last_updated": "2026-06-26",
-      "positions": {},
+      "positions": {
+        "abortion": {
+          "summary": "Voted against Family First MLC Sarah Game's bill to restrict access to late-term abortions in the House of Assembly on 18 June 2026; the bill was defeated in the lower house 36 votes to 9.",
+          "sources": [
+            {
+              "title": "How your MP voted on the abortion bill",
+              "url": "https://www.indailysa.com.au/news/just-in/2026/06/17/how-your-mp-voted-on-the-abortion-bill",
+              "publisher": "InDaily",
+              "date": "2026-06-17"
+            }
+          ],
+          "verified": true
+        }
+      },
       "roster_source": {
         "title": "Members of the South Australian House of Assembly, 2026–2030",
         "url": "https://en.wikipedia.org/wiki/Members_of_the_South_Australian_House_of_Assembly,_2026%E2%80%932030",
@@ -20464,7 +21124,20 @@
       "state": "SA",
       "status": "incumbent",
       "last_updated": "2026-06-26",
-      "positions": {},
+      "positions": {
+        "abortion": {
+          "summary": "Voted against Family First MLC Sarah Game's bill to restrict access to late-term abortions in the House of Assembly on 18 June 2026; the bill was defeated in the lower house 36 votes to 9.",
+          "sources": [
+            {
+              "title": "How your MP voted on the abortion bill",
+              "url": "https://www.indailysa.com.au/news/just-in/2026/06/17/how-your-mp-voted-on-the-abortion-bill",
+              "publisher": "InDaily",
+              "date": "2026-06-17"
+            }
+          ],
+          "verified": true
+        }
+      },
       "roster_source": {
         "title": "Members of the South Australian House of Assembly, 2026–2030",
         "url": "https://en.wikipedia.org/wiki/Members_of_the_South_Australian_House_of_Assembly,_2026%E2%80%932030",
@@ -20483,7 +21156,20 @@
       "state": "SA",
       "status": "incumbent",
       "last_updated": "2026-06-26",
-      "positions": {},
+      "positions": {
+        "abortion": {
+          "summary": "Voted against Family First MLC Sarah Game's bill to restrict access to late-term abortions in the House of Assembly on 18 June 2026; the bill was defeated in the lower house 36 votes to 9.",
+          "sources": [
+            {
+              "title": "How your MP voted on the abortion bill",
+              "url": "https://www.indailysa.com.au/news/just-in/2026/06/17/how-your-mp-voted-on-the-abortion-bill",
+              "publisher": "InDaily",
+              "date": "2026-06-17"
+            }
+          ],
+          "verified": true
+        }
+      },
       "roster_source": {
         "title": "Members of the South Australian House of Assembly, 2026–2030",
         "url": "https://en.wikipedia.org/wiki/Members_of_the_South_Australian_House_of_Assembly,_2026%E2%80%932030",
@@ -20502,7 +21188,20 @@
       "state": "SA",
       "status": "incumbent",
       "last_updated": "2026-06-26",
-      "positions": {},
+      "positions": {
+        "abortion": {
+          "summary": "Voted against Family First MLC Sarah Game's bill to restrict access to late-term abortions in the House of Assembly on 18 June 2026; the bill was defeated in the lower house 36 votes to 9.",
+          "sources": [
+            {
+              "title": "How your MP voted on the abortion bill",
+              "url": "https://www.indailysa.com.au/news/just-in/2026/06/17/how-your-mp-voted-on-the-abortion-bill",
+              "publisher": "InDaily",
+              "date": "2026-06-17"
+            }
+          ],
+          "verified": true
+        }
+      },
       "roster_source": {
         "title": "Members of the South Australian House of Assembly, 2026–2030",
         "url": "https://en.wikipedia.org/wiki/Members_of_the_South_Australian_House_of_Assembly,_2026%E2%80%932030",
@@ -20521,7 +21220,20 @@
       "state": "SA",
       "status": "incumbent",
       "last_updated": "2026-06-26",
-      "positions": {},
+      "positions": {
+        "abortion": {
+          "summary": "Voted against Family First MLC Sarah Game's bill to restrict access to late-term abortions in the House of Assembly on 18 June 2026; the bill was defeated in the lower house 36 votes to 9.",
+          "sources": [
+            {
+              "title": "How your MP voted on the abortion bill",
+              "url": "https://www.indailysa.com.au/news/just-in/2026/06/17/how-your-mp-voted-on-the-abortion-bill",
+              "publisher": "InDaily",
+              "date": "2026-06-17"
+            }
+          ],
+          "verified": true
+        }
+      },
       "roster_source": {
         "title": "Members of the South Australian House of Assembly, 2026–2030",
         "url": "https://en.wikipedia.org/wiki/Members_of_the_South_Australian_House_of_Assembly,_2026%E2%80%932030",
@@ -20540,7 +21252,20 @@
       "state": "SA",
       "status": "incumbent",
       "last_updated": "2026-06-26",
-      "positions": {},
+      "positions": {
+        "abortion": {
+          "summary": "Voted against Family First MLC Sarah Game's bill to restrict access to late-term abortions in the House of Assembly on 18 June 2026; the bill was defeated in the lower house 36 votes to 9.",
+          "sources": [
+            {
+              "title": "How your MP voted on the abortion bill",
+              "url": "https://www.indailysa.com.au/news/just-in/2026/06/17/how-your-mp-voted-on-the-abortion-bill",
+              "publisher": "InDaily",
+              "date": "2026-06-17"
+            }
+          ],
+          "verified": true
+        }
+      },
       "roster_source": {
         "title": "Members of the South Australian House of Assembly, 2026–2030",
         "url": "https://en.wikipedia.org/wiki/Members_of_the_South_Australian_House_of_Assembly,_2026%E2%80%932030",
@@ -20559,7 +21284,20 @@
       "state": "SA",
       "status": "incumbent",
       "last_updated": "2026-06-26",
-      "positions": {},
+      "positions": {
+        "abortion": {
+          "summary": "Voted against Family First MLC Sarah Game's bill to restrict access to late-term abortions in the House of Assembly on 18 June 2026; the bill was defeated in the lower house 36 votes to 9.",
+          "sources": [
+            {
+              "title": "How your MP voted on the abortion bill",
+              "url": "https://www.indailysa.com.au/news/just-in/2026/06/17/how-your-mp-voted-on-the-abortion-bill",
+              "publisher": "InDaily",
+              "date": "2026-06-17"
+            }
+          ],
+          "verified": true
+        }
+      },
       "roster_source": {
         "title": "Members of the South Australian House of Assembly, 2026–2030",
         "url": "https://en.wikipedia.org/wiki/Members_of_the_South_Australian_House_of_Assembly,_2026%E2%80%932030",
@@ -20578,7 +21316,20 @@
       "state": "SA",
       "status": "incumbent",
       "last_updated": "2026-06-26",
-      "positions": {},
+      "positions": {
+        "abortion": {
+          "summary": "Voted in favour of Family First MLC Sarah Game's bill to restrict access to late-term abortions when it was debated in the House of Assembly on 18 June 2026; the bill was defeated in the lower house 36 votes to 9.",
+          "sources": [
+            {
+              "title": "How your MP voted on the abortion bill",
+              "url": "https://www.indailysa.com.au/news/just-in/2026/06/17/how-your-mp-voted-on-the-abortion-bill",
+              "publisher": "InDaily",
+              "date": "2026-06-17"
+            }
+          ],
+          "verified": true
+        }
+      },
       "roster_source": {
         "title": "Members of the South Australian House of Assembly, 2026–2030",
         "url": "https://en.wikipedia.org/wiki/Members_of_the_South_Australian_House_of_Assembly,_2026%E2%80%932030",
@@ -20597,7 +21348,20 @@
       "state": "SA",
       "status": "incumbent",
       "last_updated": "2026-06-26",
-      "positions": {},
+      "positions": {
+        "abortion": {
+          "summary": "Voted against Family First MLC Sarah Game's bill to restrict access to late-term abortions in the House of Assembly on 18 June 2026; the bill was defeated in the lower house 36 votes to 9.",
+          "sources": [
+            {
+              "title": "How your MP voted on the abortion bill",
+              "url": "https://www.indailysa.com.au/news/just-in/2026/06/17/how-your-mp-voted-on-the-abortion-bill",
+              "publisher": "InDaily",
+              "date": "2026-06-17"
+            }
+          ],
+          "verified": true
+        }
+      },
       "roster_source": {
         "title": "Members of the South Australian House of Assembly, 2026–2030",
         "url": "https://en.wikipedia.org/wiki/Members_of_the_South_Australian_House_of_Assembly,_2026%E2%80%932030",
@@ -20616,7 +21380,20 @@
       "state": "SA",
       "status": "incumbent",
       "last_updated": "2026-06-26",
-      "positions": {},
+      "positions": {
+        "abortion": {
+          "summary": "Voted against Family First MLC Sarah Game's bill to restrict access to late-term abortions in the House of Assembly on 18 June 2026; the bill was defeated in the lower house 36 votes to 9.",
+          "sources": [
+            {
+              "title": "How your MP voted on the abortion bill",
+              "url": "https://www.indailysa.com.au/news/just-in/2026/06/17/how-your-mp-voted-on-the-abortion-bill",
+              "publisher": "InDaily",
+              "date": "2026-06-17"
+            }
+          ],
+          "verified": true
+        }
+      },
       "roster_source": {
         "title": "Members of the South Australian House of Assembly, 2026–2030",
         "url": "https://en.wikipedia.org/wiki/Members_of_the_South_Australian_House_of_Assembly,_2026%E2%80%932030",
@@ -20635,7 +21412,44 @@
       "state": "SA",
       "status": "incumbent",
       "last_updated": "2026-06-26",
-      "positions": {},
+      "positions": {
+        "abortion": {
+          "summary": "As Speaker of the House of Assembly did not vote on Sarah Game's June 2026 late-term abortion restriction bill, but publicly welcomed its defeat, posting that 'tonight the South Australian Parliament voted for unchanged access to Abortion'; she had earlier been involved in the campaign to decriminalise abortion in South Australia in 2021.",
+          "sources": [
+            {
+              "title": "How your MP voted on the abortion bill",
+              "url": "https://www.indailysa.com.au/news/just-in/2026/06/17/how-your-mp-voted-on-the-abortion-bill",
+              "publisher": "InDaily",
+              "date": "2026-06-17"
+            }
+          ],
+          "verified": true
+        },
+        "gender_lgbtq": {
+          "summary": "Labor MP for Hurtle Vale (elected Speaker of the House of Assembly in May 2026, sitting as independent in that role). As Shadow Human Services Minister she drafted private legislation to outlaw LGBTIQ conversion therapy in SA (reported July 2020), proposing penalties of up to eight years' imprisonment, an early step toward what became the Conversion Practices Prohibition Act 2024. As Human Services Minister she engaged extensively with LGBTIQ policy, including implementation of the 2024 conversion practices ban.",
+          "sources": [
+            {
+              "title": "SA move to outlaw conversion therapy",
+              "url": "https://www.indailysa.com.au/news/archive/2020/07/16/sa-move-to-outlaw-conversion-therapy",
+              "publisher": "InDaily",
+              "date": "2020-07-16"
+            }
+          ],
+          "verified": true
+        },
+        "drugs_law_order": {
+          "summary": "Cook is an anti-violence campaigner who entered public life after her 17-year-old son Sam Davis was killed in a one-punch attack in 2008. She and her partner founded the Sammy D Foundation, which runs anti-violence school programs for young people; she stood down from its board on election to Parliament.",
+          "sources": [
+            {
+              "title": "Nat Cook - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Nat_Cook",
+              "publisher": "Wikipedia",
+              "date": ""
+            }
+          ],
+          "verified": true
+        }
+      },
       "roster_source": {
         "title": "Members of the South Australian House of Assembly, 2026–2030",
         "url": "https://en.wikipedia.org/wiki/Members_of_the_South_Australian_House_of_Assembly,_2026%E2%80%932030",
@@ -20654,7 +21468,20 @@
       "state": "SA",
       "status": "incumbent",
       "last_updated": "2026-06-26",
-      "positions": {},
+      "positions": {
+        "abortion": {
+          "summary": "Did not vote on Sarah Game's June 2026 late-term abortion restriction bill in the House of Assembly as he was on paternity leave.",
+          "sources": [
+            {
+              "title": "How your MP voted on the abortion bill",
+              "url": "https://www.indailysa.com.au/news/just-in/2026/06/17/how-your-mp-voted-on-the-abortion-bill",
+              "publisher": "InDaily",
+              "date": "2026-06-17"
+            }
+          ],
+          "verified": true
+        }
+      },
       "roster_source": {
         "title": "Members of the South Australian House of Assembly, 2026–2030",
         "url": "https://en.wikipedia.org/wiki/Members_of_the_South_Australian_House_of_Assembly,_2026%E2%80%932030",
@@ -20673,7 +21500,20 @@
       "state": "SA",
       "status": "incumbent",
       "last_updated": "2026-06-26",
-      "positions": {},
+      "positions": {
+        "abortion": {
+          "summary": "Voted against Family First MLC Sarah Game's bill to restrict access to late-term abortions in the House of Assembly on 18 June 2026; the bill was defeated in the lower house 36 votes to 9.",
+          "sources": [
+            {
+              "title": "How your MP voted on the abortion bill",
+              "url": "https://www.indailysa.com.au/news/just-in/2026/06/17/how-your-mp-voted-on-the-abortion-bill",
+              "publisher": "InDaily",
+              "date": "2026-06-17"
+            }
+          ],
+          "verified": true
+        }
+      },
       "roster_source": {
         "title": "Members of the South Australian House of Assembly, 2026–2030",
         "url": "https://en.wikipedia.org/wiki/Members_of_the_South_Australian_House_of_Assembly,_2026%E2%80%932030",
@@ -20692,7 +21532,20 @@
       "state": "SA",
       "status": "incumbent",
       "last_updated": "2026-06-26",
-      "positions": {},
+      "positions": {
+        "abortion": {
+          "summary": "Voted against Family First MLC Sarah Game's bill to restrict access to late-term abortions in the House of Assembly on 18 June 2026; the bill was defeated in the lower house 36 votes to 9.",
+          "sources": [
+            {
+              "title": "How your MP voted on the abortion bill",
+              "url": "https://www.indailysa.com.au/news/just-in/2026/06/17/how-your-mp-voted-on-the-abortion-bill",
+              "publisher": "InDaily",
+              "date": "2026-06-17"
+            }
+          ],
+          "verified": true
+        }
+      },
       "roster_source": {
         "title": "Members of the South Australian House of Assembly, 2026–2030",
         "url": "https://en.wikipedia.org/wiki/Members_of_the_South_Australian_House_of_Assembly,_2026%E2%80%932030",
@@ -20711,7 +21564,20 @@
       "state": "SA",
       "status": "incumbent",
       "last_updated": "2026-06-26",
-      "positions": {},
+      "positions": {
+        "abortion": {
+          "summary": "Voted against Family First MLC Sarah Game's bill to restrict access to late-term abortions in the House of Assembly on 18 June 2026; the bill was defeated in the lower house 36 votes to 9.",
+          "sources": [
+            {
+              "title": "How your MP voted on the abortion bill",
+              "url": "https://www.indailysa.com.au/news/just-in/2026/06/17/how-your-mp-voted-on-the-abortion-bill",
+              "publisher": "InDaily",
+              "date": "2026-06-17"
+            }
+          ],
+          "verified": true
+        }
+      },
       "roster_source": {
         "title": "Members of the South Australian House of Assembly, 2026–2030",
         "url": "https://en.wikipedia.org/wiki/Members_of_the_South_Australian_House_of_Assembly,_2026%E2%80%932030",
@@ -20730,7 +21596,20 @@
       "state": "SA",
       "status": "incumbent",
       "last_updated": "2026-06-26",
-      "positions": {},
+      "positions": {
+        "abortion": {
+          "summary": "Voted against Family First MLC Sarah Game's bill to restrict access to late-term abortions in the House of Assembly on 18 June 2026; the bill was defeated in the lower house 36 votes to 9.",
+          "sources": [
+            {
+              "title": "How your MP voted on the abortion bill",
+              "url": "https://www.indailysa.com.au/news/just-in/2026/06/17/how-your-mp-voted-on-the-abortion-bill",
+              "publisher": "InDaily",
+              "date": "2026-06-17"
+            }
+          ],
+          "verified": true
+        }
+      },
       "roster_source": {
         "title": "Members of the South Australian House of Assembly, 2026–2030",
         "url": "https://en.wikipedia.org/wiki/Members_of_the_South_Australian_House_of_Assembly,_2026%E2%80%932030",
@@ -20749,7 +21628,38 @@
       "state": "SA",
       "status": "incumbent",
       "last_updated": "2026-06-26",
-      "positions": {},
+      "positions": {
+        "faith": {
+          "summary": "Tom Koutsantonis identifies with the Greek Orthodox faith, stating 'The Orthodox Church and the Parish of Saint George is a constant in my family's life,' and has publicly described St George Orthodox Church as a spiritual home and beacon of faith.",
+          "sources": [
+            {
+              "title": "Tom Koutsantonis MP Facebook post on the Orthodox Church and Parish of Saint George",
+              "url": "https://www.facebook.com/TKoutsantonisMP/posts/the-orthodox-church-and-the-parish-of-saint-george-is-a-constant-in-my-familys-l/1291245756159880/",
+              "publisher": "Tom Koutsantonis MP (Facebook)",
+              "date": ""
+            },
+            {
+              "title": "Six decades of St George Greek Orthodox community in SA",
+              "url": "https://neoskosmos.com/en/2025/09/17/news/community/six-decades-of-st-george-greek-orthodox-community-in-sa/",
+              "publisher": "Neos Kosmos",
+              "date": "2025-09-17"
+            }
+          ],
+          "verified": true
+        },
+        "abortion": {
+          "summary": "Voted in favour of Family First MLC Sarah Game's bill to restrict access to late-term abortions when it was debated in the House of Assembly on 18 June 2026; the bill was defeated in the lower house 36 votes to 9.",
+          "sources": [
+            {
+              "title": "How your MP voted on the abortion bill",
+              "url": "https://www.indailysa.com.au/news/just-in/2026/06/17/how-your-mp-voted-on-the-abortion-bill",
+              "publisher": "InDaily",
+              "date": "2026-06-17"
+            }
+          ],
+          "verified": true
+        }
+      },
       "roster_source": {
         "title": "Members of the South Australian House of Assembly, 2026–2030",
         "url": "https://en.wikipedia.org/wiki/Members_of_the_South_Australian_House_of_Assembly,_2026%E2%80%932030",
@@ -20768,7 +21678,32 @@
       "state": "SA",
       "status": "incumbent",
       "last_updated": "2026-06-26",
-      "positions": {},
+      "positions": {
+        "abortion": {
+          "summary": "Voted in favour of Family First MLC Sarah Game's bill to restrict access to late-term abortions when it was debated in the House of Assembly on 18 June 2026; the bill was defeated in the lower house 36 votes to 9.",
+          "sources": [
+            {
+              "title": "How your MP voted on the abortion bill",
+              "url": "https://www.indailysa.com.au/news/just-in/2026/06/17/how-your-mp-voted-on-the-abortion-bill",
+              "publisher": "InDaily",
+              "date": "2026-06-17"
+            }
+          ],
+          "verified": true
+        },
+        "drugs_law_order": {
+          "summary": "As Premier, Malinauskas led the Labor government's 2025 knife crime package, reported as among the toughest knife laws in the country: expanded police wanding-search powers at shopping centres, public transport and licensed venues, a ban on knife sales to minors, secure-storage requirements for certain knives in stores, and extended public knife-carry bans to childcare centres, universities and TAFE campuses. He said that 'while there are legitimate reasons to own a knife, recent events both locally and interstate have highlighted the need for us to crack down on potential knife crime.'",
+          "sources": [
+            {
+              "title": "Upper House agrees to 'toughest' knife laws in the country",
+              "url": "https://www.indailysa.com.au/news/just-in/2025/02/19/upper-house-agrees-to-toughest-knife-laws-in-the-country",
+              "publisher": "InDaily",
+              "date": "2025-02-19"
+            }
+          ],
+          "verified": true
+        }
+      },
       "roster_source": {
         "title": "Members of the South Australian House of Assembly, 2026–2030",
         "url": "https://en.wikipedia.org/wiki/Members_of_the_South_Australian_House_of_Assembly,_2026%E2%80%932030",
@@ -20787,7 +21722,20 @@
       "state": "SA",
       "status": "incumbent",
       "last_updated": "2026-06-26",
-      "positions": {},
+      "positions": {
+        "abortion": {
+          "summary": "Voted against Family First MLC Sarah Game's bill to restrict access to late-term abortions in the House of Assembly on 18 June 2026; the bill was defeated in the lower house 36 votes to 9.",
+          "sources": [
+            {
+              "title": "How your MP voted on the abortion bill",
+              "url": "https://www.indailysa.com.au/news/just-in/2026/06/17/how-your-mp-voted-on-the-abortion-bill",
+              "publisher": "InDaily",
+              "date": "2026-06-17"
+            }
+          ],
+          "verified": true
+        }
+      },
       "roster_source": {
         "title": "Members of the South Australian House of Assembly, 2026–2030",
         "url": "https://en.wikipedia.org/wiki/Members_of_the_South_Australian_House_of_Assembly,_2026%E2%80%932030",
@@ -20806,7 +21754,20 @@
       "state": "SA",
       "status": "incumbent",
       "last_updated": "2026-06-26",
-      "positions": {},
+      "positions": {
+        "abortion": {
+          "summary": "Voted against Family First MLC Sarah Game's bill to restrict access to late-term abortions in the House of Assembly on 18 June 2026; the bill was defeated in the lower house 36 votes to 9.",
+          "sources": [
+            {
+              "title": "How your MP voted on the abortion bill",
+              "url": "https://www.indailysa.com.au/news/just-in/2026/06/17/how-your-mp-voted-on-the-abortion-bill",
+              "publisher": "InDaily",
+              "date": "2026-06-17"
+            }
+          ],
+          "verified": true
+        }
+      },
       "roster_source": {
         "title": "Members of the South Australian House of Assembly, 2026–2030",
         "url": "https://en.wikipedia.org/wiki/Members_of_the_South_Australian_House_of_Assembly,_2026%E2%80%932030",
@@ -20825,7 +21786,20 @@
       "state": "SA",
       "status": "incumbent",
       "last_updated": "2026-06-26",
-      "positions": {},
+      "positions": {
+        "abortion": {
+          "summary": "Voted against Family First MLC Sarah Game's bill to restrict access to late-term abortions in the House of Assembly on 18 June 2026; the bill was defeated in the lower house 36 votes to 9.",
+          "sources": [
+            {
+              "title": "How your MP voted on the abortion bill",
+              "url": "https://www.indailysa.com.au/news/just-in/2026/06/17/how-your-mp-voted-on-the-abortion-bill",
+              "publisher": "InDaily",
+              "date": "2026-06-17"
+            }
+          ],
+          "verified": true
+        }
+      },
       "roster_source": {
         "title": "Members of the South Australian House of Assembly, 2026–2030",
         "url": "https://en.wikipedia.org/wiki/Members_of_the_South_Australian_House_of_Assembly,_2026%E2%80%932030",
@@ -20844,7 +21818,20 @@
       "state": "SA",
       "status": "incumbent",
       "last_updated": "2026-06-26",
-      "positions": {},
+      "positions": {
+        "abortion": {
+          "summary": "Voted against Family First MLC Sarah Game's bill to restrict access to late-term abortions in the House of Assembly on 18 June 2026; the bill was defeated in the lower house 36 votes to 9.",
+          "sources": [
+            {
+              "title": "How your MP voted on the abortion bill",
+              "url": "https://www.indailysa.com.au/news/just-in/2026/06/17/how-your-mp-voted-on-the-abortion-bill",
+              "publisher": "InDaily",
+              "date": "2026-06-17"
+            }
+          ],
+          "verified": true
+        }
+      },
       "roster_source": {
         "title": "Members of the South Australian House of Assembly, 2026–2030",
         "url": "https://en.wikipedia.org/wiki/Members_of_the_South_Australian_House_of_Assembly,_2026%E2%80%932030",
@@ -20863,7 +21850,32 @@
       "state": "SA",
       "status": "incumbent",
       "last_updated": "2026-06-26",
-      "positions": {},
+      "positions": {
+        "abortion": {
+          "summary": "Voted in favour of Family First MLC Sarah Game's bill to restrict access to late-term abortions when it was debated in the House of Assembly on 18 June 2026; the bill was defeated in the lower house 36 votes to 9.",
+          "sources": [
+            {
+              "title": "How your MP voted on the abortion bill",
+              "url": "https://www.indailysa.com.au/news/just-in/2026/06/17/how-your-mp-voted-on-the-abortion-bill",
+              "publisher": "InDaily",
+              "date": "2026-06-17"
+            }
+          ],
+          "verified": true
+        },
+        "drugs_law_order": {
+          "summary": "As South Australian Liberal leader, Ashton Hurn identified tackling crime as one of her top priorities ahead of the 2026 state election, citing concerns such as home invasions and business vandalism. Her party's law-and-order platform included proposed \"break bail, face jail\" laws.",
+          "sources": [
+            {
+              "title": "Relentless pursuit of votes: The Ashton Hurn campaign story",
+              "url": "https://www.indailysa.com.au/news/in-depth/2026/02/10/relentless-pursuit-of-votes-the-ashton-hurn-campaign-story",
+              "publisher": "InDaily",
+              "date": "2026-02-10"
+            }
+          ],
+          "verified": true
+        }
+      },
       "roster_source": {
         "title": "Members of the South Australian House of Assembly, 2026–2030",
         "url": "https://en.wikipedia.org/wiki/Members_of_the_South_Australian_House_of_Assembly,_2026%E2%80%932030",
@@ -20882,7 +21894,20 @@
       "state": "SA",
       "status": "incumbent",
       "last_updated": "2026-06-26",
-      "positions": {},
+      "positions": {
+        "abortion": {
+          "summary": "Voted against Family First MLC Sarah Game's bill to restrict access to late-term abortions in the House of Assembly on 18 June 2026; the bill was defeated in the lower house 36 votes to 9.",
+          "sources": [
+            {
+              "title": "How your MP voted on the abortion bill",
+              "url": "https://www.indailysa.com.au/news/just-in/2026/06/17/how-your-mp-voted-on-the-abortion-bill",
+              "publisher": "InDaily",
+              "date": "2026-06-17"
+            }
+          ],
+          "verified": true
+        }
+      },
       "roster_source": {
         "title": "Members of the South Australian House of Assembly, 2026–2030",
         "url": "https://en.wikipedia.org/wiki/Members_of_the_South_Australian_House_of_Assembly,_2026%E2%80%932030",
@@ -20901,7 +21926,20 @@
       "state": "SA",
       "status": "incumbent",
       "last_updated": "2026-06-26",
-      "positions": {},
+      "positions": {
+        "abortion": {
+          "summary": "Voted against Family First MLC Sarah Game's bill to restrict access to late-term abortions in the House of Assembly on 18 June 2026; the bill was defeated in the lower house 36 votes to 9.",
+          "sources": [
+            {
+              "title": "How your MP voted on the abortion bill",
+              "url": "https://www.indailysa.com.au/news/just-in/2026/06/17/how-your-mp-voted-on-the-abortion-bill",
+              "publisher": "InDaily",
+              "date": "2026-06-17"
+            }
+          ],
+          "verified": true
+        }
+      },
       "roster_source": {
         "title": "Members of the South Australian House of Assembly, 2026–2030",
         "url": "https://en.wikipedia.org/wiki/Members_of_the_South_Australian_House_of_Assembly,_2026%E2%80%932030",
@@ -20920,7 +21958,20 @@
       "state": "SA",
       "status": "incumbent",
       "last_updated": "2026-06-26",
-      "positions": {},
+      "positions": {
+        "abortion": {
+          "summary": "Voted in favour of Family First MLC Sarah Game's bill to restrict access to late-term abortions when it was debated in the House of Assembly on 18 June 2026; the bill was defeated in the lower house 36 votes to 9.",
+          "sources": [
+            {
+              "title": "How your MP voted on the abortion bill",
+              "url": "https://www.indailysa.com.au/news/just-in/2026/06/17/how-your-mp-voted-on-the-abortion-bill",
+              "publisher": "InDaily",
+              "date": "2026-06-17"
+            }
+          ],
+          "verified": true
+        }
+      },
       "roster_source": {
         "title": "Members of the South Australian House of Assembly, 2026–2030",
         "url": "https://en.wikipedia.org/wiki/Members_of_the_South_Australian_House_of_Assembly,_2026%E2%80%932030",
@@ -20939,7 +21990,20 @@
       "state": "SA",
       "status": "incumbent",
       "last_updated": "2026-06-26",
-      "positions": {},
+      "positions": {
+        "abortion": {
+          "summary": "Voted against Family First MLC Sarah Game's bill to restrict access to late-term abortions in the House of Assembly on 18 June 2026; the bill was defeated in the lower house 36 votes to 9.",
+          "sources": [
+            {
+              "title": "How your MP voted on the abortion bill",
+              "url": "https://www.indailysa.com.au/news/just-in/2026/06/17/how-your-mp-voted-on-the-abortion-bill",
+              "publisher": "InDaily",
+              "date": "2026-06-17"
+            }
+          ],
+          "verified": true
+        }
+      },
       "roster_source": {
         "title": "Members of the South Australian House of Assembly, 2026–2030",
         "url": "https://en.wikipedia.org/wiki/Members_of_the_South_Australian_House_of_Assembly,_2026%E2%80%932030",
@@ -20958,7 +22022,20 @@
       "state": "SA",
       "status": "incumbent",
       "last_updated": "2026-06-26",
-      "positions": {},
+      "positions": {
+        "abortion": {
+          "summary": "Voted against Family First MLC Sarah Game's bill to restrict access to late-term abortions in the House of Assembly on 18 June 2026; the bill was defeated in the lower house 36 votes to 9.",
+          "sources": [
+            {
+              "title": "How your MP voted on the abortion bill",
+              "url": "https://www.indailysa.com.au/news/just-in/2026/06/17/how-your-mp-voted-on-the-abortion-bill",
+              "publisher": "InDaily",
+              "date": "2026-06-17"
+            }
+          ],
+          "verified": true
+        }
+      },
       "roster_source": {
         "title": "Members of the South Australian House of Assembly, 2026–2030",
         "url": "https://en.wikipedia.org/wiki/Members_of_the_South_Australian_House_of_Assembly,_2026%E2%80%932030",
@@ -20977,7 +22054,20 @@
       "state": "SA",
       "status": "incumbent",
       "last_updated": "2026-06-26",
-      "positions": {},
+      "positions": {
+        "abortion": {
+          "summary": "Voted against Family First MLC Sarah Game's bill to restrict access to late-term abortions in the House of Assembly on 18 June 2026; the bill was defeated in the lower house 36 votes to 9.",
+          "sources": [
+            {
+              "title": "How your MP voted on the abortion bill",
+              "url": "https://www.indailysa.com.au/news/just-in/2026/06/17/how-your-mp-voted-on-the-abortion-bill",
+              "publisher": "InDaily",
+              "date": "2026-06-17"
+            }
+          ],
+          "verified": true
+        }
+      },
       "roster_source": {
         "title": "Members of the South Australian House of Assembly, 2026–2030",
         "url": "https://en.wikipedia.org/wiki/Members_of_the_South_Australian_House_of_Assembly,_2026%E2%80%932030",
@@ -20996,7 +22086,20 @@
       "state": "SA",
       "status": "incumbent",
       "last_updated": "2026-06-26",
-      "positions": {},
+      "positions": {
+        "abortion": {
+          "summary": "Voted against Family First MLC Sarah Game's bill to restrict access to late-term abortions in the House of Assembly on 18 June 2026; the bill was defeated in the lower house 36 votes to 9.",
+          "sources": [
+            {
+              "title": "How your MP voted on the abortion bill",
+              "url": "https://www.indailysa.com.au/news/just-in/2026/06/17/how-your-mp-voted-on-the-abortion-bill",
+              "publisher": "InDaily",
+              "date": "2026-06-17"
+            }
+          ],
+          "verified": true
+        }
+      },
       "roster_source": {
         "title": "Members of the South Australian House of Assembly, 2026–2030",
         "url": "https://en.wikipedia.org/wiki/Members_of_the_South_Australian_House_of_Assembly,_2026%E2%80%932030",
@@ -21015,7 +22118,20 @@
       "state": "SA",
       "status": "incumbent",
       "last_updated": "2026-06-26",
-      "positions": {},
+      "positions": {
+        "abortion": {
+          "summary": "Voted against Family First MLC Sarah Game's bill to restrict access to late-term abortions in the House of Assembly on 18 June 2026; the bill was defeated in the lower house 36 votes to 9.",
+          "sources": [
+            {
+              "title": "How your MP voted on the abortion bill",
+              "url": "https://www.indailysa.com.au/news/just-in/2026/06/17/how-your-mp-voted-on-the-abortion-bill",
+              "publisher": "InDaily",
+              "date": "2026-06-17"
+            }
+          ],
+          "verified": true
+        }
+      },
       "roster_source": {
         "title": "Members of the South Australian House of Assembly, 2026–2030",
         "url": "https://en.wikipedia.org/wiki/Members_of_the_South_Australian_House_of_Assembly,_2026%E2%80%932030",
@@ -21034,7 +22150,20 @@
       "state": "SA",
       "status": "incumbent",
       "last_updated": "2026-06-26",
-      "positions": {},
+      "positions": {
+        "abortion": {
+          "summary": "Voted against Family First MLC Sarah Game's bill to restrict access to late-term abortions in the House of Assembly on 18 June 2026; the bill was defeated in the lower house 36 votes to 9.",
+          "sources": [
+            {
+              "title": "How your MP voted on the abortion bill",
+              "url": "https://www.indailysa.com.au/news/just-in/2026/06/17/how-your-mp-voted-on-the-abortion-bill",
+              "publisher": "InDaily",
+              "date": "2026-06-17"
+            }
+          ],
+          "verified": true
+        }
+      },
       "roster_source": {
         "title": "Members of the South Australian House of Assembly, 2026–2030",
         "url": "https://en.wikipedia.org/wiki/Members_of_the_South_Australian_House_of_Assembly,_2026%E2%80%932030",
@@ -21053,7 +22182,20 @@
       "state": "SA",
       "status": "incumbent",
       "last_updated": "2026-06-26",
-      "positions": {},
+      "positions": {
+        "abortion": {
+          "summary": "Voted in favour of Family First MLC Sarah Game's bill to restrict access to late-term abortions when it was debated in the House of Assembly on 18 June 2026; the bill was defeated in the lower house 36 votes to 9.",
+          "sources": [
+            {
+              "title": "How your MP voted on the abortion bill",
+              "url": "https://www.indailysa.com.au/news/just-in/2026/06/17/how-your-mp-voted-on-the-abortion-bill",
+              "publisher": "InDaily",
+              "date": "2026-06-17"
+            }
+          ],
+          "verified": true
+        }
+      },
       "roster_source": {
         "title": "Members of the South Australian House of Assembly, 2026–2030",
         "url": "https://en.wikipedia.org/wiki/Members_of_the_South_Australian_House_of_Assembly,_2026%E2%80%932030",
@@ -21072,7 +22214,20 @@
       "state": "SA",
       "status": "incumbent",
       "last_updated": "2026-06-26",
-      "positions": {},
+      "positions": {
+        "abortion": {
+          "summary": "Voted against Family First MLC Sarah Game's bill to restrict access to late-term abortions in the House of Assembly on 18 June 2026; the bill was defeated in the lower house 36 votes to 9.",
+          "sources": [
+            {
+              "title": "How your MP voted on the abortion bill",
+              "url": "https://www.indailysa.com.au/news/just-in/2026/06/17/how-your-mp-voted-on-the-abortion-bill",
+              "publisher": "InDaily",
+              "date": "2026-06-17"
+            }
+          ],
+          "verified": true
+        }
+      },
       "roster_source": {
         "title": "Members of the South Australian House of Assembly, 2026–2030",
         "url": "https://en.wikipedia.org/wiki/Members_of_the_South_Australian_House_of_Assembly,_2026%E2%80%932030",
@@ -21091,7 +22246,20 @@
       "state": "SA",
       "status": "incumbent",
       "last_updated": "2026-06-26",
-      "positions": {},
+      "positions": {
+        "abortion": {
+          "summary": "Voted against Family First MLC Sarah Game's bill to restrict access to late-term abortions in the House of Assembly on 18 June 2026; the bill was defeated in the lower house 36 votes to 9.",
+          "sources": [
+            {
+              "title": "How your MP voted on the abortion bill",
+              "url": "https://www.indailysa.com.au/news/just-in/2026/06/17/how-your-mp-voted-on-the-abortion-bill",
+              "publisher": "InDaily",
+              "date": "2026-06-17"
+            }
+          ],
+          "verified": true
+        }
+      },
       "roster_source": {
         "title": "Members of the South Australian House of Assembly, 2026–2030",
         "url": "https://en.wikipedia.org/wiki/Members_of_the_South_Australian_House_of_Assembly,_2026%E2%80%932030",
@@ -21110,7 +22278,20 @@
       "state": "SA",
       "status": "incumbent",
       "last_updated": "2026-06-26",
-      "positions": {},
+      "positions": {
+        "abortion": {
+          "summary": "Voted against Family First MLC Sarah Game's bill to restrict access to late-term abortions in the House of Assembly on 18 June 2026; the bill was defeated in the lower house 36 votes to 9.",
+          "sources": [
+            {
+              "title": "How your MP voted on the abortion bill",
+              "url": "https://www.indailysa.com.au/news/just-in/2026/06/17/how-your-mp-voted-on-the-abortion-bill",
+              "publisher": "InDaily",
+              "date": "2026-06-17"
+            }
+          ],
+          "verified": true
+        }
+      },
       "roster_source": {
         "title": "Members of the South Australian House of Assembly, 2026–2030",
         "url": "https://en.wikipedia.org/wiki/Members_of_the_South_Australian_House_of_Assembly,_2026%E2%80%932030",
@@ -21129,7 +22310,20 @@
       "state": "SA",
       "status": "incumbent",
       "last_updated": "2026-06-26",
-      "positions": {},
+      "positions": {
+        "abortion": {
+          "summary": "Voted against Family First MLC Sarah Game's bill to restrict access to late-term abortions in the House of Assembly on 18 June 2026; the bill was defeated in the lower house 36 votes to 9.",
+          "sources": [
+            {
+              "title": "How your MP voted on the abortion bill",
+              "url": "https://www.indailysa.com.au/news/just-in/2026/06/17/how-your-mp-voted-on-the-abortion-bill",
+              "publisher": "InDaily",
+              "date": "2026-06-17"
+            }
+          ],
+          "verified": true
+        }
+      },
       "roster_source": {
         "title": "Members of the South Australian House of Assembly, 2026–2030",
         "url": "https://en.wikipedia.org/wiki/Members_of_the_South_Australian_House_of_Assembly,_2026%E2%80%932030",
@@ -21148,7 +22342,20 @@
       "state": "SA",
       "status": "incumbent",
       "last_updated": "2026-06-26",
-      "positions": {},
+      "positions": {
+        "abortion": {
+          "summary": "Voted against Family First MLC Sarah Game's bill to restrict access to late-term abortions in the House of Assembly on 18 June 2026; the bill was defeated in the lower house 36 votes to 9.",
+          "sources": [
+            {
+              "title": "How your MP voted on the abortion bill",
+              "url": "https://www.indailysa.com.au/news/just-in/2026/06/17/how-your-mp-voted-on-the-abortion-bill",
+              "publisher": "InDaily",
+              "date": "2026-06-17"
+            }
+          ],
+          "verified": true
+        }
+      },
       "roster_source": {
         "title": "Members of the South Australian House of Assembly, 2026–2030",
         "url": "https://en.wikipedia.org/wiki/Members_of_the_South_Australian_House_of_Assembly,_2026%E2%80%932030",
@@ -21167,7 +22374,32 @@
       "state": "SA",
       "status": "incumbent",
       "last_updated": "2026-06-26",
-      "positions": {},
+      "positions": {
+        "abortion": {
+          "summary": "Voted against Family First MLC Sarah Game's bill to restrict access to late-term abortions in the House of Assembly on 18 June 2026; the bill was defeated in the lower house 36 votes to 9.",
+          "sources": [
+            {
+              "title": "How your MP voted on the abortion bill",
+              "url": "https://www.indailysa.com.au/news/just-in/2026/06/17/how-your-mp-voted-on-the-abortion-bill",
+              "publisher": "InDaily",
+              "date": "2026-06-17"
+            }
+          ],
+          "verified": true
+        },
+        "drugs_law_order": {
+          "summary": "Szakacs served as South Australia's Minister for Police, Emergency Services and Correctional Services from 24 March 2022 to 15 April 2024, the portfolio responsible for policing and law-and-order matters; he is an admitted legal practitioner of the Supreme Court of South Australia.",
+          "sources": [
+            {
+              "title": "Joe Szakacs - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Joe_Szakacs",
+              "publisher": "Wikipedia",
+              "date": ""
+            }
+          ],
+          "verified": true
+        }
+      },
       "roster_source": {
         "title": "Members of the South Australian House of Assembly, 2026–2030",
         "url": "https://en.wikipedia.org/wiki/Members_of_the_South_Australian_House_of_Assembly,_2026%E2%80%932030",
@@ -21186,7 +22418,20 @@
       "state": "SA",
       "status": "incumbent",
       "last_updated": "2026-06-26",
-      "positions": {},
+      "positions": {
+        "abortion": {
+          "summary": "Voted against Family First MLC Sarah Game's bill to restrict access to late-term abortions in the House of Assembly on 18 June 2026; the bill was defeated in the lower house 36 votes to 9.",
+          "sources": [
+            {
+              "title": "How your MP voted on the abortion bill",
+              "url": "https://www.indailysa.com.au/news/just-in/2026/06/17/how-your-mp-voted-on-the-abortion-bill",
+              "publisher": "InDaily",
+              "date": "2026-06-17"
+            }
+          ],
+          "verified": true
+        }
+      },
       "roster_source": {
         "title": "Members of the South Australian House of Assembly, 2026–2030",
         "url": "https://en.wikipedia.org/wiki/Members_of_the_South_Australian_House_of_Assembly,_2026%E2%80%932030",
@@ -21205,7 +22450,32 @@
       "state": "SA",
       "status": "incumbent",
       "last_updated": "2026-06-26",
-      "positions": {},
+      "positions": {
+        "faith": {
+          "summary": "In his 17 May 2022 first speech to the South Australian House of Assembly, Sam Telfer spoke of his strong Christian faith and a heritage of faithfulness across generations, saying he is blessed to worship at the same church as his forebears in his home town of Ungarra.",
+          "sources": [
+            {
+              "title": "Hansard Daily: House of Assembly - Tuesday, 17 May 2022 (Sam Telfer first speech)",
+              "url": "https://hansardsearch.parliament.sa.gov.au/daily/lh/2022-05-17/5",
+              "publisher": "Parliament of South Australia (Hansard)",
+              "date": "2022-05-17"
+            }
+          ],
+          "verified": true
+        },
+        "abortion": {
+          "summary": "Voted in favour of Family First MLC Sarah Game's bill to restrict access to late-term abortions when it was debated in the House of Assembly on 18 June 2026; the bill was defeated in the lower house 36 votes to 9.",
+          "sources": [
+            {
+              "title": "How your MP voted on the abortion bill",
+              "url": "https://www.indailysa.com.au/news/just-in/2026/06/17/how-your-mp-voted-on-the-abortion-bill",
+              "publisher": "InDaily",
+              "date": "2026-06-17"
+            }
+          ],
+          "verified": true
+        }
+      },
       "roster_source": {
         "title": "Members of the South Australian House of Assembly, 2026–2030",
         "url": "https://en.wikipedia.org/wiki/Members_of_the_South_Australian_House_of_Assembly,_2026%E2%80%932030",
@@ -21224,7 +22494,32 @@
       "state": "SA",
       "status": "incumbent",
       "last_updated": "2026-06-26",
-      "positions": {},
+      "positions": {
+        "faith": {
+          "summary": "In her May 2026 maiden speech, Thomas spoke of tackling her first term \"with God within me,\" ended with the line \"the Godly are as bold as lions,\" and thanked her church community, identifying with Christian faith.",
+          "sources": [
+            {
+              "title": "'Moral rot': One Nation's Chantelle Thomas makes first speech in SA parliament",
+              "url": "https://www.indailysa.com.au/news/just-in/2026/05/20/moral-rot-one-nations-chantelle-thomas-makes-first-speech-in-sa-parliament",
+              "publisher": "InDaily",
+              "date": "2026-05-20"
+            }
+          ],
+          "verified": true
+        },
+        "abortion": {
+          "summary": "Voted in favour of Family First MLC Sarah Game's bill to restrict access to late-term abortions when it was debated in the House of Assembly on 18 June 2026; the bill was defeated in the lower house 36 votes to 9.",
+          "sources": [
+            {
+              "title": "How your MP voted on the abortion bill",
+              "url": "https://www.indailysa.com.au/news/just-in/2026/06/17/how-your-mp-voted-on-the-abortion-bill",
+              "publisher": "InDaily",
+              "date": "2026-06-17"
+            }
+          ],
+          "verified": true
+        }
+      },
       "roster_source": {
         "title": "Members of the South Australian House of Assembly, 2026–2030",
         "url": "https://en.wikipedia.org/wiki/Members_of_the_South_Australian_House_of_Assembly,_2026%E2%80%932030",
@@ -21243,7 +22538,20 @@
       "state": "SA",
       "status": "incumbent",
       "last_updated": "2026-06-26",
-      "positions": {},
+      "positions": {
+        "abortion": {
+          "summary": "Voted against Family First MLC Sarah Game's bill to restrict access to late-term abortions in the House of Assembly on 18 June 2026; the bill was defeated in the lower house 36 votes to 9.",
+          "sources": [
+            {
+              "title": "How your MP voted on the abortion bill",
+              "url": "https://www.indailysa.com.au/news/just-in/2026/06/17/how-your-mp-voted-on-the-abortion-bill",
+              "publisher": "InDaily",
+              "date": "2026-06-17"
+            }
+          ],
+          "verified": true
+        }
+      },
       "roster_source": {
         "title": "Members of the South Australian House of Assembly, 2026–2030",
         "url": "https://en.wikipedia.org/wiki/Members_of_the_South_Australian_House_of_Assembly,_2026%E2%80%932030",
@@ -21262,7 +22570,32 @@
       "state": "SA",
       "status": "incumbent",
       "last_updated": "2026-06-26",
-      "positions": {},
+      "positions": {
+        "abortion": {
+          "summary": "Voted in favour of Family First MLC Sarah Game's bill to restrict access to late-term abortions when it was debated in the House of Assembly on 18 June 2026; the bill was defeated in the lower house 36 votes to 9.",
+          "sources": [
+            {
+              "title": "How your MP voted on the abortion bill",
+              "url": "https://www.indailysa.com.au/news/just-in/2026/06/17/how-your-mp-voted-on-the-abortion-bill",
+              "publisher": "InDaily",
+              "date": "2026-06-17"
+            }
+          ],
+          "verified": true
+        },
+        "gender_lgbtq": {
+          "summary": "One Nation MP for MacKillop, elected April 2026. Earlier in life he was an LGBT and marriage-equality activist: he organised marriage-equality and IDAHO (International Day Against Homophobia) rallies in Adelaide around 2011, was involved with gay and lesbian counselling services, and ran for the Australian Sex Party in 2010. Asked in 2026 about his political evolution he said 'we grow up, we learn new things, we change our views as we age,' and declined to elaborate on his current positions on LGBT rights.",
+          "sources": [
+            {
+              "title": "Gay rights activist now frontline SA One Nation pollie",
+              "url": "https://www.indailysa.com.au/news/just-in/2026/04/07/gay-rights-activist-now-frontline-sa-one-nation-pollie",
+              "publisher": "InDaily",
+              "date": "2026-04-07"
+            }
+          ],
+          "verified": true
+        }
+      },
       "roster_source": {
         "title": "Members of the South Australian House of Assembly, 2026–2030",
         "url": "https://en.wikipedia.org/wiki/Members_of_the_South_Australian_House_of_Assembly,_2026%E2%80%932030",
@@ -21281,7 +22614,20 @@
       "state": "SA",
       "status": "incumbent",
       "last_updated": "2026-06-26",
-      "positions": {},
+      "positions": {
+        "abortion": {
+          "summary": "Voted against Family First MLC Sarah Game's bill to restrict access to late-term abortions in the House of Assembly on 18 June 2026; the bill was defeated in the lower house 36 votes to 9.",
+          "sources": [
+            {
+              "title": "How your MP voted on the abortion bill",
+              "url": "https://www.indailysa.com.au/news/just-in/2026/06/17/how-your-mp-voted-on-the-abortion-bill",
+              "publisher": "InDaily",
+              "date": "2026-06-17"
+            }
+          ],
+          "verified": true
+        }
+      },
       "roster_source": {
         "title": "Members of the South Australian House of Assembly, 2026–2030",
         "url": "https://en.wikipedia.org/wiki/Members_of_the_South_Australian_House_of_Assembly,_2026%E2%80%932030",
@@ -21300,7 +22646,20 @@
       "state": "SA",
       "status": "incumbent",
       "last_updated": "2026-06-26",
-      "positions": {},
+      "positions": {
+        "abortion": {
+          "summary": "Voted against Family First MLC Sarah Game's bill to restrict access to late-term abortions in the House of Assembly on 18 June 2026; the bill was defeated in the lower house 36 votes to 9.",
+          "sources": [
+            {
+              "title": "How your MP voted on the abortion bill",
+              "url": "https://www.indailysa.com.au/news/just-in/2026/06/17/how-your-mp-voted-on-the-abortion-bill",
+              "publisher": "InDaily",
+              "date": "2026-06-17"
+            }
+          ],
+          "verified": true
+        }
+      },
       "roster_source": {
         "title": "Members of the South Australian House of Assembly, 2026–2030",
         "url": "https://en.wikipedia.org/wiki/Members_of_the_South_Australian_House_of_Assembly,_2026%E2%80%932030",
