@@ -14489,6 +14489,1847 @@
       "photo_credit_url": "https://en.wikipedia.org/wiki/Robyn_Lambley"
     },
     {
+      "id": "queensland-leeanne-enoch-algester",
+      "name": "Leeanne Enoch",
+      "party": "Australian Labor Party",
+      "party_group": "Labor",
+      "jurisdiction": "Queensland",
+      "chamber": "Queensland Legislative Assembly",
+      "electorate": "Algester",
+      "state": "QLD",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the Queensland Legislative Assembly, 2024–2028",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_Queensland_Legislative_Assembly,_2024%E2%80%932028",
+        "publisher": "Wikipedia",
+        "date": ""
+      },
+      "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Leeanne_Enoch_Profile_Pic_%282%29.jpg/330px-Leeanne_Enoch_Profile_Pic_%282%29.jpg",
+      "photo_credit_url": "https://en.wikipedia.org/wiki/Leeanne_Enoch"
+    },
+    {
+      "id": "queensland-bart-mellish-aspley",
+      "name": "Bart Mellish",
+      "party": "Australian Labor Party",
+      "party_group": "Labor",
+      "jurisdiction": "Queensland",
+      "chamber": "Queensland Legislative Assembly",
+      "electorate": "Aspley",
+      "state": "QLD",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the Queensland Legislative Assembly, 2024–2028",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_Queensland_Legislative_Assembly,_2024%E2%80%932028",
+        "publisher": "Wikipedia",
+        "date": ""
+      },
+      "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Bart_Mellish_MP.jpg/330px-Bart_Mellish_MP.jpg",
+      "photo_credit_url": "https://en.wikipedia.org/wiki/Bart_Mellish"
+    },
+    {
+      "id": "queensland-chris-whiting-bancroft",
+      "name": "Chris Whiting",
+      "party": "Australian Labor Party",
+      "party_group": "Labor",
+      "jurisdiction": "Queensland",
+      "chamber": "Queensland Legislative Assembly",
+      "electorate": "Bancroft",
+      "state": "QLD",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the Queensland Legislative Assembly, 2024–2028",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_Queensland_Legislative_Assembly,_2024%E2%80%932028",
+        "publisher": "Wikipedia",
+        "date": ""
+      }
+    },
+    {
+      "id": "queensland-bree-james-barron-river",
+      "name": "Bree James",
+      "party": "Liberal National Party of Queensland",
+      "party_group": "Coalition",
+      "jurisdiction": "Queensland",
+      "chamber": "Queensland Legislative Assembly",
+      "electorate": "Barron River",
+      "state": "QLD",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the Queensland Legislative Assembly, 2024–2028",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_Queensland_Legislative_Assembly,_2024%E2%80%932028",
+        "publisher": "Wikipedia",
+        "date": ""
+      },
+      "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Miss_Bree_James_-_Barron_River_MP.jpg/330px-Miss_Bree_James_-_Barron_River_MP.jpg",
+      "photo_credit_url": "https://en.wikipedia.org/wiki/Bree_James"
+    },
+    {
+      "id": "queensland-sam-o-connor-bonney",
+      "name": "Sam O'Connor",
+      "party": "Liberal National Party of Queensland",
+      "party_group": "Coalition",
+      "jurisdiction": "Queensland",
+      "chamber": "Queensland Legislative Assembly",
+      "electorate": "Bonney",
+      "state": "QLD",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the Queensland Legislative Assembly, 2024–2028",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_Queensland_Legislative_Assembly,_2024%E2%80%932028",
+        "publisher": "Wikipedia",
+        "date": ""
+      }
+    },
+    {
+      "id": "queensland-david-crisafulli-broadwater",
+      "name": "David Crisafulli",
+      "party": "Liberal National Party of Queensland",
+      "party_group": "Coalition",
+      "jurisdiction": "Queensland",
+      "chamber": "Queensland Legislative Assembly",
+      "electorate": "Broadwater",
+      "state": "QLD",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the Queensland Legislative Assembly, 2024–2028",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_Queensland_Legislative_Assembly,_2024%E2%80%932028",
+        "publisher": "Wikipedia",
+        "date": ""
+      },
+      "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/David_Crisafulli_2025_cropped.png/330px-David_Crisafulli_2025_cropped.png",
+      "photo_credit_url": "https://en.wikipedia.org/wiki/David_Crisafulli"
+    },
+    {
+      "id": "queensland-brent-mickelberg-buderim",
+      "name": "Brent Mickelberg",
+      "party": "Liberal National Party of Queensland",
+      "party_group": "Coalition",
+      "jurisdiction": "Queensland",
+      "chamber": "Queensland Legislative Assembly",
+      "electorate": "Buderim",
+      "state": "QLD",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the Queensland Legislative Assembly, 2024–2028",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_Queensland_Legislative_Assembly,_2024%E2%80%932028",
+        "publisher": "Wikipedia",
+        "date": ""
+      },
+      "photo_url": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Brent_Mickelberg.jpg",
+      "photo_credit_url": "https://en.wikipedia.org/wiki/Brent_Mickelberg"
+    },
+    {
+      "id": "queensland-di-farmer-bulimba",
+      "name": "Di Farmer",
+      "party": "Australian Labor Party",
+      "party_group": "Labor",
+      "jurisdiction": "Queensland",
+      "chamber": "Queensland Legislative Assembly",
+      "electorate": "Bulimba",
+      "state": "QLD",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the Queensland Legislative Assembly, 2024–2028",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_Queensland_Legislative_Assembly,_2024%E2%80%932028",
+        "publisher": "Wikipedia",
+        "date": ""
+      },
+      "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Di_Farmer.jpg/330px-Di_Farmer.jpg",
+      "photo_credit_url": "https://en.wikipedia.org/wiki/Di_Farmer"
+    },
+    {
+      "id": "queensland-tom-smith-bundaberg",
+      "name": "Tom Smith",
+      "party": "Australian Labor Party",
+      "party_group": "Labor",
+      "jurisdiction": "Queensland",
+      "chamber": "Queensland Legislative Assembly",
+      "electorate": "Bundaberg",
+      "state": "QLD",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the Queensland Legislative Assembly, 2024–2028",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_Queensland_Legislative_Assembly,_2024%E2%80%932028",
+        "publisher": "Wikipedia",
+        "date": ""
+      }
+    },
+    {
+      "id": "queensland-lance-mccallum-bundamba",
+      "name": "Lance McCallum",
+      "party": "Australian Labor Party",
+      "party_group": "Labor",
+      "jurisdiction": "Queensland",
+      "chamber": "Queensland Legislative Assembly",
+      "electorate": "Bundamba",
+      "state": "QLD",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the Queensland Legislative Assembly, 2024–2028",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_Queensland_Legislative_Assembly,_2024%E2%80%932028",
+        "publisher": "Wikipedia",
+        "date": ""
+      }
+    },
+    {
+      "id": "queensland-dale-last-burdekin",
+      "name": "Dale Last",
+      "party": "Liberal National Party of Queensland",
+      "party_group": "Coalition",
+      "jurisdiction": "Queensland",
+      "chamber": "Queensland Legislative Assembly",
+      "electorate": "Burdekin",
+      "state": "QLD",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the Queensland Legislative Assembly, 2024–2028",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_Queensland_Legislative_Assembly,_2024%E2%80%932028",
+        "publisher": "Wikipedia",
+        "date": ""
+      },
+      "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Minister_for_Natural_Resources_and_Mines%2C_Manufacturing%2C_and_for_Regional_and_Rural_Development_Dale_Raymond_Last.jpg/330px-Minister_for_Natural_Resources_and_Mines%2C_Manufacturing%2C_and_for_Regional_and_Rural_Development_Dale_Raymond_Last.jpg",
+      "photo_credit_url": "https://en.wikipedia.org/wiki/Dale_Last"
+    },
+    {
+      "id": "queensland-hermann-vorster-burleigh",
+      "name": "Hermann Vorster",
+      "party": "Liberal National Party of Queensland",
+      "party_group": "Coalition",
+      "jurisdiction": "Queensland",
+      "chamber": "Queensland Legislative Assembly",
+      "electorate": "Burleigh",
+      "state": "QLD",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the Queensland Legislative Assembly, 2024–2028",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_Queensland_Legislative_Assembly,_2024%E2%80%932028",
+        "publisher": "Wikipedia",
+        "date": ""
+      }
+    },
+    {
+      "id": "queensland-stephen-bennett-burnett",
+      "name": "Stephen Bennett",
+      "party": "Liberal National Party of Queensland",
+      "party_group": "Coalition",
+      "jurisdiction": "Queensland",
+      "chamber": "Queensland Legislative Assembly",
+      "electorate": "Burnett",
+      "state": "QLD",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the Queensland Legislative Assembly, 2024–2028",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_Queensland_Legislative_Assembly,_2024%E2%80%932028",
+        "publisher": "Wikipedia",
+        "date": ""
+      }
+    },
+    {
+      "id": "queensland-michael-healy-cairns",
+      "name": "Michael Healy",
+      "party": "Australian Labor Party",
+      "party_group": "Labor",
+      "jurisdiction": "Queensland",
+      "chamber": "Queensland Legislative Assembly",
+      "electorate": "Cairns",
+      "state": "QLD",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the Queensland Legislative Assembly, 2024–2028",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_Queensland_Legislative_Assembly,_2024%E2%80%932028",
+        "publisher": "Wikipedia",
+        "date": ""
+      }
+    },
+    {
+      "id": "queensland-bryson-head-callide",
+      "name": "Bryson Head",
+      "party": "Liberal National Party of Queensland",
+      "party_group": "Coalition",
+      "jurisdiction": "Queensland",
+      "chamber": "Queensland Legislative Assembly",
+      "electorate": "Callide",
+      "state": "QLD",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the Queensland Legislative Assembly, 2024–2028",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_Queensland_Legislative_Assembly,_2024%E2%80%932028",
+        "publisher": "Wikipedia",
+        "date": ""
+      }
+    },
+    {
+      "id": "queensland-kendall-morton-caloundra",
+      "name": "Kendall Morton",
+      "party": "Liberal National Party of Queensland",
+      "party_group": "Coalition",
+      "jurisdiction": "Queensland",
+      "chamber": "Queensland Legislative Assembly",
+      "electorate": "Caloundra",
+      "state": "QLD",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the Queensland Legislative Assembly, 2024–2028",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_Queensland_Legislative_Assembly,_2024%E2%80%932028",
+        "publisher": "Wikipedia",
+        "date": ""
+      }
+    },
+    {
+      "id": "queensland-russell-field-capalaba",
+      "name": "Russell Field",
+      "party": "Liberal National Party of Queensland",
+      "party_group": "Coalition",
+      "jurisdiction": "Queensland",
+      "chamber": "Queensland Legislative Assembly",
+      "electorate": "Capalaba",
+      "state": "QLD",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the Queensland Legislative Assembly, 2024–2028",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_Queensland_Legislative_Assembly,_2024%E2%80%932028",
+        "publisher": "Wikipedia",
+        "date": ""
+      }
+    },
+    {
+      "id": "queensland-steve-minnikin-chatsworth",
+      "name": "Steve Minnikin",
+      "party": "Liberal National Party of Queensland",
+      "party_group": "Coalition",
+      "jurisdiction": "Queensland",
+      "chamber": "Queensland Legislative Assembly",
+      "electorate": "Chatsworth",
+      "state": "QLD",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the Queensland Legislative Assembly, 2024–2028",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_Queensland_Legislative_Assembly,_2024%E2%80%932028",
+        "publisher": "Wikipedia",
+        "date": ""
+      },
+      "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Minister_Steve_Minnikin.png/330px-Minister_Steve_Minnikin.png",
+      "photo_credit_url": "https://en.wikipedia.org/wiki/Steve_Minnikin"
+    },
+    {
+      "id": "queensland-tim-nicholls-clayfield",
+      "name": "Tim Nicholls",
+      "party": "Liberal National Party of Queensland",
+      "party_group": "Coalition",
+      "jurisdiction": "Queensland",
+      "chamber": "Queensland Legislative Assembly",
+      "electorate": "Clayfield",
+      "state": "QLD",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the Queensland Legislative Assembly, 2024–2028",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_Queensland_Legislative_Assembly,_2024%E2%80%932028",
+        "publisher": "Wikipedia",
+        "date": ""
+      },
+      "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/TimNicholls2023.png/330px-TimNicholls2023.png",
+      "photo_credit_url": "https://en.wikipedia.org/wiki/Tim_Nicholls"
+    },
+    {
+      "id": "queensland-pat-weir-condamine",
+      "name": "Pat Weir",
+      "party": "Liberal National Party of Queensland",
+      "party_group": "Coalition",
+      "jurisdiction": "Queensland",
+      "chamber": "Queensland Legislative Assembly",
+      "electorate": "Condamine",
+      "state": "QLD",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the Queensland Legislative Assembly, 2024–2028",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_Queensland_Legislative_Assembly,_2024%E2%80%932028",
+        "publisher": "Wikipedia",
+        "date": ""
+      }
+    },
+    {
+      "id": "queensland-david-kempton-cook",
+      "name": "David Kempton",
+      "party": "Liberal National Party of Queensland",
+      "party_group": "Coalition",
+      "jurisdiction": "Queensland",
+      "chamber": "Queensland Legislative Assembly",
+      "electorate": "Cook",
+      "state": "QLD",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the Queensland Legislative Assembly, 2024–2028",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_Queensland_Legislative_Assembly,_2024%E2%80%932028",
+        "publisher": "Wikipedia",
+        "date": ""
+      }
+    },
+    {
+      "id": "queensland-michael-crandon-coomera",
+      "name": "Michael Crandon",
+      "party": "Liberal National Party of Queensland",
+      "party_group": "Coalition",
+      "jurisdiction": "Queensland",
+      "chamber": "Queensland Legislative Assembly",
+      "electorate": "Coomera",
+      "state": "QLD",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the Queensland Legislative Assembly, 2024–2028",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_Queensland_Legislative_Assembly,_2024%E2%80%932028",
+        "publisher": "Wikipedia",
+        "date": ""
+      }
+    },
+    {
+      "id": "queensland-jonty-bush-cooper",
+      "name": "Jonty Bush",
+      "party": "Australian Labor Party",
+      "party_group": "Labor",
+      "jurisdiction": "Queensland",
+      "chamber": "Queensland Legislative Assembly",
+      "electorate": "Cooper",
+      "state": "QLD",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the Queensland Legislative Assembly, 2024–2028",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_Queensland_Legislative_Assembly,_2024%E2%80%932028",
+        "publisher": "Wikipedia",
+        "date": ""
+      }
+    },
+    {
+      "id": "queensland-laura-gerber-currumbin",
+      "name": "Laura Gerber",
+      "party": "Liberal National Party of Queensland",
+      "party_group": "Coalition",
+      "jurisdiction": "Queensland",
+      "chamber": "Queensland Legislative Assembly",
+      "electorate": "Currumbin",
+      "state": "QLD",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the Queensland Legislative Assembly, 2024–2028",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_Queensland_Legislative_Assembly,_2024%E2%80%932028",
+        "publisher": "Wikipedia",
+        "date": ""
+      },
+      "photo_url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Laura_Gerber.jpg",
+      "photo_credit_url": "https://en.wikipedia.org/wiki/Laura_Gerber"
+    },
+    {
+      "id": "queensland-tim-mander-everton",
+      "name": "Tim Mander",
+      "party": "Liberal National Party of Queensland",
+      "party_group": "Coalition",
+      "jurisdiction": "Queensland",
+      "chamber": "Queensland Legislative Assembly",
+      "electorate": "Everton",
+      "state": "QLD",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the Queensland Legislative Assembly, 2024–2028",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_Queensland_Legislative_Assembly,_2024%E2%80%932028",
+        "publisher": "Wikipedia",
+        "date": ""
+      }
+    },
+    {
+      "id": "queensland-mark-furner-ferny-grove",
+      "name": "Mark Furner",
+      "party": "Australian Labor Party",
+      "party_group": "Labor",
+      "jurisdiction": "Queensland",
+      "chamber": "Queensland Legislative Assembly",
+      "electorate": "Ferny Grove",
+      "state": "QLD",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the Queensland Legislative Assembly, 2024–2028",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_Queensland_Legislative_Assembly,_2024%E2%80%932028",
+        "publisher": "Wikipedia",
+        "date": ""
+      },
+      "photo_url": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Mark_Furner_090720-N-9950J-049.jpg",
+      "photo_credit_url": "https://en.wikipedia.org/wiki/Mark_Furner"
+    },
+    {
+      "id": "queensland-meaghan-scanlon-gaven",
+      "name": "Meaghan Scanlon",
+      "party": "Australian Labor Party",
+      "party_group": "Labor",
+      "jurisdiction": "Queensland",
+      "chamber": "Queensland Legislative Assembly",
+      "electorate": "Gaven",
+      "state": "QLD",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the Queensland Legislative Assembly, 2024–2028",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_Queensland_Legislative_Assembly,_2024%E2%80%932028",
+        "publisher": "Wikipedia",
+        "date": ""
+      },
+      "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Meaghan_Scanlon.jpg/330px-Meaghan_Scanlon.jpg",
+      "photo_credit_url": "https://en.wikipedia.org/wiki/Meaghan_Scanlon"
+    },
+    {
+      "id": "queensland-glenn-butcher-gladstone",
+      "name": "Glenn Butcher",
+      "party": "Australian Labor Party",
+      "party_group": "Labor",
+      "jurisdiction": "Queensland",
+      "chamber": "Queensland Legislative Assembly",
+      "electorate": "Gladstone",
+      "state": "QLD",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the Queensland Legislative Assembly, 2024–2028",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_Queensland_Legislative_Assembly,_2024%E2%80%932028",
+        "publisher": "Wikipedia",
+        "date": ""
+      }
+    },
+    {
+      "id": "queensland-andrew-powell-glass-house",
+      "name": "Andrew Powell",
+      "party": "Liberal National Party of Queensland",
+      "party_group": "Coalition",
+      "jurisdiction": "Queensland",
+      "chamber": "Queensland Legislative Assembly",
+      "electorate": "Glass House",
+      "state": "QLD",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the Queensland Legislative Assembly, 2024–2028",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_Queensland_Legislative_Assembly,_2024%E2%80%932028",
+        "publisher": "Wikipedia",
+        "date": ""
+      },
+      "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Minister_for_the_Environment_and_Tourism_and_Minister_for_Science_and_Innovation_Andrew_Cary_Powell.png/330px-Minister_for_the_Environment_and_Tourism_and_Minister_for_Science_and_Innovation_Andrew_Cary_Powell.png",
+      "photo_credit_url": "https://en.wikipedia.org/wiki/Andrew_Powell_(politician)"
+    },
+    {
+      "id": "queensland-joe-kelly-greenslopes",
+      "name": "Joe Kelly",
+      "party": "Australian Labor Party",
+      "party_group": "Labor",
+      "jurisdiction": "Queensland",
+      "chamber": "Queensland Legislative Assembly",
+      "electorate": "Greenslopes",
+      "state": "QLD",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the Queensland Legislative Assembly, 2024–2028",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_Queensland_Legislative_Assembly,_2024%E2%80%932028",
+        "publisher": "Wikipedia",
+        "date": ""
+      }
+    },
+    {
+      "id": "queensland-sean-dillon-gregory",
+      "name": "Sean Dillon",
+      "party": "Liberal National Party of Queensland",
+      "party_group": "Coalition",
+      "jurisdiction": "Queensland",
+      "chamber": "Queensland Legislative Assembly",
+      "electorate": "Gregory",
+      "state": "QLD",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the Queensland Legislative Assembly, 2024–2028",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_Queensland_Legislative_Assembly,_2024%E2%80%932028",
+        "publisher": "Wikipedia",
+        "date": ""
+      }
+    },
+    {
+      "id": "queensland-tony-perrett-gympie",
+      "name": "Tony Perrett",
+      "party": "Liberal National Party of Queensland",
+      "party_group": "Coalition",
+      "jurisdiction": "Queensland",
+      "chamber": "Queensland Legislative Assembly",
+      "electorate": "Gympie",
+      "state": "QLD",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the Queensland Legislative Assembly, 2024–2028",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_Queensland_Legislative_Assembly,_2024%E2%80%932028",
+        "publisher": "Wikipedia",
+        "date": ""
+      }
+    },
+    {
+      "id": "queensland-david-lee-hervey-bay",
+      "name": "David Lee",
+      "party": "Liberal National Party of Queensland",
+      "party_group": "Coalition",
+      "jurisdiction": "Queensland",
+      "chamber": "Queensland Legislative Assembly",
+      "electorate": "Hervey Bay",
+      "state": "QLD",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the Queensland Legislative Assembly, 2024–2028",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_Queensland_Legislative_Assembly,_2024%E2%80%932028",
+        "publisher": "Wikipedia",
+        "date": ""
+      }
+    },
+    {
+      "id": "queensland-shane-knuth-hill",
+      "name": "Shane Knuth",
+      "party": "Katter's Australian Party",
+      "party_group": "Other / minor party",
+      "jurisdiction": "Queensland",
+      "chamber": "Queensland Legislative Assembly",
+      "electorate": "Hill",
+      "state": "QLD",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the Queensland Legislative Assembly, 2024–2028",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_Queensland_Legislative_Assembly,_2024%E2%80%932028",
+        "publisher": "Wikipedia",
+        "date": ""
+      },
+      "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Shane_Knuth_Corflute_%28cropped%29.jpg/330px-Shane_Knuth_Corflute_%28cropped%29.jpg",
+      "photo_credit_url": "https://en.wikipedia.org/wiki/Shane_Knuth"
+    },
+    {
+      "id": "queensland-wayde-chiesa-hinchinbrook",
+      "name": "Wayde Chiesa",
+      "party": "Liberal National Party of Queensland",
+      "party_group": "Coalition",
+      "jurisdiction": "Queensland",
+      "chamber": "Queensland Legislative Assembly",
+      "electorate": "Hinchinbrook",
+      "state": "QLD",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the Queensland Legislative Assembly, 2024–2028",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_Queensland_Legislative_Assembly,_2024%E2%80%932028",
+        "publisher": "Wikipedia",
+        "date": ""
+      }
+    },
+    {
+      "id": "queensland-margie-nightingale-inala",
+      "name": "Margie Nightingale",
+      "party": "Australian Labor Party",
+      "party_group": "Labor",
+      "jurisdiction": "Queensland",
+      "chamber": "Queensland Legislative Assembly",
+      "electorate": "Inala",
+      "state": "QLD",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the Queensland Legislative Assembly, 2024–2028",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_Queensland_Legislative_Assembly,_2024%E2%80%932028",
+        "publisher": "Wikipedia",
+        "date": ""
+      },
+      "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Margie_Nightingale_MP_2024.jpg/330px-Margie_Nightingale_MP_2024.jpg",
+      "photo_credit_url": "https://en.wikipedia.org/wiki/Margie_Nightingale"
+    },
+    {
+      "id": "queensland-jennifer-howard-ipswich",
+      "name": "Jennifer Howard",
+      "party": "Australian Labor Party",
+      "party_group": "Labor",
+      "jurisdiction": "Queensland",
+      "chamber": "Queensland Legislative Assembly",
+      "electorate": "Ipswich",
+      "state": "QLD",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the Queensland Legislative Assembly, 2024–2028",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_Queensland_Legislative_Assembly,_2024%E2%80%932028",
+        "publisher": "Wikipedia",
+        "date": ""
+      },
+      "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Jennifer_Howard_2022.jpg/330px-Jennifer_Howard_2022.jpg",
+      "photo_credit_url": "https://en.wikipedia.org/wiki/Jennifer_Howard_(Australian_politician)"
+    },
+    {
+      "id": "queensland-wendy-bourne-ipswich-west",
+      "name": "Wendy Bourne",
+      "party": "Australian Labor Party",
+      "party_group": "Labor",
+      "jurisdiction": "Queensland",
+      "chamber": "Queensland Legislative Assembly",
+      "electorate": "Ipswich West",
+      "state": "QLD",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the Queensland Legislative Assembly, 2024–2028",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_Queensland_Legislative_Assembly,_2024%E2%80%932028",
+        "publisher": "Wikipedia",
+        "date": ""
+      }
+    },
+    {
+      "id": "queensland-charis-mullen-jordan",
+      "name": "Charis Mullen",
+      "party": "Australian Labor Party",
+      "party_group": "Labor",
+      "jurisdiction": "Queensland",
+      "chamber": "Queensland Legislative Assembly",
+      "electorate": "Jordan",
+      "state": "QLD",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the Queensland Legislative Assembly, 2024–2028",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_Queensland_Legislative_Assembly,_2024%E2%80%932028",
+        "publisher": "Wikipedia",
+        "date": ""
+      }
+    },
+    {
+      "id": "queensland-jarrod-bleijie-kawana",
+      "name": "Jarrod Bleijie",
+      "party": "Liberal National Party of Queensland",
+      "party_group": "Coalition",
+      "jurisdiction": "Queensland",
+      "chamber": "Queensland Legislative Assembly",
+      "electorate": "Kawana",
+      "state": "QLD",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the Queensland Legislative Assembly, 2024–2028",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_Queensland_Legislative_Assembly,_2024%E2%80%932028",
+        "publisher": "Wikipedia",
+        "date": ""
+      },
+      "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Jarrod_Bleijie.jpg/330px-Jarrod_Bleijie.jpg",
+      "photo_credit_url": "https://en.wikipedia.org/wiki/Jarrod_Bleijie"
+    },
+    {
+      "id": "queensland-nigel-hutton-keppel",
+      "name": "Nigel Hutton",
+      "party": "Liberal National Party of Queensland",
+      "party_group": "Coalition",
+      "jurisdiction": "Queensland",
+      "chamber": "Queensland Legislative Assembly",
+      "electorate": "Keppel",
+      "state": "QLD",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the Queensland Legislative Assembly, 2024–2028",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_Queensland_Legislative_Assembly,_2024%E2%80%932028",
+        "publisher": "Wikipedia",
+        "date": ""
+      }
+    },
+    {
+      "id": "queensland-shane-king-kurwongbah",
+      "name": "Shane King",
+      "party": "Australian Labor Party",
+      "party_group": "Labor",
+      "jurisdiction": "Queensland",
+      "chamber": "Queensland Legislative Assembly",
+      "electorate": "Kurwongbah",
+      "state": "QLD",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the Queensland Legislative Assembly, 2024–2028",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_Queensland_Legislative_Assembly,_2024%E2%80%932028",
+        "publisher": "Wikipedia",
+        "date": ""
+      },
+      "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Shane_King_Cropped.png/330px-Shane_King_Cropped.png",
+      "photo_credit_url": "https://en.wikipedia.org/wiki/Shane_King_(politician)"
+    },
+    {
+      "id": "queensland-jim-mcdonald-lockyer",
+      "name": "Jim McDonald",
+      "party": "Liberal National Party of Queensland",
+      "party_group": "Coalition",
+      "jurisdiction": "Queensland",
+      "chamber": "Queensland Legislative Assembly",
+      "electorate": "Lockyer",
+      "state": "QLD",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the Queensland Legislative Assembly, 2024–2028",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_Queensland_Legislative_Assembly,_2024%E2%80%932028",
+        "publisher": "Wikipedia",
+        "date": ""
+      }
+    },
+    {
+      "id": "queensland-linus-power-logan",
+      "name": "Linus Power",
+      "party": "Australian Labor Party",
+      "party_group": "Labor",
+      "jurisdiction": "Queensland",
+      "chamber": "Queensland Legislative Assembly",
+      "electorate": "Logan",
+      "state": "QLD",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the Queensland Legislative Assembly, 2024–2028",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_Queensland_Legislative_Assembly,_2024%E2%80%932028",
+        "publisher": "Wikipedia",
+        "date": ""
+      }
+    },
+    {
+      "id": "queensland-joan-pease-lytton",
+      "name": "Joan Pease",
+      "party": "Australian Labor Party",
+      "party_group": "Labor",
+      "jurisdiction": "Queensland",
+      "chamber": "Queensland Legislative Assembly",
+      "electorate": "Lytton",
+      "state": "QLD",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the Queensland Legislative Assembly, 2024–2028",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_Queensland_Legislative_Assembly,_2024%E2%80%932028",
+        "publisher": "Wikipedia",
+        "date": ""
+      }
+    },
+    {
+      "id": "queensland-melissa-mcmahon-macalister",
+      "name": "Melissa McMahon",
+      "party": "Australian Labor Party",
+      "party_group": "Labor",
+      "jurisdiction": "Queensland",
+      "chamber": "Queensland Legislative Assembly",
+      "electorate": "Macalister",
+      "state": "QLD",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the Queensland Legislative Assembly, 2024–2028",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_Queensland_Legislative_Assembly,_2024%E2%80%932028",
+        "publisher": "Wikipedia",
+        "date": ""
+      }
+    },
+    {
+      "id": "queensland-nigel-dalton-mackay",
+      "name": "Nigel Dalton",
+      "party": "Liberal National Party of Queensland",
+      "party_group": "Coalition",
+      "jurisdiction": "Queensland",
+      "chamber": "Queensland Legislative Assembly",
+      "electorate": "Mackay",
+      "state": "QLD",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the Queensland Legislative Assembly, 2024–2028",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_Queensland_Legislative_Assembly,_2024%E2%80%932028",
+        "publisher": "Wikipedia",
+        "date": ""
+      },
+      "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Mackay_Nigel_Dalton_HiRes.jpg/330px-Mackay_Nigel_Dalton_HiRes.jpg",
+      "photo_credit_url": "https://en.wikipedia.org/wiki/Nigel_Dalton"
+    },
+    {
+      "id": "queensland-michael-berkman-maiwar",
+      "name": "Michael Berkman",
+      "party": "Queensland Greens",
+      "party_group": "Greens",
+      "jurisdiction": "Queensland",
+      "chamber": "Queensland Legislative Assembly",
+      "electorate": "Maiwar",
+      "state": "QLD",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the Queensland Legislative Assembly, 2024–2028",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_Queensland_Legislative_Assembly,_2024%E2%80%932028",
+        "publisher": "Wikipedia",
+        "date": ""
+      },
+      "photo_url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Michael_Berkman_MP.jpg",
+      "photo_credit_url": "https://en.wikipedia.org/wiki/Michael_Berkman"
+    },
+    {
+      "id": "queensland-corrine-mcmillan-mansfield",
+      "name": "Corrine McMillan",
+      "party": "Australian Labor Party",
+      "party_group": "Labor",
+      "jurisdiction": "Queensland",
+      "chamber": "Queensland Legislative Assembly",
+      "electorate": "Mansfield",
+      "state": "QLD",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the Queensland Legislative Assembly, 2024–2028",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_Queensland_Legislative_Assembly,_2024%E2%80%932028",
+        "publisher": "Wikipedia",
+        "date": ""
+      }
+    },
+    {
+      "id": "queensland-fiona-simpson-maroochydore",
+      "name": "Fiona Simpson",
+      "party": "Liberal National Party of Queensland",
+      "party_group": "Coalition",
+      "jurisdiction": "Queensland",
+      "chamber": "Queensland Legislative Assembly",
+      "electorate": "Maroochydore",
+      "state": "QLD",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the Queensland Legislative Assembly, 2024–2028",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_Queensland_Legislative_Assembly,_2024%E2%80%932028",
+        "publisher": "Wikipedia",
+        "date": ""
+      }
+    },
+    {
+      "id": "queensland-john-barounis-maryborough",
+      "name": "John Barounis",
+      "party": "Liberal National Party of Queensland",
+      "party_group": "Coalition",
+      "jurisdiction": "Queensland",
+      "chamber": "Queensland Legislative Assembly",
+      "electorate": "Maryborough",
+      "state": "QLD",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the Queensland Legislative Assembly, 2024–2028",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_Queensland_Legislative_Assembly,_2024%E2%80%932028",
+        "publisher": "Wikipedia",
+        "date": ""
+      }
+    },
+    {
+      "id": "queensland-grace-grace-mcconnel",
+      "name": "Grace Grace",
+      "party": "Australian Labor Party",
+      "party_group": "Labor",
+      "jurisdiction": "Queensland",
+      "chamber": "Queensland Legislative Assembly",
+      "electorate": "McConnel",
+      "state": "QLD",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the Queensland Legislative Assembly, 2024–2028",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_Queensland_Legislative_Assembly,_2024%E2%80%932028",
+        "publisher": "Wikipedia",
+        "date": ""
+      },
+      "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Grace_Grace_MP.jpg/330px-Grace_Grace_MP.jpg",
+      "photo_credit_url": "https://en.wikipedia.org/wiki/Grace_Grace"
+    },
+    {
+      "id": "queensland-ray-stevens-mermaid-beach",
+      "name": "Ray Stevens",
+      "party": "Liberal National Party of Queensland",
+      "party_group": "Coalition",
+      "jurisdiction": "Queensland",
+      "chamber": "Queensland Legislative Assembly",
+      "electorate": "Mermaid Beach",
+      "state": "QLD",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the Queensland Legislative Assembly, 2024–2028",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_Queensland_Legislative_Assembly,_2024%E2%80%932028",
+        "publisher": "Wikipedia",
+        "date": ""
+      }
+    },
+    {
+      "id": "queensland-mark-bailey-miller",
+      "name": "Mark Bailey",
+      "party": "Australian Labor Party",
+      "party_group": "Labor",
+      "jurisdiction": "Queensland",
+      "chamber": "Queensland Legislative Assembly",
+      "electorate": "Miller",
+      "state": "QLD",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the Queensland Legislative Assembly, 2024–2028",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_Queensland_Legislative_Assembly,_2024%E2%80%932028",
+        "publisher": "Wikipedia",
+        "date": ""
+      },
+      "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Mark_Bailey_MP_April_2024.jpg/330px-Mark_Bailey_MP_April_2024.jpg",
+      "photo_credit_url": "https://en.wikipedia.org/wiki/Mark_Bailey_(politician)"
+    },
+    {
+      "id": "queensland-glen-kelly-mirani",
+      "name": "Glen Kelly",
+      "party": "Liberal National Party of Queensland",
+      "party_group": "Coalition",
+      "jurisdiction": "Queensland",
+      "chamber": "Queensland Legislative Assembly",
+      "electorate": "Mirani",
+      "state": "QLD",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the Queensland Legislative Assembly, 2024–2028",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_Queensland_Legislative_Assembly,_2024%E2%80%932028",
+        "publisher": "Wikipedia",
+        "date": ""
+      }
+    },
+    {
+      "id": "queensland-christian-rowan-moggill",
+      "name": "Christian Rowan",
+      "party": "Liberal National Party of Queensland",
+      "party_group": "Coalition",
+      "jurisdiction": "Queensland",
+      "chamber": "Queensland Legislative Assembly",
+      "electorate": "Moggill",
+      "state": "QLD",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the Queensland Legislative Assembly, 2024–2028",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_Queensland_Legislative_Assembly,_2024%E2%80%932028",
+        "publisher": "Wikipedia",
+        "date": ""
+      },
+      "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/DrChristianRowanMP.jpg/330px-DrChristianRowanMP.jpg",
+      "photo_credit_url": "https://en.wikipedia.org/wiki/Christian_Rowan"
+    },
+    {
+      "id": "queensland-mark-ryan-morayfield",
+      "name": "Mark Ryan",
+      "party": "Australian Labor Party",
+      "party_group": "Labor",
+      "jurisdiction": "Queensland",
+      "chamber": "Queensland Legislative Assembly",
+      "electorate": "Morayfield",
+      "state": "QLD",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the Queensland Legislative Assembly, 2024–2028",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_Queensland_Legislative_Assembly,_2024%E2%80%932028",
+        "publisher": "Wikipedia",
+        "date": ""
+      },
+      "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Mark_Ryan_MP.jpg/330px-Mark_Ryan_MP.jpg",
+      "photo_credit_url": "https://en.wikipedia.org/wiki/Mark_Ryan_(Australian_politician)"
+    },
+    {
+      "id": "queensland-jess-pugh-mount-ommaney",
+      "name": "Jess Pugh",
+      "party": "Australian Labor Party",
+      "party_group": "Labor",
+      "jurisdiction": "Queensland",
+      "chamber": "Queensland Legislative Assembly",
+      "electorate": "Mount Ommaney",
+      "state": "QLD",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the Queensland Legislative Assembly, 2024–2028",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_Queensland_Legislative_Assembly,_2024%E2%80%932028",
+        "publisher": "Wikipedia",
+        "date": ""
+      }
+    },
+    {
+      "id": "queensland-ros-bates-mudgeeraba",
+      "name": "Ros Bates",
+      "party": "Liberal National Party of Queensland",
+      "party_group": "Coalition",
+      "jurisdiction": "Queensland",
+      "chamber": "Queensland Legislative Assembly",
+      "electorate": "Mudgeeraba",
+      "state": "QLD",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the Queensland Legislative Assembly, 2024–2028",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_Queensland_Legislative_Assembly,_2024%E2%80%932028",
+        "publisher": "Wikipedia",
+        "date": ""
+      },
+      "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/RosBatesT1.jpg/330px-RosBatesT1.jpg",
+      "photo_credit_url": "https://en.wikipedia.org/wiki/Ros_Bates"
+    },
+    {
+      "id": "queensland-terry-james-mulgrave",
+      "name": "Terry James",
+      "party": "Liberal National Party of Queensland",
+      "party_group": "Coalition",
+      "jurisdiction": "Queensland",
+      "chamber": "Queensland Legislative Assembly",
+      "electorate": "Mulgrave",
+      "state": "QLD",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the Queensland Legislative Assembly, 2024–2028",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_Queensland_Legislative_Assembly,_2024%E2%80%932028",
+        "publisher": "Wikipedia",
+        "date": ""
+      }
+    },
+    {
+      "id": "queensland-janelle-poole-mundingburra",
+      "name": "Janelle Poole",
+      "party": "Liberal National Party of Queensland",
+      "party_group": "Coalition",
+      "jurisdiction": "Queensland",
+      "chamber": "Queensland Legislative Assembly",
+      "electorate": "Mundingburra",
+      "state": "QLD",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the Queensland Legislative Assembly, 2024–2028",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_Queensland_Legislative_Assembly,_2024%E2%80%932028",
+        "publisher": "Wikipedia",
+        "date": ""
+      }
+    },
+    {
+      "id": "queensland-steven-miles-murrumba",
+      "name": "Steven Miles",
+      "party": "Australian Labor Party",
+      "party_group": "Labor",
+      "jurisdiction": "Queensland",
+      "chamber": "Queensland Legislative Assembly",
+      "electorate": "Murrumba",
+      "state": "QLD",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the Queensland Legislative Assembly, 2024–2028",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_Queensland_Legislative_Assembly,_2024%E2%80%932028",
+        "publisher": "Wikipedia",
+        "date": ""
+      },
+      "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Steven_Miles_official_portrait.jpg/330px-Steven_Miles_official_portrait.jpg",
+      "photo_credit_url": "https://en.wikipedia.org/wiki/Steven_Miles"
+    },
+    {
+      "id": "queensland-deb-frecklington-nanango",
+      "name": "Deb Frecklington",
+      "party": "Liberal National Party of Queensland",
+      "party_group": "Coalition",
+      "jurisdiction": "Queensland",
+      "chamber": "Queensland Legislative Assembly",
+      "electorate": "Nanango",
+      "state": "QLD",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the Queensland Legislative Assembly, 2024–2028",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_Queensland_Legislative_Assembly,_2024%E2%80%932028",
+        "publisher": "Wikipedia",
+        "date": ""
+      },
+      "photo_url": "https://upload.wikimedia.org/wikipedia/commons/9/92/Deb_Frecklington_headshot_crop_narrow.jpg",
+      "photo_credit_url": "https://en.wikipedia.org/wiki/Deb_Frecklington"
+    },
+    {
+      "id": "queensland-marty-hunt-nicklin",
+      "name": "Marty Hunt",
+      "party": "Liberal National Party of Queensland",
+      "party_group": "Coalition",
+      "jurisdiction": "Queensland",
+      "chamber": "Queensland Legislative Assembly",
+      "electorate": "Nicklin",
+      "state": "QLD",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the Queensland Legislative Assembly, 2024–2028",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_Queensland_Legislative_Assembly,_2024%E2%80%932028",
+        "publisher": "Wikipedia",
+        "date": ""
+      }
+    },
+    {
+      "id": "queensland-dan-purdie-ninderry",
+      "name": "Dan Purdie",
+      "party": "Liberal National Party of Queensland",
+      "party_group": "Coalition",
+      "jurisdiction": "Queensland",
+      "chamber": "Queensland Legislative Assembly",
+      "electorate": "Ninderry",
+      "state": "QLD",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the Queensland Legislative Assembly, 2024–2028",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_Queensland_Legislative_Assembly,_2024%E2%80%932028",
+        "publisher": "Wikipedia",
+        "date": ""
+      }
+    },
+    {
+      "id": "queensland-sandy-bolton-noosa",
+      "name": "Sandy Bolton",
+      "party": "Independent",
+      "party_group": "Independent",
+      "jurisdiction": "Queensland",
+      "chamber": "Queensland Legislative Assembly",
+      "electorate": "Noosa",
+      "state": "QLD",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the Queensland Legislative Assembly, 2024–2028",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_Queensland_Legislative_Assembly,_2024%E2%80%932028",
+        "publisher": "Wikipedia",
+        "date": ""
+      },
+      "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Sandy_Bolton.png/330px-Sandy_Bolton.png",
+      "photo_credit_url": "https://en.wikipedia.org/wiki/Sandy_Bolton"
+    },
+    {
+      "id": "queensland-leanne-linard-nudgee",
+      "name": "Leanne Linard",
+      "party": "Australian Labor Party",
+      "party_group": "Labor",
+      "jurisdiction": "Queensland",
+      "chamber": "Queensland Legislative Assembly",
+      "electorate": "Nudgee",
+      "state": "QLD",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the Queensland Legislative Assembly, 2024–2028",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_Queensland_Legislative_Assembly,_2024%E2%80%932028",
+        "publisher": "Wikipedia",
+        "date": ""
+      },
+      "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Leanne_Linard.jpg/330px-Leanne_Linard.jpg",
+      "photo_credit_url": "https://en.wikipedia.org/wiki/Leanne_Linard"
+    },
+    {
+      "id": "queensland-amanda-stoker-oodgeroo",
+      "name": "Amanda Stoker",
+      "party": "Liberal National Party of Queensland",
+      "party_group": "Coalition",
+      "jurisdiction": "Queensland",
+      "chamber": "Queensland Legislative Assembly",
+      "electorate": "Oodgeroo",
+      "state": "QLD",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the Queensland Legislative Assembly, 2024–2028",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_Queensland_Legislative_Assembly,_2024%E2%80%932028",
+        "publisher": "Wikipedia",
+        "date": ""
+      },
+      "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Amanda_Stoker_crop.jpg/330px-Amanda_Stoker_crop.jpg",
+      "photo_credit_url": "https://en.wikipedia.org/wiki/Amanda_Stoker"
+    },
+    {
+      "id": "queensland-nikki-boyd-pine-rivers",
+      "name": "Nikki Boyd",
+      "party": "Australian Labor Party",
+      "party_group": "Labor",
+      "jurisdiction": "Queensland",
+      "chamber": "Queensland Legislative Assembly",
+      "electorate": "Pine Rivers",
+      "state": "QLD",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the Queensland Legislative Assembly, 2024–2028",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_Queensland_Legislative_Assembly,_2024%E2%80%932028",
+        "publisher": "Wikipedia",
+        "date": ""
+      }
+    },
+    {
+      "id": "queensland-ariana-doolan-pumicestone",
+      "name": "Ariana Doolan",
+      "party": "Liberal National Party of Queensland",
+      "party_group": "Coalition",
+      "jurisdiction": "Queensland",
+      "chamber": "Queensland Legislative Assembly",
+      "electorate": "Pumicestone",
+      "state": "QLD",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the Queensland Legislative Assembly, 2024–2028",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_Queensland_Legislative_Assembly,_2024%E2%80%932028",
+        "publisher": "Wikipedia",
+        "date": ""
+      }
+    },
+    {
+      "id": "queensland-kerri-anne-dooley-redcliffe",
+      "name": "Kerri-Anne Dooley",
+      "party": "Liberal National Party of Queensland",
+      "party_group": "Coalition",
+      "jurisdiction": "Queensland",
+      "chamber": "Queensland Legislative Assembly",
+      "electorate": "Redcliffe",
+      "state": "QLD",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the Queensland Legislative Assembly, 2024–2028",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_Queensland_Legislative_Assembly,_2024%E2%80%932028",
+        "publisher": "Wikipedia",
+        "date": ""
+      },
+      "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Kerri-Anne_Dooley_MP.png/330px-Kerri-Anne_Dooley_MP.png",
+      "photo_credit_url": "https://en.wikipedia.org/wiki/Kerri-Anne_Dooley"
+    },
+    {
+      "id": "queensland-rebecca-young-redlands",
+      "name": "Rebecca Young",
+      "party": "Liberal National Party of Queensland",
+      "party_group": "Coalition",
+      "jurisdiction": "Queensland",
+      "chamber": "Queensland Legislative Assembly",
+      "electorate": "Redlands",
+      "state": "QLD",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the Queensland Legislative Assembly, 2024–2028",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_Queensland_Legislative_Assembly,_2024%E2%80%932028",
+        "publisher": "Wikipedia",
+        "date": ""
+      }
+    },
+    {
+      "id": "queensland-donna-kirkland-rockhampton",
+      "name": "Donna Kirkland",
+      "party": "Liberal National Party of Queensland",
+      "party_group": "Coalition",
+      "jurisdiction": "Queensland",
+      "chamber": "Queensland Legislative Assembly",
+      "electorate": "Rockhampton",
+      "state": "QLD",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the Queensland Legislative Assembly, 2024–2028",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_Queensland_Legislative_Assembly,_2024%E2%80%932028",
+        "publisher": "Wikipedia",
+        "date": ""
+      }
+    },
+    {
+      "id": "queensland-bisma-asif-sandgate",
+      "name": "Bisma Asif",
+      "party": "Australian Labor Party",
+      "party_group": "Labor",
+      "jurisdiction": "Queensland",
+      "chamber": "Queensland Legislative Assembly",
+      "electorate": "Sandgate",
+      "state": "QLD",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the Queensland Legislative Assembly, 2024–2028",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_Queensland_Legislative_Assembly,_2024%E2%80%932028",
+        "publisher": "Wikipedia",
+        "date": ""
+      }
+    },
+    {
+      "id": "queensland-jon-krause-scenic-rim",
+      "name": "Jon Krause",
+      "party": "Liberal National Party of Queensland",
+      "party_group": "Coalition",
+      "jurisdiction": "Queensland",
+      "chamber": "Queensland Legislative Assembly",
+      "electorate": "Scenic Rim",
+      "state": "QLD",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the Queensland Legislative Assembly, 2024–2028",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_Queensland_Legislative_Assembly,_2024%E2%80%932028",
+        "publisher": "Wikipedia",
+        "date": ""
+      },
+      "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Jon_Krause_2013.jpg/330px-Jon_Krause_2013.jpg",
+      "photo_credit_url": "https://en.wikipedia.org/wiki/Jon_Krause"
+    },
+    {
+      "id": "queensland-barbara-o-shea-south-brisbane",
+      "name": "Barbara O'Shea",
+      "party": "Australian Labor Party",
+      "party_group": "Labor",
+      "jurisdiction": "Queensland",
+      "chamber": "Queensland Legislative Assembly",
+      "electorate": "South Brisbane",
+      "state": "QLD",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the Queensland Legislative Assembly, 2024–2028",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_Queensland_Legislative_Assembly,_2024%E2%80%932028",
+        "publisher": "Wikipedia",
+        "date": ""
+      }
+    },
+    {
+      "id": "queensland-james-lister-southern-downs",
+      "name": "James Lister",
+      "party": "Liberal National Party of Queensland",
+      "party_group": "Coalition",
+      "jurisdiction": "Queensland",
+      "chamber": "Queensland Legislative Assembly",
+      "electorate": "Southern Downs",
+      "state": "QLD",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the Queensland Legislative Assembly, 2024–2028",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_Queensland_Legislative_Assembly,_2024%E2%80%932028",
+        "publisher": "Wikipedia",
+        "date": ""
+      }
+    },
+    {
+      "id": "queensland-rob-molhoek-southport",
+      "name": "Rob Molhoek",
+      "party": "Liberal National Party of Queensland",
+      "party_group": "Coalition",
+      "jurisdiction": "Queensland",
+      "chamber": "Queensland Legislative Assembly",
+      "electorate": "Southport",
+      "state": "QLD",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the Queensland Legislative Assembly, 2024–2028",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_Queensland_Legislative_Assembly,_2024%E2%80%932028",
+        "publisher": "Wikipedia",
+        "date": ""
+      }
+    },
+    {
+      "id": "queensland-mick-de-brenni-springwood",
+      "name": "Mick de Brenni",
+      "party": "Australian Labor Party",
+      "party_group": "Labor",
+      "jurisdiction": "Queensland",
+      "chamber": "Queensland Legislative Assembly",
+      "electorate": "Springwood",
+      "state": "QLD",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the Queensland Legislative Assembly, 2024–2028",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_Queensland_Legislative_Assembly,_2024%E2%80%932028",
+        "publisher": "Wikipedia",
+        "date": ""
+      },
+      "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Mick_de_Brenni.jpg/330px-Mick_de_Brenni.jpg",
+      "photo_credit_url": "https://en.wikipedia.org/wiki/Mick_de_Brenni"
+    },
+    {
+      "id": "queensland-luke-richmond-stafford",
+      "name": "Luke Richmond",
+      "party": "Australian Labor Party",
+      "party_group": "Labor",
+      "jurisdiction": "Queensland",
+      "chamber": "Queensland Legislative Assembly",
+      "electorate": "Stafford",
+      "state": "QLD",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the Queensland Legislative Assembly, 2024–2028",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_Queensland_Legislative_Assembly,_2024%E2%80%932028",
+        "publisher": "Wikipedia",
+        "date": ""
+      }
+    },
+    {
+      "id": "queensland-james-martin-stretton",
+      "name": "James Martin",
+      "party": "Australian Labor Party",
+      "party_group": "Labor",
+      "jurisdiction": "Queensland",
+      "chamber": "Queensland Legislative Assembly",
+      "electorate": "Stretton",
+      "state": "QLD",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the Queensland Legislative Assembly, 2024–2028",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_Queensland_Legislative_Assembly,_2024%E2%80%932028",
+        "publisher": "Wikipedia",
+        "date": ""
+      }
+    },
+    {
+      "id": "queensland-john-paul-langbroek-surfers-paradise",
+      "name": "John-Paul Langbroek",
+      "party": "Liberal National Party of Queensland",
+      "party_group": "Coalition",
+      "jurisdiction": "Queensland",
+      "chamber": "Queensland Legislative Assembly",
+      "electorate": "Surfers Paradise",
+      "state": "QLD",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the Queensland Legislative Assembly, 2024–2028",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_Queensland_Legislative_Assembly,_2024%E2%80%932028",
+        "publisher": "Wikipedia",
+        "date": ""
+      },
+      "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Minister_for_Education_and_for_the_Arts_John-Paul_Honor%C3%A9_Langbroek.jpg/330px-Minister_for_Education_and_for_the_Arts_John-Paul_Honor%C3%A9_Langbroek.jpg",
+      "photo_credit_url": "https://en.wikipedia.org/wiki/John-Paul_Langbroek"
+    },
+    {
+      "id": "queensland-mark-boothman-theodore",
+      "name": "Mark Boothman",
+      "party": "Liberal National Party of Queensland",
+      "party_group": "Coalition",
+      "jurisdiction": "Queensland",
+      "chamber": "Queensland Legislative Assembly",
+      "electorate": "Theodore",
+      "state": "QLD",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the Queensland Legislative Assembly, 2024–2028",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_Queensland_Legislative_Assembly,_2024%E2%80%932028",
+        "publisher": "Wikipedia",
+        "date": ""
+      }
+    },
+    {
+      "id": "queensland-natalie-marr-thuringowa",
+      "name": "Natalie Marr",
+      "party": "Liberal National Party of Queensland",
+      "party_group": "Coalition",
+      "jurisdiction": "Queensland",
+      "chamber": "Queensland Legislative Assembly",
+      "electorate": "Thuringowa",
+      "state": "QLD",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the Queensland Legislative Assembly, 2024–2028",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_Queensland_Legislative_Assembly,_2024%E2%80%932028",
+        "publisher": "Wikipedia",
+        "date": ""
+      }
+    },
+    {
+      "id": "queensland-peter-russo-toohey",
+      "name": "Peter Russo",
+      "party": "Australian Labor Party",
+      "party_group": "Labor",
+      "jurisdiction": "Queensland",
+      "chamber": "Queensland Legislative Assembly",
+      "electorate": "Toohey",
+      "state": "QLD",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the Queensland Legislative Assembly, 2024–2028",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_Queensland_Legislative_Assembly,_2024%E2%80%932028",
+        "publisher": "Wikipedia",
+        "date": ""
+      },
+      "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Peter_Russo_MP_Member_for_Toohey.jpg/330px-Peter_Russo_MP_Member_for_Toohey.jpg",
+      "photo_credit_url": "https://en.wikipedia.org/wiki/Peter_Russo_(politician)"
+    },
+    {
+      "id": "queensland-trevor-watts-toowoomba-north",
+      "name": "Trevor Watts",
+      "party": "Liberal National Party of Queensland",
+      "party_group": "Coalition",
+      "jurisdiction": "Queensland",
+      "chamber": "Queensland Legislative Assembly",
+      "electorate": "Toowoomba North",
+      "state": "QLD",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the Queensland Legislative Assembly, 2024–2028",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_Queensland_Legislative_Assembly,_2024%E2%80%932028",
+        "publisher": "Wikipedia",
+        "date": ""
+      }
+    },
+    {
+      "id": "queensland-david-janetzki-toowoomba-south",
+      "name": "David Janetzki",
+      "party": "Liberal National Party of Queensland",
+      "party_group": "Coalition",
+      "jurisdiction": "Queensland",
+      "chamber": "Queensland Legislative Assembly",
+      "electorate": "Toowoomba South",
+      "state": "QLD",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the Queensland Legislative Assembly, 2024–2028",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_Queensland_Legislative_Assembly,_2024%E2%80%932028",
+        "publisher": "Wikipedia",
+        "date": ""
+      }
+    },
+    {
+      "id": "queensland-adam-baillie-townsville",
+      "name": "Adam Baillie",
+      "party": "Liberal National Party of Queensland",
+      "party_group": "Coalition",
+      "jurisdiction": "Queensland",
+      "chamber": "Queensland Legislative Assembly",
+      "electorate": "Townsville",
+      "state": "QLD",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the Queensland Legislative Assembly, 2024–2028",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_Queensland_Legislative_Assembly,_2024%E2%80%932028",
+        "publisher": "Wikipedia",
+        "date": ""
+      }
+    },
+    {
+      "id": "queensland-robbie-katter-traeger",
+      "name": "Robbie Katter",
+      "party": "Katter's Australian Party",
+      "party_group": "Other / minor party",
+      "jurisdiction": "Queensland",
+      "chamber": "Queensland Legislative Assembly",
+      "electorate": "Traeger",
+      "state": "QLD",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the Queensland Legislative Assembly, 2024–2028",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_Queensland_Legislative_Assembly,_2024%E2%80%932028",
+        "publisher": "Wikipedia",
+        "date": ""
+      },
+      "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Robbie_Katter_with_hat_at_lookout_%28cropped%29.jpg/330px-Robbie_Katter_with_hat_at_lookout_%28cropped%29.jpg",
+      "photo_credit_url": "https://en.wikipedia.org/wiki/Robbie_Katter"
+    },
+    {
+      "id": "queensland-ann-leahy-warrego",
+      "name": "Ann Leahy",
+      "party": "Liberal National Party of Queensland",
+      "party_group": "Coalition",
+      "jurisdiction": "Queensland",
+      "chamber": "Queensland Legislative Assembly",
+      "electorate": "Warrego",
+      "state": "QLD",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the Queensland Legislative Assembly, 2024–2028",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_Queensland_Legislative_Assembly,_2024%E2%80%932028",
+        "publisher": "Wikipedia",
+        "date": ""
+      }
+    },
+    {
+      "id": "queensland-shannon-fentiman-waterford",
+      "name": "Shannon Fentiman",
+      "party": "Australian Labor Party",
+      "party_group": "Labor",
+      "jurisdiction": "Queensland",
+      "chamber": "Queensland Legislative Assembly",
+      "electorate": "Waterford",
+      "state": "QLD",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the Queensland Legislative Assembly, 2024–2028",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_Queensland_Legislative_Assembly,_2024%E2%80%932028",
+        "publisher": "Wikipedia",
+        "date": ""
+      },
+      "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Shannon_Fentiman_MP%2C_August_2023_%28cropped%29.jpg/330px-Shannon_Fentiman_MP%2C_August_2023_%28cropped%29.jpg",
+      "photo_credit_url": "https://en.wikipedia.org/wiki/Shannon_Fentiman"
+    },
+    {
+      "id": "queensland-amanda-camm-whitsunday",
+      "name": "Amanda Camm",
+      "party": "Liberal National Party of Queensland",
+      "party_group": "Coalition",
+      "jurisdiction": "Queensland",
+      "chamber": "Queensland Legislative Assembly",
+      "electorate": "Whitsunday",
+      "state": "QLD",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the Queensland Legislative Assembly, 2024–2028",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_Queensland_Legislative_Assembly,_2024%E2%80%932028",
+        "publisher": "Wikipedia",
+        "date": ""
+      }
+    },
+    {
+      "id": "queensland-cameron-dick-woodridge",
+      "name": "Cameron Dick",
+      "party": "Australian Labor Party",
+      "party_group": "Labor",
+      "jurisdiction": "Queensland",
+      "chamber": "Queensland Legislative Assembly",
+      "electorate": "Woodridge",
+      "state": "QLD",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the Queensland Legislative Assembly, 2024–2028",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_Queensland_Legislative_Assembly,_2024%E2%80%932028",
+        "publisher": "Wikipedia",
+        "date": ""
+      }
+    },
+    {
       "id": "tasmania-nick-duigan-windermere",
       "name": "Nick Duigan",
       "party": "Liberal",

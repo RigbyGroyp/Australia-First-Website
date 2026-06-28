@@ -90,6 +90,7 @@ PARTY_GROUP = {
     "The Greens": "Greens",
     "ACT Greens": "Greens",
     "Tasmanian Greens": "Greens",
+    "Queensland Greens": "Greens",
     "Canberra Liberals": "Coalition",
     "Pauline Hanson's One Nation Party": "One Nation",
     "Independent": "Independent",

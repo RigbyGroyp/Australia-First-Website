@@ -1,0 +1,479 @@
+{
+  "jurisdiction": "Queensland",
+  "chamber": "Queensland Legislative Assembly",
+  "state": "QLD",
+  "source": {
+    "title": "Members of the Queensland Legislative Assembly, 2024–2028",
+    "url": "https://en.wikipedia.org/wiki/Members_of_the_Queensland_Legislative_Assembly,_2024%E2%80%932028",
+    "publisher": "Wikipedia",
+    "date": ""
+  },
+  "note": "58th Parliament, elected October 2024 (unicameral, 93 districts). Reflects the 2025 Hinchinbrook and 2026 Stafford by-elections.",
+  "members": [
+    {
+      "name": "Leeanne Enoch",
+      "party": "Australian Labor Party",
+      "electorate": "Algester"
+    },
+    {
+      "name": "Bart Mellish",
+      "party": "Australian Labor Party",
+      "electorate": "Aspley"
+    },
+    {
+      "name": "Chris Whiting",
+      "party": "Australian Labor Party",
+      "electorate": "Bancroft"
+    },
+    {
+      "name": "Bree James",
+      "party": "Liberal National Party of Queensland",
+      "electorate": "Barron River"
+    },
+    {
+      "name": "Sam O'Connor",
+      "party": "Liberal National Party of Queensland",
+      "electorate": "Bonney"
+    },
+    {
+      "name": "David Crisafulli",
+      "party": "Liberal National Party of Queensland",
+      "electorate": "Broadwater"
+    },
+    {
+      "name": "Brent Mickelberg",
+      "party": "Liberal National Party of Queensland",
+      "electorate": "Buderim"
+    },
+    {
+      "name": "Di Farmer",
+      "party": "Australian Labor Party",
+      "electorate": "Bulimba"
+    },
+    {
+      "name": "Tom Smith",
+      "party": "Australian Labor Party",
+      "electorate": "Bundaberg"
+    },
+    {
+      "name": "Lance McCallum",
+      "party": "Australian Labor Party",
+      "electorate": "Bundamba"
+    },
+    {
+      "name": "Dale Last",
+      "party": "Liberal National Party of Queensland",
+      "electorate": "Burdekin"
+    },
+    {
+      "name": "Hermann Vorster",
+      "party": "Liberal National Party of Queensland",
+      "electorate": "Burleigh"
+    },
+    {
+      "name": "Stephen Bennett",
+      "party": "Liberal National Party of Queensland",
+      "electorate": "Burnett"
+    },
+    {
+      "name": "Michael Healy",
+      "party": "Australian Labor Party",
+      "electorate": "Cairns"
+    },
+    {
+      "name": "Bryson Head",
+      "party": "Liberal National Party of Queensland",
+      "electorate": "Callide"
+    },
+    {
+      "name": "Kendall Morton",
+      "party": "Liberal National Party of Queensland",
+      "electorate": "Caloundra"
+    },
+    {
+      "name": "Russell Field",
+      "party": "Liberal National Party of Queensland",
+      "electorate": "Capalaba"
+    },
+    {
+      "name": "Steve Minnikin",
+      "party": "Liberal National Party of Queensland",
+      "electorate": "Chatsworth"
+    },
+    {
+      "name": "Tim Nicholls",
+      "party": "Liberal National Party of Queensland",
+      "electorate": "Clayfield"
+    },
+    {
+      "name": "Pat Weir",
+      "party": "Liberal National Party of Queensland",
+      "electorate": "Condamine"
+    },
+    {
+      "name": "David Kempton",
+      "party": "Liberal National Party of Queensland",
+      "electorate": "Cook"
+    },
+    {
+      "name": "Michael Crandon",
+      "party": "Liberal National Party of Queensland",
+      "electorate": "Coomera"
+    },
+    {
+      "name": "Jonty Bush",
+      "party": "Australian Labor Party",
+      "electorate": "Cooper"
+    },
+    {
+      "name": "Laura Gerber",
+      "party": "Liberal National Party of Queensland",
+      "electorate": "Currumbin"
+    },
+    {
+      "name": "Tim Mander",
+      "party": "Liberal National Party of Queensland",
+      "electorate": "Everton"
+    },
+    {
+      "name": "Mark Furner",
+      "party": "Australian Labor Party",
+      "electorate": "Ferny Grove"
+    },
+    {
+      "name": "Meaghan Scanlon",
+      "party": "Australian Labor Party",
+      "electorate": "Gaven"
+    },
+    {
+      "name": "Glenn Butcher",
+      "party": "Australian Labor Party",
+      "electorate": "Gladstone"
+    },
+    {
+      "name": "Andrew Powell",
+      "party": "Liberal National Party of Queensland",
+      "electorate": "Glass House"
+    },
+    {
+      "name": "Joe Kelly",
+      "party": "Australian Labor Party",
+      "electorate": "Greenslopes"
+    },
+    {
+      "name": "Sean Dillon",
+      "party": "Liberal National Party of Queensland",
+      "electorate": "Gregory"
+    },
+    {
+      "name": "Tony Perrett",
+      "party": "Liberal National Party of Queensland",
+      "electorate": "Gympie"
+    },
+    {
+      "name": "David Lee",
+      "party": "Liberal National Party of Queensland",
+      "electorate": "Hervey Bay"
+    },
+    {
+      "name": "Shane Knuth",
+      "party": "Katter's Australian Party",
+      "electorate": "Hill"
+    },
+    {
+      "name": "Wayde Chiesa",
+      "party": "Liberal National Party of Queensland",
+      "electorate": "Hinchinbrook"
+    },
+    {
+      "name": "Margie Nightingale",
+      "party": "Australian Labor Party",
+      "electorate": "Inala"
+    },
+    {
+      "name": "Jennifer Howard",
+      "party": "Australian Labor Party",
+      "electorate": "Ipswich"
+    },
+    {
+      "name": "Wendy Bourne",
+      "party": "Australian Labor Party",
+      "electorate": "Ipswich West"
+    },
+    {
+      "name": "Charis Mullen",
+      "party": "Australian Labor Party",
+      "electorate": "Jordan"
+    },
+    {
+      "name": "Jarrod Bleijie",
+      "party": "Liberal National Party of Queensland",
+      "electorate": "Kawana"
+    },
+    {
+      "name": "Nigel Hutton",
+      "party": "Liberal National Party of Queensland",
+      "electorate": "Keppel"
+    },
+    {
+      "name": "Shane King",
+      "party": "Australian Labor Party",
+      "electorate": "Kurwongbah"
+    },
+    {
+      "name": "Jim McDonald",
+      "party": "Liberal National Party of Queensland",
+      "electorate": "Lockyer"
+    },
+    {
+      "name": "Linus Power",
+      "party": "Australian Labor Party",
+      "electorate": "Logan"
+    },
+    {
+      "name": "Joan Pease",
+      "party": "Australian Labor Party",
+      "electorate": "Lytton"
+    },
+    {
+      "name": "Melissa McMahon",
+      "party": "Australian Labor Party",
+      "electorate": "Macalister"
+    },
+    {
+      "name": "Nigel Dalton",
+      "party": "Liberal National Party of Queensland",
+      "electorate": "Mackay"
+    },
+    {
+      "name": "Michael Berkman",
+      "party": "Queensland Greens",
+      "electorate": "Maiwar"
+    },
+    {
+      "name": "Corrine McMillan",
+      "party": "Australian Labor Party",
+      "electorate": "Mansfield"
+    },
+    {
+      "name": "Fiona Simpson",
+      "party": "Liberal National Party of Queensland",
+      "electorate": "Maroochydore"
+    },
+    {
+      "name": "John Barounis",
+      "party": "Liberal National Party of Queensland",
+      "electorate": "Maryborough"
+    },
+    {
+      "name": "Grace Grace",
+      "party": "Australian Labor Party",
+      "electorate": "McConnel"
+    },
+    {
+      "name": "Ray Stevens",
+      "party": "Liberal National Party of Queensland",
+      "electorate": "Mermaid Beach"
+    },
+    {
+      "name": "Mark Bailey",
+      "party": "Australian Labor Party",
+      "electorate": "Miller"
+    },
+    {
+      "name": "Glen Kelly",
+      "party": "Liberal National Party of Queensland",
+      "electorate": "Mirani"
+    },
+    {
+      "name": "Christian Rowan",
+      "party": "Liberal National Party of Queensland",
+      "electorate": "Moggill"
+    },
+    {
+      "name": "Mark Ryan",
+      "party": "Australian Labor Party",
+      "electorate": "Morayfield"
+    },
+    {
+      "name": "Jess Pugh",
+      "party": "Australian Labor Party",
+      "electorate": "Mount Ommaney"
+    },
+    {
+      "name": "Ros Bates",
+      "party": "Liberal National Party of Queensland",
+      "electorate": "Mudgeeraba"
+    },
+    {
+      "name": "Terry James",
+      "party": "Liberal National Party of Queensland",
+      "electorate": "Mulgrave"
+    },
+    {
+      "name": "Janelle Poole",
+      "party": "Liberal National Party of Queensland",
+      "electorate": "Mundingburra"
+    },
+    {
+      "name": "Steven Miles",
+      "party": "Australian Labor Party",
+      "electorate": "Murrumba"
+    },
+    {
+      "name": "Deb Frecklington",
+      "party": "Liberal National Party of Queensland",
+      "electorate": "Nanango"
+    },
+    {
+      "name": "Marty Hunt",
+      "party": "Liberal National Party of Queensland",
+      "electorate": "Nicklin"
+    },
+    {
+      "name": "Dan Purdie",
+      "party": "Liberal National Party of Queensland",
+      "electorate": "Ninderry"
+    },
+    {
+      "name": "Sandy Bolton",
+      "party": "Independent",
+      "electorate": "Noosa"
+    },
+    {
+      "name": "Leanne Linard",
+      "party": "Australian Labor Party",
+      "electorate": "Nudgee"
+    },
+    {
+      "name": "Amanda Stoker",
+      "party": "Liberal National Party of Queensland",
+      "electorate": "Oodgeroo"
+    },
+    {
+      "name": "Nikki Boyd",
+      "party": "Australian Labor Party",
+      "electorate": "Pine Rivers"
+    },
+    {
+      "name": "Ariana Doolan",
+      "party": "Liberal National Party of Queensland",
+      "electorate": "Pumicestone"
+    },
+    {
+      "name": "Kerri-Anne Dooley",
+      "party": "Liberal National Party of Queensland",
+      "electorate": "Redcliffe"
+    },
+    {
+      "name": "Rebecca Young",
+      "party": "Liberal National Party of Queensland",
+      "electorate": "Redlands"
+    },
+    {
+      "name": "Donna Kirkland",
+      "party": "Liberal National Party of Queensland",
+      "electorate": "Rockhampton"
+    },
+    {
+      "name": "Bisma Asif",
+      "party": "Australian Labor Party",
+      "electorate": "Sandgate"
+    },
+    {
+      "name": "Jon Krause",
+      "party": "Liberal National Party of Queensland",
+      "electorate": "Scenic Rim"
+    },
+    {
+      "name": "Barbara O'Shea",
+      "party": "Australian Labor Party",
+      "electorate": "South Brisbane"
+    },
+    {
+      "name": "James Lister",
+      "party": "Liberal National Party of Queensland",
+      "electorate": "Southern Downs"
+    },
+    {
+      "name": "Rob Molhoek",
+      "party": "Liberal National Party of Queensland",
+      "electorate": "Southport"
+    },
+    {
+      "name": "Mick de Brenni",
+      "party": "Australian Labor Party",
+      "electorate": "Springwood"
+    },
+    {
+      "name": "Luke Richmond",
+      "party": "Australian Labor Party",
+      "electorate": "Stafford"
+    },
+    {
+      "name": "James Martin",
+      "party": "Australian Labor Party",
+      "electorate": "Stretton"
+    },
+    {
+      "name": "John-Paul Langbroek",
+      "party": "Liberal National Party of Queensland",
+      "electorate": "Surfers Paradise"
+    },
+    {
+      "name": "Mark Boothman",
+      "party": "Liberal National Party of Queensland",
+      "electorate": "Theodore"
+    },
+    {
+      "name": "Natalie Marr",
+      "party": "Liberal National Party of Queensland",
+      "electorate": "Thuringowa"
+    },
+    {
+      "name": "Peter Russo",
+      "party": "Australian Labor Party",
+      "electorate": "Toohey"
+    },
+    {
+      "name": "Trevor Watts",
+      "party": "Liberal National Party of Queensland",
+      "electorate": "Toowoomba North"
+    },
+    {
+      "name": "David Janetzki",
+      "party": "Liberal National Party of Queensland",
+      "electorate": "Toowoomba South"
+    },
+    {
+      "name": "Adam Baillie",
+      "party": "Liberal National Party of Queensland",
+      "electorate": "Townsville"
+    },
+    {
+      "name": "Robbie Katter",
+      "party": "Katter's Australian Party",
+      "electorate": "Traeger"
+    },
+    {
+      "name": "Ann Leahy",
+      "party": "Liberal National Party of Queensland",
+      "electorate": "Warrego"
+    },
+    {
+      "name": "Shannon Fentiman",
+      "party": "Australian Labor Party",
+      "electorate": "Waterford"
+    },
+    {
+      "name": "Amanda Camm",
+      "party": "Liberal National Party of Queensland",
+      "electorate": "Whitsunday"
+    },
+    {
+      "name": "Cameron Dick",
+      "party": "Australian Labor Party",
+      "electorate": "Woodridge"
+    }
+  ]
+}
