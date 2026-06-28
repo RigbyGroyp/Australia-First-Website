@@ -13456,7 +13456,7 @@
               "title": "Oly Carlson - CLP Member for Wanguri",
               "url": "https://clp.org.au/team/oly-carlson",
               "publisher": "Country Liberal Party",
-              "date": null
+              "date": ""
             }
           ],
           "verified": true
@@ -13612,7 +13612,7 @@
               "title": "Chief ministership of Lia Finocchiaro",
               "url": "https://en.wikipedia.org/wiki/Chief_ministership_of_Lia_Finocchiaro",
               "publisher": "Wikipedia",
-              "date": null
+              "date": ""
             },
             {
               "title": "Declan's Law delivers stronger bail outcomes and safer communities",
@@ -13702,7 +13702,7 @@
               "title": "Member for Drysdale awaits response from NT Liquor Commission after seeking a review of alcohol licenses at some Palmerston outlets",
               "url": "https://www.mix1049.com.au/blogs/member-for-drysdale-awaits-response-from-nt-liquor-commission-after-seeking-a-review-of-alcohol-licenses-at-some-palmerston-outlets/",
               "publisher": "Mix 104.9",
-              "date": null
+              "date": ""
             }
           ],
           "verified": true
@@ -13736,7 +13736,7 @@
               "title": "Matthew Kerle - CLP Member for Blain",
               "url": "https://www.clp.org.au/team/matthew-kerle",
               "publisher": "Country Liberal Party",
-              "date": null
+              "date": ""
             }
           ],
           "verified": true
@@ -13953,7 +13953,7 @@
               "title": "Hon Bill Yan - CLP Member for Namatjira",
               "url": "https://clp.org.au/team/bill-yan",
               "publisher": "Country Liberal Party",
-              "date": null
+              "date": ""
             },
             {
               "title": "Kids, parents must pay for crime: 3 Alice MLAs",
@@ -14102,7 +14102,7 @@
               "title": "Chansey Paech",
               "url": "https://en.wikipedia.org/wiki/Chansey_Paech",
               "publisher": "Wikipedia",
-              "date": null
+              "date": ""
             },
             {
               "title": "'We want to see community-led solutions': Indigenous MPs decry new NT laws",
@@ -14537,7 +14537,20 @@
       "state": "TAS",
       "status": "incumbent",
       "last_updated": "2026-06-26",
-      "positions": {},
+      "positions": {
+        "gender_lgbtq": {
+          "summary": "In the 2024 Equality Tasmania Legislative Council election survey Vincent (Liberal) referenced the government's existing 2023 conversion-practices bill and said work on intersex issues should be done collaboratively \"with community and clinical stakeholders\"; he answered \"No\" on a Human Rights Act and gave a neutral response on drag story time. (Stated positions.)",
+          "sources": [
+            {
+              "title": "Tasmanian Legislative Council Election 2024",
+              "url": "https://equalitytasmania.org.au/tasmanian-legislative-council-election-2024/",
+              "publisher": "Equality Tasmania",
+              "date": "2024-05-04"
+            }
+          ],
+          "verified": true
+        }
+      },
       "roster_source": {
         "title": "Members of the Tasmanian Legislative Council, 2023–2029",
         "url": "https://en.wikipedia.org/wiki/Members_of_the_Tasmanian_Legislative_Council,_2023%E2%80%932029",
@@ -14575,7 +14588,20 @@
       "state": "TAS",
       "status": "incumbent",
       "last_updated": "2026-06-26",
-      "positions": {},
+      "positions": {
+        "abortion": {
+          "summary": "Recorded vote: As the Legislative Council member for Derwent (Labor), Craig Farrell voted in favour of the Reproductive Health (Access to Terminations) Bill 2013 (which decriminalised abortion). He was one of nine members who voted yes when the bill passed the Legislative Council 9 votes to 5 on 21 November 2013.",
+          "sources": [
+            {
+              "title": "Tasmania leads nation as abortion bill passed",
+              "url": "https://www.examiner.com.au/story/1925158/tasmania-leads-nation-as-abortion-bill-passed/",
+              "publisher": "The Examiner",
+              "date": "2013-11-22"
+            }
+          ],
+          "verified": true
+        }
+      },
       "roster_source": {
         "title": "Members of the Tasmanian Legislative Council, 2023–2029",
         "url": "https://en.wikipedia.org/wiki/Members_of_the_Tasmanian_Legislative_Council,_2023%E2%80%932029",
@@ -14613,7 +14639,62 @@
       "state": "TAS",
       "status": "incumbent",
       "last_updated": "2026-06-26",
-      "positions": {},
+      "positions": {
+        "abortion": {
+          "summary": "Stated position / recorded action: As Greens leader, Cassy O'Connor supported the 13 June 2018 motion to provide terminations through public hospitals (defeated 12-11). In a 3 February 2023 statement she said a Women's Health Tasmania report \"highlights the need for improved access to safe and affordable termination services in Tasmania\" and described \"a health system still failing on reproductive health.\"",
+          "sources": [
+            {
+              "title": "Tasmanian Parliament Has Opposed A Move To Address The State's Abortion Access Issues",
+              "url": "https://www.buzzfeed.com/ginarushton/tasmanian-parliament-abortion-access-sue-hickey-michael",
+              "publisher": "BuzzFeed News",
+              "date": "2018-06-14"
+            },
+            {
+              "title": "Reproductive Health Report Demands Action",
+              "url": "https://tasgreensmps.org/media-releases/reproductive-health-report-demands-action/",
+              "publisher": "Tasmanian Greens MPs",
+              "date": "2023-02-03"
+            }
+          ],
+          "verified": true
+        },
+        "gender_lgbtq": {
+          "summary": "As Greens leader O'Connor championed the 2019 gender-optional birth certificate reforms, saying \"Just as it was with the vote on marriage equality, the sky is likely to remain in place with the passing of this legislation\"; in a February 2023 parliamentary speech she supported a ban on conversion practices, stating \"The Greens choose love, acceptance and inclusion\" and speaking as the mother of a transgender son. (Stated positions/parliamentary speech.)",
+          "sources": [
+            {
+              "title": "Tasmania passes landmark laws for gender-optional birth certificates",
+              "url": "https://www.sbs.com.au/news/article/tasmania-passes-landmark-laws-for-gender-optional-birth-certificates/t5zup9h4s",
+              "publisher": "SBS News",
+              "date": "2019-04-10"
+            },
+            {
+              "title": "Legislation to Prohibit Conversion Practices",
+              "url": "https://tasgreensmps.org/parliament/speeches/legislation-to-prohibit-conversion-practices/",
+              "publisher": "Tasmanian Greens MPs",
+              "date": "2023-02-28"
+            }
+          ],
+          "verified": true
+        },
+        "religious_freedom": {
+          "summary": "O'Connor has opposed weakening section 17 of the Anti-Discrimination Act, describing it as 'gold standard' and raising concern about the Australian Christian Lobby campaign to water it down (Sept 2021), and has supported legislation prohibiting conversion practices while distinguishing such practices from legitimate religious prayer and pastoral care (Feb 2023). Stated positions.",
+          "sources": [
+            {
+              "title": "Premier - Anti-Discrimination Act",
+              "url": "https://tasgreensmps.org/parliament/premier-anti-discrimination-act/",
+              "publisher": "Tasmanian Greens MPs",
+              "date": "2021-09-06"
+            },
+            {
+              "title": "Legislation to Prohibit Conversion Practices",
+              "url": "https://tasgreensmps.org/parliament/speeches/legislation-to-prohibit-conversion-practices/",
+              "publisher": "Tasmanian Greens MPs",
+              "date": "2023-02-28"
+            }
+          ],
+          "verified": true
+        }
+      },
       "roster_source": {
         "title": "Members of the Tasmanian Legislative Council, 2023–2029",
         "url": "https://en.wikipedia.org/wiki/Members_of_the_Tasmanian_Legislative_Council,_2023%E2%80%932029",
@@ -14634,7 +14715,32 @@
       "state": "TAS",
       "status": "incumbent",
       "last_updated": "2026-06-26",
-      "positions": {},
+      "positions": {
+        "abortion": {
+          "summary": "Recorded vote: As the Legislative Council member for Launceston, Rosemary Armitage voted against the Reproductive Health (Access to Terminations) Bill 2013 (which decriminalised abortion). She was one of five members who voted no when the bill passed the Legislative Council 9 votes to 5 on 21 November 2013.",
+          "sources": [
+            {
+              "title": "Tasmania leads nation as abortion bill passed",
+              "url": "https://www.examiner.com.au/story/1925158/tasmania-leads-nation-as-abortion-bill-passed/",
+              "publisher": "The Examiner",
+              "date": "2013-11-22"
+            }
+          ],
+          "verified": true
+        },
+        "gender_lgbtq": {
+          "summary": "During the November 2018 Legislative Council debate on the gender/birth-certificate reform bill, Armitage stated she could not support the bill as presented. (Stated position during debate.)",
+          "sources": [
+            {
+              "title": "Birth certificate changes delayed in Tasmanian Parliament",
+              "url": "https://www.examiner.com.au/story/5786250/transgender-reform-bill-put-on-hold/",
+              "publisher": "The Examiner",
+              "date": "2018-11-30"
+            }
+          ],
+          "verified": true
+        }
+      },
       "roster_source": {
         "title": "Members of the Tasmanian Legislative Council, 2023–2029",
         "url": "https://en.wikipedia.org/wiki/Members_of_the_Tasmanian_Legislative_Council,_2023%E2%80%932029",
@@ -14653,7 +14759,20 @@
       "state": "TAS",
       "status": "incumbent",
       "last_updated": "2026-06-26",
-      "positions": {},
+      "positions": {
+        "abortion": {
+          "summary": "Recorded vote: As the Legislative Council member for Murchison, Ruth Forrest voted in favour of the Reproductive Health (Access to Terminations) Bill 2013 (which decriminalised abortion). She was one of nine members who voted yes when the bill passed the Legislative Council 9 votes to 5 on 21 November 2013.",
+          "sources": [
+            {
+              "title": "Tasmania leads nation as abortion bill passed",
+              "url": "https://www.examiner.com.au/story/1925158/tasmania-leads-nation-as-abortion-bill-passed/",
+              "publisher": "The Examiner",
+              "date": "2013-11-22"
+            }
+          ],
+          "verified": true
+        }
+      },
       "roster_source": {
         "title": "Members of the Tasmanian Legislative Council, 2023–2029",
         "url": "https://en.wikipedia.org/wiki/Members_of_the_Tasmanian_Legislative_Council,_2023%E2%80%932029",
@@ -14672,7 +14791,32 @@
       "state": "TAS",
       "status": "incumbent",
       "last_updated": "2026-06-26",
-      "positions": {},
+      "positions": {
+        "abortion": {
+          "summary": "Recorded vote: As the Legislative Council member for Mersey, Mike Gaffney voted in favour of the Reproductive Health (Access to Terminations) Bill 2013 (which decriminalised abortion). He was one of nine members who voted yes when the bill passed the Legislative Council 9 votes to 5 on 21 November 2013.",
+          "sources": [
+            {
+              "title": "Tasmania leads nation as abortion bill passed",
+              "url": "https://www.examiner.com.au/story/1925158/tasmania-leads-nation-as-abortion-bill-passed/",
+              "publisher": "The Examiner",
+              "date": "2013-11-22"
+            }
+          ],
+          "verified": true
+        },
+        "gender_lgbtq": {
+          "summary": "During the November 2018 Legislative Council debate on the gender/birth-certificate reform bill, Gaffney said he could not support certain provisions without sufficient information, stating his job was \"for good legislation and to review what's in front of us\" and warning that passing flawed legislation would \"put your cause back even further.\" (Stated position during debate.)",
+          "sources": [
+            {
+              "title": "Birth certificate changes delayed in Tasmanian Parliament",
+              "url": "https://www.examiner.com.au/story/5786250/transgender-reform-bill-put-on-hold/",
+              "publisher": "The Examiner",
+              "date": "2018-11-30"
+            }
+          ],
+          "verified": true
+        }
+      },
       "roster_source": {
         "title": "Members of the Tasmanian Legislative Council, 2023–2029",
         "url": "https://en.wikipedia.org/wiki/Members_of_the_Tasmanian_Legislative_Council,_2023%E2%80%932029",
@@ -14748,7 +14892,20 @@
       "state": "TAS",
       "status": "incumbent",
       "last_updated": "2026-06-26",
-      "positions": {},
+      "positions": {
+        "religious_freedom": {
+          "summary": "Webb authored a ten-point Legislative Council motion (passed 9 to 5 in October 2019) defending Tasmania's Anti-Discrimination Act against the proposed federal Religious Discrimination Bill, warning the federal bill 'risks making our state law unworkable and will leave a range of vulnerable Tasmanians less protected.' Stated position and a recorded motion she moved.",
+          "sources": [
+            {
+              "title": "Tasmanian MLCs vote to uphold anti-discrimination laws",
+              "url": "https://www.starobserver.com.au/news/tasmanian-mlcs-vote-to-uphold-anti-discrimination-laws/188325",
+              "publisher": "Star Observer",
+              "date": "2019-10-17"
+            }
+          ],
+          "verified": true
+        }
+      },
       "roster_source": {
         "title": "Members of the Tasmanian Legislative Council, 2023–2029",
         "url": "https://en.wikipedia.org/wiki/Members_of_the_Tasmanian_Legislative_Council,_2023%E2%80%932029",
@@ -14767,7 +14924,32 @@
       "state": "TAS",
       "status": "incumbent",
       "last_updated": "2026-06-26",
-      "positions": {},
+      "positions": {
+        "abortion": {
+          "summary": "Recorded vote: Tania Rattray (then Legislative Council member for Apsley, now McIntyre) voted in favour of the Reproductive Health (Access to Terminations) Bill 2013 (which decriminalised abortion). She was one of nine members who voted yes when the bill passed the Legislative Council 9 votes to 5 on 21 November 2013.",
+          "sources": [
+            {
+              "title": "Tasmania leads nation as abortion bill passed",
+              "url": "https://www.examiner.com.au/story/1925158/tasmania-leads-nation-as-abortion-bill-passed/",
+              "publisher": "The Examiner",
+              "date": "2013-11-22"
+            }
+          ],
+          "verified": true
+        },
+        "gender_lgbtq": {
+          "summary": "During the November 2018 Legislative Council debate on the gender/birth-certificate reform bill, Rattray stated she could not support the bill as presented. (Stated position during debate.)",
+          "sources": [
+            {
+              "title": "Birth certificate changes delayed in Tasmanian Parliament",
+              "url": "https://www.examiner.com.au/story/5786250/transgender-reform-bill-put-on-hold/",
+              "publisher": "The Examiner",
+              "date": "2018-11-30"
+            }
+          ],
+          "verified": true
+        }
+      },
       "roster_source": {
         "title": "Members of the Tasmanian Legislative Council, 2023–2029",
         "url": "https://en.wikipedia.org/wiki/Members_of_the_Tasmanian_Legislative_Council,_2023%E2%80%932029",
@@ -14786,7 +14968,38 @@
       "state": "TAS",
       "status": "incumbent",
       "last_updated": "2026-06-26",
-      "positions": {},
+      "positions": {
+        "gender_lgbtq": {
+          "summary": "In February 2022, as federal MP, Archer crossed the floor over the religious discrimination bill; she said she was \"horrified\" that proposed protections would not extend \"to children who identify as transgender\" and \"utterly distressed by this exclusion,\" and said she could not support the bill in that form. (Stated position/floor-crossing.)",
+          "sources": [
+            {
+              "title": "'What message are we sending?' Archer slams government bill",
+              "url": "https://www.examiner.com.au/story/7613497/what-message-are-we-sending-archer-slams-government-bill/",
+              "publisher": "The Examiner",
+              "date": "2022-02-09"
+            }
+          ],
+          "verified": true
+        },
+        "religious_freedom": {
+          "summary": "As federal member for Bass, Archer said in 2022 she could not support the Commonwealth Religious Discrimination Bill, arguing its Statement of Belief provisions would 'allow for discrimination to happen' and would override Tasmania's existing 'gold standard' anti-discrimination laws, while stating there 'absolutely should be freedom from discrimination for all people, including people of faith.' Stated position.",
+          "sources": [
+            {
+              "title": "Bridget Archer's speech to Parliament explaining why she'd vote against the Religious Discrimination Bill",
+              "url": "https://nofibs.com.au/bridget-archers-speech-to-parliament-explaining-why-shed-vote-against-the-religious-discrimination-bill/",
+              "publisher": "No Fibs",
+              "date": ""
+            },
+            {
+              "title": "Bridget Archer says she will cross the floor over Religious Discrimination",
+              "url": "https://www.outinperth.com/bridget-archer-says-she-will-cross-the-floor-over-religious-discrimination/",
+              "publisher": "OutInPerth",
+              "date": "2022-02-06"
+            }
+          ],
+          "verified": true
+        }
+      },
       "roster_source": {
         "title": "Members of the Tasmanian House of Assembly, 2025–2029",
         "url": "https://en.wikipedia.org/wiki/Members_of_the_Tasmanian_House_of_Assembly,_2025%E2%80%932029",
@@ -14826,7 +15039,62 @@
       "state": "TAS",
       "status": "incumbent",
       "last_updated": "2026-06-26",
-      "positions": {},
+      "positions": {
+        "faith": {
+          "summary": "Michael Ferguson has publicly identified as a Christian. In a parliamentary speech quoted by the Australian Christian Lobby he said, \"I am a Christian. I would not say I am a very good one,\" and referred to himself as \"a person of faith.\"",
+          "sources": [
+            {
+              "title": "Tasmanian Election Candidate Profiles: Michael Ferguson and Lara Alexander",
+              "url": "https://www.acl.org.au/blog/tas-election-ferguson-alexander/",
+              "publisher": "Australian Christian Lobby",
+              "date": ""
+            }
+          ],
+          "verified": true
+        },
+        "abortion": {
+          "summary": "Stated position / recorded action: Described as anti-abortion, Michael Ferguson as Tasmanian Health Minister opposed a 13 June 2018 motion (moved by Labor's Michelle O'Byrne) to provide pregnancy terminations through public hospitals; the motion was defeated 12-11. He instead offered an amendment directing the Department of Health to provide advice after consulting stakeholders.",
+          "sources": [
+            {
+              "title": "Tasmanian Parliament Has Opposed A Move To Address The State's Abortion Access Issues",
+              "url": "https://www.buzzfeed.com/ginarushton/tasmanian-parliament-abortion-access-sue-hickey-michael",
+              "publisher": "BuzzFeed News",
+              "date": "2018-06-14"
+            }
+          ],
+          "verified": true
+        },
+        "gender_lgbtq": {
+          "summary": "Wikipedia records that Ferguson opposed same-sex marriage and that in 2018 he criticised the Tasmanian Greens and Labor for their reforms making birth certificates gender-optional. (Stated positions.)",
+          "sources": [
+            {
+              "title": "Michael Ferguson (Australian politician)",
+              "url": "https://en.wikipedia.org/wiki/Michael_Ferguson_(Australian_politician)",
+              "publisher": "Wikipedia",
+              "date": "2024-01-01"
+            }
+          ],
+          "verified": true
+        },
+        "religious_freedom": {
+          "summary": "Ferguson has been described as a conservative Liberal who opposed same-sex marriage (voting against related legislation in 2010) and abortion, and in 2018 criticised Greens and Labor reforms to make birth certificate gender optional. Stated positions and a recorded vote.",
+          "sources": [
+            {
+              "title": "Michael Ferguson (Australian politician)",
+              "url": "https://en.wikipedia.org/wiki/Michael_Ferguson_(Australian_politician)",
+              "publisher": "Wikipedia",
+              "date": "2026"
+            },
+            {
+              "title": "New Tasmanian Premier Jeremy Rockliff Had Voted For Pro-LGBT Laws",
+              "url": "https://www.starobserver.com.au/news/new-tasmanian-premier-jeremy-rockliff-had-voted-for-pro-lgbt-laws/211828",
+              "publisher": "Star Observer",
+              "date": ""
+            }
+          ],
+          "verified": true
+        }
+      },
       "roster_source": {
         "title": "Members of the Tasmanian House of Assembly, 2025–2029",
         "url": "https://en.wikipedia.org/wiki/Members_of_the_Tasmanian_House_of_Assembly,_2025%E2%80%932029",
@@ -14967,7 +15235,20 @@
       "state": "TAS",
       "status": "incumbent",
       "last_updated": "2026-06-26",
-      "positions": {},
+      "positions": {
+        "gender_lgbtq": {
+          "summary": "At a July 2022 public meeting on the Tasmanian Law Reform Institute's conversion-practices report, Ellis noted there would be \"a formal consultation period that all Tasmanians can take part in before any legislation is tabled,\" said he wanted to hear from constituents and would \"listen with open ears and an open heart.\" (Stated position.)",
+          "sources": [
+            {
+              "title": "Standing up for traditional biblical views on sexuality and gender in Tasmania",
+              "url": "https://www.acl.org.au/blog/blog-tas-tlri-ulverstone-meeting/",
+              "publisher": "Australian Christian Lobby",
+              "date": "2022-07-13"
+            }
+          ],
+          "verified": true
+        }
+      },
       "roster_source": {
         "title": "Members of the Tasmanian House of Assembly, 2025–2029",
         "url": "https://en.wikipedia.org/wiki/Members_of_the_Tasmanian_House_of_Assembly,_2025%E2%80%932029",
@@ -15005,7 +15286,20 @@
       "state": "TAS",
       "status": "incumbent",
       "last_updated": "2026-06-26",
-      "positions": {},
+      "positions": {
+        "gender_lgbtq": {
+          "summary": "OUTInPerth describes Jaensch as having \"been a supporter of LGBTIQ+ equality for many years and a voice for LGBTIQ+ law reform in the Liberal Party.\" (Reported characterisation of his record.)",
+          "sources": [
+            {
+              "title": "Peter Gutwein's Liberal government returned in Tasmanian election",
+              "url": "https://www.outinperth.com/peter-gutweins-liberal-government-returned-in-tasmanian-election/",
+              "publisher": "OUTInPerth",
+              "date": "2021-05-02"
+            }
+          ],
+          "verified": true
+        }
+      },
       "roster_source": {
         "title": "Members of the Tasmanian House of Assembly, 2025–2029",
         "url": "https://en.wikipedia.org/wiki/Members_of_the_Tasmanian_House_of_Assembly,_2025%E2%80%932029",
@@ -15047,7 +15341,44 @@
       "state": "TAS",
       "status": "incumbent",
       "last_updated": "2026-06-26",
-      "positions": {},
+      "positions": {
+        "gender_lgbtq": {
+          "summary": "Rockliff voted for the Greens-sponsored 2015 motion supporting same-sex marriage (which passed the House 15-9), stating he was \"absolutely unequivocally in favour of same-sex marriage equality\"; as Premier in 2022 he committed to banning conversion practices, saying \"I will be leading the change\" and that change was needed given the harm to wellbeing. (Recorded vote and stated positions.)",
+          "sources": [
+            {
+              "title": "New Tasmanian Premier Jeremy Rockliff Had Voted For Pro-LGBT Laws",
+              "url": "https://www.starobserver.com.au/news/new-tasmanian-premier-jeremy-rockliff-had-voted-for-pro-lgbt-laws/211828",
+              "publisher": "Star Observer",
+              "date": "2022-04-08"
+            },
+            {
+              "title": "Premier Jeremy Rockliff Says Tasmania Will Ban 'Conversion Therapy'",
+              "url": "https://www.starobserver.com.au/news/premier-jeremy-rockliff-says-tasmania-will-ban-conversion-therapy/213581",
+              "publisher": "Star Observer",
+              "date": "2022-06-07"
+            }
+          ],
+          "verified": true
+        },
+        "religious_freedom": {
+          "summary": "As Premier, Rockliff told Parliament on 15 May 2024 'There will be no weakening of the Anti-Discrimination Act. I will absolutely rule that out,' responding to calls (including from Archbishop Porteous) to amend the Act; he earlier voted for Tasmania's 2015 in-principle motion supporting same-sex marriage. Stated position and recorded vote.",
+          "sources": [
+            {
+              "title": "Anti-Discrimination Act (parliamentary exchange)",
+              "url": "https://tasgreensmps.org/parliament/anti-discrimination-act/",
+              "publisher": "Tasmanian Greens MPs",
+              "date": "2024-05-15"
+            },
+            {
+              "title": "New Tasmanian Premier Jeremy Rockliff Had Voted For Pro-LGBT Laws",
+              "url": "https://www.starobserver.com.au/news/new-tasmanian-premier-jeremy-rockliff-had-voted-for-pro-lgbt-laws/211828",
+              "publisher": "Star Observer",
+              "date": ""
+            }
+          ],
+          "verified": true
+        }
+      },
       "roster_source": {
         "title": "Members of the Tasmanian House of Assembly, 2025–2029",
         "url": "https://en.wikipedia.org/wiki/Members_of_the_Tasmanian_House_of_Assembly,_2025%E2%80%932029",
@@ -15068,7 +15399,20 @@
       "state": "TAS",
       "status": "incumbent",
       "last_updated": "2026-06-26",
-      "positions": {},
+      "positions": {
+        "gender_lgbtq": {
+          "summary": "In December 2023 parliamentary estimates Bayley criticised the government's 2015 LGBTIQA+ framework for \"the complete lack of acknowledgement of Tasmanians who are non-binary and don't identify as male or female,\" and pressed the government to update the framework with the LGBTIQA+ community. (Stated position/parliamentary statement.)",
+          "sources": [
+            {
+              "title": "Minister For Health – LGBTIQA+",
+              "url": "https://tasgreensmps.org/parliament/minister-for-health-lgbtiqa/",
+              "publisher": "Tasmanian Greens MPs",
+              "date": "2023-12-05"
+            }
+          ],
+          "verified": true
+        }
+      },
       "roster_source": {
         "title": "Members of the Tasmanian House of Assembly, 2025–2029",
         "url": "https://en.wikipedia.org/wiki/Members_of_the_Tasmanian_House_of_Assembly,_2025%E2%80%932029",
@@ -15110,7 +15454,32 @@
       "state": "TAS",
       "status": "incumbent",
       "last_updated": "2026-06-26",
-      "positions": {},
+      "positions": {
+        "gender_lgbtq": {
+          "summary": "As Labor's then shadow attorney-general, Haddad opposed the federal Religious Freedom draft bills, saying the changes \"would unnecessarily risk hard-won anti-discrimination rights and, if passed, would expose vulnerable Australians to increased discrimination with no recourse.\" (Stated position.)",
+          "sources": [
+            {
+              "title": "Follow Tasmania's lead on religious freedom laws says Labor's Ella Haddad",
+              "url": "https://www.examiner.com.au/story/6638097/follow-states-lead-on-religious-freedom-labor/",
+              "publisher": "The Examiner",
+              "date": "2020-02-19"
+            }
+          ],
+          "verified": true
+        },
+        "religious_freedom": {
+          "summary": "In a 2020 submission on the federal Religious Freedom Bills, Haddad argued Tasmania's Anti-Discrimination Act 'provides a model for the nation,' warning the federal draft would 'unnecessarily risk hard-won anti-discrimination rights,' and noted the Tasmanian Act already allows faith-based organisations including schools, hospitals and charities to select employees on the basis of religion. Stated position.",
+          "sources": [
+            {
+              "title": "Follow Tasmania's lead on religious freedom laws says Labor's Ella Haddad",
+              "url": "https://www.examiner.com.au/story/6638097/follow-states-lead-on-religious-freedom-labor/",
+              "publisher": "The Examiner",
+              "date": "2020-02-19"
+            }
+          ],
+          "verified": true
+        }
+      },
       "roster_source": {
         "title": "Members of the Tasmanian House of Assembly, 2025–2029",
         "url": "https://en.wikipedia.org/wiki/Members_of_the_Tasmanian_House_of_Assembly,_2025%E2%80%932029",
@@ -15129,7 +15498,20 @@
       "state": "TAS",
       "status": "incumbent",
       "last_updated": "2026-06-26",
-      "positions": {},
+      "positions": {
+        "gender_lgbtq": {
+          "summary": "In the 2024 Equality Tasmania election survey Johnston said she wants to end conversion practices (\"Absolutely\"), would enact a prohibition as \"Very high priority. It is long overdue,\" supported prohibiting medically-unnecessary interventions on intersex children, and answered \"Yes\" to all the survey's major LGBTIQA+ reform questions. (Stated positions.)",
+          "sources": [
+            {
+              "title": "Response from Kristie Johnston, Independent, Clark",
+              "url": "https://equalitytasmania.org.au/response-from-kristie-johnson-independent-clark/",
+              "publisher": "Equality Tasmania",
+              "date": "2024-03-04"
+            }
+          ],
+          "verified": true
+        }
+      },
       "roster_source": {
         "title": "Members of the Tasmanian House of Assembly, 2025–2029",
         "url": "https://en.wikipedia.org/wiki/Members_of_the_Tasmanian_House_of_Assembly,_2025%E2%80%932029",
@@ -15148,7 +15530,20 @@
       "state": "TAS",
       "status": "incumbent",
       "last_updated": "2026-06-26",
-      "positions": {},
+      "positions": {
+        "religious_freedom": {
+          "summary": "In December 2015 Ogilvie voted, in a free vote, against a Greens motion supporting marriage equality, on the basis that it was a matter for federal reform, and said she would 'not be bullied over same-sex marriage.' Recorded vote and stated position.",
+          "sources": [
+            {
+              "title": "Madeleine Ogilvie",
+              "url": "https://en.wikipedia.org/wiki/Madeleine_Ogilvie",
+              "publisher": "Wikipedia",
+              "date": "2026"
+            }
+          ],
+          "verified": true
+        }
+      },
       "roster_source": {
         "title": "Members of the Tasmanian House of Assembly, 2025–2029",
         "url": "https://en.wikipedia.org/wiki/Members_of_the_Tasmanian_House_of_Assembly,_2025%E2%80%932029",
@@ -15207,7 +15602,56 @@
       "state": "TAS",
       "status": "incumbent",
       "last_updated": "2026-06-26",
-      "positions": {},
+      "positions": {
+        "faith": {
+          "summary": "Eric Abetz is a Christian. His Wikipedia article states he is a Protestant Christian and a member of the Christian Reformed Churches of Australia.",
+          "sources": [
+            {
+              "title": "Eric Abetz",
+              "url": "https://en.wikipedia.org/wiki/Eric_Abetz",
+              "publisher": "Wikipedia",
+              "date": ""
+            }
+          ],
+          "verified": true
+        },
+        "abortion": {
+          "summary": "Stated position / recorded federal vote: As a Liberal Senator for Tasmania, Eric Abetz was one of ten senators who voted yes in 2017 on Cory Bernardi's motion to ban abortion on gender grounds (the motion was not carried). His Wikipedia biography also records his association with anti-abortion group Right to Life Australia.",
+          "sources": [
+            {
+              "title": "Eric Abetz",
+              "url": "https://en.wikipedia.org/wiki/Eric_Abetz",
+              "publisher": "Wikipedia",
+              "date": "2026-06-28"
+            }
+          ],
+          "verified": true
+        },
+        "gender_lgbtq": {
+          "summary": "In a November 2017 Senate speech Abetz argued that \"same-sex marriage is not a human right\" in the way religious freedoms and heterosexual marriage are, and opposed the inclusion of trans, intersex and non-binary protections in the marriage legislation. (Stated position.)",
+          "sources": [
+            {
+              "title": "Eric Abetz says \"same-sex marriage is not a human right\" in wild Senate speech",
+              "url": "https://www.starobserver.com.au/news/national-news/eric-abetz-same-sex-marriage-not-human-right/164219",
+              "publisher": "Star Observer",
+              "date": "2017-11-27"
+            }
+          ],
+          "verified": true
+        },
+        "religious_freedom": {
+          "summary": "Abetz is a public opponent of same-sex marriage and was among 12 senators who voted against the 2017 marriage-equality legislation; he identifies as a Protestant Christian and has been associated with conservative groups including the Australian Christian Lobby and Right to Life Australia. Stated positions and a recorded Senate vote.",
+          "sources": [
+            {
+              "title": "Eric Abetz",
+              "url": "https://en.wikipedia.org/wiki/Eric_Abetz",
+              "publisher": "Wikipedia",
+              "date": "2026"
+            }
+          ],
+          "verified": true
+        }
+      },
       "roster_source": {
         "title": "Members of the Tasmanian House of Assembly, 2025–2029",
         "url": "https://en.wikipedia.org/wiki/Members_of_the_Tasmanian_House_of_Assembly,_2025%E2%80%932029",
@@ -15270,7 +15714,32 @@
       "state": "TAS",
       "status": "incumbent",
       "last_updated": "2026-06-26",
-      "positions": {},
+      "positions": {
+        "abortion": {
+          "summary": "Stated position: During the 16 April 2013 Lower House debate on the Reproductive Health (Access to Terminations) Bill, Liberal MP Jacquie Petrusma spoke against the bill in favour of preserving unborn life, stating \"An abortion is not the termination of just one life\" and drawing on her own experience as a young unmarried pregnant nurse. (Source is the advocacy group Australian Christian Lobby.)",
+          "sources": [
+            {
+              "title": "Tasmanian Election Candidate Profile: Jacquie Petrusma",
+              "url": "https://www.acl.org.au/blog/blog-tas-jacquie-petrusma/",
+              "publisher": "Australian Christian Lobby",
+              "date": "2013-04-16"
+            }
+          ],
+          "verified": true
+        },
+        "religious_freedom": {
+          "summary": "A former Family First Party Senate candidate, Petrusma spoke in the House of Assembly in 2013 in favour of preserving the lives of unborn babies during debate on abortion law reform, according to an Australian Christian Lobby profile. Stated position.",
+          "sources": [
+            {
+              "title": "Tasmanian Election Candidate Profile: Jacquie Petrusma",
+              "url": "https://www.acl.org.au/blog/blog-tas-jacquie-petrusma/",
+              "publisher": "Australian Christian Lobby",
+              "date": ""
+            }
+          ],
+          "verified": true
+        }
+      },
       "roster_source": {
         "title": "Members of the Tasmanian House of Assembly, 2025–2029",
         "url": "https://en.wikipedia.org/wiki/Members_of_the_Tasmanian_House_of_Assembly,_2025%E2%80%932029",
@@ -15289,7 +15758,20 @@
       "state": "TAS",
       "status": "incumbent",
       "last_updated": "2026-06-26",
-      "positions": {},
+      "positions": {
+        "gender_lgbtq": {
+          "summary": "In Equality Tasmania's 2025 state election material O'Byrne is recorded as a strong ally supporting marriage equality, conversion-therapy bans, intersex protections, improved access to gender-affirming care, and hate-crime protections. (Stated positions.)",
+          "sources": [
+            {
+              "title": "Tasmanian State Election 2025",
+              "url": "https://equalitytasmania.org.au/tasmanian-state-election-2025/",
+              "publisher": "Equality Tasmania",
+              "date": "2025-07-01"
+            }
+          ],
+          "verified": true
+        }
+      },
       "roster_source": {
         "title": "Members of the Tasmanian House of Assembly, 2025–2029",
         "url": "https://en.wikipedia.org/wiki/Members_of_the_Tasmanian_House_of_Assembly,_2025%E2%80%932029",
@@ -15310,7 +15792,20 @@
       "state": "TAS",
       "status": "incumbent",
       "last_updated": "2026-06-26",
-      "positions": {},
+      "positions": {
+        "gender_lgbtq": {
+          "summary": "OUTInPerth describes Winter as \"an early advocate for marriage equality.\" (Reported characterisation.)",
+          "sources": [
+            {
+              "title": "Peter Gutwein's Liberal government returned in Tasmanian election",
+              "url": "https://www.outinperth.com/peter-gutweins-liberal-government-returned-in-tasmanian-election/",
+              "publisher": "OUTInPerth",
+              "date": "2021-05-02"
+            }
+          ],
+          "verified": true
+        }
+      },
       "roster_source": {
         "title": "Members of the Tasmanian House of Assembly, 2025–2029",
         "url": "https://en.wikipedia.org/wiki/Members_of_the_Tasmanian_House_of_Assembly,_2025%E2%80%932029",
@@ -15331,7 +15826,38 @@
       "state": "TAS",
       "status": "incumbent",
       "last_updated": "2026-06-26",
-      "positions": {},
+      "positions": {
+        "gender_lgbtq": {
+          "summary": "As Greens leader Woodruff said the party would \"move that Parliament ban conversion practices and fully implement\" the Law Reform Institute recommendations, and criticised the Liberal government's draft bill as one that \"would legitimise conversion practices\" and increase \"trauma, pain and suffering of LGBTIQA+ people\"; in the 2024 Equality Tasmania survey the Greens (Woodruff responding) backed a real conversion-practices ban, opposed weakening gender-recognition laws, and supported evidence-based care for trans and gender-diverse youth. (Stated positions.)",
+          "sources": [
+            {
+              "title": "Tasmanian Greens pledge ban on conversion practices",
+              "url": "https://www.examiner.com.au/story/8548923/tasmanian-greens-pledge-ban-on-conversion-practices/",
+              "publisher": "The Examiner",
+              "date": "2024-03-08"
+            },
+            {
+              "title": "Response from the Tasmanian Greens",
+              "url": "https://equalitytasmania.org.au/response-from-the-tasmanian-greens/",
+              "publisher": "Equality Tasmania",
+              "date": "2024-03-04"
+            }
+          ],
+          "verified": true
+        },
+        "religious_freedom": {
+          "summary": "On 15 May 2024 Woodruff questioned the Premier in Parliament about Archbishop Porteous urging parents to lobby MPs to weaken the Anti-Discrimination Act and oppose a ban on conversion practices, expressing concern that the Act should not be weakened. Stated position.",
+          "sources": [
+            {
+              "title": "Anti-Discrimination Act (parliamentary exchange)",
+              "url": "https://tasgreensmps.org/parliament/anti-discrimination-act/",
+              "publisher": "Tasmanian Greens MPs",
+              "date": "2024-05-15"
+            }
+          ],
+          "verified": true
+        }
+      },
       "roster_source": {
         "title": "Members of the Tasmanian House of Assembly, 2025–2029",
         "url": "https://en.wikipedia.org/wiki/Members_of_the_Tasmanian_House_of_Assembly,_2025%E2%80%932029",
@@ -15373,7 +15899,50 @@
       "state": "TAS",
       "status": "incumbent",
       "last_updated": "2026-06-26",
-      "positions": {},
+      "positions": {
+        "abortion": {
+          "summary": "Stated position / federal motion: As a Liberal Senator for Tasmania, in June 2008 Guy Barnett moved a motion in the Senate to end Medicare funding for abortions occurring after the second trimester, stating he wanted to show \"compassion and care for the unborn... rather than killing them in many cases for psychosocial reasons, which is effectively abortion on request.\"",
+          "sources": [
+            {
+              "title": "Guy Barnett (Australian politician)",
+              "url": "https://en.wikipedia.org/wiki/Guy_Barnett_(Australian_politician)",
+              "publisher": "Wikipedia",
+              "date": "2026-06-28"
+            }
+          ],
+          "verified": true
+        },
+        "gender_lgbtq": {
+          "summary": "Wikipedia records that Barnett opposed same-sex marriage during the 2017 postal survey campaign, including a September 2017 claim that \"'Gay sex' will be taught in school if SSM vote passes.\" (Stated position.)",
+          "sources": [
+            {
+              "title": "Guy Barnett (Australian politician)",
+              "url": "https://en.wikipedia.org/wiki/Guy_Barnett_(Australian_politician)",
+              "publisher": "Wikipedia",
+              "date": "2024-01-01"
+            }
+          ],
+          "verified": true
+        },
+        "religious_freedom": {
+          "summary": "As a senator Barnett pressed for the Commonwealth Marriage Act to be amended to define marriage as between one man and one woman and opposed same-sex marriage in the 2017 postal survey; in 2008 he moved a Senate motion to end Medicare funding for late-term abortions. Stated positions and a recorded motion.",
+          "sources": [
+            {
+              "title": "Tasmanian Election Candidate Profile: Guy Barnett",
+              "url": "https://www.acl.org.au/blog/blog-tas-guy-barnett/",
+              "publisher": "Australian Christian Lobby",
+              "date": ""
+            },
+            {
+              "title": "Guy Barnett (Australian politician)",
+              "url": "https://en.wikipedia.org/wiki/Guy_Barnett_(Australian_politician)",
+              "publisher": "Wikipedia",
+              "date": "2026"
+            }
+          ],
+          "verified": true
+        }
+      },
       "roster_source": {
         "title": "Members of the Tasmanian House of Assembly, 2025–2029",
         "url": "https://en.wikipedia.org/wiki/Members_of_the_Tasmanian_House_of_Assembly,_2025%E2%80%932029",
