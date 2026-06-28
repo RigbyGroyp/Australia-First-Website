@@ -1,0 +1,29 @@
+{
+  "jurisdiction": "Tasmania",
+  "chamber": "Tasmanian Legislative Council",
+  "state": "TAS",
+  "source": {
+    "title": "Members of the Tasmanian Legislative Council, 2023–2029",
+    "url": "https://en.wikipedia.org/wiki/Members_of_the_Tasmanian_Legislative_Council,_2023%E2%80%932029",
+    "publisher": "Wikipedia",
+    "date": ""
+  },
+  "note": "15 single-member divisions, six-year rotating terms.",
+  "members": [
+    {"name": "Nick Duigan", "party": "Liberal", "electorate": "Windermere"},
+    {"name": "Jo Palmer", "party": "Liberal", "electorate": "Rosevears"},
+    {"name": "Kerry Vincent", "party": "Liberal", "electorate": "Prosser"},
+    {"name": "Luke Edmunds", "party": "Australian Labor Party", "electorate": "Pembroke"},
+    {"name": "Craig Farrell", "party": "Australian Labor Party", "electorate": "Derwent"},
+    {"name": "Sarah Lovell", "party": "Australian Labor Party", "electorate": "Rumney"},
+    {"name": "Cassy O'Connor", "party": "Tasmanian Greens", "electorate": "Hobart"},
+    {"name": "Rosemary Armitage", "party": "Independent", "electorate": "Launceston"},
+    {"name": "Ruth Forrest", "party": "Independent", "electorate": "Murchison"},
+    {"name": "Mike Gaffney", "party": "Independent", "electorate": "Mersey"},
+    {"name": "Clare Glade-Wright", "party": "Independent", "electorate": "Huon"},
+    {"name": "Casey Hiscutt", "party": "Independent", "electorate": "Montgomery"},
+    {"name": "Bec Thomas", "party": "Independent", "electorate": "Elwick"},
+    {"name": "Meg Webb", "party": "Independent", "electorate": "Nelson"},
+    {"name": "Tania Rattray", "party": "Independent", "electorate": "McIntyre"}
+  ]
+}

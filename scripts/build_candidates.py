@@ -78,6 +78,7 @@ PARTY_FIX = {
 # Coalition partners into one filterable group.
 PARTY_GROUP = {
     "Australian Labor Party": "Labor",
+    "Territory Labor Party": "Labor",
     "Liberal": "Coalition",
     "Liberal Party": "Coalition",
     "Liberal National Party of Queensland": "Coalition",
@@ -88,6 +89,7 @@ PARTY_GROUP = {
     "Australian Greens": "Greens",
     "The Greens": "Greens",
     "ACT Greens": "Greens",
+    "Tasmanian Greens": "Greens",
     "Canberra Liberals": "Coalition",
     "Pauline Hanson's One Nation Party": "One Nation",
     "Independent": "Independent",

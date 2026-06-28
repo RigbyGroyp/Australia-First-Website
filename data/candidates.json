@@ -13302,6 +13302,1487 @@
       },
       "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/TEmerson.jpg/330px-TEmerson.jpg",
       "photo_credit_url": "https://en.wikipedia.org/wiki/Thomas_Emerson_(politician)"
+    },
+    {
+      "id": "nt-marie-clare-boothby-brennan",
+      "name": "Marie-Clare Boothby",
+      "party": "Country Liberal Party",
+      "party_group": "Coalition",
+      "jurisdiction": "NT",
+      "chamber": "NT Legislative Assembly",
+      "electorate": "Brennan",
+      "state": "NT",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the Northern Territory Legislative Assembly, 2024–2028",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_Northern_Territory_Legislative_Assembly,_2024%E2%80%932028",
+        "publisher": "Wikipedia",
+        "date": ""
+      }
+    },
+    {
+      "id": "nt-joshua-burgoyne-braitling",
+      "name": "Joshua Burgoyne",
+      "party": "Country Liberal Party",
+      "party_group": "Coalition",
+      "jurisdiction": "NT",
+      "chamber": "NT Legislative Assembly",
+      "electorate": "Braitling",
+      "state": "NT",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the Northern Territory Legislative Assembly, 2024–2028",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_Northern_Territory_Legislative_Assembly,_2024%E2%80%932028",
+        "publisher": "Wikipedia",
+        "date": ""
+      }
+    },
+    {
+      "id": "nt-robyn-cahill-port-darwin",
+      "name": "Robyn Cahill",
+      "party": "Country Liberal Party",
+      "party_group": "Coalition",
+      "jurisdiction": "NT",
+      "chamber": "NT Legislative Assembly",
+      "electorate": "Port Darwin",
+      "state": "NT",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the Northern Territory Legislative Assembly, 2024–2028",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_Northern_Territory_Legislative_Assembly,_2024%E2%80%932028",
+        "publisher": "Wikipedia",
+        "date": ""
+      },
+      "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Robyn_Cahill_at_the_Australia%E2%80%93ASEAN_Business_Forum_2025_-_02.jpg/330px-Robyn_Cahill_at_the_Australia%E2%80%93ASEAN_Business_Forum_2025_-_02.jpg",
+      "photo_credit_url": "https://en.wikipedia.org/wiki/Robyn_Cahill"
+    },
+    {
+      "id": "nt-oly-carlson-wanguri",
+      "name": "Oly Carlson",
+      "party": "Country Liberal Party",
+      "party_group": "Coalition",
+      "jurisdiction": "NT",
+      "chamber": "NT Legislative Assembly",
+      "electorate": "Wanguri",
+      "state": "NT",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the Northern Territory Legislative Assembly, 2024–2028",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_Northern_Territory_Legislative_Assembly,_2024%E2%80%932028",
+        "publisher": "Wikipedia",
+        "date": ""
+      }
+    },
+    {
+      "id": "nt-jinson-charls-sanderson",
+      "name": "Jinson Charls",
+      "party": "Country Liberal Party",
+      "party_group": "Coalition",
+      "jurisdiction": "NT",
+      "chamber": "NT Legislative Assembly",
+      "electorate": "Sanderson",
+      "state": "NT",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the Northern Territory Legislative Assembly, 2024–2028",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_Northern_Territory_Legislative_Assembly,_2024%E2%80%932028",
+        "publisher": "Wikipedia",
+        "date": ""
+      }
+    },
+    {
+      "id": "nt-steve-edgington-barkly",
+      "name": "Steve Edgington",
+      "party": "Country Liberal Party",
+      "party_group": "Coalition",
+      "jurisdiction": "NT",
+      "chamber": "NT Legislative Assembly",
+      "electorate": "Barkly",
+      "state": "NT",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the Northern Territory Legislative Assembly, 2024–2028",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_Northern_Territory_Legislative_Assembly,_2024%E2%80%932028",
+        "publisher": "Wikipedia",
+        "date": ""
+      }
+    },
+    {
+      "id": "nt-lia-finocchiaro-spillett",
+      "name": "Lia Finocchiaro",
+      "party": "Country Liberal Party",
+      "party_group": "Coalition",
+      "jurisdiction": "NT",
+      "chamber": "NT Legislative Assembly",
+      "electorate": "Spillett",
+      "state": "NT",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the Northern Territory Legislative Assembly, 2024–2028",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_Northern_Territory_Legislative_Assembly,_2024%E2%80%932028",
+        "publisher": "Wikipedia",
+        "date": ""
+      },
+      "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Lia_Finocchiaro_Profile.jpg/330px-Lia_Finocchiaro_Profile.jpg",
+      "photo_credit_url": "https://en.wikipedia.org/wiki/Lia_Finocchiaro"
+    },
+    {
+      "id": "nt-jo-hersey-katherine",
+      "name": "Jo Hersey",
+      "party": "Country Liberal Party",
+      "party_group": "Coalition",
+      "jurisdiction": "NT",
+      "chamber": "NT Legislative Assembly",
+      "electorate": "Katherine",
+      "state": "NT",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the Northern Territory Legislative Assembly, 2024–2028",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_Northern_Territory_Legislative_Assembly,_2024%E2%80%932028",
+        "publisher": "Wikipedia",
+        "date": ""
+      }
+    },
+    {
+      "id": "nt-clinton-howe-drysdale",
+      "name": "Clinton Howe",
+      "party": "Country Liberal Party",
+      "party_group": "Coalition",
+      "jurisdiction": "NT",
+      "chamber": "NT Legislative Assembly",
+      "electorate": "Drysdale",
+      "state": "NT",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the Northern Territory Legislative Assembly, 2024–2028",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_Northern_Territory_Legislative_Assembly,_2024%E2%80%932028",
+        "publisher": "Wikipedia",
+        "date": ""
+      },
+      "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Clinton_Howe_MLA.png/330px-Clinton_Howe_MLA.png",
+      "photo_credit_url": "https://en.wikipedia.org/wiki/Clinton_Howe"
+    },
+    {
+      "id": "nt-matthew-kerle-blain",
+      "name": "Matthew Kerle",
+      "party": "Country Liberal Party",
+      "party_group": "Coalition",
+      "jurisdiction": "NT",
+      "chamber": "NT Legislative Assembly",
+      "electorate": "Blain",
+      "state": "NT",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the Northern Territory Legislative Assembly, 2024–2028",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_Northern_Territory_Legislative_Assembly,_2024%E2%80%932028",
+        "publisher": "Wikipedia",
+        "date": ""
+      }
+    },
+    {
+      "id": "nt-andrew-mackay-goyder",
+      "name": "Andrew Mackay",
+      "party": "Country Liberal Party",
+      "party_group": "Coalition",
+      "jurisdiction": "NT",
+      "chamber": "NT Legislative Assembly",
+      "electorate": "Goyder",
+      "state": "NT",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the Northern Territory Legislative Assembly, 2024–2028",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_Northern_Territory_Legislative_Assembly,_2024%E2%80%932028",
+        "publisher": "Wikipedia",
+        "date": ""
+      }
+    },
+    {
+      "id": "nt-gerard-maley-nelson",
+      "name": "Gerard Maley",
+      "party": "Country Liberal Party",
+      "party_group": "Coalition",
+      "jurisdiction": "NT",
+      "chamber": "NT Legislative Assembly",
+      "electorate": "Nelson",
+      "state": "NT",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the Northern Territory Legislative Assembly, 2024–2028",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_Northern_Territory_Legislative_Assembly,_2024%E2%80%932028",
+        "publisher": "Wikipedia",
+        "date": ""
+      }
+    },
+    {
+      "id": "nt-brian-o-gallagher-karama",
+      "name": "Brian O'Gallagher",
+      "party": "Country Liberal Party",
+      "party_group": "Coalition",
+      "jurisdiction": "NT",
+      "chamber": "NT Legislative Assembly",
+      "electorate": "Karama",
+      "state": "NT",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the Northern Territory Legislative Assembly, 2024–2028",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_Northern_Territory_Legislative_Assembly,_2024%E2%80%932028",
+        "publisher": "Wikipedia",
+        "date": ""
+      }
+    },
+    {
+      "id": "nt-khoda-patel-casuarina",
+      "name": "Khoda Patel",
+      "party": "Country Liberal Party",
+      "party_group": "Coalition",
+      "jurisdiction": "NT",
+      "chamber": "NT Legislative Assembly",
+      "electorate": "Casuarina",
+      "state": "NT",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the Northern Territory Legislative Assembly, 2024–2028",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_Northern_Territory_Legislative_Assembly,_2024%E2%80%932028",
+        "publisher": "Wikipedia",
+        "date": ""
+      }
+    },
+    {
+      "id": "nt-tanzil-rahman-fong-lim",
+      "name": "Tanzil Rahman",
+      "party": "Country Liberal Party",
+      "party_group": "Coalition",
+      "jurisdiction": "NT",
+      "chamber": "NT Legislative Assembly",
+      "electorate": "Fong Lim",
+      "state": "NT",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the Northern Territory Legislative Assembly, 2024–2028",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_Northern_Territory_Legislative_Assembly,_2024%E2%80%932028",
+        "publisher": "Wikipedia",
+        "date": ""
+      },
+      "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Tanzilrahman_%28cropped%29.jpg/330px-Tanzilrahman_%28cropped%29.jpg",
+      "photo_credit_url": "https://en.wikipedia.org/wiki/Tanzil_Rahman"
+    },
+    {
+      "id": "nt-bill-yan-namatjira",
+      "name": "Bill Yan",
+      "party": "Country Liberal Party",
+      "party_group": "Coalition",
+      "jurisdiction": "NT",
+      "chamber": "NT Legislative Assembly",
+      "electorate": "Namatjira",
+      "state": "NT",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the Northern Territory Legislative Assembly, 2024–2028",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_Northern_Territory_Legislative_Assembly,_2024%E2%80%932028",
+        "publisher": "Wikipedia",
+        "date": ""
+      }
+    },
+    {
+      "id": "nt-laurie-zio-fannie-bay",
+      "name": "Laurie Zio",
+      "party": "Country Liberal Party",
+      "party_group": "Coalition",
+      "jurisdiction": "NT",
+      "chamber": "NT Legislative Assembly",
+      "electorate": "Fannie Bay",
+      "state": "NT",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the Northern Territory Legislative Assembly, 2024–2028",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_Northern_Territory_Legislative_Assembly,_2024%E2%80%932028",
+        "publisher": "Wikipedia",
+        "date": ""
+      }
+    },
+    {
+      "id": "nt-manuel-brown-arafura",
+      "name": "Manuel Brown",
+      "party": "Territory Labor Party",
+      "party_group": "Labor",
+      "jurisdiction": "NT",
+      "chamber": "NT Legislative Assembly",
+      "electorate": "Arafura",
+      "state": "NT",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the Northern Territory Legislative Assembly, 2024–2028",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_Northern_Territory_Legislative_Assembly,_2024%E2%80%932028",
+        "publisher": "Wikipedia",
+        "date": ""
+      }
+    },
+    {
+      "id": "nt-chansey-paech-gwoja",
+      "name": "Chansey Paech",
+      "party": "Territory Labor Party",
+      "party_group": "Labor",
+      "jurisdiction": "NT",
+      "chamber": "NT Legislative Assembly",
+      "electorate": "Gwoja",
+      "state": "NT",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the Northern Territory Legislative Assembly, 2024–2028",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_Northern_Territory_Legislative_Assembly,_2024%E2%80%932028",
+        "publisher": "Wikipedia",
+        "date": ""
+      },
+      "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Chansey_Paech.jpg/330px-Chansey_Paech.jpg",
+      "photo_credit_url": "https://en.wikipedia.org/wiki/Chansey_Paech"
+    },
+    {
+      "id": "nt-ed-smelt-nightcliff",
+      "name": "Ed Smelt",
+      "party": "Territory Labor Party",
+      "party_group": "Labor",
+      "jurisdiction": "NT",
+      "chamber": "NT Legislative Assembly",
+      "electorate": "Nightcliff",
+      "state": "NT",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the Northern Territory Legislative Assembly, 2024–2028",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_Northern_Territory_Legislative_Assembly,_2024%E2%80%932028",
+        "publisher": "Wikipedia",
+        "date": ""
+      }
+    },
+    {
+      "id": "nt-selena-uibo-arnhem",
+      "name": "Selena Uibo",
+      "party": "Territory Labor Party",
+      "party_group": "Labor",
+      "jurisdiction": "NT",
+      "chamber": "NT Legislative Assembly",
+      "electorate": "Arnhem",
+      "state": "NT",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the Northern Territory Legislative Assembly, 2024–2028",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_Northern_Territory_Legislative_Assembly,_2024%E2%80%932028",
+        "publisher": "Wikipedia",
+        "date": ""
+      },
+      "photo_url": "https://upload.wikimedia.org/wikipedia/commons/f/f6/SelenaUibo2025.png",
+      "photo_credit_url": "https://en.wikipedia.org/wiki/Selena_Uibo"
+    },
+    {
+      "id": "nt-dheran-young-daly",
+      "name": "Dheran Young",
+      "party": "Territory Labor Party",
+      "party_group": "Labor",
+      "jurisdiction": "NT",
+      "chamber": "NT Legislative Assembly",
+      "electorate": "Daly",
+      "state": "NT",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the Northern Territory Legislative Assembly, 2024–2028",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_Northern_Territory_Legislative_Assembly,_2024%E2%80%932028",
+        "publisher": "Wikipedia",
+        "date": ""
+      }
+    },
+    {
+      "id": "nt-justine-davis-johnston",
+      "name": "Justine Davis",
+      "party": "Independent",
+      "party_group": "Independent",
+      "jurisdiction": "NT",
+      "chamber": "NT Legislative Assembly",
+      "electorate": "Johnston",
+      "state": "NT",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the Northern Territory Legislative Assembly, 2024–2028",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_Northern_Territory_Legislative_Assembly,_2024%E2%80%932028",
+        "publisher": "Wikipedia",
+        "date": ""
+      }
+    },
+    {
+      "id": "nt-yingiya-mark-guyula-mulka",
+      "name": "Yingiya Mark Guyula",
+      "party": "Independent",
+      "party_group": "Independent",
+      "jurisdiction": "NT",
+      "chamber": "NT Legislative Assembly",
+      "electorate": "Mulka",
+      "state": "NT",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the Northern Territory Legislative Assembly, 2024–2028",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_Northern_Territory_Legislative_Assembly,_2024%E2%80%932028",
+        "publisher": "Wikipedia",
+        "date": ""
+      },
+      "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Yingiya_88_%28cropped%29.jpg/330px-Yingiya_88_%28cropped%29.jpg",
+      "photo_credit_url": "https://en.wikipedia.org/wiki/Yingiya_Mark_Guyula"
+    },
+    {
+      "id": "nt-robyn-lambley-araluen",
+      "name": "Robyn Lambley",
+      "party": "Independent",
+      "party_group": "Independent",
+      "jurisdiction": "NT",
+      "chamber": "NT Legislative Assembly",
+      "electorate": "Araluen",
+      "state": "NT",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the Northern Territory Legislative Assembly, 2024–2028",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_Northern_Territory_Legislative_Assembly,_2024%E2%80%932028",
+        "publisher": "Wikipedia",
+        "date": ""
+      },
+      "photo_url": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Robyn_Lambley.png",
+      "photo_credit_url": "https://en.wikipedia.org/wiki/Robyn_Lambley"
+    },
+    {
+      "id": "tasmania-nick-duigan-windermere",
+      "name": "Nick Duigan",
+      "party": "Liberal",
+      "party_group": "Coalition",
+      "jurisdiction": "Tasmania",
+      "chamber": "Tasmanian Legislative Council",
+      "electorate": "Windermere",
+      "state": "TAS",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the Tasmanian Legislative Council, 2023–2029",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_Tasmanian_Legislative_Council,_2023%E2%80%932029",
+        "publisher": "Wikipedia",
+        "date": ""
+      }
+    },
+    {
+      "id": "tasmania-jo-palmer-rosevears",
+      "name": "Jo Palmer",
+      "party": "Liberal",
+      "party_group": "Coalition",
+      "jurisdiction": "Tasmania",
+      "chamber": "Tasmanian Legislative Council",
+      "electorate": "Rosevears",
+      "state": "TAS",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the Tasmanian Legislative Council, 2023–2029",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_Tasmanian_Legislative_Council,_2023%E2%80%932029",
+        "publisher": "Wikipedia",
+        "date": ""
+      }
+    },
+    {
+      "id": "tasmania-kerry-vincent-prosser",
+      "name": "Kerry Vincent",
+      "party": "Liberal",
+      "party_group": "Coalition",
+      "jurisdiction": "Tasmania",
+      "chamber": "Tasmanian Legislative Council",
+      "electorate": "Prosser",
+      "state": "TAS",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the Tasmanian Legislative Council, 2023–2029",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_Tasmanian_Legislative_Council,_2023%E2%80%932029",
+        "publisher": "Wikipedia",
+        "date": ""
+      }
+    },
+    {
+      "id": "tasmania-luke-edmunds-pembroke",
+      "name": "Luke Edmunds",
+      "party": "Australian Labor Party",
+      "party_group": "Labor",
+      "jurisdiction": "Tasmania",
+      "chamber": "Tasmanian Legislative Council",
+      "electorate": "Pembroke",
+      "state": "TAS",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the Tasmanian Legislative Council, 2023–2029",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_Tasmanian_Legislative_Council,_2023%E2%80%932029",
+        "publisher": "Wikipedia",
+        "date": ""
+      }
+    },
+    {
+      "id": "tasmania-craig-farrell-derwent",
+      "name": "Craig Farrell",
+      "party": "Australian Labor Party",
+      "party_group": "Labor",
+      "jurisdiction": "Tasmania",
+      "chamber": "Tasmanian Legislative Council",
+      "electorate": "Derwent",
+      "state": "TAS",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the Tasmanian Legislative Council, 2023–2029",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_Tasmanian_Legislative_Council,_2023%E2%80%932029",
+        "publisher": "Wikipedia",
+        "date": ""
+      }
+    },
+    {
+      "id": "tasmania-sarah-lovell-rumney",
+      "name": "Sarah Lovell",
+      "party": "Australian Labor Party",
+      "party_group": "Labor",
+      "jurisdiction": "Tasmania",
+      "chamber": "Tasmanian Legislative Council",
+      "electorate": "Rumney",
+      "state": "TAS",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the Tasmanian Legislative Council, 2023–2029",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_Tasmanian_Legislative_Council,_2023%E2%80%932029",
+        "publisher": "Wikipedia",
+        "date": ""
+      }
+    },
+    {
+      "id": "tasmania-cassy-o-connor-hobart",
+      "name": "Cassy O'Connor",
+      "party": "Tasmanian Greens",
+      "party_group": "Greens",
+      "jurisdiction": "Tasmania",
+      "chamber": "Tasmanian Legislative Council",
+      "electorate": "Hobart",
+      "state": "TAS",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the Tasmanian Legislative Council, 2023–2029",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_Tasmanian_Legislative_Council,_2023%E2%80%932029",
+        "publisher": "Wikipedia",
+        "date": ""
+      },
+      "photo_url": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Cassy-Oconnor-2017-Ross.png",
+      "photo_credit_url": "https://en.wikipedia.org/wiki/Cassy_O'Connor"
+    },
+    {
+      "id": "tasmania-rosemary-armitage-launceston",
+      "name": "Rosemary Armitage",
+      "party": "Independent",
+      "party_group": "Independent",
+      "jurisdiction": "Tasmania",
+      "chamber": "Tasmanian Legislative Council",
+      "electorate": "Launceston",
+      "state": "TAS",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the Tasmanian Legislative Council, 2023–2029",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_Tasmanian_Legislative_Council,_2023%E2%80%932029",
+        "publisher": "Wikipedia",
+        "date": ""
+      }
+    },
+    {
+      "id": "tasmania-ruth-forrest-murchison",
+      "name": "Ruth Forrest",
+      "party": "Independent",
+      "party_group": "Independent",
+      "jurisdiction": "Tasmania",
+      "chamber": "Tasmanian Legislative Council",
+      "electorate": "Murchison",
+      "state": "TAS",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the Tasmanian Legislative Council, 2023–2029",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_Tasmanian_Legislative_Council,_2023%E2%80%932029",
+        "publisher": "Wikipedia",
+        "date": ""
+      }
+    },
+    {
+      "id": "tasmania-mike-gaffney-mersey",
+      "name": "Mike Gaffney",
+      "party": "Independent",
+      "party_group": "Independent",
+      "jurisdiction": "Tasmania",
+      "chamber": "Tasmanian Legislative Council",
+      "electorate": "Mersey",
+      "state": "TAS",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the Tasmanian Legislative Council, 2023–2029",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_Tasmanian_Legislative_Council,_2023%E2%80%932029",
+        "publisher": "Wikipedia",
+        "date": ""
+      }
+    },
+    {
+      "id": "tasmania-clare-glade-wright-huon",
+      "name": "Clare Glade-Wright",
+      "party": "Independent",
+      "party_group": "Independent",
+      "jurisdiction": "Tasmania",
+      "chamber": "Tasmanian Legislative Council",
+      "electorate": "Huon",
+      "state": "TAS",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the Tasmanian Legislative Council, 2023–2029",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_Tasmanian_Legislative_Council,_2023%E2%80%932029",
+        "publisher": "Wikipedia",
+        "date": ""
+      }
+    },
+    {
+      "id": "tasmania-casey-hiscutt-montgomery",
+      "name": "Casey Hiscutt",
+      "party": "Independent",
+      "party_group": "Independent",
+      "jurisdiction": "Tasmania",
+      "chamber": "Tasmanian Legislative Council",
+      "electorate": "Montgomery",
+      "state": "TAS",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the Tasmanian Legislative Council, 2023–2029",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_Tasmanian_Legislative_Council,_2023%E2%80%932029",
+        "publisher": "Wikipedia",
+        "date": ""
+      }
+    },
+    {
+      "id": "tasmania-bec-thomas-elwick",
+      "name": "Bec Thomas",
+      "party": "Independent",
+      "party_group": "Independent",
+      "jurisdiction": "Tasmania",
+      "chamber": "Tasmanian Legislative Council",
+      "electorate": "Elwick",
+      "state": "TAS",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the Tasmanian Legislative Council, 2023–2029",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_Tasmanian_Legislative_Council,_2023%E2%80%932029",
+        "publisher": "Wikipedia",
+        "date": ""
+      }
+    },
+    {
+      "id": "tasmania-meg-webb-nelson",
+      "name": "Meg Webb",
+      "party": "Independent",
+      "party_group": "Independent",
+      "jurisdiction": "Tasmania",
+      "chamber": "Tasmanian Legislative Council",
+      "electorate": "Nelson",
+      "state": "TAS",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the Tasmanian Legislative Council, 2023–2029",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_Tasmanian_Legislative_Council,_2023%E2%80%932029",
+        "publisher": "Wikipedia",
+        "date": ""
+      }
+    },
+    {
+      "id": "tasmania-tania-rattray-mcintyre",
+      "name": "Tania Rattray",
+      "party": "Independent",
+      "party_group": "Independent",
+      "jurisdiction": "Tasmania",
+      "chamber": "Tasmanian Legislative Council",
+      "electorate": "McIntyre",
+      "state": "TAS",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the Tasmanian Legislative Council, 2023–2029",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_Tasmanian_Legislative_Council,_2023%E2%80%932029",
+        "publisher": "Wikipedia",
+        "date": ""
+      }
+    },
+    {
+      "id": "tasmania-bridget-archer-bass",
+      "name": "Bridget Archer",
+      "party": "Liberal",
+      "party_group": "Coalition",
+      "jurisdiction": "Tasmania",
+      "chamber": "Tasmanian House of Assembly",
+      "electorate": "Bass",
+      "state": "TAS",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the Tasmanian House of Assembly, 2025–2029",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_Tasmanian_House_of_Assembly,_2025%E2%80%932029",
+        "publisher": "Wikipedia",
+        "date": ""
+      },
+      "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Bridget_Archer_MP.webp/330px-Bridget_Archer_MP.webp.png",
+      "photo_credit_url": "https://en.wikipedia.org/wiki/Bridget_Archer"
+    },
+    {
+      "id": "tasmania-rob-fairs-bass",
+      "name": "Rob Fairs",
+      "party": "Liberal",
+      "party_group": "Coalition",
+      "jurisdiction": "Tasmania",
+      "chamber": "Tasmanian House of Assembly",
+      "electorate": "Bass",
+      "state": "TAS",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the Tasmanian House of Assembly, 2025–2029",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_Tasmanian_House_of_Assembly,_2025%E2%80%932029",
+        "publisher": "Wikipedia",
+        "date": ""
+      }
+    },
+    {
+      "id": "tasmania-michael-ferguson-bass",
+      "name": "Michael Ferguson",
+      "party": "Liberal",
+      "party_group": "Coalition",
+      "jurisdiction": "Tasmania",
+      "chamber": "Tasmanian House of Assembly",
+      "electorate": "Bass",
+      "state": "TAS",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the Tasmanian House of Assembly, 2025–2029",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_Tasmanian_House_of_Assembly,_2025%E2%80%932029",
+        "publisher": "Wikipedia",
+        "date": ""
+      }
+    },
+    {
+      "id": "tasmania-janie-finlay-bass",
+      "name": "Janie Finlay",
+      "party": "Australian Labor Party",
+      "party_group": "Labor",
+      "jurisdiction": "Tasmania",
+      "chamber": "Tasmanian House of Assembly",
+      "electorate": "Bass",
+      "state": "TAS",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the Tasmanian House of Assembly, 2025–2029",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_Tasmanian_House_of_Assembly,_2025%E2%80%932029",
+        "publisher": "Wikipedia",
+        "date": ""
+      },
+      "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Janie_Finlay_cropped.jpg/330px-Janie_Finlay_cropped.jpg",
+      "photo_credit_url": "https://en.wikipedia.org/wiki/Janie_Finlay"
+    },
+    {
+      "id": "tasmania-jess-greene-bass",
+      "name": "Jess Greene",
+      "party": "Australian Labor Party",
+      "party_group": "Labor",
+      "jurisdiction": "Tasmania",
+      "chamber": "Tasmanian House of Assembly",
+      "electorate": "Bass",
+      "state": "TAS",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the Tasmanian House of Assembly, 2025–2029",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_Tasmanian_House_of_Assembly,_2025%E2%80%932029",
+        "publisher": "Wikipedia",
+        "date": ""
+      }
+    },
+    {
+      "id": "tasmania-cecily-rosol-bass",
+      "name": "Cecily Rosol",
+      "party": "Tasmanian Greens",
+      "party_group": "Greens",
+      "jurisdiction": "Tasmania",
+      "chamber": "Tasmanian House of Assembly",
+      "electorate": "Bass",
+      "state": "TAS",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the Tasmanian House of Assembly, 2025–2029",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_Tasmanian_House_of_Assembly,_2025%E2%80%932029",
+        "publisher": "Wikipedia",
+        "date": ""
+      },
+      "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Cecily_Rosol_portrait_2_%28cropped%29.jpeg/330px-Cecily_Rosol_portrait_2_%28cropped%29.jpeg",
+      "photo_credit_url": "https://en.wikipedia.org/wiki/Cecily_Rosol"
+    },
+    {
+      "id": "tasmania-george-razay-bass",
+      "name": "George Razay",
+      "party": "Independent",
+      "party_group": "Independent",
+      "jurisdiction": "Tasmania",
+      "chamber": "Tasmanian House of Assembly",
+      "electorate": "Bass",
+      "state": "TAS",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the Tasmanian House of Assembly, 2025–2029",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_Tasmanian_House_of_Assembly,_2025%E2%80%932029",
+        "publisher": "Wikipedia",
+        "date": ""
+      }
+    },
+    {
+      "id": "tasmania-shane-broad-braddon",
+      "name": "Shane Broad",
+      "party": "Australian Labor Party",
+      "party_group": "Labor",
+      "jurisdiction": "Tasmania",
+      "chamber": "Tasmanian House of Assembly",
+      "electorate": "Braddon",
+      "state": "TAS",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the Tasmanian House of Assembly, 2025–2029",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_Tasmanian_House_of_Assembly,_2025%E2%80%932029",
+        "publisher": "Wikipedia",
+        "date": ""
+      },
+      "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Shane_Broad_MP.png/330px-Shane_Broad_MP.png",
+      "photo_credit_url": "https://en.wikipedia.org/wiki/Shane_Broad"
+    },
+    {
+      "id": "tasmania-anita-dow-braddon",
+      "name": "Anita Dow",
+      "party": "Australian Labor Party",
+      "party_group": "Labor",
+      "jurisdiction": "Tasmania",
+      "chamber": "Tasmanian House of Assembly",
+      "electorate": "Braddon",
+      "state": "TAS",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the Tasmanian House of Assembly, 2025–2029",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_Tasmanian_House_of_Assembly,_2025%E2%80%932029",
+        "publisher": "Wikipedia",
+        "date": ""
+      },
+      "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Memorial-unveilings-Burnie-20150331-004-crop1.jpg/330px-Memorial-unveilings-Burnie-20150331-004-crop1.jpg",
+      "photo_credit_url": "https://en.wikipedia.org/wiki/Anita_Dow"
+    },
+    {
+      "id": "tasmania-felix-ellis-braddon",
+      "name": "Felix Ellis",
+      "party": "Liberal",
+      "party_group": "Coalition",
+      "jurisdiction": "Tasmania",
+      "chamber": "Tasmanian House of Assembly",
+      "electorate": "Braddon",
+      "state": "TAS",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the Tasmanian House of Assembly, 2025–2029",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_Tasmanian_House_of_Assembly,_2025%E2%80%932029",
+        "publisher": "Wikipedia",
+        "date": ""
+      }
+    },
+    {
+      "id": "tasmania-craig-garland-braddon",
+      "name": "Craig Garland",
+      "party": "Independent",
+      "party_group": "Independent",
+      "jurisdiction": "Tasmania",
+      "chamber": "Tasmanian House of Assembly",
+      "electorate": "Braddon",
+      "state": "TAS",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the Tasmanian House of Assembly, 2025–2029",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_Tasmanian_House_of_Assembly,_2025%E2%80%932029",
+        "publisher": "Wikipedia",
+        "date": ""
+      }
+    },
+    {
+      "id": "tasmania-roger-jaensch-braddon",
+      "name": "Roger Jaensch",
+      "party": "Liberal",
+      "party_group": "Coalition",
+      "jurisdiction": "Tasmania",
+      "chamber": "Tasmanian House of Assembly",
+      "electorate": "Braddon",
+      "state": "TAS",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the Tasmanian House of Assembly, 2025–2029",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_Tasmanian_House_of_Assembly,_2025%E2%80%932029",
+        "publisher": "Wikipedia",
+        "date": ""
+      },
+      "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Roger_Jaensch.png/330px-Roger_Jaensch.png",
+      "photo_credit_url": "https://en.wikipedia.org/wiki/Roger_Jaensch"
+    },
+    {
+      "id": "tasmania-gavin-pearce-braddon",
+      "name": "Gavin Pearce",
+      "party": "Liberal",
+      "party_group": "Coalition",
+      "jurisdiction": "Tasmania",
+      "chamber": "Tasmanian House of Assembly",
+      "electorate": "Braddon",
+      "state": "TAS",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the Tasmanian House of Assembly, 2025–2029",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_Tasmanian_House_of_Assembly,_2025%E2%80%932029",
+        "publisher": "Wikipedia",
+        "date": ""
+      },
+      "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Gavin_Pearce_2019.jpg/330px-Gavin_Pearce_2019.jpg",
+      "photo_credit_url": "https://en.wikipedia.org/wiki/Gavin_Pearce"
+    },
+    {
+      "id": "tasmania-jeremy-rockliff-braddon",
+      "name": "Jeremy Rockliff",
+      "party": "Liberal",
+      "party_group": "Coalition",
+      "jurisdiction": "Tasmania",
+      "chamber": "Tasmanian House of Assembly",
+      "electorate": "Braddon",
+      "state": "TAS",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the Tasmanian House of Assembly, 2025–2029",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_Tasmanian_House_of_Assembly,_2025%E2%80%932029",
+        "publisher": "Wikipedia",
+        "date": ""
+      },
+      "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/TasPremierRockliff2024.png/330px-TasPremierRockliff2024.png",
+      "photo_credit_url": "https://en.wikipedia.org/wiki/Jeremy_Rockliff"
+    },
+    {
+      "id": "tasmania-vica-bayley-clark",
+      "name": "Vica Bayley",
+      "party": "Tasmanian Greens",
+      "party_group": "Greens",
+      "jurisdiction": "Tasmania",
+      "chamber": "Tasmanian House of Assembly",
+      "electorate": "Clark",
+      "state": "TAS",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the Tasmanian House of Assembly, 2025–2029",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_Tasmanian_House_of_Assembly,_2025%E2%80%932029",
+        "publisher": "Wikipedia",
+        "date": ""
+      },
+      "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Vica_Bayley_headshot_1_%28cropped%29.jpg/330px-Vica_Bayley_headshot_1_%28cropped%29.jpg",
+      "photo_credit_url": "https://en.wikipedia.org/wiki/Vica_Bayley"
+    },
+    {
+      "id": "tasmania-helen-burnet-clark",
+      "name": "Helen Burnet",
+      "party": "Independent",
+      "party_group": "Independent",
+      "jurisdiction": "Tasmania",
+      "chamber": "Tasmanian House of Assembly",
+      "electorate": "Clark",
+      "state": "TAS",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the Tasmanian House of Assembly, 2025–2029",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_Tasmanian_House_of_Assembly,_2025%E2%80%932029",
+        "publisher": "Wikipedia",
+        "date": ""
+      },
+      "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Helen_Burnet.png/330px-Helen_Burnet.png",
+      "photo_credit_url": "https://en.wikipedia.org/wiki/Helen_Burnet"
+    },
+    {
+      "id": "tasmania-ella-haddad-clark",
+      "name": "Ella Haddad",
+      "party": "Australian Labor Party",
+      "party_group": "Labor",
+      "jurisdiction": "Tasmania",
+      "chamber": "Tasmanian House of Assembly",
+      "electorate": "Clark",
+      "state": "TAS",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the Tasmanian House of Assembly, 2025–2029",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_Tasmanian_House_of_Assembly,_2025%E2%80%932029",
+        "publisher": "Wikipedia",
+        "date": ""
+      }
+    },
+    {
+      "id": "tasmania-kristie-johnston-clark",
+      "name": "Kristie Johnston",
+      "party": "Independent",
+      "party_group": "Independent",
+      "jurisdiction": "Tasmania",
+      "chamber": "Tasmanian House of Assembly",
+      "electorate": "Clark",
+      "state": "TAS",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the Tasmanian House of Assembly, 2025–2029",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_Tasmanian_House_of_Assembly,_2025%E2%80%932029",
+        "publisher": "Wikipedia",
+        "date": ""
+      }
+    },
+    {
+      "id": "tasmania-madeleine-ogilvie-clark",
+      "name": "Madeleine Ogilvie",
+      "party": "Liberal",
+      "party_group": "Coalition",
+      "jurisdiction": "Tasmania",
+      "chamber": "Tasmanian House of Assembly",
+      "electorate": "Clark",
+      "state": "TAS",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the Tasmanian House of Assembly, 2025–2029",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_Tasmanian_House_of_Assembly,_2025%E2%80%932029",
+        "publisher": "Wikipedia",
+        "date": ""
+      }
+    },
+    {
+      "id": "tasmania-marcus-vermey-clark",
+      "name": "Marcus Vermey",
+      "party": "Liberal",
+      "party_group": "Coalition",
+      "jurisdiction": "Tasmania",
+      "chamber": "Tasmanian House of Assembly",
+      "electorate": "Clark",
+      "state": "TAS",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the Tasmanian House of Assembly, 2025–2029",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_Tasmanian_House_of_Assembly,_2025%E2%80%932029",
+        "publisher": "Wikipedia",
+        "date": ""
+      }
+    },
+    {
+      "id": "tasmania-josh-willie-clark",
+      "name": "Josh Willie",
+      "party": "Australian Labor Party",
+      "party_group": "Labor",
+      "jurisdiction": "Tasmania",
+      "chamber": "Tasmanian House of Assembly",
+      "electorate": "Clark",
+      "state": "TAS",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the Tasmanian House of Assembly, 2025–2029",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_Tasmanian_House_of_Assembly,_2025%E2%80%932029",
+        "publisher": "Wikipedia",
+        "date": ""
+      },
+      "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Josh_willie_spirits_photo_headshot.jpg/330px-Josh_willie_spirits_photo_headshot.jpg",
+      "photo_credit_url": "https://en.wikipedia.org/wiki/Josh_Willie"
+    },
+    {
+      "id": "tasmania-eric-abetz-franklin",
+      "name": "Eric Abetz",
+      "party": "Liberal",
+      "party_group": "Coalition",
+      "jurisdiction": "Tasmania",
+      "chamber": "Tasmanian House of Assembly",
+      "electorate": "Franklin",
+      "state": "TAS",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the Tasmanian House of Assembly, 2025–2029",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_Tasmanian_House_of_Assembly,_2025%E2%80%932029",
+        "publisher": "Wikipedia",
+        "date": ""
+      },
+      "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Senator_Eric_Abetz_crop_b.jpg/330px-Senator_Eric_Abetz_crop_b.jpg",
+      "photo_credit_url": "https://en.wikipedia.org/wiki/Eric_Abetz"
+    },
+    {
+      "id": "tasmania-meg-brown-franklin",
+      "name": "Meg Brown",
+      "party": "Australian Labor Party",
+      "party_group": "Labor",
+      "jurisdiction": "Tasmania",
+      "chamber": "Tasmanian House of Assembly",
+      "electorate": "Franklin",
+      "state": "TAS",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the Tasmanian House of Assembly, 2025–2029",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_Tasmanian_House_of_Assembly,_2025%E2%80%932029",
+        "publisher": "Wikipedia",
+        "date": ""
+      },
+      "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Meg_Brown_portrait.jpg/330px-Meg_Brown_portrait.jpg",
+      "photo_credit_url": "https://en.wikipedia.org/wiki/Meg_Brown"
+    },
+    {
+      "id": "tasmania-peter-george-franklin",
+      "name": "Peter George",
+      "party": "Independent",
+      "party_group": "Independent",
+      "jurisdiction": "Tasmania",
+      "chamber": "Tasmanian House of Assembly",
+      "electorate": "Franklin",
+      "state": "TAS",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the Tasmanian House of Assembly, 2025–2029",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_Tasmanian_House_of_Assembly,_2025%E2%80%932029",
+        "publisher": "Wikipedia",
+        "date": ""
+      },
+      "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Peter_George.png/330px-Peter_George.png",
+      "photo_credit_url": "https://en.wikipedia.org/wiki/Peter_George_(politician)"
+    },
+    {
+      "id": "tasmania-jacquie-petrusma-franklin",
+      "name": "Jacquie Petrusma",
+      "party": "Liberal",
+      "party_group": "Coalition",
+      "jurisdiction": "Tasmania",
+      "chamber": "Tasmanian House of Assembly",
+      "electorate": "Franklin",
+      "state": "TAS",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the Tasmanian House of Assembly, 2025–2029",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_Tasmanian_House_of_Assembly,_2025%E2%80%932029",
+        "publisher": "Wikipedia",
+        "date": ""
+      }
+    },
+    {
+      "id": "tasmania-david-o-byrne-franklin",
+      "name": "David O'Byrne",
+      "party": "Independent",
+      "party_group": "Independent",
+      "jurisdiction": "Tasmania",
+      "chamber": "Tasmanian House of Assembly",
+      "electorate": "Franklin",
+      "state": "TAS",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the Tasmanian House of Assembly, 2025–2029",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_Tasmanian_House_of_Assembly,_2025%E2%80%932029",
+        "publisher": "Wikipedia",
+        "date": ""
+      },
+      "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/DAVID_O%27BYRNE.jpg/330px-DAVID_O%27BYRNE.jpg",
+      "photo_credit_url": "https://en.wikipedia.org/wiki/David_O'Byrne"
+    },
+    {
+      "id": "tasmania-dean-winter-franklin",
+      "name": "Dean Winter",
+      "party": "Australian Labor Party",
+      "party_group": "Labor",
+      "jurisdiction": "Tasmania",
+      "chamber": "Tasmanian House of Assembly",
+      "electorate": "Franklin",
+      "state": "TAS",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the Tasmanian House of Assembly, 2025–2029",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_Tasmanian_House_of_Assembly,_2025%E2%80%932029",
+        "publisher": "Wikipedia",
+        "date": ""
+      },
+      "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Dean_Winter_Jobs_plan_for_stadium_%28cropped%29.jpg/330px-Dean_Winter_Jobs_plan_for_stadium_%28cropped%29.jpg",
+      "photo_credit_url": "https://en.wikipedia.org/wiki/Dean_Winter"
+    },
+    {
+      "id": "tasmania-rosalie-woodruff-franklin",
+      "name": "Rosalie Woodruff",
+      "party": "Tasmanian Greens",
+      "party_group": "Greens",
+      "jurisdiction": "Tasmania",
+      "chamber": "Tasmanian House of Assembly",
+      "electorate": "Franklin",
+      "state": "TAS",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the Tasmanian House of Assembly, 2025–2029",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_Tasmanian_House_of_Assembly,_2025%E2%80%932029",
+        "publisher": "Wikipedia",
+        "date": ""
+      },
+      "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/RosalieWoodruff.jpg/330px-RosalieWoodruff.jpg",
+      "photo_credit_url": "https://en.wikipedia.org/wiki/Rosalie_Woodruff"
+    },
+    {
+      "id": "tasmania-tabatha-badger-lyons",
+      "name": "Tabatha Badger",
+      "party": "Tasmanian Greens",
+      "party_group": "Greens",
+      "jurisdiction": "Tasmania",
+      "chamber": "Tasmanian House of Assembly",
+      "electorate": "Lyons",
+      "state": "TAS",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the Tasmanian House of Assembly, 2025–2029",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_Tasmanian_House_of_Assembly,_2025%E2%80%932029",
+        "publisher": "Wikipedia",
+        "date": ""
+      },
+      "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Tabatha_Badger_portrait_1_%28cropped%29.jpg/330px-Tabatha_Badger_portrait_1_%28cropped%29.jpg",
+      "photo_credit_url": "https://en.wikipedia.org/wiki/Tabatha_Badger"
+    },
+    {
+      "id": "tasmania-guy-barnett-lyons",
+      "name": "Guy Barnett",
+      "party": "Liberal",
+      "party_group": "Coalition",
+      "jurisdiction": "Tasmania",
+      "chamber": "Tasmanian House of Assembly",
+      "electorate": "Lyons",
+      "state": "TAS",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the Tasmanian House of Assembly, 2025–2029",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_Tasmanian_House_of_Assembly,_2025%E2%80%932029",
+        "publisher": "Wikipedia",
+        "date": ""
+      },
+      "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Guy-Barnett-crop-20150331-015.jpg/330px-Guy-Barnett-crop-20150331-015.jpg",
+      "photo_credit_url": "https://en.wikipedia.org/wiki/Guy_Barnett_(Australian_politician)"
+    },
+    {
+      "id": "tasmania-jen-butler-lyons",
+      "name": "Jen Butler",
+      "party": "Australian Labor Party",
+      "party_group": "Labor",
+      "jurisdiction": "Tasmania",
+      "chamber": "Tasmanian House of Assembly",
+      "electorate": "Lyons",
+      "state": "TAS",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the Tasmanian House of Assembly, 2025–2029",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_Tasmanian_House_of_Assembly,_2025%E2%80%932029",
+        "publisher": "Wikipedia",
+        "date": ""
+      }
+    },
+    {
+      "id": "tasmania-carlo-di-falco-lyons",
+      "name": "Carlo Di Falco",
+      "party": "Shooters, Fishers and Farmers Party",
+      "party_group": "Other / minor party",
+      "jurisdiction": "Tasmania",
+      "chamber": "Tasmanian House of Assembly",
+      "electorate": "Lyons",
+      "state": "TAS",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the Tasmanian House of Assembly, 2025–2029",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_Tasmanian_House_of_Assembly,_2025%E2%80%932029",
+        "publisher": "Wikipedia",
+        "date": ""
+      }
+    },
+    {
+      "id": "tasmania-jane-howlett-lyons",
+      "name": "Jane Howlett",
+      "party": "Liberal",
+      "party_group": "Coalition",
+      "jurisdiction": "Tasmania",
+      "chamber": "Tasmanian House of Assembly",
+      "electorate": "Lyons",
+      "state": "TAS",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the Tasmanian House of Assembly, 2025–2029",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_Tasmanian_House_of_Assembly,_2025%E2%80%932029",
+        "publisher": "Wikipedia",
+        "date": ""
+      }
+    },
+    {
+      "id": "tasmania-brian-mitchell-lyons",
+      "name": "Brian Mitchell",
+      "party": "Australian Labor Party",
+      "party_group": "Labor",
+      "jurisdiction": "Tasmania",
+      "chamber": "Tasmanian House of Assembly",
+      "electorate": "Lyons",
+      "state": "TAS",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the Tasmanian House of Assembly, 2025–2029",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_Tasmanian_House_of_Assembly,_2025%E2%80%932029",
+        "publisher": "Wikipedia",
+        "date": ""
+      }
+    },
+    {
+      "id": "tasmania-mark-shelton-lyons",
+      "name": "Mark Shelton",
+      "party": "Liberal",
+      "party_group": "Coalition",
+      "jurisdiction": "Tasmania",
+      "chamber": "Tasmanian House of Assembly",
+      "electorate": "Lyons",
+      "state": "TAS",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the Tasmanian House of Assembly, 2025–2029",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_Tasmanian_House_of_Assembly,_2025%E2%80%932029",
+        "publisher": "Wikipedia",
+        "date": ""
+      }
     }
   ]
 }
