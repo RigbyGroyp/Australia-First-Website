@@ -1,0 +1,39 @@
+{
+  "jurisdiction": "NT",
+  "chamber": "NT Legislative Assembly",
+  "state": "NT",
+  "source": {
+    "title": "Members of the Northern Territory Legislative Assembly, 2024–2028",
+    "url": "https://en.wikipedia.org/wiki/Members_of_the_Northern_Territory_Legislative_Assembly,_2024%E2%80%932028",
+    "publisher": "Wikipedia",
+    "date": ""
+  },
+  "note": "Elected August 2024. Nightcliff: Ed Smelt (Labor) won the 7 March 2026 by-election after Greens MLA Kat McNamara resigned (Feb 2026).",
+  "members": [
+    {"name": "Marie-Clare Boothby", "party": "Country Liberal Party", "electorate": "Brennan"},
+    {"name": "Joshua Burgoyne", "party": "Country Liberal Party", "electorate": "Braitling"},
+    {"name": "Robyn Cahill", "party": "Country Liberal Party", "electorate": "Port Darwin"},
+    {"name": "Oly Carlson", "party": "Country Liberal Party", "electorate": "Wanguri"},
+    {"name": "Jinson Charls", "party": "Country Liberal Party", "electorate": "Sanderson"},
+    {"name": "Steve Edgington", "party": "Country Liberal Party", "electorate": "Barkly"},
+    {"name": "Lia Finocchiaro", "party": "Country Liberal Party", "electorate": "Spillett"},
+    {"name": "Jo Hersey", "party": "Country Liberal Party", "electorate": "Katherine"},
+    {"name": "Clinton Howe", "party": "Country Liberal Party", "electorate": "Drysdale"},
+    {"name": "Matthew Kerle", "party": "Country Liberal Party", "electorate": "Blain"},
+    {"name": "Andrew Mackay", "party": "Country Liberal Party", "electorate": "Goyder"},
+    {"name": "Gerard Maley", "party": "Country Liberal Party", "electorate": "Nelson"},
+    {"name": "Brian O'Gallagher", "party": "Country Liberal Party", "electorate": "Karama"},
+    {"name": "Khoda Patel", "party": "Country Liberal Party", "electorate": "Casuarina"},
+    {"name": "Tanzil Rahman", "party": "Country Liberal Party", "electorate": "Fong Lim"},
+    {"name": "Bill Yan", "party": "Country Liberal Party", "electorate": "Namatjira"},
+    {"name": "Laurie Zio", "party": "Country Liberal Party", "electorate": "Fannie Bay"},
+    {"name": "Manuel Brown", "party": "Territory Labor Party", "electorate": "Arafura"},
+    {"name": "Chansey Paech", "party": "Territory Labor Party", "electorate": "Gwoja"},
+    {"name": "Ed Smelt", "party": "Territory Labor Party", "electorate": "Nightcliff"},
+    {"name": "Selena Uibo", "party": "Territory Labor Party", "electorate": "Arnhem"},
+    {"name": "Dheran Young", "party": "Territory Labor Party", "electorate": "Daly"},
+    {"name": "Justine Davis", "party": "Independent", "electorate": "Johnston"},
+    {"name": "Yingiya Mark Guyula", "party": "Independent", "electorate": "Mulka"},
+    {"name": "Robyn Lambley", "party": "Independent", "electorate": "Araluen"}
+  ]
+}
