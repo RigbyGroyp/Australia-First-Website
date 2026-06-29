@@ -13304,6 +13304,2571 @@
       "photo_credit_url": "https://en.wikipedia.org/wiki/Thomas_Emerson_(politician)"
     },
     {
+      "id": "new-south-wales-jenny-aitchison-maitland",
+      "name": "Jenny Aitchison",
+      "party": "Australian Labor Party",
+      "party_group": "Labor",
+      "jurisdiction": "New South Wales",
+      "chamber": "New South Wales Legislative Assembly",
+      "electorate": "Maitland",
+      "state": "NSW",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the New South Wales Legislative Assembly, 2023–2027",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_New_South_Wales_Legislative_Assembly,_2023%E2%80%932027",
+        "publisher": "Wikipedia",
+        "date": ""
+      }
+    },
+    {
+      "id": "new-south-wales-kevin-anderson-tamworth",
+      "name": "Kevin Anderson",
+      "party": "The Nationals",
+      "party_group": "Coalition",
+      "jurisdiction": "New South Wales",
+      "chamber": "New South Wales Legislative Assembly",
+      "electorate": "Tamworth",
+      "state": "NSW",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the New South Wales Legislative Assembly, 2023–2027",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_New_South_Wales_Legislative_Assembly,_2023%E2%80%932027",
+        "publisher": "Wikipedia",
+        "date": ""
+      }
+    },
+    {
+      "id": "new-south-wales-edmond-atalla-mount-druitt",
+      "name": "Edmond Atalla",
+      "party": "Australian Labor Party",
+      "party_group": "Labor",
+      "jurisdiction": "New South Wales",
+      "chamber": "New South Wales Legislative Assembly",
+      "electorate": "Mount Druitt",
+      "state": "NSW",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the New South Wales Legislative Assembly, 2023–2027",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_New_South_Wales_Legislative_Assembly,_2023%E2%80%932027",
+        "publisher": "Wikipedia",
+        "date": ""
+      }
+    },
+    {
+      "id": "new-south-wales-tina-ayyad-holsworthy",
+      "name": "Tina Ayyad",
+      "party": "Liberal Party",
+      "party_group": "Coalition",
+      "jurisdiction": "New South Wales",
+      "chamber": "New South Wales Legislative Assembly",
+      "electorate": "Holsworthy",
+      "state": "NSW",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the New South Wales Legislative Assembly, 2023–2027",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_New_South_Wales_Legislative_Assembly,_2023%E2%80%932027",
+        "publisher": "Wikipedia",
+        "date": ""
+      }
+    },
+    {
+      "id": "new-south-wales-stephen-bali-blacktown",
+      "name": "Stephen Bali",
+      "party": "Australian Labor Party",
+      "party_group": "Labor",
+      "jurisdiction": "New South Wales",
+      "chamber": "New South Wales Legislative Assembly",
+      "electorate": "Blacktown",
+      "state": "NSW",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the New South Wales Legislative Assembly, 2023–2027",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_New_South_Wales_Legislative_Assembly,_2023%E2%80%932027",
+        "publisher": "Wikipedia",
+        "date": ""
+      }
+    },
+    {
+      "id": "new-south-wales-clayton-barr-cessnock",
+      "name": "Clayton Barr",
+      "party": "Australian Labor Party",
+      "party_group": "Labor",
+      "jurisdiction": "New South Wales",
+      "chamber": "New South Wales Legislative Assembly",
+      "electorate": "Cessnock",
+      "state": "NSW",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the New South Wales Legislative Assembly, 2023–2027",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_New_South_Wales_Legislative_Assembly,_2023%E2%80%932027",
+        "publisher": "Wikipedia",
+        "date": ""
+      }
+    },
+    {
+      "id": "new-south-wales-liza-butler-south-coast",
+      "name": "Liza Butler",
+      "party": "Australian Labor Party",
+      "party_group": "Labor",
+      "jurisdiction": "New South Wales",
+      "chamber": "New South Wales Legislative Assembly",
+      "electorate": "South Coast",
+      "state": "NSW",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the New South Wales Legislative Assembly, 2023–2027",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_New_South_Wales_Legislative_Assembly,_2023%E2%80%932027",
+        "publisher": "Wikipedia",
+        "date": ""
+      }
+    },
+    {
+      "id": "new-south-wales-roy-butler-barwon",
+      "name": "Roy Butler",
+      "party": "Independent",
+      "party_group": "Independent",
+      "jurisdiction": "New South Wales",
+      "chamber": "New South Wales Legislative Assembly",
+      "electorate": "Barwon",
+      "state": "NSW",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the New South Wales Legislative Assembly, 2023–2027",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_New_South_Wales_Legislative_Assembly,_2023%E2%80%932027",
+        "publisher": "Wikipedia",
+        "date": ""
+      }
+    },
+    {
+      "id": "new-south-wales-prue-car-londonderry",
+      "name": "Prue Car",
+      "party": "Australian Labor Party",
+      "party_group": "Labor",
+      "jurisdiction": "New South Wales",
+      "chamber": "New South Wales Legislative Assembly",
+      "electorate": "Londonderry",
+      "state": "NSW",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the New South Wales Legislative Assembly, 2023–2027",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_New_South_Wales_Legislative_Assembly,_2023%E2%80%932027",
+        "publisher": "Wikipedia",
+        "date": ""
+      }
+    },
+    {
+      "id": "new-south-wales-yasmin-catley-swansea",
+      "name": "Yasmin Catley",
+      "party": "Australian Labor Party",
+      "party_group": "Labor",
+      "jurisdiction": "New South Wales",
+      "chamber": "New South Wales Legislative Assembly",
+      "electorate": "Swansea",
+      "state": "NSW",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the New South Wales Legislative Assembly, 2023–2027",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_New_South_Wales_Legislative_Assembly,_2023%E2%80%932027",
+        "publisher": "Wikipedia",
+        "date": ""
+      }
+    },
+    {
+      "id": "new-south-wales-anoulack-chanthivong-macquarie-fields",
+      "name": "Anoulack Chanthivong",
+      "party": "Australian Labor Party",
+      "party_group": "Labor",
+      "jurisdiction": "New South Wales",
+      "chamber": "New South Wales Legislative Assembly",
+      "electorate": "Macquarie Fields",
+      "state": "NSW",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the New South Wales Legislative Assembly, 2023–2027",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_New_South_Wales_Legislative_Assembly,_2023%E2%80%932027",
+        "publisher": "Wikipedia",
+        "date": ""
+      }
+    },
+    {
+      "id": "new-south-wales-justin-clancy-albury",
+      "name": "Justin Clancy",
+      "party": "Liberal Party",
+      "party_group": "Coalition",
+      "jurisdiction": "New South Wales",
+      "chamber": "New South Wales Legislative Assembly",
+      "electorate": "Albury",
+      "state": "NSW",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the New South Wales Legislative Assembly, 2023–2027",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_New_South_Wales_Legislative_Assembly,_2023%E2%80%932027",
+        "publisher": "Wikipedia",
+        "date": ""
+      }
+    },
+    {
+      "id": "new-south-wales-steph-cooke-cootamundra",
+      "name": "Steph Cooke",
+      "party": "The Nationals",
+      "party_group": "Coalition",
+      "jurisdiction": "New South Wales",
+      "chamber": "New South Wales Legislative Assembly",
+      "electorate": "Cootamundra",
+      "state": "NSW",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the New South Wales Legislative Assembly, 2023–2027",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_New_South_Wales_Legislative_Assembly,_2023%E2%80%932027",
+        "publisher": "Wikipedia",
+        "date": ""
+      }
+    },
+    {
+      "id": "new-south-wales-sophie-cotsis-canterbury",
+      "name": "Sophie Cotsis",
+      "party": "Australian Labor Party",
+      "party_group": "Labor",
+      "jurisdiction": "New South Wales",
+      "chamber": "New South Wales Legislative Assembly",
+      "electorate": "Canterbury",
+      "state": "NSW",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the New South Wales Legislative Assembly, 2023–2027",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_New_South_Wales_Legislative_Assembly,_2023%E2%80%932027",
+        "publisher": "Wikipedia",
+        "date": ""
+      }
+    },
+    {
+      "id": "new-south-wales-mark-coure-oatley",
+      "name": "Mark Coure",
+      "party": "Liberal Party",
+      "party_group": "Coalition",
+      "jurisdiction": "New South Wales",
+      "chamber": "New South Wales Legislative Assembly",
+      "electorate": "Oatley",
+      "state": "NSW",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the New South Wales Legislative Assembly, 2023–2027",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_New_South_Wales_Legislative_Assembly,_2023%E2%80%932027",
+        "publisher": "Wikipedia",
+        "date": ""
+      }
+    },
+    {
+      "id": "new-south-wales-tim-crakanthorp-newcastle",
+      "name": "Tim Crakanthorp",
+      "party": "Australian Labor Party",
+      "party_group": "Labor",
+      "jurisdiction": "New South Wales",
+      "chamber": "New South Wales Legislative Assembly",
+      "electorate": "Newcastle",
+      "state": "NSW",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the New South Wales Legislative Assembly, 2023–2027",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_New_South_Wales_Legislative_Assembly,_2023%E2%80%932027",
+        "publisher": "Wikipedia",
+        "date": ""
+      }
+    },
+    {
+      "id": "new-south-wales-matt-cross-davidson",
+      "name": "Matt Cross",
+      "party": "Liberal Party",
+      "party_group": "Coalition",
+      "jurisdiction": "New South Wales",
+      "chamber": "New South Wales Legislative Assembly",
+      "electorate": "Davidson",
+      "state": "NSW",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the New South Wales Legislative Assembly, 2023–2027",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_New_South_Wales_Legislative_Assembly,_2023%E2%80%932027",
+        "publisher": "Wikipedia",
+        "date": ""
+      }
+    },
+    {
+      "id": "new-south-wales-adam-crouch-terrigal",
+      "name": "Adam Crouch",
+      "party": "Liberal Party",
+      "party_group": "Coalition",
+      "jurisdiction": "New South Wales",
+      "chamber": "New South Wales Legislative Assembly",
+      "electorate": "Terrigal",
+      "state": "NSW",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the New South Wales Legislative Assembly, 2023–2027",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_New_South_Wales_Legislative_Assembly,_2023%E2%80%932027",
+        "publisher": "Wikipedia",
+        "date": ""
+      }
+    },
+    {
+      "id": "new-south-wales-michael-daley-maroubra",
+      "name": "Michael Daley",
+      "party": "Australian Labor Party",
+      "party_group": "Labor",
+      "jurisdiction": "New South Wales",
+      "chamber": "New South Wales Legislative Assembly",
+      "electorate": "Maroubra",
+      "state": "NSW",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the New South Wales Legislative Assembly, 2023–2027",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_New_South_Wales_Legislative_Assembly,_2023%E2%80%932027",
+        "publisher": "Wikipedia",
+        "date": ""
+      }
+    },
+    {
+      "id": "new-south-wales-helen-dalton-murray",
+      "name": "Helen Dalton",
+      "party": "Independent",
+      "party_group": "Independent",
+      "jurisdiction": "New South Wales",
+      "chamber": "New South Wales Legislative Assembly",
+      "electorate": "Murray",
+      "state": "NSW",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the New South Wales Legislative Assembly, 2023–2027",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_New_South_Wales_Legislative_Assembly,_2023%E2%80%932027",
+        "publisher": "Wikipedia",
+        "date": ""
+      }
+    },
+    {
+      "id": "new-south-wales-tanya-davies-badgerys-creek",
+      "name": "Tanya Davies",
+      "party": "Liberal Party",
+      "party_group": "Coalition",
+      "jurisdiction": "New South Wales",
+      "chamber": "New South Wales Legislative Assembly",
+      "electorate": "Badgerys Creek",
+      "state": "NSW",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the New South Wales Legislative Assembly, 2023–2027",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_New_South_Wales_Legislative_Assembly,_2023%E2%80%932027",
+        "publisher": "Wikipedia",
+        "date": ""
+      }
+    },
+    {
+      "id": "new-south-wales-donna-davis-parramatta",
+      "name": "Donna Davis",
+      "party": "Australian Labor Party",
+      "party_group": "Labor",
+      "jurisdiction": "New South Wales",
+      "chamber": "New South Wales Legislative Assembly",
+      "electorate": "Parramatta",
+      "state": "NSW",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the New South Wales Legislative Assembly, 2023–2027",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_New_South_Wales_Legislative_Assembly,_2023%E2%80%932027",
+        "publisher": "Wikipedia",
+        "date": ""
+      }
+    },
+    {
+      "id": "new-south-wales-stephanie-di-pasqua-drummoyne",
+      "name": "Stephanie Di Pasqua",
+      "party": "Liberal Party",
+      "party_group": "Coalition",
+      "jurisdiction": "New South Wales",
+      "chamber": "New South Wales Legislative Assembly",
+      "electorate": "Drummoyne",
+      "state": "NSW",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the New South Wales Legislative Assembly, 2023–2027",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_New_South_Wales_Legislative_Assembly,_2023%E2%80%932027",
+        "publisher": "Wikipedia",
+        "date": ""
+      }
+    },
+    {
+      "id": "new-south-wales-jihad-dib-bankstown",
+      "name": "Jihad Dib",
+      "party": "Australian Labor Party",
+      "party_group": "Labor",
+      "jurisdiction": "New South Wales",
+      "chamber": "New South Wales Legislative Assembly",
+      "electorate": "Bankstown",
+      "state": "NSW",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the New South Wales Legislative Assembly, 2023–2027",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_New_South_Wales_Legislative_Assembly,_2023%E2%80%932027",
+        "publisher": "Wikipedia",
+        "date": ""
+      }
+    },
+    {
+      "id": "new-south-wales-philip-donato-orange",
+      "name": "Philip Donato",
+      "party": "Independent",
+      "party_group": "Independent",
+      "jurisdiction": "New South Wales",
+      "chamber": "New South Wales Legislative Assembly",
+      "electorate": "Orange",
+      "state": "NSW",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the New South Wales Legislative Assembly, 2023–2027",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_New_South_Wales_Legislative_Assembly,_2023%E2%80%932027",
+        "publisher": "Wikipedia",
+        "date": ""
+      }
+    },
+    {
+      "id": "new-south-wales-trish-doyle-blue-mountains",
+      "name": "Trish Doyle",
+      "party": "Australian Labor Party",
+      "party_group": "Labor",
+      "jurisdiction": "New South Wales",
+      "chamber": "New South Wales Legislative Assembly",
+      "electorate": "Blue Mountains",
+      "state": "NSW",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the New South Wales Legislative Assembly, 2023–2027",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_New_South_Wales_Legislative_Assembly,_2023%E2%80%932027",
+        "publisher": "Wikipedia",
+        "date": ""
+      }
+    },
+    {
+      "id": "new-south-wales-robert-dwyer-port-macquarie",
+      "name": "Robert Dwyer",
+      "party": "Liberal Party",
+      "party_group": "Coalition",
+      "jurisdiction": "New South Wales",
+      "chamber": "New South Wales Legislative Assembly",
+      "electorate": "Port Macquarie",
+      "state": "NSW",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the New South Wales Legislative Assembly, 2023–2027",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_New_South_Wales_Legislative_Assembly,_2023%E2%80%932027",
+        "publisher": "Wikipedia",
+        "date": ""
+      }
+    },
+    {
+      "id": "new-south-wales-julia-finn-granville",
+      "name": "Julia Finn",
+      "party": "Australian Labor Party",
+      "party_group": "Labor",
+      "jurisdiction": "New South Wales",
+      "chamber": "New South Wales Legislative Assembly",
+      "electorate": "Granville",
+      "state": "NSW",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the New South Wales Legislative Assembly, 2023–2027",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_New_South_Wales_Legislative_Assembly,_2023%E2%80%932027",
+        "publisher": "Wikipedia",
+        "date": ""
+      }
+    },
+    {
+      "id": "new-south-wales-alex-greenwich-sydney",
+      "name": "Alex Greenwich",
+      "party": "Independent",
+      "party_group": "Independent",
+      "jurisdiction": "New South Wales",
+      "chamber": "New South Wales Legislative Assembly",
+      "electorate": "Sydney",
+      "state": "NSW",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the New South Wales Legislative Assembly, 2023–2027",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_New_South_Wales_Legislative_Assembly,_2023%E2%80%932027",
+        "publisher": "Wikipedia",
+        "date": ""
+      }
+    },
+    {
+      "id": "new-south-wales-james-griffin-manly",
+      "name": "James Griffin",
+      "party": "Liberal Party",
+      "party_group": "Coalition",
+      "jurisdiction": "New South Wales",
+      "chamber": "New South Wales Legislative Assembly",
+      "electorate": "Manly",
+      "state": "NSW",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the New South Wales Legislative Assembly, 2023–2027",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_New_South_Wales_Legislative_Assembly,_2023%E2%80%932027",
+        "publisher": "Wikipedia",
+        "date": ""
+      }
+    },
+    {
+      "id": "new-south-wales-nathan-hagarty-leppington",
+      "name": "Nathan Hagarty",
+      "party": "Australian Labor Party",
+      "party_group": "Labor",
+      "jurisdiction": "New South Wales",
+      "chamber": "New South Wales Legislative Assembly",
+      "electorate": "Leppington",
+      "state": "NSW",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the New South Wales Legislative Assembly, 2023–2027",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_New_South_Wales_Legislative_Assembly,_2023%E2%80%932027",
+        "publisher": "Wikipedia",
+        "date": ""
+      }
+    },
+    {
+      "id": "new-south-wales-judy-hannan-wollondilly",
+      "name": "Judy Hannan",
+      "party": "Independent",
+      "party_group": "Independent",
+      "jurisdiction": "New South Wales",
+      "chamber": "New South Wales Legislative Assembly",
+      "electorate": "Wollondilly",
+      "state": "NSW",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the New South Wales Legislative Assembly, 2023–2027",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_New_South_Wales_Legislative_Assembly,_2023%E2%80%932027",
+        "publisher": "Wikipedia",
+        "date": ""
+      }
+    },
+    {
+      "id": "new-south-wales-david-harris-wyong",
+      "name": "David Harris",
+      "party": "Australian Labor Party",
+      "party_group": "Labor",
+      "jurisdiction": "New South Wales",
+      "chamber": "New South Wales Legislative Assembly",
+      "electorate": "Wyong",
+      "state": "NSW",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the New South Wales Legislative Assembly, 2023–2027",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_New_South_Wales_Legislative_Assembly,_2023%E2%80%932027",
+        "publisher": "Wikipedia",
+        "date": ""
+      }
+    },
+    {
+      "id": "new-south-wales-jodie-harrison-charlestown",
+      "name": "Jodie Harrison",
+      "party": "Australian Labor Party",
+      "party_group": "Labor",
+      "jurisdiction": "New South Wales",
+      "chamber": "New South Wales Legislative Assembly",
+      "electorate": "Charlestown",
+      "state": "NSW",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the New South Wales Legislative Assembly, 2023–2027",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_New_South_Wales_Legislative_Assembly,_2023%E2%80%932027",
+        "publisher": "Wikipedia",
+        "date": ""
+      }
+    },
+    {
+      "id": "new-south-wales-jo-haylen-summer-hill",
+      "name": "Jo Haylen",
+      "party": "Australian Labor Party",
+      "party_group": "Labor",
+      "jurisdiction": "New South Wales",
+      "chamber": "New South Wales Legislative Assembly",
+      "electorate": "Summer Hill",
+      "state": "NSW",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the New South Wales Legislative Assembly, 2023–2027",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_New_South_Wales_Legislative_Assembly,_2023%E2%80%932027",
+        "publisher": "Wikipedia",
+        "date": ""
+      }
+    },
+    {
+      "id": "new-south-wales-alister-henskens-wahroonga",
+      "name": "Alister Henskens",
+      "party": "Liberal Party",
+      "party_group": "Coalition",
+      "jurisdiction": "New South Wales",
+      "chamber": "New South Wales Legislative Assembly",
+      "electorate": "Wahroonga",
+      "state": "NSW",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the New South Wales Legislative Assembly, 2023–2027",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_New_South_Wales_Legislative_Assembly,_2023%E2%80%932027",
+        "publisher": "Wikipedia",
+        "date": ""
+      }
+    },
+    {
+      "id": "new-south-wales-mark-hodges-castle-hill",
+      "name": "Mark Hodges",
+      "party": "Liberal Party",
+      "party_group": "Coalition",
+      "jurisdiction": "New South Wales",
+      "chamber": "New South Wales Legislative Assembly",
+      "electorate": "Castle Hill",
+      "state": "NSW",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the New South Wales Legislative Assembly, 2023–2027",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_New_South_Wales_Legislative_Assembly,_2023%E2%80%932027",
+        "publisher": "Wikipedia",
+        "date": ""
+      }
+    },
+    {
+      "id": "new-south-wales-ron-hoenig-heffron",
+      "name": "Ron Hoenig",
+      "party": "Australian Labor Party",
+      "party_group": "Labor",
+      "jurisdiction": "New South Wales",
+      "chamber": "New South Wales Legislative Assembly",
+      "electorate": "Heffron",
+      "state": "NSW",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the New South Wales Legislative Assembly, 2023–2027",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_New_South_Wales_Legislative_Assembly,_2023%E2%80%932027",
+        "publisher": "Wikipedia",
+        "date": ""
+      }
+    },
+    {
+      "id": "new-south-wales-michael-holland-bega",
+      "name": "Michael Holland",
+      "party": "Australian Labor Party",
+      "party_group": "Labor",
+      "jurisdiction": "New South Wales",
+      "chamber": "New South Wales Legislative Assembly",
+      "electorate": "Bega",
+      "state": "NSW",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the New South Wales Legislative Assembly, 2023–2027",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_New_South_Wales_Legislative_Assembly,_2023%E2%80%932027",
+        "publisher": "Wikipedia",
+        "date": ""
+      }
+    },
+    {
+      "id": "new-south-wales-sonia-hornery-wallsend",
+      "name": "Sonia Hornery",
+      "party": "Australian Labor Party",
+      "party_group": "Labor",
+      "jurisdiction": "New South Wales",
+      "chamber": "New South Wales Legislative Assembly",
+      "electorate": "Wallsend",
+      "state": "NSW",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the New South Wales Legislative Assembly, 2023–2027",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_New_South_Wales_Legislative_Assembly,_2023%E2%80%932027",
+        "publisher": "Wikipedia",
+        "date": ""
+      }
+    },
+    {
+      "id": "new-south-wales-tim-james-willoughby",
+      "name": "Tim James",
+      "party": "Liberal Party",
+      "party_group": "Coalition",
+      "jurisdiction": "New South Wales",
+      "chamber": "New South Wales Legislative Assembly",
+      "electorate": "Willoughby",
+      "state": "NSW",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the New South Wales Legislative Assembly, 2023–2027",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_New_South_Wales_Legislative_Assembly,_2023%E2%80%932027",
+        "publisher": "Wikipedia",
+        "date": ""
+      }
+    },
+    {
+      "id": "new-south-wales-charishma-kaliyanda-liverpool",
+      "name": "Charishma Kaliyanda",
+      "party": "Australian Labor Party",
+      "party_group": "Labor",
+      "jurisdiction": "New South Wales",
+      "chamber": "New South Wales Legislative Assembly",
+      "electorate": "Liverpool",
+      "state": "NSW",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the New South Wales Legislative Assembly, 2023–2027",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_New_South_Wales_Legislative_Assembly,_2023%E2%80%932027",
+        "publisher": "Wikipedia",
+        "date": ""
+      }
+    },
+    {
+      "id": "new-south-wales-steve-kamper-rockdale",
+      "name": "Steve Kamper",
+      "party": "Australian Labor Party",
+      "party_group": "Labor",
+      "jurisdiction": "New South Wales",
+      "chamber": "New South Wales Legislative Assembly",
+      "electorate": "Rockdale",
+      "state": "NSW",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the New South Wales Legislative Assembly, 2023–2027",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_New_South_Wales_Legislative_Assembly,_2023%E2%80%932027",
+        "publisher": "Wikipedia",
+        "date": ""
+      }
+    },
+    {
+      "id": "new-south-wales-michael-kemp-oxley",
+      "name": "Michael Kemp",
+      "party": "The Nationals",
+      "party_group": "Coalition",
+      "jurisdiction": "New South Wales",
+      "chamber": "New South Wales Legislative Assembly",
+      "electorate": "Oxley",
+      "state": "NSW",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the New South Wales Legislative Assembly, 2023–2027",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_New_South_Wales_Legislative_Assembly,_2023%E2%80%932027",
+        "publisher": "Wikipedia",
+        "date": ""
+      }
+    },
+    {
+      "id": "new-south-wales-warren-kirby-riverstone",
+      "name": "Warren Kirby",
+      "party": "Australian Labor Party",
+      "party_group": "Labor",
+      "jurisdiction": "New South Wales",
+      "chamber": "New South Wales Legislative Assembly",
+      "electorate": "Riverstone",
+      "state": "NSW",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the New South Wales Legislative Assembly, 2023–2027",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_New_South_Wales_Legislative_Assembly,_2023%E2%80%932027",
+        "publisher": "Wikipedia",
+        "date": ""
+      }
+    },
+    {
+      "id": "new-south-wales-jordan-lane-jordan-lane-politician-ryde",
+      "name": "Jordan Lane Jordan Lane (politician)",
+      "party": "Liberal Party",
+      "party_group": "Coalition",
+      "jurisdiction": "New South Wales",
+      "chamber": "New South Wales Legislative Assembly",
+      "electorate": "Ryde",
+      "state": "NSW",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the New South Wales Legislative Assembly, 2023–2027",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_New_South_Wales_Legislative_Assembly,_2023%E2%80%932027",
+        "publisher": "Wikipedia",
+        "date": ""
+      }
+    },
+    {
+      "id": "new-south-wales-dave-layzell-upper-hunter",
+      "name": "Dave Layzell",
+      "party": "The Nationals",
+      "party_group": "Coalition",
+      "jurisdiction": "New South Wales",
+      "chamber": "New South Wales Legislative Assembly",
+      "electorate": "Upper Hunter",
+      "state": "NSW",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the New South Wales Legislative Assembly, 2023–2027",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_New_South_Wales_Legislative_Assembly,_2023%E2%80%932027",
+        "publisher": "Wikipedia",
+        "date": ""
+      }
+    },
+    {
+      "id": "new-south-wales-jenny-leong-newtown",
+      "name": "Jenny Leong",
+      "party": "Australian Greens",
+      "party_group": "Greens",
+      "jurisdiction": "New South Wales",
+      "chamber": "New South Wales Legislative Assembly",
+      "electorate": "Newtown",
+      "state": "NSW",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the New South Wales Legislative Assembly, 2023–2027",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_New_South_Wales_Legislative_Assembly,_2023%E2%80%932027",
+        "publisher": "Wikipedia",
+        "date": ""
+      }
+    },
+    {
+      "id": "new-south-wales-jason-yat-sen-li-strathfield",
+      "name": "Jason Yat-Sen Li",
+      "party": "Australian Labor Party",
+      "party_group": "Labor",
+      "jurisdiction": "New South Wales",
+      "chamber": "New South Wales Legislative Assembly",
+      "electorate": "Strathfield",
+      "state": "NSW",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the New South Wales Legislative Assembly, 2023–2027",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_New_South_Wales_Legislative_Assembly,_2023%E2%80%932027",
+        "publisher": "Wikipedia",
+        "date": ""
+      }
+    },
+    {
+      "id": "new-south-wales-hugh-mcdermott-prospect",
+      "name": "Hugh McDermott",
+      "party": "Australian Labor Party",
+      "party_group": "Labor",
+      "jurisdiction": "New South Wales",
+      "chamber": "New South Wales Legislative Assembly",
+      "electorate": "Prospect",
+      "state": "NSW",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the New South Wales Legislative Assembly, 2023–2027",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_New_South_Wales_Legislative_Assembly,_2023%E2%80%932027",
+        "publisher": "Wikipedia",
+        "date": ""
+      }
+    },
+    {
+      "id": "new-south-wales-joe-mcgirr-wagga-wagga",
+      "name": "Joe McGirr",
+      "party": "Independent",
+      "party_group": "Independent",
+      "jurisdiction": "New South Wales",
+      "chamber": "New South Wales Legislative Assembly",
+      "electorate": "Wagga Wagga",
+      "state": "NSW",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the New South Wales Legislative Assembly, 2023–2027",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_New_South_Wales_Legislative_Assembly,_2023%E2%80%932027",
+        "publisher": "Wikipedia",
+        "date": ""
+      }
+    },
+    {
+      "id": "new-south-wales-katelin-mcinerney-kiama",
+      "name": "Katelin McInerney",
+      "party": "Australian Labor Party",
+      "party_group": "Labor",
+      "jurisdiction": "New South Wales",
+      "chamber": "New South Wales Legislative Assembly",
+      "electorate": "Kiama",
+      "state": "NSW",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the New South Wales Legislative Assembly, 2023–2027",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_New_South_Wales_Legislative_Assembly,_2023%E2%80%932027",
+        "publisher": "Wikipedia",
+        "date": ""
+      }
+    },
+    {
+      "id": "new-south-wales-karen-mckeown-penrith",
+      "name": "Karen McKeown",
+      "party": "Australian Labor Party",
+      "party_group": "Labor",
+      "jurisdiction": "New South Wales",
+      "chamber": "New South Wales Legislative Assembly",
+      "electorate": "Penrith",
+      "state": "NSW",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the New South Wales Legislative Assembly, 2023–2027",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_New_South_Wales_Legislative_Assembly,_2023%E2%80%932027",
+        "publisher": "Wikipedia",
+        "date": ""
+      }
+    },
+    {
+      "id": "new-south-wales-david-mehan-entrance",
+      "name": "David Mehan",
+      "party": "Australian Labor Party",
+      "party_group": "Labor",
+      "jurisdiction": "New South Wales",
+      "chamber": "New South Wales Legislative Assembly",
+      "electorate": "The Entrance",
+      "state": "NSW",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the New South Wales Legislative Assembly, 2023–2027",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_New_South_Wales_Legislative_Assembly,_2023%E2%80%932027",
+        "publisher": "Wikipedia",
+        "date": ""
+      }
+    },
+    {
+      "id": "new-south-wales-chris-minns-kogarah",
+      "name": "Chris Minns",
+      "party": "Australian Labor Party",
+      "party_group": "Labor",
+      "jurisdiction": "New South Wales",
+      "chamber": "New South Wales Legislative Assembly",
+      "electorate": "Kogarah",
+      "state": "NSW",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the New South Wales Legislative Assembly, 2023–2027",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_New_South_Wales_Legislative_Assembly,_2023%E2%80%932027",
+        "publisher": "Wikipedia",
+        "date": ""
+      }
+    },
+    {
+      "id": "new-south-wales-brendan-moylan-northern-tablelands",
+      "name": "Brendan Moylan",
+      "party": "The Nationals",
+      "party_group": "Coalition",
+      "jurisdiction": "New South Wales",
+      "chamber": "New South Wales Legislative Assembly",
+      "electorate": "Northern Tablelands",
+      "state": "NSW",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the New South Wales Legislative Assembly, 2023–2027",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_New_South_Wales_Legislative_Assembly,_2023%E2%80%932027",
+        "publisher": "Wikipedia",
+        "date": ""
+      }
+    },
+    {
+      "id": "new-south-wales-marjorie-o-neill-coogee",
+      "name": "Marjorie O'Neill",
+      "party": "Australian Labor Party",
+      "party_group": "Labor",
+      "jurisdiction": "New South Wales",
+      "chamber": "New South Wales Legislative Assembly",
+      "electorate": "Coogee",
+      "state": "NSW",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the New South Wales Legislative Assembly, 2023–2027",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_New_South_Wales_Legislative_Assembly,_2023%E2%80%932027",
+        "publisher": "Wikipedia",
+        "date": ""
+      }
+    },
+    {
+      "id": "new-south-wales-ryan-park-keira",
+      "name": "Ryan Park",
+      "party": "Australian Labor Party",
+      "party_group": "Labor",
+      "jurisdiction": "New South Wales",
+      "chamber": "New South Wales Legislative Assembly",
+      "electorate": "Keira",
+      "state": "NSW",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the New South Wales Legislative Assembly, 2023–2027",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_New_South_Wales_Legislative_Assembly,_2023%E2%80%932027",
+        "publisher": "Wikipedia",
+        "date": ""
+      }
+    },
+    {
+      "id": "new-south-wales-eleni-petinos-miranda",
+      "name": "Eleni Petinos",
+      "party": "Liberal Party",
+      "party_group": "Coalition",
+      "jurisdiction": "New South Wales",
+      "chamber": "New South Wales Legislative Assembly",
+      "electorate": "Miranda",
+      "state": "NSW",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the New South Wales Legislative Assembly, 2023–2027",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_New_South_Wales_Legislative_Assembly,_2023%E2%80%932027",
+        "publisher": "Wikipedia",
+        "date": ""
+      }
+    },
+    {
+      "id": "new-south-wales-greg-piper-lake-macquarie",
+      "name": "Greg Piper",
+      "party": "Independent",
+      "party_group": "Independent",
+      "jurisdiction": "New South Wales",
+      "chamber": "New South Wales Legislative Assembly",
+      "electorate": "Lake Macquarie",
+      "state": "NSW",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the New South Wales Legislative Assembly, 2023–2027",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_New_South_Wales_Legislative_Assembly,_2023%E2%80%932027",
+        "publisher": "Wikipedia",
+        "date": ""
+      }
+    },
+    {
+      "id": "new-south-wales-robyn-preston-hawkesbury",
+      "name": "Robyn Preston",
+      "party": "Liberal Party",
+      "party_group": "Coalition",
+      "jurisdiction": "New South Wales",
+      "chamber": "New South Wales Legislative Assembly",
+      "electorate": "Hawkesbury",
+      "state": "NSW",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the New South Wales Legislative Assembly, 2023–2027",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_New_South_Wales_Legislative_Assembly,_2023%E2%80%932027",
+        "publisher": "Wikipedia",
+        "date": ""
+      }
+    },
+    {
+      "id": "new-south-wales-geoff-provest-tweed",
+      "name": "Geoff Provest",
+      "party": "The Nationals",
+      "party_group": "Coalition",
+      "jurisdiction": "New South Wales",
+      "chamber": "New South Wales Legislative Assembly",
+      "electorate": "Tweed",
+      "state": "NSW",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the New South Wales Legislative Assembly, 2023–2027",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_New_South_Wales_Legislative_Assembly,_2023%E2%80%932027",
+        "publisher": "Wikipedia",
+        "date": ""
+      }
+    },
+    {
+      "id": "new-south-wales-sally-quinnell-camden",
+      "name": "Sally Quinnell",
+      "party": "Australian Labor Party",
+      "party_group": "Labor",
+      "jurisdiction": "New South Wales",
+      "chamber": "New South Wales Legislative Assembly",
+      "electorate": "Camden",
+      "state": "NSW",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the New South Wales Legislative Assembly, 2023–2027",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_New_South_Wales_Legislative_Assembly,_2023%E2%80%932027",
+        "publisher": "Wikipedia",
+        "date": ""
+      }
+    },
+    {
+      "id": "new-south-wales-anthony-roberts-lane-cove",
+      "name": "Anthony Roberts",
+      "party": "Liberal Party",
+      "party_group": "Coalition",
+      "jurisdiction": "New South Wales",
+      "chamber": "New South Wales Legislative Assembly",
+      "electorate": "Lane Cove",
+      "state": "NSW",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the New South Wales Legislative Assembly, 2023–2027",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_New_South_Wales_Legislative_Assembly,_2023%E2%80%932027",
+        "publisher": "Wikipedia",
+        "date": ""
+      }
+    },
+    {
+      "id": "new-south-wales-michael-regan-wakehurst",
+      "name": "Michael Regan",
+      "party": "Independent",
+      "party_group": "Independent",
+      "jurisdiction": "New South Wales",
+      "chamber": "New South Wales Legislative Assembly",
+      "electorate": "Wakehurst",
+      "state": "NSW",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the New South Wales Legislative Assembly, 2023–2027",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_New_South_Wales_Legislative_Assembly,_2023%E2%80%932027",
+        "publisher": "Wikipedia",
+        "date": ""
+      }
+    },
+    {
+      "id": "new-south-wales-janelle-saffin-lismore",
+      "name": "Janelle Saffin",
+      "party": "Australian Labor Party",
+      "party_group": "Labor",
+      "jurisdiction": "New South Wales",
+      "chamber": "New South Wales Legislative Assembly",
+      "electorate": "Lismore",
+      "state": "NSW",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the New South Wales Legislative Assembly, 2023–2027",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_New_South_Wales_Legislative_Assembly,_2023%E2%80%932027",
+        "publisher": "Wikipedia",
+        "date": ""
+      }
+    },
+    {
+      "id": "new-south-wales-david-saliba-fairfield",
+      "name": "David Saliba",
+      "party": "Australian Labor Party",
+      "party_group": "Labor",
+      "jurisdiction": "New South Wales",
+      "chamber": "New South Wales Legislative Assembly",
+      "electorate": "Fairfield",
+      "state": "NSW",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the New South Wales Legislative Assembly, 2023–2027",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_New_South_Wales_Legislative_Assembly,_2023%E2%80%932027",
+        "publisher": "Wikipedia",
+        "date": ""
+      }
+    },
+    {
+      "id": "new-south-wales-dugald-saunders-dubbo",
+      "name": "Dugald Saunders",
+      "party": "The Nationals",
+      "party_group": "Coalition",
+      "jurisdiction": "New South Wales",
+      "chamber": "New South Wales Legislative Assembly",
+      "electorate": "Dubbo",
+      "state": "NSW",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the New South Wales Legislative Assembly, 2023–2027",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_New_South_Wales_Legislative_Assembly,_2023%E2%80%932027",
+        "publisher": "Wikipedia",
+        "date": ""
+      }
+    },
+    {
+      "id": "new-south-wales-jacqui-scruby-pittwater",
+      "name": "Jacqui Scruby",
+      "party": "Independent",
+      "party_group": "Independent",
+      "jurisdiction": "New South Wales",
+      "chamber": "New South Wales Legislative Assembly",
+      "electorate": "Pittwater",
+      "state": "NSW",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the New South Wales Legislative Assembly, 2023–2027",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_New_South_Wales_Legislative_Assembly,_2023%E2%80%932027",
+        "publisher": "Wikipedia",
+        "date": ""
+      }
+    },
+    {
+      "id": "new-south-wales-paul-scully-wollongong",
+      "name": "Paul Scully",
+      "party": "Australian Labor Party",
+      "party_group": "Labor",
+      "jurisdiction": "New South Wales",
+      "chamber": "New South Wales Legislative Assembly",
+      "electorate": "Wollongong",
+      "state": "NSW",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the New South Wales Legislative Assembly, 2023–2027",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_New_South_Wales_Legislative_Assembly,_2023%E2%80%932027",
+        "publisher": "Wikipedia",
+        "date": ""
+      }
+    },
+    {
+      "id": "new-south-wales-kobi-shetty-balmain",
+      "name": "Kobi Shetty",
+      "party": "Australian Greens",
+      "party_group": "Greens",
+      "jurisdiction": "New South Wales",
+      "chamber": "New South Wales Legislative Assembly",
+      "electorate": "Balmain",
+      "state": "NSW",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the New South Wales Legislative Assembly, 2023–2027",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_New_South_Wales_Legislative_Assembly,_2023%E2%80%932027",
+        "publisher": "Wikipedia",
+        "date": ""
+      }
+    },
+    {
+      "id": "new-south-wales-gurmesh-singh-coffs-harbour",
+      "name": "Gurmesh Singh",
+      "party": "The Nationals",
+      "party_group": "Coalition",
+      "jurisdiction": "New South Wales",
+      "chamber": "New South Wales Legislative Assembly",
+      "electorate": "Coffs Harbour",
+      "state": "NSW",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the New South Wales Legislative Assembly, 2023–2027",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_New_South_Wales_Legislative_Assembly,_2023%E2%80%932027",
+        "publisher": "Wikipedia",
+        "date": ""
+      }
+    },
+    {
+      "id": "new-south-wales-kellie-sloane-vaucluse",
+      "name": "Kellie Sloane",
+      "party": "Liberal Party",
+      "party_group": "Coalition",
+      "jurisdiction": "New South Wales",
+      "chamber": "New South Wales Legislative Assembly",
+      "electorate": "Vaucluse",
+      "state": "NSW",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the New South Wales Legislative Assembly, 2023–2027",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_New_South_Wales_Legislative_Assembly,_2023%E2%80%932027",
+        "publisher": "Wikipedia",
+        "date": ""
+      }
+    },
+    {
+      "id": "new-south-wales-tamara-smith-ballina",
+      "name": "Tamara Smith",
+      "party": "Australian Greens",
+      "party_group": "Greens",
+      "jurisdiction": "New South Wales",
+      "chamber": "New South Wales Legislative Assembly",
+      "electorate": "Ballina",
+      "state": "NSW",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the New South Wales Legislative Assembly, 2023–2027",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_New_South_Wales_Legislative_Assembly,_2023%E2%80%932027",
+        "publisher": "Wikipedia",
+        "date": ""
+      }
+    },
+    {
+      "id": "new-south-wales-mark-speakman-cronulla",
+      "name": "Mark Speakman",
+      "party": "Liberal Party",
+      "party_group": "Coalition",
+      "jurisdiction": "New South Wales",
+      "chamber": "New South Wales Legislative Assembly",
+      "electorate": "Cronulla",
+      "state": "NSW",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the New South Wales Legislative Assembly, 2023–2027",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_New_South_Wales_Legislative_Assembly,_2023%E2%80%932027",
+        "publisher": "Wikipedia",
+        "date": ""
+      }
+    },
+    {
+      "id": "new-south-wales-maryanne-stuart-heathcote",
+      "name": "Maryanne Stuart",
+      "party": "Australian Labor Party",
+      "party_group": "Labor",
+      "jurisdiction": "New South Wales",
+      "chamber": "New South Wales Legislative Assembly",
+      "electorate": "Heathcote",
+      "state": "NSW",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the New South Wales Legislative Assembly, 2023–2027",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_New_South_Wales_Legislative_Assembly,_2023%E2%80%932027",
+        "publisher": "Wikipedia",
+        "date": ""
+      }
+    },
+    {
+      "id": "new-south-wales-mark-taylor-winston-hills",
+      "name": "Mark Taylor",
+      "party": "Liberal Party",
+      "party_group": "Coalition",
+      "jurisdiction": "New South Wales",
+      "chamber": "New South Wales Legislative Assembly",
+      "electorate": "Winston Hills",
+      "state": "NSW",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the New South Wales Legislative Assembly, 2023–2027",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_New_South_Wales_Legislative_Assembly,_2023%E2%80%932027",
+        "publisher": "Wikipedia",
+        "date": ""
+      }
+    },
+    {
+      "id": "new-south-wales-liesl-tesch-gosford",
+      "name": "Liesl Tesch",
+      "party": "Australian Labor Party",
+      "party_group": "Labor",
+      "jurisdiction": "New South Wales",
+      "chamber": "New South Wales Legislative Assembly",
+      "electorate": "Gosford",
+      "state": "NSW",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the New South Wales Legislative Assembly, 2023–2027",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_New_South_Wales_Legislative_Assembly,_2023%E2%80%932027",
+        "publisher": "Wikipedia",
+        "date": ""
+      }
+    },
+    {
+      "id": "new-south-wales-tanya-thompson-myall-lakes",
+      "name": "Tanya Thompson",
+      "party": "The Nationals",
+      "party_group": "Coalition",
+      "jurisdiction": "New South Wales",
+      "chamber": "New South Wales Legislative Assembly",
+      "electorate": "Myall Lakes",
+      "state": "NSW",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the New South Wales Legislative Assembly, 2023–2027",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_New_South_Wales_Legislative_Assembly,_2023%E2%80%932027",
+        "publisher": "Wikipedia",
+        "date": ""
+      }
+    },
+    {
+      "id": "new-south-wales-paul-toole-bathurst",
+      "name": "Paul Toole",
+      "party": "The Nationals",
+      "party_group": "Coalition",
+      "jurisdiction": "New South Wales",
+      "chamber": "New South Wales Legislative Assembly",
+      "electorate": "Bathurst",
+      "state": "NSW",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the New South Wales Legislative Assembly, 2023–2027",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_New_South_Wales_Legislative_Assembly,_2023%E2%80%932027",
+        "publisher": "Wikipedia",
+        "date": ""
+      }
+    },
+    {
+      "id": "new-south-wales-wendy-tuckerman-goulburn",
+      "name": "Wendy Tuckerman",
+      "party": "Liberal Party",
+      "party_group": "Coalition",
+      "jurisdiction": "New South Wales",
+      "chamber": "New South Wales Legislative Assembly",
+      "electorate": "Goulburn",
+      "state": "NSW",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the New South Wales Legislative Assembly, 2023–2027",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_New_South_Wales_Legislative_Assembly,_2023%E2%80%932027",
+        "publisher": "Wikipedia",
+        "date": ""
+      }
+    },
+    {
+      "id": "new-south-wales-monica-tudehope-epping",
+      "name": "Monica Tudehope",
+      "party": "Liberal Party",
+      "party_group": "Coalition",
+      "jurisdiction": "New South Wales",
+      "chamber": "New South Wales Legislative Assembly",
+      "electorate": "Epping",
+      "state": "NSW",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the New South Wales Legislative Assembly, 2023–2027",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_New_South_Wales_Legislative_Assembly,_2023%E2%80%932027",
+        "publisher": "Wikipedia",
+        "date": ""
+      }
+    },
+    {
+      "id": "new-south-wales-tri-vo-cabramatta",
+      "name": "Tri Vo",
+      "party": "Australian Labor Party",
+      "party_group": "Labor",
+      "jurisdiction": "New South Wales",
+      "chamber": "New South Wales Legislative Assembly",
+      "electorate": "Cabramatta",
+      "state": "NSW",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the New South Wales Legislative Assembly, 2023–2027",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_New_South_Wales_Legislative_Assembly,_2023%E2%80%932027",
+        "publisher": "Wikipedia",
+        "date": ""
+      }
+    },
+    {
+      "id": "new-south-wales-lynda-voltz-auburn",
+      "name": "Lynda Voltz",
+      "party": "Australian Labor Party",
+      "party_group": "Labor",
+      "jurisdiction": "New South Wales",
+      "chamber": "New South Wales Legislative Assembly",
+      "electorate": "Auburn",
+      "state": "NSW",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the New South Wales Legislative Assembly, 2023–2027",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_New_South_Wales_Legislative_Assembly,_2023%E2%80%932027",
+        "publisher": "Wikipedia",
+        "date": ""
+      }
+    },
+    {
+      "id": "new-south-wales-james-wallace-hornsby",
+      "name": "James Wallace",
+      "party": "Liberal Party",
+      "party_group": "Coalition",
+      "jurisdiction": "New South Wales",
+      "chamber": "New South Wales Legislative Assembly",
+      "electorate": "Hornsby",
+      "state": "NSW",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the New South Wales Legislative Assembly, 2023–2027",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_New_South_Wales_Legislative_Assembly,_2023%E2%80%932027",
+        "publisher": "Wikipedia",
+        "date": ""
+      }
+    },
+    {
+      "id": "new-south-wales-greg-warren-campbelltown",
+      "name": "Greg Warren",
+      "party": "Australian Labor Party",
+      "party_group": "Labor",
+      "jurisdiction": "New South Wales",
+      "chamber": "New South Wales Legislative Assembly",
+      "electorate": "Campbelltown",
+      "state": "NSW",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the New South Wales Legislative Assembly, 2023–2027",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_New_South_Wales_Legislative_Assembly,_2023%E2%80%932027",
+        "publisher": "Wikipedia",
+        "date": ""
+      }
+    },
+    {
+      "id": "new-south-wales-kate-washington-port-stephens",
+      "name": "Kate Washington",
+      "party": "Australian Labor Party",
+      "party_group": "Labor",
+      "jurisdiction": "New South Wales",
+      "chamber": "New South Wales Legislative Assembly",
+      "electorate": "Port Stephens",
+      "state": "NSW",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the New South Wales Legislative Assembly, 2023–2027",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_New_South_Wales_Legislative_Assembly,_2023%E2%80%932027",
+        "publisher": "Wikipedia",
+        "date": ""
+      }
+    },
+    {
+      "id": "new-south-wales-anna-watson-shellharbour",
+      "name": "Anna Watson",
+      "party": "Australian Labor Party",
+      "party_group": "Labor",
+      "jurisdiction": "New South Wales",
+      "chamber": "New South Wales Legislative Assembly",
+      "electorate": "Shellharbour",
+      "state": "NSW",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the New South Wales Legislative Assembly, 2023–2027",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_New_South_Wales_Legislative_Assembly,_2023%E2%80%932027",
+        "publisher": "Wikipedia",
+        "date": ""
+      }
+    },
+    {
+      "id": "new-south-wales-steve-whan-monaro",
+      "name": "Steve Whan",
+      "party": "Australian Labor Party",
+      "party_group": "Labor",
+      "jurisdiction": "New South Wales",
+      "chamber": "New South Wales Legislative Assembly",
+      "electorate": "Monaro",
+      "state": "NSW",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the New South Wales Legislative Assembly, 2023–2027",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_New_South_Wales_Legislative_Assembly,_2023%E2%80%932027",
+        "publisher": "Wikipedia",
+        "date": ""
+      }
+    },
+    {
+      "id": "new-south-wales-kylie-wilkinson-east-hills",
+      "name": "Kylie Wilkinson",
+      "party": "Australian Labor Party",
+      "party_group": "Labor",
+      "jurisdiction": "New South Wales",
+      "chamber": "New South Wales Legislative Assembly",
+      "electorate": "East Hills",
+      "state": "NSW",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the New South Wales Legislative Assembly, 2023–2027",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_New_South_Wales_Legislative_Assembly,_2023%E2%80%932027",
+        "publisher": "Wikipedia",
+        "date": ""
+      }
+    },
+    {
+      "id": "new-south-wales-ray-williams-kellyville",
+      "name": "Ray Williams",
+      "party": "Liberal Party",
+      "party_group": "Coalition",
+      "jurisdiction": "New South Wales",
+      "chamber": "New South Wales Legislative Assembly",
+      "electorate": "Kellyville",
+      "state": "NSW",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the New South Wales Legislative Assembly, 2023–2027",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_New_South_Wales_Legislative_Assembly,_2023%E2%80%932027",
+        "publisher": "Wikipedia",
+        "date": ""
+      }
+    },
+    {
+      "id": "new-south-wales-richie-williamson-clarence",
+      "name": "Richie Williamson",
+      "party": "The Nationals",
+      "party_group": "Coalition",
+      "jurisdiction": "New South Wales",
+      "chamber": "New South Wales Legislative Assembly",
+      "electorate": "Clarence",
+      "state": "NSW",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the New South Wales Legislative Assembly, 2023–2027",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_New_South_Wales_Legislative_Assembly,_2023%E2%80%932027",
+        "publisher": "Wikipedia",
+        "date": ""
+      }
+    },
+    {
+      "id": "new-south-wales-felicity-wilson-north-shore",
+      "name": "Felicity Wilson",
+      "party": "Liberal Party",
+      "party_group": "Coalition",
+      "jurisdiction": "New South Wales",
+      "chamber": "New South Wales Legislative Assembly",
+      "electorate": "North Shore",
+      "state": "NSW",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the New South Wales Legislative Assembly, 2023–2027",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_New_South_Wales_Legislative_Assembly,_2023%E2%80%932027",
+        "publisher": "Wikipedia",
+        "date": ""
+      }
+    },
+    {
+      "id": "new-south-wales-mark-banasiak-statewide",
+      "name": "Mark Banasiak",
+      "party": "Shooters, Fishers and Farmers Party",
+      "party_group": "Other / minor party",
+      "jurisdiction": "New South Wales",
+      "chamber": "New South Wales Legislative Council",
+      "electorate": "Statewide",
+      "state": "NSW",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the New South Wales Legislative Council, 2023–2027",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_New_South_Wales_Legislative_Council,_2023%E2%80%932027",
+        "publisher": "Wikipedia",
+        "date": ""
+      }
+    },
+    {
+      "id": "new-south-wales-robert-borsak-statewide",
+      "name": "Robert Borsak",
+      "party": "Shooters, Fishers and Farmers Party",
+      "party_group": "Other / minor party",
+      "jurisdiction": "New South Wales",
+      "chamber": "New South Wales Legislative Council",
+      "electorate": "Statewide",
+      "state": "NSW",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the New South Wales Legislative Council, 2023–2027",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_New_South_Wales_Legislative_Council,_2023%E2%80%932027",
+        "publisher": "Wikipedia",
+        "date": ""
+      }
+    },
+    {
+      "id": "new-south-wales-abigail-boyd-statewide",
+      "name": "Abigail Boyd",
+      "party": "Australian Greens",
+      "party_group": "Greens",
+      "jurisdiction": "New South Wales",
+      "chamber": "New South Wales Legislative Council",
+      "electorate": "Statewide",
+      "state": "NSW",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the New South Wales Legislative Council, 2023–2027",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_New_South_Wales_Legislative_Council,_2023%E2%80%932027",
+        "publisher": "Wikipedia",
+        "date": ""
+      }
+    },
+    {
+      "id": "new-south-wales-jeremy-buckingham-statewide",
+      "name": "Jeremy Buckingham",
+      "party": "Legalise Cannabis Party",
+      "party_group": "Other / minor party",
+      "jurisdiction": "New South Wales",
+      "chamber": "New South Wales Legislative Council",
+      "electorate": "Statewide",
+      "state": "NSW",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the New South Wales Legislative Council, 2023–2027",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_New_South_Wales_Legislative_Council,_2023%E2%80%932027",
+        "publisher": "Wikipedia",
+        "date": ""
+      }
+    },
+    {
+      "id": "new-south-wales-mark-buttigieg-statewide",
+      "name": "Mark Buttigieg",
+      "party": "Australian Labor Party",
+      "party_group": "Labor",
+      "jurisdiction": "New South Wales",
+      "chamber": "New South Wales Legislative Council",
+      "electorate": "Statewide",
+      "state": "NSW",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the New South Wales Legislative Council, 2023–2027",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_New_South_Wales_Legislative_Council,_2023%E2%80%932027",
+        "publisher": "Wikipedia",
+        "date": ""
+      }
+    },
+    {
+      "id": "new-south-wales-susan-carter-statewide",
+      "name": "Susan Carter",
+      "party": "Liberal Party",
+      "party_group": "Coalition",
+      "jurisdiction": "New South Wales",
+      "chamber": "New South Wales Legislative Council",
+      "electorate": "Statewide",
+      "state": "NSW",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the New South Wales Legislative Council, 2023–2027",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_New_South_Wales_Legislative_Council,_2023%E2%80%932027",
+        "publisher": "Wikipedia",
+        "date": ""
+      }
+    },
+    {
+      "id": "new-south-wales-amanda-cohn-statewide",
+      "name": "Amanda Cohn",
+      "party": "Australian Greens",
+      "party_group": "Greens",
+      "jurisdiction": "New South Wales",
+      "chamber": "New South Wales Legislative Council",
+      "electorate": "Statewide",
+      "state": "NSW",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the New South Wales Legislative Council, 2023–2027",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_New_South_Wales_Legislative_Council,_2023%E2%80%932027",
+        "publisher": "Wikipedia",
+        "date": ""
+      }
+    },
+    {
+      "id": "new-south-wales-anthony-d-adam-statewide",
+      "name": "Anthony D'Adam",
+      "party": "Australian Labor Party",
+      "party_group": "Labor",
+      "jurisdiction": "New South Wales",
+      "chamber": "New South Wales Legislative Council",
+      "electorate": "Statewide",
+      "state": "NSW",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the New South Wales Legislative Council, 2023–2027",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_New_South_Wales_Legislative_Council,_2023%E2%80%932027",
+        "publisher": "Wikipedia",
+        "date": ""
+      }
+    },
+    {
+      "id": "new-south-wales-greg-donnelly-statewide",
+      "name": "Greg Donnelly",
+      "party": "Australian Labor Party",
+      "party_group": "Labor",
+      "jurisdiction": "New South Wales",
+      "chamber": "New South Wales Legislative Council",
+      "electorate": "Statewide",
+      "state": "NSW",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the New South Wales Legislative Council, 2023–2027",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_New_South_Wales_Legislative_Council,_2023%E2%80%932027",
+        "publisher": "Wikipedia",
+        "date": ""
+      }
+    },
+    {
+      "id": "new-south-wales-scott-farlow-statewide",
+      "name": "Scott Farlow",
+      "party": "Liberal Party",
+      "party_group": "Coalition",
+      "jurisdiction": "New South Wales",
+      "chamber": "New South Wales Legislative Council",
+      "electorate": "Statewide",
+      "state": "NSW",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the New South Wales Legislative Council, 2023–2027",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_New_South_Wales_Legislative_Council,_2023%E2%80%932027",
+        "publisher": "Wikipedia",
+        "date": ""
+      }
+    },
+    {
+      "id": "new-south-wales-cate-faehrmann-statewide",
+      "name": "Cate Faehrmann",
+      "party": "Australian Greens",
+      "party_group": "Greens",
+      "jurisdiction": "New South Wales",
+      "chamber": "New South Wales Legislative Council",
+      "electorate": "Statewide",
+      "state": "NSW",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the New South Wales Legislative Council, 2023–2027",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_New_South_Wales_Legislative_Council,_2023%E2%80%932027",
+        "publisher": "Wikipedia",
+        "date": ""
+      }
+    },
+    {
+      "id": "new-south-wales-wes-fang-statewide",
+      "name": "Wes Fang",
+      "party": "The Nationals",
+      "party_group": "Coalition",
+      "jurisdiction": "New South Wales",
+      "chamber": "New South Wales Legislative Council",
+      "electorate": "Statewide",
+      "state": "NSW",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the New South Wales Legislative Council, 2023–2027",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_New_South_Wales_Legislative_Council,_2023%E2%80%932027",
+        "publisher": "Wikipedia",
+        "date": ""
+      }
+    },
+    {
+      "id": "new-south-wales-ben-franklin-statewide",
+      "name": "Ben Franklin",
+      "party": "The Nationals",
+      "party_group": "Coalition",
+      "jurisdiction": "New South Wales",
+      "chamber": "New South Wales Legislative Council",
+      "electorate": "Statewide",
+      "state": "NSW",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the New South Wales Legislative Council, 2023–2027",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_New_South_Wales_Legislative_Council,_2023%E2%80%932027",
+        "publisher": "Wikipedia",
+        "date": ""
+      }
+    },
+    {
+      "id": "new-south-wales-john-graham-statewide",
+      "name": "John Graham",
+      "party": "Australian Labor Party",
+      "party_group": "Labor",
+      "jurisdiction": "New South Wales",
+      "chamber": "New South Wales Legislative Council",
+      "electorate": "Statewide",
+      "state": "NSW",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the New South Wales Legislative Council, 2023–2027",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_New_South_Wales_Legislative_Council,_2023%E2%80%932027",
+        "publisher": "Wikipedia",
+        "date": ""
+      }
+    },
+    {
+      "id": "new-south-wales-sue-higginson-statewide",
+      "name": "Sue Higginson",
+      "party": "Australian Greens",
+      "party_group": "Greens",
+      "jurisdiction": "New South Wales",
+      "chamber": "New South Wales Legislative Council",
+      "electorate": "Statewide",
+      "state": "NSW",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the New South Wales Legislative Council, 2023–2027",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_New_South_Wales_Legislative_Council,_2023%E2%80%932027",
+        "publisher": "Wikipedia",
+        "date": ""
+      }
+    },
+    {
+      "id": "new-south-wales-courtney-houssos-statewide",
+      "name": "Courtney Houssos",
+      "party": "Australian Labor Party",
+      "party_group": "Labor",
+      "jurisdiction": "New South Wales",
+      "chamber": "New South Wales Legislative Council",
+      "electorate": "Statewide",
+      "state": "NSW",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the New South Wales Legislative Council, 2023–2027",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_New_South_Wales_Legislative_Council,_2023%E2%80%932027",
+        "publisher": "Wikipedia",
+        "date": ""
+      }
+    },
+    {
+      "id": "new-south-wales-emma-hurst-statewide",
+      "name": "Emma Hurst",
+      "party": "Animal Justice Party",
+      "party_group": "Other / minor party",
+      "jurisdiction": "New South Wales",
+      "chamber": "New South Wales Legislative Council",
+      "electorate": "Statewide",
+      "state": "NSW",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the New South Wales Legislative Council, 2023–2027",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_New_South_Wales_Legislative_Council,_2023%E2%80%932027",
+        "publisher": "Wikipedia",
+        "date": ""
+      }
+    },
+    {
+      "id": "new-south-wales-rose-jackson-statewide",
+      "name": "Rose Jackson",
+      "party": "Australian Labor Party",
+      "party_group": "Labor",
+      "jurisdiction": "New South Wales",
+      "chamber": "New South Wales Legislative Council",
+      "electorate": "Statewide",
+      "state": "NSW",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the New South Wales Legislative Council, 2023–2027",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_New_South_Wales_Legislative_Council,_2023%E2%80%932027",
+        "publisher": "Wikipedia",
+        "date": ""
+      }
+    },
+    {
+      "id": "new-south-wales-sarah-kaine-statewide",
+      "name": "Sarah Kaine",
+      "party": "Australian Labor Party",
+      "party_group": "Labor",
+      "jurisdiction": "New South Wales",
+      "chamber": "New South Wales Legislative Council",
+      "electorate": "Statewide",
+      "state": "NSW",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the New South Wales Legislative Council, 2023–2027",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_New_South_Wales_Legislative_Council,_2023%E2%80%932027",
+        "publisher": "Wikipedia",
+        "date": ""
+      }
+    },
+    {
+      "id": "new-south-wales-mark-latham-statewide",
+      "name": "Mark Latham",
+      "party": "Pauline Hanson's One Nation Party",
+      "party_group": "One Nation",
+      "jurisdiction": "New South Wales",
+      "chamber": "New South Wales Legislative Council",
+      "electorate": "Statewide",
+      "state": "NSW",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the New South Wales Legislative Council, 2023–2027",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_New_South_Wales_Legislative_Council,_2023%E2%80%932027",
+        "publisher": "Wikipedia",
+        "date": ""
+      }
+    },
+    {
+      "id": "new-south-wales-stephen-lawrence-statewide",
+      "name": "Stephen Lawrence",
+      "party": "Australian Labor Party",
+      "party_group": "Labor",
+      "jurisdiction": "New South Wales",
+      "chamber": "New South Wales Legislative Council",
+      "electorate": "Statewide",
+      "state": "NSW",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the New South Wales Legislative Council, 2023–2027",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_New_South_Wales_Legislative_Council,_2023%E2%80%932027",
+        "publisher": "Wikipedia",
+        "date": ""
+      }
+    },
+    {
+      "id": "new-south-wales-aileen-macdonald-statewide",
+      "name": "Aileen MacDonald",
+      "party": "Liberal Party",
+      "party_group": "Coalition",
+      "jurisdiction": "New South Wales",
+      "chamber": "New South Wales Legislative Council",
+      "electorate": "Statewide",
+      "state": "NSW",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the New South Wales Legislative Council, 2023–2027",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_New_South_Wales_Legislative_Council,_2023%E2%80%932027",
+        "publisher": "Wikipedia",
+        "date": ""
+      }
+    },
+    {
+      "id": "new-south-wales-natasha-maclaren-jones-statewide",
+      "name": "Natasha Maclaren-Jones",
+      "party": "Liberal Party",
+      "party_group": "Coalition",
+      "jurisdiction": "New South Wales",
+      "chamber": "New South Wales Legislative Council",
+      "electorate": "Statewide",
+      "state": "NSW",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the New South Wales Legislative Council, 2023–2027",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_New_South_Wales_Legislative_Council,_2023%E2%80%932027",
+        "publisher": "Wikipedia",
+        "date": ""
+      }
+    },
+    {
+      "id": "new-south-wales-taylor-martin-statewide",
+      "name": "Taylor Martin",
+      "party": "Liberal Party",
+      "party_group": "Coalition",
+      "jurisdiction": "New South Wales",
+      "chamber": "New South Wales Legislative Council",
+      "electorate": "Statewide",
+      "state": "NSW",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the New South Wales Legislative Council, 2023–2027",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_New_South_Wales_Legislative_Council,_2023%E2%80%932027",
+        "publisher": "Wikipedia",
+        "date": ""
+      }
+    },
+    {
+      "id": "new-south-wales-rachel-merton-statewide",
+      "name": "Rachel Merton",
+      "party": "Liberal Party",
+      "party_group": "Coalition",
+      "jurisdiction": "New South Wales",
+      "chamber": "New South Wales Legislative Council",
+      "electorate": "Statewide",
+      "state": "NSW",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the New South Wales Legislative Council, 2023–2027",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_New_South_Wales_Legislative_Council,_2023%E2%80%932027",
+        "publisher": "Wikipedia",
+        "date": ""
+      }
+    },
+    {
+      "id": "new-south-wales-tania-mihailuk-statewide",
+      "name": "Tania Mihailuk",
+      "party": "Pauline Hanson's One Nation Party",
+      "party_group": "One Nation",
+      "jurisdiction": "New South Wales",
+      "chamber": "New South Wales Legislative Council",
+      "electorate": "Statewide",
+      "state": "NSW",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the New South Wales Legislative Council, 2023–2027",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_New_South_Wales_Legislative_Council,_2023%E2%80%932027",
+        "publisher": "Wikipedia",
+        "date": ""
+      }
+    },
+    {
+      "id": "new-south-wales-sarah-mitchell-statewide",
+      "name": "Sarah Mitchell",
+      "party": "The Nationals",
+      "party_group": "Coalition",
+      "jurisdiction": "New South Wales",
+      "chamber": "New South Wales Legislative Council",
+      "electorate": "Statewide",
+      "state": "NSW",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the New South Wales Legislative Council, 2023–2027",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_New_South_Wales_Legislative_Council,_2023%E2%80%932027",
+        "publisher": "Wikipedia",
+        "date": ""
+      }
+    },
+    {
+      "id": "new-south-wales-daniel-mookhey-statewide",
+      "name": "Daniel Mookhey",
+      "party": "Australian Labor Party",
+      "party_group": "Labor",
+      "jurisdiction": "New South Wales",
+      "chamber": "New South Wales Legislative Council",
+      "electorate": "Statewide",
+      "state": "NSW",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the New South Wales Legislative Council, 2023–2027",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_New_South_Wales_Legislative_Council,_2023%E2%80%932027",
+        "publisher": "Wikipedia",
+        "date": ""
+      }
+    },
+    {
+      "id": "new-south-wales-tara-moriarty-statewide",
+      "name": "Tara Moriarty",
+      "party": "Australian Labor Party",
+      "party_group": "Labor",
+      "jurisdiction": "New South Wales",
+      "chamber": "New South Wales Legislative Council",
+      "electorate": "Statewide",
+      "state": "NSW",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the New South Wales Legislative Council, 2023–2027",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_New_South_Wales_Legislative_Council,_2023%E2%80%932027",
+        "publisher": "Wikipedia",
+        "date": ""
+      }
+    },
+    {
+      "id": "new-south-wales-jacqui-munro-statewide",
+      "name": "Jacqui Munro",
+      "party": "Liberal Party",
+      "party_group": "Coalition",
+      "jurisdiction": "New South Wales",
+      "chamber": "New South Wales Legislative Council",
+      "electorate": "Statewide",
+      "state": "NSW",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the New South Wales Legislative Council, 2023–2027",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_New_South_Wales_Legislative_Council,_2023%E2%80%932027",
+        "publisher": "Wikipedia",
+        "date": ""
+      }
+    },
+    {
+      "id": "new-south-wales-cameron-murphy-statewide",
+      "name": "Cameron Murphy",
+      "party": "Australian Labor Party",
+      "party_group": "Labor",
+      "jurisdiction": "New South Wales",
+      "chamber": "New South Wales Legislative Council",
+      "electorate": "Statewide",
+      "state": "NSW",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the New South Wales Legislative Council, 2023–2027",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_New_South_Wales_Legislative_Council,_2023%E2%80%932027",
+        "publisher": "Wikipedia",
+        "date": ""
+      }
+    },
+    {
+      "id": "new-south-wales-bob-nanva-statewide",
+      "name": "Bob Nanva",
+      "party": "Australian Labor Party",
+      "party_group": "Labor",
+      "jurisdiction": "New South Wales",
+      "chamber": "New South Wales Legislative Council",
+      "electorate": "Statewide",
+      "state": "NSW",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the New South Wales Legislative Council, 2023–2027",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_New_South_Wales_Legislative_Council,_2023%E2%80%932027",
+        "publisher": "Wikipedia",
+        "date": ""
+      }
+    },
+    {
+      "id": "new-south-wales-peter-primrose-statewide",
+      "name": "Peter Primrose",
+      "party": "Australian Labor Party",
+      "party_group": "Labor",
+      "jurisdiction": "New South Wales",
+      "chamber": "New South Wales Legislative Council",
+      "electorate": "Statewide",
+      "state": "NSW",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the New South Wales Legislative Council, 2023–2027",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_New_South_Wales_Legislative_Council,_2023%E2%80%932027",
+        "publisher": "Wikipedia",
+        "date": ""
+      }
+    },
+    {
+      "id": "new-south-wales-chris-rath-statewide",
+      "name": "Chris Rath",
+      "party": "Liberal Party",
+      "party_group": "Coalition",
+      "jurisdiction": "New South Wales",
+      "chamber": "New South Wales Legislative Council",
+      "electorate": "Statewide",
+      "state": "NSW",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the New South Wales Legislative Council, 2023–2027",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_New_South_Wales_Legislative_Council,_2023%E2%80%932027",
+        "publisher": "Wikipedia",
+        "date": ""
+      }
+    },
+    {
+      "id": "new-south-wales-rod-roberts-statewide",
+      "name": "Rod Roberts",
+      "party": "Pauline Hanson's One Nation Party",
+      "party_group": "One Nation",
+      "jurisdiction": "New South Wales",
+      "chamber": "New South Wales Legislative Council",
+      "electorate": "Statewide",
+      "state": "NSW",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the New South Wales Legislative Council, 2023–2027",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_New_South_Wales_Legislative_Council,_2023%E2%80%932027",
+        "publisher": "Wikipedia",
+        "date": ""
+      }
+    },
+    {
+      "id": "new-south-wales-john-ruddick-statewide",
+      "name": "John Ruddick",
+      "party": "Libertarian Party",
+      "party_group": "Other / minor party",
+      "jurisdiction": "New South Wales",
+      "chamber": "New South Wales Legislative Council",
+      "electorate": "Statewide",
+      "state": "NSW",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the New South Wales Legislative Council, 2023–2027",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_New_South_Wales_Legislative_Council,_2023%E2%80%932027",
+        "publisher": "Wikipedia",
+        "date": ""
+      }
+    },
+    {
+      "id": "new-south-wales-penny-sharpe-statewide",
+      "name": "Penny Sharpe",
+      "party": "Australian Labor Party",
+      "party_group": "Labor",
+      "jurisdiction": "New South Wales",
+      "chamber": "New South Wales Legislative Council",
+      "electorate": "Statewide",
+      "state": "NSW",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the New South Wales Legislative Council, 2023–2027",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_New_South_Wales_Legislative_Council,_2023%E2%80%932027",
+        "publisher": "Wikipedia",
+        "date": ""
+      }
+    },
+    {
+      "id": "new-south-wales-emily-suvaal-statewide",
+      "name": "Emily Suvaal",
+      "party": "Australian Labor Party",
+      "party_group": "Labor",
+      "jurisdiction": "New South Wales",
+      "chamber": "New South Wales Legislative Council",
+      "electorate": "Statewide",
+      "state": "NSW",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the New South Wales Legislative Council, 2023–2027",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_New_South_Wales_Legislative_Council,_2023%E2%80%932027",
+        "publisher": "Wikipedia",
+        "date": ""
+      }
+    },
+    {
+      "id": "new-south-wales-damien-tudehope-statewide",
+      "name": "Damien Tudehope",
+      "party": "Liberal Party",
+      "party_group": "Coalition",
+      "jurisdiction": "New South Wales",
+      "chamber": "New South Wales Legislative Council",
+      "electorate": "Statewide",
+      "state": "NSW",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the New South Wales Legislative Council, 2023–2027",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_New_South_Wales_Legislative_Council,_2023%E2%80%932027",
+        "publisher": "Wikipedia",
+        "date": ""
+      }
+    },
+    {
+      "id": "new-south-wales-natalie-ward-statewide",
+      "name": "Natalie Ward",
+      "party": "Liberal Party",
+      "party_group": "Coalition",
+      "jurisdiction": "New South Wales",
+      "chamber": "New South Wales Legislative Council",
+      "electorate": "Statewide",
+      "state": "NSW",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the New South Wales Legislative Council, 2023–2027",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_New_South_Wales_Legislative_Council,_2023%E2%80%932027",
+        "publisher": "Wikipedia",
+        "date": ""
+      }
+    },
+    {
+      "id": "new-south-wales-scott-barrett-statewide",
+      "name": "Scott Barrett",
+      "party": "The Nationals",
+      "party_group": "Coalition",
+      "jurisdiction": "New South Wales",
+      "chamber": "New South Wales Legislative Council",
+      "electorate": "Statewide",
+      "state": "NSW",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the New South Wales Legislative Council, 2023–2027",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_New_South_Wales_Legislative_Council,_2023%E2%80%932027",
+        "publisher": "Wikipedia",
+        "date": ""
+      }
+    },
+    {
+      "id": "new-south-wales-nichole-overall-statewide",
+      "name": "Nichole Overall",
+      "party": "The Nationals",
+      "party_group": "Coalition",
+      "jurisdiction": "New South Wales",
+      "chamber": "New South Wales Legislative Council",
+      "electorate": "Statewide",
+      "state": "NSW",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the New South Wales Legislative Council, 2023–2027",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_New_South_Wales_Legislative_Council,_2023%E2%80%932027",
+        "publisher": "Wikipedia",
+        "date": ""
+      }
+    },
+    {
       "id": "nt-marie-clare-boothby-brennan",
       "name": "Marie-Clare Boothby",
       "party": "Country Liberal Party",
