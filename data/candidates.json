@@ -35397,6 +35397,1830 @@
       },
       "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Welch_Richard_b_%28cropped%29.jpg/330px-Welch_Richard_b_%28cropped%29.jpg",
       "photo_credit_url": "https://en.wikipedia.org/wiki/Richard_Welch_%28Australian_politician%29"
+    },
+    {
+      "id": "western-australia-scott-leary-albany",
+      "name": "Scott Leary",
+      "party": "The Nationals",
+      "party_group": "Coalition",
+      "jurisdiction": "Western Australia",
+      "chamber": "Western Australian Legislative Assembly",
+      "electorate": "Albany",
+      "state": "WA",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the Western Australian Legislative Assembly, 2025–2029",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_Western_Australian_Legislative_Assembly,_2025%E2%80%932029",
+        "publisher": "Wikipedia",
+        "date": ""
+      }
+    },
+    {
+      "id": "western-australia-tony-buti-armadale",
+      "name": "Tony Buti",
+      "party": "Australian Labor Party",
+      "party_group": "Labor",
+      "jurisdiction": "Western Australia",
+      "chamber": "Western Australian Legislative Assembly",
+      "electorate": "Armadale",
+      "state": "WA",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the Western Australian Legislative Assembly, 2025–2029",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_Western_Australian_Legislative_Assembly,_2025%E2%80%932029",
+        "publisher": "Wikipedia",
+        "date": ""
+      }
+    },
+    {
+      "id": "western-australia-david-michael-balcatta",
+      "name": "David Michael",
+      "party": "Australian Labor Party",
+      "party_group": "Labor",
+      "jurisdiction": "Western Australia",
+      "chamber": "Western Australian Legislative Assembly",
+      "electorate": "Balcatta",
+      "state": "WA",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the Western Australian Legislative Assembly, 2025–2029",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_Western_Australian_Legislative_Assembly,_2025%E2%80%932029",
+        "publisher": "Wikipedia",
+        "date": ""
+      }
+    },
+    {
+      "id": "western-australia-reece-whitby-baldivis",
+      "name": "Reece Whitby",
+      "party": "Australian Labor Party",
+      "party_group": "Labor",
+      "jurisdiction": "Western Australia",
+      "chamber": "Western Australian Legislative Assembly",
+      "electorate": "Baldivis",
+      "state": "WA",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the Western Australian Legislative Assembly, 2025–2029",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_Western_Australian_Legislative_Assembly,_2025%E2%80%932029",
+        "publisher": "Wikipedia",
+        "date": ""
+      }
+    },
+    {
+      "id": "western-australia-dave-kelly-bassendean",
+      "name": "Dave Kelly",
+      "party": "Australian Labor Party",
+      "party_group": "Labor",
+      "jurisdiction": "Western Australia",
+      "chamber": "Western Australian Legislative Assembly",
+      "electorate": "Bassendean",
+      "state": "WA",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the Western Australian Legislative Assembly, 2025–2029",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_Western_Australian_Legislative_Assembly,_2025%E2%80%932029",
+        "publisher": "Wikipedia",
+        "date": ""
+      }
+    },
+    {
+      "id": "western-australia-kim-giddens-bateman",
+      "name": "Kim Giddens",
+      "party": "Australian Labor Party",
+      "party_group": "Labor",
+      "jurisdiction": "Western Australia",
+      "chamber": "Western Australian Legislative Assembly",
+      "electorate": "Bateman",
+      "state": "WA",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the Western Australian Legislative Assembly, 2025–2029",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_Western_Australian_Legislative_Assembly,_2025%E2%80%932029",
+        "publisher": "Wikipedia",
+        "date": ""
+      }
+    },
+    {
+      "id": "western-australia-cassie-rowe-belmont",
+      "name": "Cassie Rowe",
+      "party": "Australian Labor Party",
+      "party_group": "Labor",
+      "jurisdiction": "Western Australia",
+      "chamber": "Western Australian Legislative Assembly",
+      "electorate": "Belmont",
+      "state": "WA",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the Western Australian Legislative Assembly, 2025–2029",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_Western_Australian_Legislative_Assembly,_2025%E2%80%932029",
+        "publisher": "Wikipedia",
+        "date": ""
+      }
+    },
+    {
+      "id": "western-australia-sook-yee-lai-bibra-lake",
+      "name": "Sook Yee Lai",
+      "party": "Australian Labor Party",
+      "party_group": "Labor",
+      "jurisdiction": "Western Australia",
+      "chamber": "Western Australian Legislative Assembly",
+      "electorate": "Bibra Lake",
+      "state": "WA",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the Western Australian Legislative Assembly, 2025–2029",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_Western_Australian_Legislative_Assembly,_2025%E2%80%932029",
+        "publisher": "Wikipedia",
+        "date": ""
+      }
+    },
+    {
+      "id": "western-australia-lisa-o-malley-bicton",
+      "name": "Lisa O'Malley",
+      "party": "Australian Labor Party",
+      "party_group": "Labor",
+      "jurisdiction": "Western Australia",
+      "chamber": "Western Australian Legislative Assembly",
+      "electorate": "Bicton",
+      "state": "WA",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the Western Australian Legislative Assembly, 2025–2029",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_Western_Australian_Legislative_Assembly,_2025%E2%80%932029",
+        "publisher": "Wikipedia",
+        "date": ""
+      }
+    },
+    {
+      "id": "western-australia-don-punch-bunbury",
+      "name": "Don Punch",
+      "party": "Australian Labor Party",
+      "party_group": "Labor",
+      "jurisdiction": "Western Australia",
+      "chamber": "Western Australian Legislative Assembly",
+      "electorate": "Bunbury",
+      "state": "WA",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the Western Australian Legislative Assembly, 2025–2029",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_Western_Australian_Legislative_Assembly,_2025%E2%80%932029",
+        "publisher": "Wikipedia",
+        "date": ""
+      }
+    },
+    {
+      "id": "western-australia-lorna-clarke-butler",
+      "name": "Lorna Clarke",
+      "party": "Australian Labor Party",
+      "party_group": "Labor",
+      "jurisdiction": "Western Australia",
+      "chamber": "Western Australian Legislative Assembly",
+      "electorate": "Butler",
+      "state": "WA",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the Western Australian Legislative Assembly, 2025–2029",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_Western_Australian_Legislative_Assembly,_2025%E2%80%932029",
+        "publisher": "Wikipedia",
+        "date": ""
+      }
+    },
+    {
+      "id": "western-australia-ron-sao-cannington",
+      "name": "Ron Sao",
+      "party": "Australian Labor Party",
+      "party_group": "Labor",
+      "jurisdiction": "Western Australia",
+      "chamber": "Western Australian Legislative Assembly",
+      "electorate": "Cannington",
+      "state": "WA",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the Western Australian Legislative Assembly, 2025–2029",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_Western_Australian_Legislative_Assembly,_2025%E2%80%932029",
+        "publisher": "Wikipedia",
+        "date": ""
+      }
+    },
+    {
+      "id": "western-australia-liam-staltari-carine",
+      "name": "Liam Staltari",
+      "party": "Liberal Party",
+      "party_group": "Coalition",
+      "jurisdiction": "Western Australia",
+      "chamber": "Western Australian Legislative Assembly",
+      "electorate": "Carine",
+      "state": "WA",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the Western Australian Legislative Assembly, 2025–2029",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_Western_Australian_Legislative_Assembly,_2025%E2%80%932029",
+        "publisher": "Wikipedia",
+        "date": ""
+      }
+    },
+    {
+      "id": "western-australia-lachlan-hunter-central-wheatbelt",
+      "name": "Lachlan Hunter",
+      "party": "The Nationals",
+      "party_group": "Coalition",
+      "jurisdiction": "Western Australia",
+      "chamber": "Western Australian Legislative Assembly",
+      "electorate": "Central Wheatbelt",
+      "state": "WA",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the Western Australian Legislative Assembly, 2025–2029",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_Western_Australian_Legislative_Assembly,_2025%E2%80%932029",
+        "publisher": "Wikipedia",
+        "date": ""
+      }
+    },
+    {
+      "id": "western-australia-basil-zempilas-churchlands",
+      "name": "Basil Zempilas",
+      "party": "Liberal Party",
+      "party_group": "Coalition",
+      "jurisdiction": "Western Australia",
+      "chamber": "Western Australian Legislative Assembly",
+      "electorate": "Churchlands",
+      "state": "WA",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the Western Australian Legislative Assembly, 2025–2029",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_Western_Australian_Legislative_Assembly,_2025%E2%80%932029",
+        "publisher": "Wikipedia",
+        "date": ""
+      }
+    },
+    {
+      "id": "western-australia-david-scaife-cockburn",
+      "name": "David Scaife",
+      "party": "Australian Labor Party",
+      "party_group": "Labor",
+      "jurisdiction": "Western Australia",
+      "chamber": "Western Australian Legislative Assembly",
+      "electorate": "Cockburn",
+      "state": "WA",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the Western Australian Legislative Assembly, 2025–2029",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_Western_Australian_Legislative_Assembly,_2025%E2%80%932029",
+        "publisher": "Wikipedia",
+        "date": ""
+      }
+    },
+    {
+      "id": "western-australia-jodie-hanns-collie-preston",
+      "name": "Jodie Hanns",
+      "party": "Australian Labor Party",
+      "party_group": "Labor",
+      "jurisdiction": "Western Australia",
+      "chamber": "Western Australian Legislative Assembly",
+      "electorate": "Collie-Preston",
+      "state": "WA",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the Western Australian Legislative Assembly, 2025–2029",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_Western_Australian_Legislative_Assembly,_2025%E2%80%932029",
+        "publisher": "Wikipedia",
+        "date": ""
+      }
+    },
+    {
+      "id": "western-australia-sandra-brewer-cottesloe",
+      "name": "Sandra Brewer",
+      "party": "Liberal Party",
+      "party_group": "Coalition",
+      "jurisdiction": "Western Australia",
+      "chamber": "Western Australian Legislative Assembly",
+      "electorate": "Cottesloe",
+      "state": "WA",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the Western Australian Legislative Assembly, 2025–2029",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_Western_Australian_Legislative_Assembly,_2025%E2%80%932029",
+        "publisher": "Wikipedia",
+        "date": ""
+      }
+    },
+    {
+      "id": "western-australia-hugh-jones-darling-range",
+      "name": "Hugh Jones",
+      "party": "Australian Labor Party",
+      "party_group": "Labor",
+      "jurisdiction": "Western Australia",
+      "chamber": "Western Australian Legislative Assembly",
+      "electorate": "Darling Range",
+      "state": "WA",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the Western Australian Legislative Assembly, 2025–2029",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_Western_Australian_Legislative_Assembly,_2025%E2%80%932029",
+        "publisher": "Wikipedia",
+        "date": ""
+      }
+    },
+    {
+      "id": "western-australia-lisa-munday-dawesville",
+      "name": "Lisa Munday",
+      "party": "Australian Labor Party",
+      "party_group": "Labor",
+      "jurisdiction": "Western Australia",
+      "chamber": "Western Australian Legislative Assembly",
+      "electorate": "Dawesville",
+      "state": "WA",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the Western Australian Legislative Assembly, 2025–2029",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_Western_Australian_Legislative_Assembly,_2025%E2%80%932029",
+        "publisher": "Wikipedia",
+        "date": ""
+      }
+    },
+    {
+      "id": "western-australia-stephen-price-forrestfield",
+      "name": "Stephen Price",
+      "party": "Australian Labor Party",
+      "party_group": "Labor",
+      "jurisdiction": "Western Australia",
+      "chamber": "Western Australian Legislative Assembly",
+      "electorate": "Forrestfield",
+      "state": "WA",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the Western Australian Legislative Assembly, 2025–2029",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_Western_Australian_Legislative_Assembly,_2025%E2%80%932029",
+        "publisher": "Wikipedia",
+        "date": ""
+      }
+    },
+    {
+      "id": "western-australia-simone-mcgurk-fremantle",
+      "name": "Simone McGurk",
+      "party": "Australian Labor Party",
+      "party_group": "Labor",
+      "jurisdiction": "Western Australia",
+      "chamber": "Western Australian Legislative Assembly",
+      "electorate": "Fremantle",
+      "state": "WA",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the Western Australian Legislative Assembly, 2025–2029",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_Western_Australian_Legislative_Assembly,_2025%E2%80%932029",
+        "publisher": "Wikipedia",
+        "date": ""
+      }
+    },
+    {
+      "id": "western-australia-kirrilee-warr-geraldton",
+      "name": "Kirrilee Warr",
+      "party": "The Nationals",
+      "party_group": "Coalition",
+      "jurisdiction": "Western Australia",
+      "chamber": "Western Australian Legislative Assembly",
+      "electorate": "Geraldton",
+      "state": "WA",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the Western Australian Legislative Assembly, 2025–2029",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_Western_Australian_Legislative_Assembly,_2025%E2%80%932029",
+        "publisher": "Wikipedia",
+        "date": ""
+      }
+    },
+    {
+      "id": "western-australia-meredith-hammat-girrawheen",
+      "name": "Meredith Hammat",
+      "party": "Australian Labor Party",
+      "party_group": "Labor",
+      "jurisdiction": "Western Australia",
+      "chamber": "Western Australian Legislative Assembly",
+      "electorate": "Girrawheen",
+      "state": "WA",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the Western Australian Legislative Assembly, 2025–2029",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_Western_Australian_Legislative_Assembly,_2025%E2%80%932029",
+        "publisher": "Wikipedia",
+        "date": ""
+      }
+    },
+    {
+      "id": "western-australia-caitlin-collins-hillarys",
+      "name": "Caitlin Collins",
+      "party": "Australian Labor Party",
+      "party_group": "Labor",
+      "jurisdiction": "Western Australia",
+      "chamber": "Western Australian Legislative Assembly",
+      "electorate": "Hillarys",
+      "state": "WA",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the Western Australian Legislative Assembly, 2025–2029",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_Western_Australian_Legislative_Assembly,_2025%E2%80%932029",
+        "publisher": "Wikipedia",
+        "date": ""
+      }
+    },
+    {
+      "id": "western-australia-stephen-pratt-jandakot",
+      "name": "Stephen Pratt",
+      "party": "Australian Labor Party",
+      "party_group": "Labor",
+      "jurisdiction": "Western Australia",
+      "chamber": "Western Australian Legislative Assembly",
+      "electorate": "Jandakot",
+      "state": "WA",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the Western Australian Legislative Assembly, 2025–2029",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_Western_Australian_Legislative_Assembly,_2025%E2%80%932029",
+        "publisher": "Wikipedia",
+        "date": ""
+      }
+    },
+    {
+      "id": "western-australia-emily-hamilton-joondalup",
+      "name": "Emily Hamilton",
+      "party": "Australian Labor Party",
+      "party_group": "Labor",
+      "jurisdiction": "Western Australia",
+      "chamber": "Western Australian Legislative Assembly",
+      "electorate": "Joondalup",
+      "state": "WA",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the Western Australian Legislative Assembly, 2025–2029",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_Western_Australian_Legislative_Assembly,_2025%E2%80%932029",
+        "publisher": "Wikipedia",
+        "date": ""
+      }
+    },
+    {
+      "id": "western-australia-adam-hort-kalamunda",
+      "name": "Adam Hort",
+      "party": "Liberal Party",
+      "party_group": "Coalition",
+      "jurisdiction": "Western Australia",
+      "chamber": "Western Australian Legislative Assembly",
+      "electorate": "Kalamunda",
+      "state": "WA",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the Western Australian Legislative Assembly, 2025–2029",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_Western_Australian_Legislative_Assembly,_2025%E2%80%932029",
+        "publisher": "Wikipedia",
+        "date": ""
+      }
+    },
+    {
+      "id": "western-australia-ali-kent-kalgoorlie",
+      "name": "Ali Kent",
+      "party": "Australian Labor Party",
+      "party_group": "Labor",
+      "jurisdiction": "Western Australia",
+      "chamber": "Western Australian Legislative Assembly",
+      "electorate": "Kalgoorlie",
+      "state": "WA",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the Western Australian Legislative Assembly, 2025–2029",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_Western_Australian_Legislative_Assembly,_2025%E2%80%932029",
+        "publisher": "Wikipedia",
+        "date": ""
+      }
+    },
+    {
+      "id": "western-australia-divina-d-anna-kimberley",
+      "name": "Divina D'Anna",
+      "party": "Australian Labor Party",
+      "party_group": "Labor",
+      "jurisdiction": "Western Australia",
+      "chamber": "Western Australian Legislative Assembly",
+      "electorate": "Kimberley",
+      "state": "WA",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the Western Australian Legislative Assembly, 2025–2029",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_Western_Australian_Legislative_Assembly,_2025%E2%80%932029",
+        "publisher": "Wikipedia",
+        "date": ""
+      }
+    },
+    {
+      "id": "western-australia-jessica-stojkovski-kingsley",
+      "name": "Jessica Stojkovski",
+      "party": "Australian Labor Party",
+      "party_group": "Labor",
+      "jurisdiction": "Western Australia",
+      "chamber": "Western Australian Legislative Assembly",
+      "electorate": "Kingsley",
+      "state": "WA",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the Western Australian Legislative Assembly, 2025–2029",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_Western_Australian_Legislative_Assembly,_2025%E2%80%932029",
+        "publisher": "Wikipedia",
+        "date": ""
+      }
+    },
+    {
+      "id": "western-australia-roger-cook-kwinana",
+      "name": "Roger Cook",
+      "party": "Australian Labor Party",
+      "party_group": "Labor",
+      "jurisdiction": "Western Australia",
+      "chamber": "Western Australian Legislative Assembly",
+      "electorate": "Kwinana",
+      "state": "WA",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the Western Australian Legislative Assembly, 2025–2029",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_Western_Australian_Legislative_Assembly,_2025%E2%80%932029",
+        "publisher": "Wikipedia",
+        "date": ""
+      }
+    },
+    {
+      "id": "western-australia-daniel-pastorelli-landsdale",
+      "name": "Daniel Pastorelli",
+      "party": "Australian Labor Party",
+      "party_group": "Labor",
+      "jurisdiction": "Western Australia",
+      "chamber": "Western Australian Legislative Assembly",
+      "electorate": "Landsdale",
+      "state": "WA",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the Western Australian Legislative Assembly, 2025–2029",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_Western_Australian_Legislative_Assembly,_2025%E2%80%932029",
+        "publisher": "Wikipedia",
+        "date": ""
+      }
+    },
+    {
+      "id": "western-australia-rhys-williams-mandurah",
+      "name": "Rhys Williams",
+      "party": "Australian Labor Party",
+      "party_group": "Labor",
+      "jurisdiction": "Western Australia",
+      "chamber": "Western Australian Legislative Assembly",
+      "electorate": "Mandurah",
+      "state": "WA",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the Western Australian Legislative Assembly, 2025–2029",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_Western_Australian_Legislative_Assembly,_2025%E2%80%932029",
+        "publisher": "Wikipedia",
+        "date": ""
+      }
+    },
+    {
+      "id": "western-australia-dan-bull-maylands",
+      "name": "Dan Bull",
+      "party": "Australian Labor Party",
+      "party_group": "Labor",
+      "jurisdiction": "Western Australia",
+      "chamber": "Western Australian Legislative Assembly",
+      "electorate": "Maylands",
+      "state": "WA",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the Western Australian Legislative Assembly, 2025–2029",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_Western_Australian_Legislative_Assembly,_2025%E2%80%932029",
+        "publisher": "Wikipedia",
+        "date": ""
+      }
+    },
+    {
+      "id": "western-australia-steve-catania-midland",
+      "name": "Steve Catania",
+      "party": "Australian Labor Party",
+      "party_group": "Labor",
+      "jurisdiction": "Western Australia",
+      "chamber": "Western Australian Legislative Assembly",
+      "electorate": "Midland",
+      "state": "WA",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the Western Australian Legislative Assembly, 2025–2029",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_Western_Australian_Legislative_Assembly,_2025%E2%80%932029",
+        "publisher": "Wikipedia",
+        "date": ""
+      }
+    },
+    {
+      "id": "western-australia-shane-love-mid-west",
+      "name": "Shane Love",
+      "party": "The Nationals",
+      "party_group": "Coalition",
+      "jurisdiction": "Western Australia",
+      "chamber": "Western Australian Legislative Assembly",
+      "electorate": "Mid-West",
+      "state": "WA",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the Western Australian Legislative Assembly, 2025–2029",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_Western_Australian_Legislative_Assembly,_2025%E2%80%932029",
+        "publisher": "Wikipedia",
+        "date": ""
+      }
+    },
+    {
+      "id": "western-australia-mark-folkard-mindarie",
+      "name": "Mark Folkard",
+      "party": "Australian Labor Party",
+      "party_group": "Labor",
+      "jurisdiction": "Western Australia",
+      "chamber": "Western Australian Legislative Assembly",
+      "electorate": "Mindarie",
+      "state": "WA",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the Western Australian Legislative Assembly, 2025–2029",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_Western_Australian_Legislative_Assembly,_2025%E2%80%932029",
+        "publisher": "Wikipedia",
+        "date": ""
+      }
+    },
+    {
+      "id": "western-australia-amber-jade-sanderson-morley",
+      "name": "Amber-Jade Sanderson",
+      "party": "Australian Labor Party",
+      "party_group": "Labor",
+      "jurisdiction": "Western Australia",
+      "chamber": "Western Australian Legislative Assembly",
+      "electorate": "Morley",
+      "state": "WA",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the Western Australian Legislative Assembly, 2025–2029",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_Western_Australian_Legislative_Assembly,_2025%E2%80%932029",
+        "publisher": "Wikipedia",
+        "date": ""
+      }
+    },
+    {
+      "id": "western-australia-frank-paolino-mount-lawley",
+      "name": "Frank Paolino",
+      "party": "Australian Labor Party",
+      "party_group": "Labor",
+      "jurisdiction": "Western Australia",
+      "chamber": "Western Australian Legislative Assembly",
+      "electorate": "Mount Lawley",
+      "state": "WA",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the Western Australian Legislative Assembly, 2025–2029",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_Western_Australian_Legislative_Assembly,_2025%E2%80%932029",
+        "publisher": "Wikipedia",
+        "date": ""
+      }
+    },
+    {
+      "id": "western-australia-david-bolt-murray-wellington",
+      "name": "David Bolt",
+      "party": "Liberal Party",
+      "party_group": "Coalition",
+      "jurisdiction": "Western Australia",
+      "chamber": "Western Australian Legislative Assembly",
+      "electorate": "Murray-Wellington",
+      "state": "WA",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the Western Australian Legislative Assembly, 2025–2029",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_Western_Australian_Legislative_Assembly,_2025%E2%80%932029",
+        "publisher": "Wikipedia",
+        "date": ""
+      }
+    },
+    {
+      "id": "western-australia-jonathan-huston-nedlands",
+      "name": "Jonathan Huston",
+      "party": "Liberal Party",
+      "party_group": "Coalition",
+      "jurisdiction": "Western Australia",
+      "chamber": "Western Australian Legislative Assembly",
+      "electorate": "Nedlands",
+      "state": "WA",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the Western Australian Legislative Assembly, 2025–2029",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_Western_Australian_Legislative_Assembly,_2025%E2%80%932029",
+        "publisher": "Wikipedia",
+        "date": ""
+      }
+    },
+    {
+      "id": "western-australia-yaz-mubarakai-oakford",
+      "name": "Yaz Mubarakai",
+      "party": "Australian Labor Party",
+      "party_group": "Labor",
+      "jurisdiction": "Western Australia",
+      "chamber": "Western Australian Legislative Assembly",
+      "electorate": "Oakford",
+      "state": "WA",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the Western Australian Legislative Assembly, 2025–2029",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_Western_Australian_Legislative_Assembly,_2025%E2%80%932029",
+        "publisher": "Wikipedia",
+        "date": ""
+      }
+    },
+    {
+      "id": "western-australia-john-carey-perth",
+      "name": "John Carey",
+      "party": "Australian Labor Party",
+      "party_group": "Labor",
+      "jurisdiction": "Western Australia",
+      "chamber": "Western Australian Legislative Assembly",
+      "electorate": "Perth",
+      "state": "WA",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the Western Australian Legislative Assembly, 2025–2029",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_Western_Australian_Legislative_Assembly,_2025%E2%80%932029",
+        "publisher": "Wikipedia",
+        "date": ""
+      }
+    },
+    {
+      "id": "western-australia-kevin-michel-pilbara",
+      "name": "Kevin Michel",
+      "party": "Australian Labor Party",
+      "party_group": "Labor",
+      "jurisdiction": "Western Australia",
+      "chamber": "Western Australian Legislative Assembly",
+      "electorate": "Pilbara",
+      "state": "WA",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the Western Australian Legislative Assembly, 2025–2029",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_Western_Australian_Legislative_Assembly,_2025%E2%80%932029",
+        "publisher": "Wikipedia",
+        "date": ""
+      }
+    },
+    {
+      "id": "western-australia-jags-krishnan-riverton",
+      "name": "Jags Krishnan",
+      "party": "Australian Labor Party",
+      "party_group": "Labor",
+      "jurisdiction": "Western Australia",
+      "chamber": "Western Australian Legislative Assembly",
+      "electorate": "Riverton",
+      "state": "WA",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the Western Australian Legislative Assembly, 2025–2029",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_Western_Australian_Legislative_Assembly,_2025%E2%80%932029",
+        "publisher": "Wikipedia",
+        "date": ""
+      }
+    },
+    {
+      "id": "western-australia-magenta-marshall-rockingham",
+      "name": "Magenta Marshall",
+      "party": "Australian Labor Party",
+      "party_group": "Labor",
+      "jurisdiction": "Western Australia",
+      "chamber": "Western Australian Legislative Assembly",
+      "electorate": "Rockingham",
+      "state": "WA",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the Western Australian Legislative Assembly, 2025–2029",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_Western_Australian_Legislative_Assembly,_2025%E2%80%932029",
+        "publisher": "Wikipedia",
+        "date": ""
+      }
+    },
+    {
+      "id": "western-australia-peter-rundle-roe",
+      "name": "Peter Rundle",
+      "party": "The Nationals",
+      "party_group": "Coalition",
+      "jurisdiction": "Western Australia",
+      "chamber": "Western Australian Legislative Assembly",
+      "electorate": "Roe",
+      "state": "WA",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the Western Australian Legislative Assembly, 2025–2029",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_Western_Australian_Legislative_Assembly,_2025%E2%80%932029",
+        "publisher": "Wikipedia",
+        "date": ""
+      }
+    },
+    {
+      "id": "western-australia-stuart-aubrey-scarborough",
+      "name": "Stuart Aubrey",
+      "party": "Australian Labor Party",
+      "party_group": "Labor",
+      "jurisdiction": "Western Australia",
+      "chamber": "Western Australian Legislative Assembly",
+      "electorate": "Scarborough",
+      "state": "WA",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the Western Australian Legislative Assembly, 2025–2029",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_Western_Australian_Legislative_Assembly,_2025%E2%80%932029",
+        "publisher": "Wikipedia",
+        "date": ""
+      }
+    },
+    {
+      "id": "western-australia-paul-papalia-secret-harbour",
+      "name": "Paul Papalia",
+      "party": "Australian Labor Party",
+      "party_group": "Labor",
+      "jurisdiction": "Western Australia",
+      "chamber": "Western Australian Legislative Assembly",
+      "electorate": "Secret Harbour",
+      "state": "WA",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the Western Australian Legislative Assembly, 2025–2029",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_Western_Australian_Legislative_Assembly,_2025%E2%80%932029",
+        "publisher": "Wikipedia",
+        "date": ""
+      }
+    },
+    {
+      "id": "western-australia-terry-healy-southern-river",
+      "name": "Terry Healy",
+      "party": "Australian Labor Party",
+      "party_group": "Labor",
+      "jurisdiction": "Western Australia",
+      "chamber": "Western Australian Legislative Assembly",
+      "electorate": "Southern River",
+      "state": "WA",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the Western Australian Legislative Assembly, 2025–2029",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_Western_Australian_Legislative_Assembly,_2025%E2%80%932029",
+        "publisher": "Wikipedia",
+        "date": ""
+      }
+    },
+    {
+      "id": "western-australia-geoff-baker-south-perth",
+      "name": "Geoff Baker",
+      "party": "Australian Labor Party",
+      "party_group": "Labor",
+      "jurisdiction": "Western Australia",
+      "chamber": "Western Australian Legislative Assembly",
+      "electorate": "South Perth",
+      "state": "WA",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the Western Australian Legislative Assembly, 2025–2029",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_Western_Australian_Legislative_Assembly,_2025%E2%80%932029",
+        "publisher": "Wikipedia",
+        "date": ""
+      }
+    },
+    {
+      "id": "western-australia-michelle-maynard-swan-hills",
+      "name": "Michelle Maynard",
+      "party": "Australian Labor Party",
+      "party_group": "Labor",
+      "jurisdiction": "Western Australia",
+      "chamber": "Western Australian Legislative Assembly",
+      "electorate": "Swan Hills",
+      "state": "WA",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the Western Australian Legislative Assembly, 2025–2029",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_Western_Australian_Legislative_Assembly,_2025%E2%80%932029",
+        "publisher": "Wikipedia",
+        "date": ""
+      }
+    },
+    {
+      "id": "western-australia-colleen-egan-thornlie",
+      "name": "Colleen Egan",
+      "party": "Australian Labor Party",
+      "party_group": "Labor",
+      "jurisdiction": "Western Australia",
+      "chamber": "Western Australian Legislative Assembly",
+      "electorate": "Thornlie",
+      "state": "WA",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the Western Australian Legislative Assembly, 2025–2029",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_Western_Australian_Legislative_Assembly,_2025%E2%80%932029",
+        "publisher": "Wikipedia",
+        "date": ""
+      }
+    },
+    {
+      "id": "western-australia-libby-mettam-vasse",
+      "name": "Libby Mettam",
+      "party": "Liberal Party",
+      "party_group": "Coalition",
+      "jurisdiction": "Western Australia",
+      "chamber": "Western Australian Legislative Assembly",
+      "electorate": "Vasse",
+      "state": "WA",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the Western Australian Legislative Assembly, 2025–2029",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_Western_Australian_Legislative_Assembly,_2025%E2%80%932029",
+        "publisher": "Wikipedia",
+        "date": ""
+      }
+    },
+    {
+      "id": "western-australia-hannah-beazley-victoria-park",
+      "name": "Hannah Beazley",
+      "party": "Australian Labor Party",
+      "party_group": "Labor",
+      "jurisdiction": "Western Australia",
+      "chamber": "Western Australian Legislative Assembly",
+      "electorate": "Victoria Park",
+      "state": "WA",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the Western Australian Legislative Assembly, 2025–2029",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_Western_Australian_Legislative_Assembly,_2025%E2%80%932029",
+        "publisher": "Wikipedia",
+        "date": ""
+      }
+    },
+    {
+      "id": "western-australia-sabine-winton-wanneroo",
+      "name": "Sabine Winton",
+      "party": "Australian Labor Party",
+      "party_group": "Labor",
+      "jurisdiction": "Western Australia",
+      "chamber": "Western Australian Legislative Assembly",
+      "electorate": "Wanneroo",
+      "state": "WA",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the Western Australian Legislative Assembly, 2025–2029",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_Western_Australian_Legislative_Assembly,_2025%E2%80%932029",
+        "publisher": "Wikipedia",
+        "date": ""
+      }
+    },
+    {
+      "id": "western-australia-bevan-eatts-warren-blackwood",
+      "name": "Bevan Eatts",
+      "party": "The Nationals",
+      "party_group": "Coalition",
+      "jurisdiction": "Western Australia",
+      "chamber": "Western Australian Legislative Assembly",
+      "electorate": "Warren-Blackwood",
+      "state": "WA",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the Western Australian Legislative Assembly, 2025–2029",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_Western_Australian_Legislative_Assembly,_2025%E2%80%932029",
+        "publisher": "Wikipedia",
+        "date": ""
+      }
+    },
+    {
+      "id": "western-australia-rita-saffioti-west-swan",
+      "name": "Rita Saffioti",
+      "party": "Australian Labor Party",
+      "party_group": "Labor",
+      "jurisdiction": "Western Australia",
+      "chamber": "Western Australian Legislative Assembly",
+      "electorate": "West Swan",
+      "state": "WA",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the Western Australian Legislative Assembly, 2025–2029",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_Western_Australian_Legislative_Assembly,_2025%E2%80%932029",
+        "publisher": "Wikipedia",
+        "date": ""
+      }
+    },
+    {
+      "id": "western-australia-klara-andric-statewide",
+      "name": "Klara Andric",
+      "party": "Australian Labor Party",
+      "party_group": "Labor",
+      "jurisdiction": "Western Australia",
+      "chamber": "Western Australian Legislative Council",
+      "electorate": "Statewide",
+      "state": "WA",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the Western Australian Legislative Council, 2025–2029",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_Western_Australian_Legislative_Council,_2025%E2%80%932029",
+        "publisher": "Wikipedia",
+        "date": ""
+      }
+    },
+    {
+      "id": "western-australia-jess-beckerling-statewide",
+      "name": "Jess Beckerling",
+      "party": "Australian Greens",
+      "party_group": "Greens",
+      "jurisdiction": "Western Australia",
+      "chamber": "Western Australian Legislative Council",
+      "electorate": "Statewide",
+      "state": "WA",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the Western Australian Legislative Council, 2025–2029",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_Western_Australian_Legislative_Council,_2025%E2%80%932029",
+        "publisher": "Wikipedia",
+        "date": ""
+      }
+    },
+    {
+      "id": "western-australia-michelle-boylan-statewide",
+      "name": "Michelle Boylan",
+      "party": "Liberal Party",
+      "party_group": "Coalition",
+      "jurisdiction": "Western Australia",
+      "chamber": "Western Australian Legislative Council",
+      "electorate": "Statewide",
+      "state": "WA",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the Western Australian Legislative Council, 2025–2029",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_Western_Australian_Legislative_Council,_2025%E2%80%932029",
+        "publisher": "Wikipedia",
+        "date": ""
+      }
+    },
+    {
+      "id": "western-australia-rod-caddies-statewide",
+      "name": "Rod Caddies",
+      "party": "Pauline Hanson's One Nation Party",
+      "party_group": "One Nation",
+      "jurisdiction": "Western Australia",
+      "chamber": "Western Australian Legislative Council",
+      "electorate": "Statewide",
+      "state": "WA",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the Western Australian Legislative Council, 2025–2029",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_Western_Australian_Legislative_Council,_2025%E2%80%932029",
+        "publisher": "Wikipedia",
+        "date": ""
+      }
+    },
+    {
+      "id": "western-australia-dan-caddy-statewide",
+      "name": "Dan Caddy",
+      "party": "Australian Labor Party",
+      "party_group": "Labor",
+      "jurisdiction": "Western Australia",
+      "chamber": "Western Australian Legislative Council",
+      "electorate": "Statewide",
+      "state": "WA",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the Western Australian Legislative Council, 2025–2029",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_Western_Australian_Legislative_Council,_2025%E2%80%932029",
+        "publisher": "Wikipedia",
+        "date": ""
+      }
+    },
+    {
+      "id": "western-australia-sandra-carr-statewide",
+      "name": "Sandra Carr",
+      "party": "Australian Labor Party",
+      "party_group": "Labor",
+      "jurisdiction": "Western Australia",
+      "chamber": "Western Australian Legislative Council",
+      "electorate": "Statewide",
+      "state": "WA",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the Western Australian Legislative Council, 2025–2029",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_Western_Australian_Legislative_Council,_2025%E2%80%932029",
+        "publisher": "Wikipedia",
+        "date": ""
+      }
+    },
+    {
+      "id": "western-australia-lauren-cayoun-statewide",
+      "name": "Lauren Cayoun",
+      "party": "Australian Labor Party",
+      "party_group": "Labor",
+      "jurisdiction": "Western Australia",
+      "chamber": "Western Australian Legislative Council",
+      "electorate": "Statewide",
+      "state": "WA",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the Western Australian Legislative Council, 2025–2029",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_Western_Australian_Legislative_Council,_2025%E2%80%932029",
+        "publisher": "Wikipedia",
+        "date": ""
+      }
+    },
+    {
+      "id": "western-australia-tim-clifford-statewide",
+      "name": "Tim Clifford",
+      "party": "Australian Greens",
+      "party_group": "Greens",
+      "jurisdiction": "Western Australia",
+      "chamber": "Western Australian Legislative Council",
+      "electorate": "Statewide",
+      "state": "WA",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the Western Australian Legislative Council, 2025–2029",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_Western_Australian_Legislative_Council,_2025%E2%80%932029",
+        "publisher": "Wikipedia",
+        "date": ""
+      }
+    },
+    {
+      "id": "western-australia-alanna-clohesy-statewide",
+      "name": "Alanna Clohesy",
+      "party": "Australian Labor Party",
+      "party_group": "Labor",
+      "jurisdiction": "Western Australia",
+      "chamber": "Western Australian Legislative Council",
+      "electorate": "Statewide",
+      "state": "WA",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the Western Australian Legislative Council, 2025–2029",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_Western_Australian_Legislative_Council,_2025%E2%80%932029",
+        "publisher": "Wikipedia",
+        "date": ""
+      }
+    },
+    {
+      "id": "western-australia-stephen-dawson-statewide",
+      "name": "Stephen Dawson",
+      "party": "Australian Labor Party",
+      "party_group": "Labor",
+      "jurisdiction": "Western Australia",
+      "chamber": "Western Australian Legislative Council",
+      "electorate": "Statewide",
+      "state": "WA",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the Western Australian Legislative Council, 2025–2029",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_Western_Australian_Legislative_Council,_2025%E2%80%932029",
+        "publisher": "Wikipedia",
+        "date": ""
+      }
+    },
+    {
+      "id": "western-australia-amanda-dorn-statewide",
+      "name": "Amanda Dorn",
+      "party": "Animal Justice Party",
+      "party_group": "Other / minor party",
+      "jurisdiction": "Western Australia",
+      "chamber": "Western Australian Legislative Council",
+      "electorate": "Statewide",
+      "state": "WA",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the Western Australian Legislative Council, 2025–2029",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_Western_Australian_Legislative_Council,_2025%E2%80%932029",
+        "publisher": "Wikipedia",
+        "date": ""
+      }
+    },
+    {
+      "id": "western-australia-kate-doust-statewide",
+      "name": "Kate Doust",
+      "party": "Australian Labor Party",
+      "party_group": "Labor",
+      "jurisdiction": "Western Australia",
+      "chamber": "Western Australian Legislative Council",
+      "electorate": "Statewide",
+      "state": "WA",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the Western Australian Legislative Council, 2025–2029",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_Western_Australian_Legislative_Council,_2025%E2%80%932029",
+        "publisher": "Wikipedia",
+        "date": ""
+      }
+    },
+    {
+      "id": "western-australia-simon-ehrenfeld-statewide",
+      "name": "Simon Ehrenfeld",
+      "party": "Liberal Party",
+      "party_group": "Coalition",
+      "jurisdiction": "Western Australia",
+      "chamber": "Western Australian Legislative Council",
+      "electorate": "Statewide",
+      "state": "WA",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the Western Australian Legislative Council, 2025–2029",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_Western_Australian_Legislative_Council,_2025%E2%80%932029",
+        "publisher": "Wikipedia",
+        "date": ""
+      }
+    },
+    {
+      "id": "western-australia-julie-freeman-statewide",
+      "name": "Julie Freeman",
+      "party": "The Nationals",
+      "party_group": "Coalition",
+      "jurisdiction": "Western Australia",
+      "chamber": "Western Australian Legislative Council",
+      "electorate": "Statewide",
+      "state": "WA",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the Western Australian Legislative Council, 2025–2029",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_Western_Australian_Legislative_Council,_2025%E2%80%932029",
+        "publisher": "Wikipedia",
+        "date": ""
+      }
+    },
+    {
+      "id": "western-australia-maryka-groenewald-statewide",
+      "name": "Maryka Groenewald",
+      "party": "Australian Christians",
+      "party_group": "Other / minor party",
+      "jurisdiction": "Western Australia",
+      "chamber": "Western Australian Legislative Council",
+      "electorate": "Statewide",
+      "state": "WA",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the Western Australian Legislative Council, 2025–2029",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_Western_Australian_Legislative_Council,_2025%E2%80%932029",
+        "publisher": "Wikipedia",
+        "date": ""
+      }
+    },
+    {
+      "id": "western-australia-klasey-hirst-statewide",
+      "name": "Klasey Hirst",
+      "party": "Australian Labor Party",
+      "party_group": "Labor",
+      "jurisdiction": "Western Australia",
+      "chamber": "Western Australian Legislative Council",
+      "electorate": "Statewide",
+      "state": "WA",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the Western Australian Legislative Council, 2025–2029",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_Western_Australian_Legislative_Council,_2025%E2%80%932029",
+        "publisher": "Wikipedia",
+        "date": ""
+      }
+    },
+    {
+      "id": "western-australia-michelle-hofmann-statewide",
+      "name": "Michelle Hofmann",
+      "party": "Liberal Party",
+      "party_group": "Coalition",
+      "jurisdiction": "Western Australia",
+      "chamber": "Western Australian Legislative Council",
+      "electorate": "Statewide",
+      "state": "WA",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the Western Australian Legislative Council, 2025–2029",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_Western_Australian_Legislative_Council,_2025%E2%80%932029",
+        "publisher": "Wikipedia",
+        "date": ""
+      }
+    },
+    {
+      "id": "western-australia-rob-horstman-statewide",
+      "name": "Rob Horstman",
+      "party": "The Nationals",
+      "party_group": "Coalition",
+      "jurisdiction": "Western Australia",
+      "chamber": "Western Australian Legislative Council",
+      "electorate": "Statewide",
+      "state": "WA",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the Western Australian Legislative Council, 2025–2029",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_Western_Australian_Legislative_Council,_2025%E2%80%932029",
+        "publisher": "Wikipedia",
+        "date": ""
+      }
+    },
+    {
+      "id": "western-australia-nick-goiran-statewide",
+      "name": "Nick Goiran",
+      "party": "Liberal Party",
+      "party_group": "Coalition",
+      "jurisdiction": "Western Australia",
+      "chamber": "Western Australian Legislative Council",
+      "electorate": "Statewide",
+      "state": "WA",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the Western Australian Legislative Council, 2025–2029",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_Western_Australian_Legislative_Council,_2025%E2%80%932029",
+        "publisher": "Wikipedia",
+        "date": ""
+      }
+    },
+    {
+      "id": "western-australia-jackie-jarvis-statewide",
+      "name": "Jackie Jarvis",
+      "party": "Australian Labor Party",
+      "party_group": "Labor",
+      "jurisdiction": "Western Australia",
+      "chamber": "Western Australian Legislative Council",
+      "electorate": "Statewide",
+      "state": "WA",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the Western Australian Legislative Council, 2025–2029",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_Western_Australian_Legislative_Council,_2025%E2%80%932029",
+        "publisher": "Wikipedia",
+        "date": ""
+      }
+    },
+    {
+      "id": "western-australia-ayor-makur-chuot-statewide",
+      "name": "Ayor Makur Chuot",
+      "party": "Australian Labor Party",
+      "party_group": "Labor",
+      "jurisdiction": "Western Australia",
+      "chamber": "Western Australian Legislative Council",
+      "electorate": "Statewide",
+      "state": "WA",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the Western Australian Legislative Council, 2025–2029",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_Western_Australian_Legislative_Council,_2025%E2%80%932029",
+        "publisher": "Wikipedia",
+        "date": ""
+      }
+    },
+    {
+      "id": "western-australia-sophie-mcneill-statewide",
+      "name": "Sophie McNeill",
+      "party": "Australian Greens",
+      "party_group": "Greens",
+      "jurisdiction": "Western Australia",
+      "chamber": "Western Australian Legislative Council",
+      "electorate": "Statewide",
+      "state": "WA",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the Western Australian Legislative Council, 2025–2029",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_Western_Australian_Legislative_Council,_2025%E2%80%932029",
+        "publisher": "Wikipedia",
+        "date": ""
+      }
+    },
+    {
+      "id": "western-australia-steve-martin-statewide",
+      "name": "Steve Martin",
+      "party": "Liberal Party",
+      "party_group": "Coalition",
+      "jurisdiction": "Western Australia",
+      "chamber": "Western Australian Legislative Council",
+      "electorate": "Statewide",
+      "state": "WA",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the Western Australian Legislative Council, 2025–2029",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_Western_Australian_Legislative_Council,_2025%E2%80%932029",
+        "publisher": "Wikipedia",
+        "date": ""
+      }
+    },
+    {
+      "id": "western-australia-andrew-o-donnell-statewide",
+      "name": "Andrew O'Donnell",
+      "party": "Australian Labor Party",
+      "party_group": "Labor",
+      "jurisdiction": "Western Australia",
+      "chamber": "Western Australian Legislative Council",
+      "electorate": "Statewide",
+      "state": "WA",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the Western Australian Legislative Council, 2025–2029",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_Western_Australian_Legislative_Council,_2025%E2%80%932029",
+        "publisher": "Wikipedia",
+        "date": ""
+      }
+    },
+    {
+      "id": "western-australia-brad-pettitt-statewide",
+      "name": "Brad Pettitt",
+      "party": "Australian Greens",
+      "party_group": "Greens",
+      "jurisdiction": "Western Australia",
+      "chamber": "Western Australian Legislative Council",
+      "electorate": "Statewide",
+      "state": "WA",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the Western Australian Legislative Council, 2025–2029",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_Western_Australian_Legislative_Council,_2025%E2%80%932029",
+        "publisher": "Wikipedia",
+        "date": ""
+      }
+    },
+    {
+      "id": "western-australia-katrina-stratton-statewide",
+      "name": "Katrina Stratton",
+      "party": "Australian Labor Party",
+      "party_group": "Labor",
+      "jurisdiction": "Western Australia",
+      "chamber": "Western Australian Legislative Council",
+      "electorate": "Statewide",
+      "state": "WA",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the Western Australian Legislative Council, 2025–2029",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_Western_Australian_Legislative_Council,_2025%E2%80%932029",
+        "publisher": "Wikipedia",
+        "date": ""
+      }
+    },
+    {
+      "id": "western-australia-samantha-rowe-statewide",
+      "name": "Samantha Rowe",
+      "party": "Australian Labor Party",
+      "party_group": "Labor",
+      "jurisdiction": "Western Australia",
+      "chamber": "Western Australian Legislative Council",
+      "electorate": "Statewide",
+      "state": "WA",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the Western Australian Legislative Council, 2025–2029",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_Western_Australian_Legislative_Council,_2025%E2%80%932029",
+        "publisher": "Wikipedia",
+        "date": ""
+      }
+    },
+    {
+      "id": "western-australia-phil-scott-statewide",
+      "name": "Phil Scott",
+      "party": "Pauline Hanson's One Nation Party",
+      "party_group": "One Nation",
+      "jurisdiction": "Western Australia",
+      "chamber": "Western Australian Legislative Council",
+      "electorate": "Statewide",
+      "state": "WA",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the Western Australian Legislative Council, 2025–2029",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_Western_Australian_Legislative_Council,_2025%E2%80%932029",
+        "publisher": "Wikipedia",
+        "date": ""
+      }
+    },
+    {
+      "id": "western-australia-tjorn-sibma-statewide",
+      "name": "Tjorn Sibma",
+      "party": "Liberal Party",
+      "party_group": "Coalition",
+      "jurisdiction": "Western Australia",
+      "chamber": "Western Australian Legislative Council",
+      "electorate": "Statewide",
+      "state": "WA",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the Western Australian Legislative Council, 2025–2029",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_Western_Australian_Legislative_Council,_2025%E2%80%932029",
+        "publisher": "Wikipedia",
+        "date": ""
+      }
+    },
+    {
+      "id": "western-australia-anthony-spagnolo-statewide",
+      "name": "Anthony Spagnolo",
+      "party": "Liberal Party",
+      "party_group": "Coalition",
+      "jurisdiction": "Western Australia",
+      "chamber": "Western Australian Legislative Council",
+      "electorate": "Statewide",
+      "state": "WA",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the Western Australian Legislative Council, 2025–2029",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_Western_Australian_Legislative_Council,_2025%E2%80%932029",
+        "publisher": "Wikipedia",
+        "date": ""
+      }
+    },
+    {
+      "id": "western-australia-matthew-swinbourn-statewide",
+      "name": "Matthew Swinbourn",
+      "party": "Australian Labor Party",
+      "party_group": "Labor",
+      "jurisdiction": "Western Australia",
+      "chamber": "Western Australian Legislative Council",
+      "electorate": "Statewide",
+      "state": "WA",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the Western Australian Legislative Council, 2025–2029",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_Western_Australian_Legislative_Council,_2025%E2%80%932029",
+        "publisher": "Wikipedia",
+        "date": ""
+      }
+    },
+    {
+      "id": "western-australia-parwinder-kaur-statewide",
+      "name": "Parwinder Kaur",
+      "party": "Australian Labor Party",
+      "party_group": "Labor",
+      "jurisdiction": "Western Australia",
+      "chamber": "Western Australian Legislative Council",
+      "electorate": "Statewide",
+      "state": "WA",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the Western Australian Legislative Council, 2025–2029",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_Western_Australian_Legislative_Council,_2025%E2%80%932029",
+        "publisher": "Wikipedia",
+        "date": ""
+      }
+    },
+    {
+      "id": "western-australia-steve-thomas-statewide",
+      "name": "Steve Thomas",
+      "party": "Liberal Party",
+      "party_group": "Coalition",
+      "jurisdiction": "Western Australia",
+      "chamber": "Western Australian Legislative Council",
+      "electorate": "Statewide",
+      "state": "WA",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the Western Australian Legislative Council, 2025–2029",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_Western_Australian_Legislative_Council,_2025%E2%80%932029",
+        "publisher": "Wikipedia",
+        "date": ""
+      }
+    },
+    {
+      "id": "western-australia-neil-thomson-statewide",
+      "name": "Neil Thomson",
+      "party": "Liberal Party",
+      "party_group": "Coalition",
+      "jurisdiction": "Western Australia",
+      "chamber": "Western Australian Legislative Council",
+      "electorate": "Statewide",
+      "state": "WA",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the Western Australian Legislative Council, 2025–2029",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_Western_Australian_Legislative_Council,_2025%E2%80%932029",
+        "publisher": "Wikipedia",
+        "date": ""
+      }
+    },
+    {
+      "id": "western-australia-phil-twiss-statewide",
+      "name": "Phil Twiss",
+      "party": "Liberal Party",
+      "party_group": "Coalition",
+      "jurisdiction": "Western Australia",
+      "chamber": "Western Australian Legislative Council",
+      "electorate": "Statewide",
+      "state": "WA",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the Western Australian Legislative Council, 2025–2029",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_Western_Australian_Legislative_Council,_2025%E2%80%932029",
+        "publisher": "Wikipedia",
+        "date": ""
+      }
+    },
+    {
+      "id": "western-australia-brian-walker-statewide",
+      "name": "Brian Walker",
+      "party": "Legalise Cannabis Party",
+      "party_group": "Other / minor party",
+      "jurisdiction": "Western Australia",
+      "chamber": "Western Australian Legislative Council",
+      "electorate": "Statewide",
+      "state": "WA",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the Western Australian Legislative Council, 2025–2029",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_Western_Australian_Legislative_Council,_2025%E2%80%932029",
+        "publisher": "Wikipedia",
+        "date": ""
+      }
+    },
+    {
+      "id": "western-australia-pierre-yang-statewide",
+      "name": "Pierre Yang",
+      "party": "Australian Labor Party",
+      "party_group": "Labor",
+      "jurisdiction": "Western Australia",
+      "chamber": "Western Australian Legislative Council",
+      "electorate": "Statewide",
+      "state": "WA",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the Western Australian Legislative Council, 2025–2029",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_Western_Australian_Legislative_Council,_2025%E2%80%932029",
+        "publisher": "Wikipedia",
+        "date": ""
+      }
     }
   ]
 }
