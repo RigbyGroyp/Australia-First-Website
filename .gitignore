@@ -1,2 +1,6 @@
 __pycache__/
 *.pyc
+
+# Derived SQLite database — regenerate with `python3 scripts/build_db.py`.
+# The committed JSON remains the source; the DB is a build-time convenience.
+data/*.db
