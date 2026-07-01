@@ -39503,7 +39503,20 @@
       "election": "Victoria 2026",
       "poll_date": "2026-11-28",
       "last_updated": "2026-06-26",
-      "positions": {},
+      "positions": {
+        "drugs_law_order": {
+          "summary": "Lists community safety as a key campaign priority, stating that \"crime is making people feel unsafe\" and calling for \"safer communities\".",
+          "sources": [
+            {
+              "title": "Candidates - Andrew Lethlean",
+              "url": "https://vic.nationals.org.au/candidates-andrew-lethlean/",
+              "publisher": "The Nationals Victoria",
+              "date": "2026"
+            }
+          ],
+          "verified": true
+        }
+      },
       "roster_source": {
         "title": "Candidates of the 2026 Victorian state election",
         "url": "https://en.wikipedia.org/wiki/Candidates_of_the_2026_Victorian_state_election",
@@ -39557,7 +39570,20 @@
       "election": "Victoria 2026",
       "poll_date": "2026-11-28",
       "last_updated": "2026-06-26",
-      "positions": {},
+      "positions": {
+        "gender_lgbtq": {
+          "summary": "As Greens candidate for Bendigo West, Shaw lists fighting for LGBTQIA+ equality as a campaign priority, stating she will \"fight for First Nations justice and LGBTQIA+ equality\".",
+          "sources": [
+            {
+              "title": "Liza Shaw",
+              "url": "https://greens.org.au/vic/person/liza-shaw",
+              "publisher": "Victorian Greens",
+              "date": "2026"
+            }
+          ],
+          "verified": true
+        }
+      },
       "roster_source": {
         "title": "Candidates of the 2026 Victorian state election",
         "url": "https://en.wikipedia.org/wiki/Candidates_of_the_2026_Victorian_state_election",
@@ -39719,7 +39745,20 @@
       "election": "Victoria 2026",
       "poll_date": "2026-11-28",
       "last_updated": "2026-06-26",
-      "positions": {},
+      "positions": {
+        "gender_lgbtq": {
+          "summary": "Her Victorian Socialists candidate page states she has \"been involved in campaigns against racism, homophobia and transphobia\" and stands for \"gender and racial equality and the protection of marginalised peoples.\"",
+          "sources": [
+            {
+              "title": "Saravina Afaj",
+              "url": "https://www.victoriansocialists.org.au/candidates/saravina-afaj",
+              "publisher": "Victorian Socialists",
+              "date": "2026"
+            }
+          ],
+          "verified": true
+        }
+      },
       "roster_source": {
         "title": "Candidates of the 2026 Victorian state election",
         "url": "https://en.wikipedia.org/wiki/Candidates_of_the_2026_Victorian_state_election",
@@ -39773,7 +39812,20 @@
       "election": "Victoria 2026",
       "poll_date": "2026-11-28",
       "last_updated": "2026-06-26",
-      "positions": {},
+      "positions": {
+        "gender_lgbtq": {
+          "summary": "States on her Victorian Socialists candidate page that she has campaigned for marriage equality.",
+          "sources": [
+            {
+              "title": "Jessica Smith - Victorian Socialists candidate for Brighton",
+              "url": "https://www.victoriansocialists.org.au/candidates/jessica-smith",
+              "publisher": "Victorian Socialists",
+              "date": "2026"
+            }
+          ],
+          "verified": true
+        }
+      },
       "roster_source": {
         "title": "Candidates of the 2026 Victorian state election",
         "url": "https://en.wikipedia.org/wiki/Candidates_of_the_2026_Victorian_state_election",
@@ -39881,7 +39933,20 @@
       "election": "Victoria 2026",
       "poll_date": "2026-11-28",
       "last_updated": "2026-06-26",
-      "positions": {},
+      "positions": {
+        "gender_lgbtq": {
+          "summary": "Farmer lists her involvement in the \"equal marriage\" (marriage equality) campaign among the community campaigns she has been part of, alongside Palestine solidarity and refugee rights.",
+          "sources": [
+            {
+              "title": "Naomi Farmer",
+              "url": "https://www.victoriansocialists.org.au/candidates/naomi-farmer",
+              "publisher": "Victorian Socialists",
+              "date": "2026"
+            }
+          ],
+          "verified": true
+        }
+      },
       "roster_source": {
         "title": "Candidates of the 2026 Victorian state election",
         "url": "https://en.wikipedia.org/wiki/Candidates_of_the_2026_Victorian_state_election",
@@ -40394,7 +40459,20 @@
       "election": "Victoria 2026",
       "poll_date": "2026-11-28",
       "last_updated": "2026-06-26",
-      "positions": {},
+      "positions": {
+        "drugs_law_order": {
+          "summary": "Victorian Socialists candidate for Essendon and a community lawyer, Kedem calls for redirecting funding away from policing and prisons, stating: \"We need more funding for healthcare, education including childcare, and housing, not more police, prisons, defence or deportations.\" Her profile describes her work on police accountability and opposing the criminalisation of vulnerable people.",
+          "sources": [
+            {
+              "title": "Michal Kedem",
+              "url": "https://www.victoriansocialists.org.au/candidates/michal-kedem",
+              "publisher": "Victorian Socialists",
+              "date": "2026"
+            }
+          ],
+          "verified": true
+        }
+      },
       "roster_source": {
         "title": "Candidates of the 2026 Victorian state election",
         "url": "https://en.wikipedia.org/wiki/Candidates_of_the_2026_Victorian_state_election",
@@ -40514,7 +40592,9 @@
         "url": "https://greens.org.au/vic/person/andrew-henley",
         "publisher": "greens.org.au",
         "date": ""
-      }
+      },
+      "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/BramshillHouse%28AndrewSmith%29Jun2006.jpg/330px-BramshillHouse%28AndrewSmith%29Jun2006.jpg",
+      "photo_credit_url": "https://en.wikipedia.org/wiki/Sir_Andrew_Henley%2C_1st_Baronet"
     },
     {
       "id": "victoria-2026-elena-pereyra-footscray",
@@ -40556,7 +40636,20 @@
       "election": "Victoria 2026",
       "poll_date": "2026-11-28",
       "last_updated": "2026-06-26",
-      "positions": {},
+      "positions": {
+        "gender_lgbtq": {
+          "summary": "On her Victorian Socialists candidate page, Duff states she has \"campaigned for equal marriage, climate action, Indigenous justice, and for peace and justice for the people of Palestine,\" indicating support for LGBTIQ+ equality including same-sex marriage.",
+          "sources": [
+            {
+              "title": "Jasmine Duff – Victorian Socialists",
+              "url": "https://www.victoriansocialists.org.au/candidates/jasmine-duff",
+              "publisher": "Victorian Socialists",
+              "date": "2026"
+            }
+          ],
+          "verified": true
+        }
+      },
       "roster_source": {
         "title": "Candidates of the 2026 Victorian state election",
         "url": "https://en.wikipedia.org/wiki/Candidates_of_the_2026_Victorian_state_election",
@@ -40610,7 +40703,20 @@
       "election": "Victoria 2026",
       "poll_date": "2026-11-28",
       "last_updated": "2026-06-26",
-      "positions": {},
+      "positions": {
+        "gender_lgbtq": {
+          "summary": "Cheeseman's Victorian Socialists candidate profile states he has been an activist for 24 years, including campaigning for marriage equality.",
+          "sources": [
+            {
+              "title": "Andrew Cheeseman",
+              "url": "https://www.victoriansocialists.org.au/candidates/andrew-cheeseman",
+              "publisher": "Victorian Socialists",
+              "date": "2026"
+            }
+          ],
+          "verified": true
+        }
+      },
       "roster_source": {
         "title": "Candidates of the 2026 Victorian state election",
         "url": "https://en.wikipedia.org/wiki/Candidates_of_the_2026_Victorian_state_election",
@@ -41042,7 +41148,20 @@
       "election": "Victoria 2026",
       "poll_date": "2026-11-28",
       "last_updated": "2026-06-26",
-      "positions": {},
+      "positions": {
+        "drugs_law_order": {
+          "summary": "Millett's Victorian Socialists candidate page advocates for communities 'supported to thrive without resorting to fear-based \"law and order\" politics', emphasising care rather than punishment.",
+          "sources": [
+            {
+              "title": "Courtney Millett | Victorian Socialists",
+              "url": "https://www.victoriansocialists.org.au/candidates/courtney-millett",
+              "publisher": "Victorian Socialists",
+              "date": "2026"
+            }
+          ],
+          "verified": true
+        }
+      },
       "roster_source": {
         "title": "Candidates of the 2026 Victorian state election",
         "url": "https://en.wikipedia.org/wiki/Candidates_of_the_2026_Victorian_state_election",
@@ -41636,7 +41755,20 @@
       "election": "Victoria 2026",
       "poll_date": "2026-11-28",
       "last_updated": "2026-06-26",
-      "positions": {},
+      "positions": {
+        "gender_lgbtq": {
+          "summary": "Buchanan's Victorian Socialists candidate page states he opposes homophobia and transphobia and opposes attacks on trans rights.",
+          "sources": [
+            {
+              "title": "Connor Buchanan | Victorian Socialists",
+              "url": "https://www.victoriansocialists.org.au/candidates/connor-buchanan",
+              "publisher": "Victorian Socialists",
+              "date": "2026"
+            }
+          ],
+          "verified": true
+        }
+      },
       "roster_source": {
         "title": "Candidates of the 2026 Victorian state election",
         "url": "https://en.wikipedia.org/wiki/Candidates_of_the_2026_Victorian_state_election",
@@ -41852,7 +41984,20 @@
       "election": "Victoria 2026",
       "poll_date": "2026-11-28",
       "last_updated": "2026-06-26",
-      "positions": {},
+      "positions": {
+        "gender_lgbtq": {
+          "summary": "States on her Victorian Socialists candidate page that she has been involved in campaigning for marriage equality, LGBTIQ+ rights, and women's rights.",
+          "sources": [
+            {
+              "title": "Kath Larkin - Victorian Socialists candidate for Northcote",
+              "url": "https://www.victoriansocialists.org.au/candidates/kath-larkin",
+              "publisher": "Victorian Socialists",
+              "date": "2026"
+            }
+          ],
+          "verified": true
+        }
+      },
       "roster_source": {
         "title": "Candidates of the 2026 Victorian state election",
         "url": "https://en.wikipedia.org/wiki/Candidates_of_the_2026_Victorian_state_election",
@@ -41879,7 +42024,20 @@
       "election": "Victoria 2026",
       "poll_date": "2026-11-28",
       "last_updated": "2026-06-26",
-      "positions": {},
+      "positions": {
+        "gender_lgbtq": {
+          "summary": "On his Victorian Socialists candidate page, Bugter says he wants to \"fight against the billionaire-owned media that divides the working class by pushing racism, homophobia and transphobia as 'common sense' ideas\" and to build solidarity between workers of all backgrounds and identities.",
+          "sources": [
+            {
+              "title": "Rowdy Bugter",
+              "url": "https://www.victoriansocialists.org.au/candidates/rowdy-bugter",
+              "publisher": "Victorian Socialists",
+              "date": "2026"
+            }
+          ],
+          "verified": true
+        }
+      },
       "roster_source": {
         "title": "Candidates of the 2026 Victorian state election",
         "url": "https://en.wikipedia.org/wiki/Candidates_of_the_2026_Victorian_state_election",
@@ -41972,7 +42130,9 @@
         "url": "https://brunswickvoice.com.au/greens-lock-in-candidates-for-next-years-state-election/",
         "publisher": "brunswickvoice.com.au",
         "date": ""
-      }
+      },
+      "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/AngelicaPanopoulos.jpg/330px-AngelicaPanopoulos.jpg",
+      "photo_credit_url": "https://en.wikipedia.org/wiki/Angelica_Panopoulos"
     },
     {
       "id": "victoria-2026-yasemin-shamsili-pascoe-vale",
@@ -42041,7 +42201,20 @@
       "election": "Victoria 2026",
       "poll_date": "2026-11-28",
       "last_updated": "2026-06-26",
-      "positions": {},
+      "positions": {
+        "gender_lgbtq": {
+          "summary": "Laine lists advocating for the queer community as part of their ongoing activism.",
+          "sources": [
+            {
+              "title": "Taylor Laine - Victorian Socialists candidate for Point Cook",
+              "url": "https://www.victoriansocialists.org.au/candidates/taylor-laine",
+              "publisher": "Victorian Socialists",
+              "date": "2026"
+            }
+          ],
+          "verified": true
+        }
+      },
       "roster_source": {
         "title": "Candidates of the 2026 Victorian state election",
         "url": "https://en.wikipedia.org/wiki/Candidates_of_the_2026_Victorian_state_election",
@@ -42068,7 +42241,20 @@
       "election": "Victoria 2026",
       "poll_date": "2026-11-28",
       "last_updated": "2026-06-26",
-      "positions": {},
+      "positions": {
+        "faith": {
+          "summary": "Hussein regards herself as a \"cultural Muslim\". She was the first person from a Muslim background to serve as Victorian Labor state president and has been involved in the Muslim Women's Project.",
+          "sources": [
+            {
+              "title": "Hutch Hussein",
+              "url": "https://en.wikipedia.org/wiki/Hutch_Hussein",
+              "publisher": "Wikipedia",
+              "date": "2026"
+            }
+          ],
+          "verified": true
+        }
+      },
       "roster_source": {
         "title": "Candidates of the 2026 Victorian state election",
         "url": "https://en.wikipedia.org/wiki/Candidates_of_the_2026_Victorian_state_election",
@@ -42851,7 +43037,20 @@
       "election": "Victoria 2026",
       "poll_date": "2026-11-28",
       "last_updated": "2026-06-26",
-      "positions": {},
+      "positions": {
+        "abortion": {
+          "summary": "States on his Victorian Socialists candidate page that he and the party have campaigned for abortion rights.",
+          "sources": [
+            {
+              "title": "John Stanley - Victorian Socialists candidate for Warrandyte",
+              "url": "https://www.victoriansocialists.org.au/candidates/john-stanley",
+              "publisher": "Victorian Socialists",
+              "date": "2026"
+            }
+          ],
+          "verified": true
+        }
+      },
       "roster_source": {
         "title": "Candidates of the 2026 Victorian state election",
         "url": "https://en.wikipedia.org/wiki/Candidates_of_the_2026_Victorian_state_election",
@@ -42932,7 +43131,44 @@
       "election": "Victoria 2026",
       "poll_date": "2026-11-28",
       "last_updated": "2026-06-26",
-      "positions": {},
+      "positions": {
+        "abortion": {
+          "summary": "Munro lists supporting reproductive freedom for women among her community campaigns and says Werribee's hospital should provide reproductive freedom to women.",
+          "sources": [
+            {
+              "title": "Sue Munro - Victorian Socialists candidate for Werribee",
+              "url": "https://www.victoriansocialists.org.au/candidates/sue-munro",
+              "publisher": "Victorian Socialists",
+              "date": "2026"
+            }
+          ],
+          "verified": true
+        },
+        "gender_lgbtq": {
+          "summary": "Munro lists supporting the LGBTQ community among her community campaign involvements.",
+          "sources": [
+            {
+              "title": "Sue Munro - Victorian Socialists candidate for Werribee",
+              "url": "https://www.victoriansocialists.org.au/candidates/sue-munro",
+              "publisher": "Victorian Socialists",
+              "date": "2026"
+            }
+          ],
+          "verified": true
+        },
+        "drugs_law_order": {
+          "summary": "Munro says Werribee needs sensible responses to crime and addiction, arguing that people in poverty with no hope are not healed by prison and typically come out more harmed.",
+          "sources": [
+            {
+              "title": "Sue Munro - Victorian Socialists candidate for Werribee",
+              "url": "https://www.victoriansocialists.org.au/candidates/sue-munro",
+              "publisher": "Victorian Socialists",
+              "date": "2026"
+            }
+          ],
+          "verified": true
+        }
+      },
       "roster_source": {
         "title": "Candidates of the 2026 Victorian state election",
         "url": "https://en.wikipedia.org/wiki/Candidates_of_the_2026_Victorian_state_election",
