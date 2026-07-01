@@ -16,10 +16,10 @@
     </p>
   </header>
 
-  <nav class="tabs" aria-label="View">
-    <button id="tab-candidates" class="tab active" data-view="incumbents">In office</button>
-    <button id="tab-running" class="tab" data-view="running">Running candidates</button>
-    <button id="tab-parties" class="tab" data-view="parties">Party donations</button>
+  <nav class="tabs" role="tablist" aria-label="View">
+    <button id="tab-candidates" class="tab active" role="tab" aria-selected="true" aria-controls="view-candidates" data-view="incumbents">In office</button>
+    <button id="tab-running" class="tab" role="tab" aria-selected="false" aria-controls="view-candidates" data-view="running">Running candidates</button>
+    <button id="tab-parties" class="tab" role="tab" aria-selected="false" aria-controls="view-parties" data-view="parties">Party donations</button>
     <a class="tab tab-link" href="explore.html">Explore with SQL →</a>
   </nav>
 
@@ -29,10 +29,9 @@
     <select id="filter-jurisdiction" aria-label="Filter by parliament">
       <option value="">All parliaments</option>
     </select>
+    <!-- Chamber options are populated from the data (16 chambers across nine parliaments). -->
     <select id="filter-chamber" aria-label="Filter by chamber">
       <option value="">All chambers</option>
-      <option value="House of Representatives">House of Representatives</option>
-      <option value="Senate">Senate</option>
     </select>
     <select id="filter-group" aria-label="Filter by party group">
       <option value="">All party groups</option>
@@ -53,30 +52,36 @@
     </select>
     <select id="filter-issue" aria-label="Filter by recorded position">
       <option value="">Any position data</option>
-      <option value="faith">Has faith position</option>
-      <option value="immigration">Has immigration position</option>
-      <option value="foreign_policy">Has foreign policy position</option>
-      <option value="economic_nationalism">Has economic nationalism position</option>
-      <option value="citizenship_eligibility">Has s44 citizenship note</option>
-      <option value="abortion">Has abortion position</option>
-      <option value="voluntary_assisted_dying">Has VAD position</option>
-      <option value="gender_lgbtq">Has gender/LGBTQ+ position</option>
-      <option value="religious_freedom">Has religious freedom position</option>
-      <option value="drugs_law_order">Has drugs/law &amp; order position</option>
-      <option value="gambling">Has gambling/gaming position</option>
-      <option value="hunting">Has hunting position</option>
-      <option value="sex_work">Has sex work position</option>
-      <option value="native_forest_logging">Has native forest logging position</option>
-      <option value="first_nations">Has First Nations/treaty position</option>
-      <option value="nuclear">Has nuclear/uranium position</option>
-      <option value="integrity">Has integrity/anti-corruption position</option>
-      <option value="housing_planning">Has housing/planning position</option>
-      <option value="health">Has health position</option>
-      <option value="education">Has education position</option>
-      <option value="transport_infrastructure">Has transport/infrastructure position</option>
-      <option value="energy">Has energy position</option>
-      <option value="environment_water">Has environment/water position</option>
-      <option value="animal_welfare">Has animal welfare position</option>
+      <optgroup label="Federal issues">
+        <option value="faith">Faith</option>
+        <option value="immigration">Immigration</option>
+        <option value="foreign_policy">Foreign policy</option>
+        <option value="economic_nationalism">Economic nationalism</option>
+        <option value="citizenship_eligibility">s44 citizenship</option>
+      </optgroup>
+      <optgroup label="Conscience &amp; social issues">
+        <option value="abortion">Abortion</option>
+        <option value="voluntary_assisted_dying">Voluntary assisted dying</option>
+        <option value="gender_lgbtq">Gender / LGBTQ+</option>
+        <option value="religious_freedom">Religious freedom</option>
+        <option value="drugs_law_order">Drugs &amp; law and order</option>
+        <option value="gambling">Gambling &amp; gaming</option>
+        <option value="hunting">Hunting</option>
+        <option value="sex_work">Sex work</option>
+        <option value="first_nations">First Nations / treaty</option>
+        <option value="integrity">Integrity / anti-corruption</option>
+      </optgroup>
+      <optgroup label="State policy areas">
+        <option value="native_forest_logging">Native forest logging</option>
+        <option value="nuclear">Nuclear / uranium</option>
+        <option value="housing_planning">Housing &amp; planning</option>
+        <option value="health">Health</option>
+        <option value="education">Education</option>
+        <option value="transport_infrastructure">Transport &amp; infrastructure</option>
+        <option value="energy">Energy</option>
+        <option value="environment_water">Environment &amp; water</option>
+        <option value="animal_welfare">Animal welfare</option>
+      </optgroup>
       <option value="donors">Has disclosed donors</option>
     </select>
     <select id="sort" aria-label="Sort order">

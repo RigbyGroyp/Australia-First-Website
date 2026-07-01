@@ -104,6 +104,7 @@ async function load() {
     if (r.ok) state.partyPositions = await r.json();
   } catch (e) { /* party fallback is optional */ }
   populatePartyFilter();
+  syncStatusOptions();
   renderCoverage();
   wireControls();
   wireTabs();
@@ -288,7 +289,11 @@ function wireTabs() {
   // Only wire button tabs (the Explore link navigates away on its own).
   document.querySelectorAll('button.tab').forEach((btn) => {
     btn.addEventListener('click', () => {
-      document.querySelectorAll('.tab').forEach((b) => b.classList.toggle('active', b === btn));
+      document.querySelectorAll('.tab').forEach((b) => {
+        const active = b === btn;
+        b.classList.toggle('active', active);
+        if (b.tagName === 'BUTTON') b.setAttribute('aria-selected', active ? 'true' : 'false');
+      });
       const v = btn.dataset.view;
       if (v === 'parties') {
         vc.hidden = true;
@@ -297,6 +302,8 @@ function wireTabs() {
         vp.hidden = true;
         vc.hidden = false;
         state.view = v === 'running' ? 'running' : 'incumbents';
+        syncStatusOptions();
+        renderCoverage();
         render();
       }
     });
@@ -304,17 +311,22 @@ function wireTabs() {
 }
 
 function renderCoverage() {
+  const elc = document.getElementById('coverage');
+  if (!elc) return;
+  // Coverage describes sitting members; it isn't meaningful on the Running tab.
+  if (state.view === 'running') {
+    elc.hidden = true;
+    return;
+  }
+  elc.hidden = false;
   const inc = state.all.filter((c) => c.status === 'incumbent');
   const withAny = inc.filter((c) => c.positions && Object.keys(c.positions).length);
   const counts = ISSUE_KEYS
-    .map((k) => ({ k, n: state.all.filter((c) => hasIssue(c, k)).length }))
+    .map((k) => ({ k, n: inc.filter((c) => hasIssue(c, k)).length }))
     .filter((x) => x.n > 0)
     .map((x) => `${CHIP_LABELS[x.k]} ${x.n}`);
-  const elc = document.getElementById('coverage');
-  if (elc) {
-    elc.textContent =
-      `${inc.length} incumbents · ${withAny.length} with ≥1 sourced position — ` + counts.join(' · ');
-  }
+  elc.textContent =
+    `${inc.length} incumbents · ${withAny.length} with ≥1 sourced position — ` + counts.join(' · ');
 }
 
 const GROUP_ORDER = ['Labor', 'Coalition', 'Greens', 'One Nation', 'Independent', 'Other / minor party'];
@@ -337,6 +349,35 @@ function populatePartyFilter() {
   const jurs = [...new Set(state.all.map((c) => c.jurisdiction).filter(Boolean))]
     .sort((a, b) => (a === 'Federal' ? -1 : b === 'Federal' ? 1 : a.localeCompare(b)));
   fill('filter-jurisdiction', jurs);
+  // Chambers from the data (16 across nine parliaments): federal first, then A–Z.
+  const FED_CHAMBERS = ['House of Representatives', 'Senate'];
+  const chambers = [...new Set(state.all.map((c) => c.chamber).filter(Boolean))]
+    .sort((a, b) => {
+      const fa = FED_CHAMBERS.indexOf(a); const fb = FED_CHAMBERS.indexOf(b);
+      if (fa !== -1 || fb !== -1) return (fa === -1 ? 99 : fa) - (fb === -1 ? 99 : fb);
+      return a.localeCompare(b);
+    });
+  fill('filter-chamber', chambers);
+}
+
+// The status dropdown offers only statuses that exist in the active view —
+// 'candidate' can't match on the In-office tab, nor incumbent/former on Running.
+function syncStatusOptions() {
+  const sel = document.getElementById('filter-status');
+  if (!sel) return;
+  const allowed = state.view === 'running' ? ['candidate'] : ['incumbent', 'former'];
+  let cleared = false;
+  [...sel.options].forEach((opt) => {
+    if (!opt.value) return; // "Any status"
+    const ok = allowed.includes(opt.value);
+    opt.hidden = !ok;
+    opt.disabled = !ok;
+    if (!ok && sel.value === opt.value) cleared = true;
+  });
+  if (cleared) {
+    sel.value = '';
+    state.filters.status = '';
+  }
 }
 
 function wireControls() {
@@ -347,7 +388,21 @@ function wireControls() {
       render();
     });
   };
-  bind('search', 'search');
+  // Debounce free-text search: every keystroke otherwise rebuilds up to ~850 cards.
+  const bindDebounced = (id, key, ms) => {
+    const el = document.getElementById(id);
+    let t;
+    el.addEventListener('input', () => {
+      clearTimeout(t);
+      t = setTimeout(() => {
+        const v = el.value.trim();
+        if (v === state.filters[key]) return;
+        state.filters[key] = v;
+        render();
+      }, ms);
+    });
+  };
+  bindDebounced('search', 'search', 150);
   bind('filter-jurisdiction', 'jurisdiction');
   bind('filter-chamber', 'chamber');
   bind('filter-group', 'group');
@@ -484,7 +539,9 @@ function renderCard(c) {
     c.jurisdiction && c.jurisdiction !== 'Federal' ? c.jurisdiction : null,
     c.chamber,
     c.electorate ? `${c.electorate} (${c.state || ''})` : c.state,
-    isCandidate ? (c.election ? `candidate · ${c.election}` : 'candidate') : c.status,
+    isCandidate
+      ? (c.election ? `candidate · ${c.election}${c.poll_date ? ` (poll ${c.poll_date})` : ''}` : 'candidate')
+      : c.status,
   ].filter(Boolean);
   const meta = node.querySelector('.c-meta');
   meta.textContent = metaBits.join(' · ');
@@ -500,14 +557,19 @@ function renderCard(c) {
     a.title = src.title || '';
     meta.appendChild(a);
   };
+  if (c.official_page) sourceLink({ url: c.official_page, title: 'Official parliamentary profile' }, 'official page');
   sourceLink(c.roster_source, 'roster source');
   sourceLink(c.candidacy_source, 'candidacy source');
 
-  // At-a-glance chips: which issues this member has data for.
+  // At-a-glance chips: which issues this member has data for. With 24 issue
+  // categories a fully-documented member would swamp the header — cap the row.
+  const MAX_CHIPS = 10;
   const chipRow = el('div', 'chips');
-  ISSUE_KEYS.forEach((key) => {
-    if (hasIssue(c, key)) chipRow.appendChild(el('span', 'chip', CHIP_LABELS[key]));
-  });
+  const have = ISSUE_KEYS.filter((key) => hasIssue(c, key));
+  have.slice(0, MAX_CHIPS).forEach((key) => chipRow.appendChild(el('span', 'chip', CHIP_LABELS[key])));
+  if (have.length > MAX_CHIPS) {
+    chipRow.appendChild(el('span', 'chip chip-more', `+${have.length - MAX_CHIPS} more`));
+  }
   if (hasIssue(c, 'donors')) chipRow.appendChild(el('span', 'chip chip-donor', 'Donors'));
   if (chipRow.children.length === 0) chipRow.appendChild(el('span', 'chip chip-empty', 'No positions on record'));
   node.querySelector('.c-headtext').appendChild(chipRow);
@@ -549,7 +611,8 @@ function render() {
       : '';
   }
   if (filtered.length === 0) {
-    results.innerHTML = '<p class="empty">No candidates match these filters.</p>';
+    const what = state.view === 'running' ? 'candidates' : 'records';
+    results.innerHTML = `<p class="empty">No ${what} match these filters.</p>`;
     return;
   }
   filtered.forEach((c) => results.appendChild(renderCard(c)));

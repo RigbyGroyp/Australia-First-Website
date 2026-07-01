@@ -100,18 +100,8 @@ CREATE TABLE donor_info_source (
     PRIMARY KEY (donor_name, ord)
 );
 
--- A disclosed donation TO a political party, per (party, donor, financial year).
-CREATE TABLE party_donation (
-    id             INTEGER PRIMARY KEY,
-    party          TEXT NOT NULL,
-    donor_name     TEXT NOT NULL REFERENCES donor(name),
-    financial_year TEXT NOT NULL,
-    amount_aud     INTEGER NOT NULL
-);
-CREATE INDEX idx_party_donation_party ON party_donation(party);
-CREATE INDEX idx_party_donation_donor ON party_donation(donor_name);
-
 -- Per-party citation for the party-donations view (one row per party family).
+-- Declared before party_donation so its FK target exists.
 CREATE TABLE party (
     name             TEXT PRIMARY KEY,
     seq              INTEGER NOT NULL,     -- emit order (by total desc at build time)
@@ -119,6 +109,17 @@ CREATE TABLE party (
     source_url       TEXT,
     source_publisher TEXT
 );
+
+-- A disclosed donation TO a political party, per (party, donor, financial year).
+CREATE TABLE party_donation (
+    id             INTEGER PRIMARY KEY,
+    party          TEXT NOT NULL REFERENCES party(name),
+    donor_name     TEXT NOT NULL REFERENCES donor(name),
+    financial_year TEXT NOT NULL,
+    amount_aud     INTEGER NOT NULL
+);
+CREATE INDEX idx_party_donation_party ON party_donation(party);
+CREATE INDEX idx_party_donation_donor ON party_donation(donor_name);
 
 -- A donation disclosed directly to a member (AEC member-of-parliament return).
 CREATE TABLE member_donation (

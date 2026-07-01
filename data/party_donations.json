@@ -4,7 +4,7 @@
     "source_url": "https://transparency.aec.gov.au/AnnualDetailedReceipts",
     "window": "2021-22 to 2024-25",
     "note": "Excludes public funding and electoral-commission payments. Only donations above the disclosure threshold are itemised in AEC returns.",
-    "last_updated": "2026-06-26"
+    "last_updated": "2026-07-01"
   },
   "parties": [
     {
@@ -11597,8 +11597,8 @@
     },
     {
       "party": "Liberal Party",
-      "total_aud": 59124084,
-      "donor_count": 453,
+      "total_aud": 58119534,
+      "donor_count": 441,
       "financial_years": [
         "2021-22",
         "2022-23",
@@ -11606,7 +11606,7 @@
         "2024-25"
       ],
       "totals_by_year": {
-        "2021-22": 20621705,
+        "2021-22": 19617155,
         "2022-23": 4104603,
         "2023-24": 3994483,
         "2024-25": 30403293
@@ -12005,19 +12005,6 @@
           }
         },
         {
-          "donor": "Mineralogy Pty Ltd",
-          "total_aud": 250000,
-          "by_year": {
-            "2021-22": 250000
-          },
-          "info": {
-            "link": "https://mineralogy.com.au/",
-            "link_type": "website",
-            "description": "Mineralogy is a privately held mining and exploration company, principally involved in iron ore (magnetite) in Western Australia's Pilbara region, founded and owned by businessman Clive Palmer.",
-            "category": "company"
-          }
-        },
-        {
           "donor": "Kin Group",
           "total_aud": 250000,
           "by_year": {
@@ -12216,13 +12203,6 @@
           }
         },
         {
-          "donor": "JB Turner Mudguards",
-          "total_aud": 190000,
-          "by_year": {
-            "2021-22": 190000
-          }
-        },
-        {
           "donor": "Liberal Party Federal Secretariat",
           "total_aud": 185000,
           "by_year": {
@@ -12332,13 +12312,6 @@
           "by_year": {
             "2021-22": 100000,
             "2024-25": 50000
-          }
-        },
-        {
-          "donor": "Turner Components Pty Ltd",
-          "total_aud": 150000,
-          "by_year": {
-            "2021-22": 150000
           }
         },
         {
@@ -13057,19 +13030,6 @@
           }
         },
         {
-          "donor": "Silver River Investment Holdings Pty Ltd ATF Fenwick Family Trust",
-          "total_aud": 75000,
-          "by_year": {
-            "2021-22": 75000
-          },
-          "info": {
-            "link": "https://transparency.aec.gov.au/ClientEntity/EntityDetail?clientIdentifier=47421&clientType=reforgdonor",
-            "link_type": "website",
-            "description": "A private investment-holding company acting as trustee for the Fenwick Family Trust, owned by Simon and Elizabeth Fenwick. Simon Fenwick is a fund manager (co-founder of US-based International Value Advisers) and a board member of the Institute of Public Affairs.",
-            "category": "investment vehicle"
-          }
-        },
-        {
           "donor": "LIBERAL PARTY OF AUSTRALIA - FEDERAL SECRETARIAT (ENID LYONS FOUNDATION)",
           "total_aud": 75000,
           "by_year": {
@@ -13230,19 +13190,6 @@
           "total_aud": 55000,
           "by_year": {
             "2024-25": 55000
-          }
-        },
-        {
-          "donor": "Philip Morris (Australia) Ltd",
-          "total_aud": 55000,
-          "by_year": {
-            "2021-22": 55000
-          },
-          "info": {
-            "link": "https://www.pmi.com/markets/australia/en/overview",
-            "link_type": "website",
-            "description": "The Australian affiliate of Philip Morris International, distributing and selling cigarettes and tobacco products; brands include Marlboro, L&M, Parliament and Chesterfield.",
-            "category": "company"
           }
         },
         {
@@ -13559,40 +13506,6 @@
           "total_aud": 50000,
           "by_year": {
             "2023-24": 50000
-          }
-        },
-        {
-          "donor": "Steve Baxter",
-          "total_aud": 50000,
-          "by_year": {
-            "2021-22": 50000
-          }
-        },
-        {
-          "donor": "Turner Components PTY LTD",
-          "total_aud": 50000,
-          "by_year": {
-            "2021-22": 50000
-          },
-          "info": {
-            "link": "https://abr.business.gov.au/ABN/View/12142231758",
-            "link_type": "website",
-            "description": "An Australian proprietary company registered in 2010 and based in Thomastown, Victoria. Business-registry records confirm the entity but do not detail its trading activity.",
-            "category": "company"
-          }
-        },
-        {
-          "donor": "Leytcorp Pty Ltd",
-          "total_aud": 50000,
-          "by_year": {
-            "2021-22": 50000
-          }
-        },
-        {
-          "donor": "William Henderson",
-          "total_aud": 50000,
-          "by_year": {
-            "2021-22": 50000
           }
         },
         {
@@ -13930,13 +13843,6 @@
           }
         },
         {
-          "donor": "Siesta Holdings Australia Pty Ltd",
-          "total_aud": 40000,
-          "by_year": {
-            "2021-22": 40000
-          }
-        },
-        {
           "donor": "Hugh MacLachlan",
           "total_aud": 40000,
           "by_year": {
@@ -14171,19 +14077,6 @@
           "total_aud": 30000,
           "by_year": {
             "2022-23": 30000
-          }
-        },
-        {
-          "donor": "JJ Richards & Sons Pty Ltd",
-          "total_aud": 30000,
-          "by_year": {
-            "2021-22": 30000
-          },
-          "info": {
-            "link": "https://jjswaste.com.au/",
-            "link_type": "website",
-            "description": "J.J. Richards & Sons Pty Ltd (trading as JJ's Waste & Recycling) is a wholly Australian-owned family-operated waste management and recycling company operating since 1932.",
-            "category": "company"
           }
         },
         {
@@ -15819,13 +15712,6 @@
             "link_type": "website",
             "description": "The Victorian Division of the Liberal Party of Australia (branded Liberal Victoria), the Victorian state branch of one of Australia's two major political parties.",
             "category": "political party body"
-          }
-        },
-        {
-          "donor": "Pesca Aviation Pty Ltd",
-          "total_aud": 14550,
-          "by_year": {
-            "2021-22": 14550
           }
         },
         {
@@ -19225,6 +19111,190 @@
       }
     },
     {
+      "party": "Libertarian Party (Liberal Democrats)",
+      "total_aud": 1310590,
+      "donor_count": 17,
+      "financial_years": [
+        "2021-22",
+        "2023-24",
+        "2024-25"
+      ],
+      "totals_by_year": {
+        "2021-22": 1004550,
+        "2023-24": 88500,
+        "2024-25": 217540
+      },
+      "donors": [
+        {
+          "donor": "Mineralogy Pty Ltd",
+          "total_aud": 250000,
+          "by_year": {
+            "2021-22": 250000
+          },
+          "info": {
+            "link": "https://mineralogy.com.au/",
+            "link_type": "website",
+            "description": "Mineralogy is a privately held mining and exploration company, principally involved in iron ore (magnetite) in Western Australia's Pilbara region, founded and owned by businessman Clive Palmer.",
+            "category": "company"
+          }
+        },
+        {
+          "donor": "JB Turner Mudguards",
+          "total_aud": 190000,
+          "by_year": {
+            "2021-22": 190000
+          }
+        },
+        {
+          "donor": "Turner Components Pty Ltd",
+          "total_aud": 181250,
+          "by_year": {
+            "2021-22": 150000,
+            "2023-24": 31250
+          }
+        },
+        {
+          "donor": "Turner Components Pty Ldt",
+          "total_aud": 167540,
+          "by_year": {
+            "2024-25": 167540
+          }
+        },
+        {
+          "donor": "Silver River Investment Holdings Pty Ltd ATF Fenwick Family Trust",
+          "total_aud": 75000,
+          "by_year": {
+            "2021-22": 75000
+          },
+          "info": {
+            "link": "https://transparency.aec.gov.au/ClientEntity/EntityDetail?clientIdentifier=47421&clientType=reforgdonor",
+            "link_type": "website",
+            "description": "A private investment-holding company acting as trustee for the Fenwick Family Trust, owned by Simon and Elizabeth Fenwick. Simon Fenwick is a fund manager (co-founder of US-based International Value Advisers) and a board member of the Institute of Public Affairs.",
+            "category": "investment vehicle"
+          }
+        },
+        {
+          "donor": "Philip Morris (Australia) Ltd",
+          "total_aud": 55000,
+          "by_year": {
+            "2021-22": 55000
+          },
+          "info": {
+            "link": "https://www.pmi.com/markets/australia/en/overview",
+            "link_type": "website",
+            "description": "The Australian affiliate of Philip Morris International, distributing and selling cigarettes and tobacco products; brands include Marlboro, L&M, Parliament and Chesterfield.",
+            "category": "company"
+          }
+        },
+        {
+          "donor": "Steve Baxter",
+          "total_aud": 50000,
+          "by_year": {
+            "2021-22": 50000
+          }
+        },
+        {
+          "donor": "Turner Components PTY LTD",
+          "total_aud": 50000,
+          "by_year": {
+            "2021-22": 50000
+          },
+          "info": {
+            "link": "https://abr.business.gov.au/ABN/View/12142231758",
+            "link_type": "website",
+            "description": "An Australian proprietary company registered in 2010 and based in Thomastown, Victoria. Business-registry records confirm the entity but do not detail its trading activity.",
+            "category": "company"
+          }
+        },
+        {
+          "donor": "Leytcorp Pty Ltd",
+          "total_aud": 50000,
+          "by_year": {
+            "2021-22": 50000
+          }
+        },
+        {
+          "donor": "William Henderson",
+          "total_aud": 50000,
+          "by_year": {
+            "2021-22": 50000
+          }
+        },
+        {
+          "donor": "Siesta Holdings Australia Pty Ltd",
+          "total_aud": 40000,
+          "by_year": {
+            "2021-22": 40000
+          }
+        },
+        {
+          "donor": "JB Turner Mud Guards Pty Ltd",
+          "total_aud": 32250,
+          "by_year": {
+            "2023-24": 32250
+          }
+        },
+        {
+          "donor": "JJ Richards & Sons Pty Ltd",
+          "total_aud": 30000,
+          "by_year": {
+            "2021-22": 30000
+          },
+          "info": {
+            "link": "https://jjswaste.com.au/",
+            "link_type": "website",
+            "description": "J.J. Richards & Sons Pty Ltd (trading as JJ's Waste & Recycling) is a wholly Australian-owned family-operated waste management and recycling company operating since 1932.",
+            "category": "company"
+          }
+        },
+        {
+          "donor": "Siesta Holding Australia Pty Ltd",
+          "total_aud": 25000,
+          "by_year": {
+            "2024-25": 25000
+          },
+          "info": {
+            "link": "https://transparency.aec.gov.au/ClientEntity/EntityDetail?clientIdentifier=37124&clientType=organisationdonor",
+            "link_type": "website",
+            "description": "A New South Wales private holding company owned by Sam Kennard, chief executive of Kennards Self Storage, used as a personal/family investment vehicle.",
+            "category": "investment vehicle"
+          }
+        },
+        {
+          "donor": "SILVER RIVER INVESTMENT PTY LTD",
+          "total_aud": 25000,
+          "by_year": {
+            "2024-25": 25000
+          },
+          "info": {
+            "link": "https://independentaustralia.net/politics/politics-display/white-mans-dark-money-meet-the-no-campaign-bankrollers,18043",
+            "link_type": "website",
+            "description": "A private investment company associated with Elizabeth and Simon Fenwick, used as a family investment and donation vehicle (Silver River Investment Holdings, as trustee for the Fenwick Family Trust). Simon Fenwick co-founded US investment firm International Value Advisers and is a board member of the Institute of Public Affairs.",
+            "category": "investment vehicle"
+          }
+        },
+        {
+          "donor": "Simon Fenwick",
+          "total_aud": 25000,
+          "by_year": {
+            "2023-24": 25000
+          }
+        },
+        {
+          "donor": "Pesca Aviation Pty Ltd",
+          "total_aud": 14550,
+          "by_year": {
+            "2021-22": 14550
+          }
+        }
+      ],
+      "source": {
+        "title": "AEC Transparency Register — detailed receipts, Libertarian Party (Liberal Democrats)",
+        "url": "https://transparency.aec.gov.au/AnnualDetailedReceipts",
+        "publisher": "Australian Electoral Commission"
+      }
+    },
+    {
       "party": "WESTERN AUSTRALIA PARTY",
       "total_aud": 1045793,
       "donor_count": 2,
@@ -19469,80 +19539,6 @@
       ],
       "source": {
         "title": "AEC Transparency Register — detailed receipts, Pauline Hanson's One Nation",
-        "url": "https://transparency.aec.gov.au/AnnualDetailedReceipts",
-        "publisher": "Australian Electoral Commission"
-      }
-    },
-    {
-      "party": "Libertarian Party",
-      "total_aud": 306040,
-      "donor_count": 6,
-      "financial_years": [
-        "2023-24",
-        "2024-25"
-      ],
-      "totals_by_year": {
-        "2023-24": 88500,
-        "2024-25": 217540
-      },
-      "donors": [
-        {
-          "donor": "Turner Components Pty Ldt",
-          "total_aud": 167540,
-          "by_year": {
-            "2024-25": 167540
-          }
-        },
-        {
-          "donor": "JB Turner Mud Guards Pty Ltd",
-          "total_aud": 32250,
-          "by_year": {
-            "2023-24": 32250
-          }
-        },
-        {
-          "donor": "Turner Components Pty Ltd",
-          "total_aud": 31250,
-          "by_year": {
-            "2023-24": 31250
-          }
-        },
-        {
-          "donor": "Siesta Holding Australia Pty Ltd",
-          "total_aud": 25000,
-          "by_year": {
-            "2024-25": 25000
-          },
-          "info": {
-            "link": "https://transparency.aec.gov.au/ClientEntity/EntityDetail?clientIdentifier=37124&clientType=organisationdonor",
-            "link_type": "website",
-            "description": "A New South Wales private holding company owned by Sam Kennard, chief executive of Kennards Self Storage, used as a personal/family investment vehicle.",
-            "category": "investment vehicle"
-          }
-        },
-        {
-          "donor": "SILVER RIVER INVESTMENT PTY LTD",
-          "total_aud": 25000,
-          "by_year": {
-            "2024-25": 25000
-          },
-          "info": {
-            "link": "https://independentaustralia.net/politics/politics-display/white-mans-dark-money-meet-the-no-campaign-bankrollers,18043",
-            "link_type": "website",
-            "description": "A private investment company associated with Elizabeth and Simon Fenwick, used as a family investment and donation vehicle (Silver River Investment Holdings, as trustee for the Fenwick Family Trust). Simon Fenwick co-founded US investment firm International Value Advisers and is a board member of the Institute of Public Affairs.",
-            "category": "investment vehicle"
-          }
-        },
-        {
-          "donor": "Simon Fenwick",
-          "total_aud": 25000,
-          "by_year": {
-            "2023-24": 25000
-          }
-        }
-      ],
-      "source": {
-        "title": "AEC Transparency Register — detailed receipts, Libertarian Party",
         "url": "https://transparency.aec.gov.au/AnnualDetailedReceipts",
         "publisher": "Australian Electoral Commission"
       }

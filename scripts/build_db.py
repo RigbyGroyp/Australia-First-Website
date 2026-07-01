@@ -35,21 +35,17 @@ def main():
     with open(SCHEMA, encoding="utf-8") as f:
         con.executescript(f.read())
 
-    # Deduplicated source rows: (title,url,publisher,date) -> id
+    # Deduplicated source rows: (title,url,publisher,date) -> id. The DB is
+    # rebuilt from scratch each run and this cache guarantees each key is
+    # inserted exactly once, so a plain INSERT suffices.
     src_cache = {}
 
     def source_id(s):
         key = (s.get("title"), s.get("url"), s.get("publisher"), s.get("date", ""))
         if key not in src_cache:
             cur = con.execute(
-                "INSERT OR IGNORE INTO source(title,url,publisher,date) VALUES (?,?,?,?)", key)
-            if cur.lastrowid and con.execute(
-                    "SELECT changes()").fetchone()[0]:
-                src_cache[key] = cur.lastrowid
-            else:
-                src_cache[key] = con.execute(
-                    "SELECT id FROM source WHERE title IS ? AND url IS ? AND publisher IS ? AND date IS ?",
-                    key).fetchone()[0]
+                "INSERT INTO source(title,url,publisher,date) VALUES (?,?,?,?)", key)
+            src_cache[key] = cur.lastrowid
         return src_cache[key]
 
     def ensure_donor(name):

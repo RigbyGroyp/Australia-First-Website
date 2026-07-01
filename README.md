@@ -1,24 +1,47 @@
-# Australian Federal Candidate Transparency Database
+# Australian Candidate Transparency Database
 
-A factual, fully-sourced reference on Australian federal political candidates and
-sitting members — covering the House of Representatives and the Senate.
+A factual, fully-sourced reference on Australian politicians and candidates —
+covering the **federal Parliament, all eight state and territory parliaments,
+and announced candidates for upcoming elections** (currently Victoria 2026).
 
 The goal is to help voters make informed decisions by gathering **publicly
 available, verifiable information** about where candidates stand, with a source
 link attached to every claim. This is an information resource, not a scorecard.
 
+**Current scope:** 991 records — 846 sitting members (226 federal + 620
+state/territory), 141 announced election candidates, and 4 former members
+retained for their disclosed donor data. 644 records carry at least one sourced
+position; 540 have a portrait; 726 donors are profiled with a link and
+description.
+
 ## What it tracks
 
-For each candidate, the database records sourced, factual information across:
+Sourced, factual information across **24 issues**:
 
-| Field | What it covers |
+**Federal issues** (federal members only — states don't legislate these):
+
+| Issue | What it covers |
 |-------|----------------|
-| **Immigration** | Stated policy positions and recorded votes on immigration. |
-| **Faith & religion** | Publicly stated faith, denomination, and on-record statements about religion. Public statements only. |
-| **Economic nationalism** | Positions/votes on local infrastructure, manufacturing self-sufficiency, local employment, procurement, and foreign ownership. |
-| **Foreign policy & aid** | Recorded foreign-policy positions and votes, including Middle East policy and foreign aid. |
-| **Citizenship eligibility** | Section 44 constitutional eligibility status (sole vs dual citizenship as it affects eligibility to sit). |
-| **Donors** | Disclosed campaign donors, amounts, and domestic-vs-foreign source, from public AEC records. |
+| Immigration | Stated policy positions and recorded votes. |
+| Faith & religion | Publicly stated faith and on-record statements. Self-disclosed only. |
+| Economic nationalism | Manufacturing self-sufficiency, procurement, foreign ownership. |
+| Foreign policy & aid | Recorded positions and votes, incl. Middle East policy and aid. |
+| Citizenship eligibility | Section 44 constitutional eligibility only (sole vs dual citizenship). |
+
+**Conscience & social issues** (tracked for state members; often decided by
+named conscience-vote divisions in Hansard): abortion, voluntary assisted
+dying, gender & LGBTQ+ policy, religious freedom, drugs & law and order,
+gambling reform, hunting, sex work, First Nations & treaty, integrity &
+anti-corruption.
+
+**State policy areas:** native forest logging, nuclear & uranium, housing &
+planning, health, education, transport & infrastructure, energy, environment &
+water, animal welfare.
+
+**Donors:** disclosed donations both **to individual members** (AEC Member of
+Parliament returns) and **to parties** (AEC detailed receipts, per financial
+year), with a donor-information registry that links each identifiable
+organisation to its own website and a short sourced description of who it is.
 
 ## Editorial principles
 
@@ -42,125 +65,127 @@ These are non-negotiable and are enforced by the data schema:
 
 ```
 data/
-  schema.json              JSON Schema all candidate records must validate against
-  candidates.json          The candidate dataset (generated — do not hand-edit roster)
-  candidate.template.json  Copy this to add a candidate manually
-  sources/                 Small, committed input CSVs (AEC + OpenAustralia)
-index.html                 Searchable, filterable front-end (static, no build step)
+  schema.json               JSON Schema all candidate records validate against
+  candidates.json           The dataset (generated — do not hand-edit)
+  positions/<issue>.json    Hand-sourced positions, one file per issue, keyed by
+                            candidate id (rebuild-safe; merged by the build)
+  photos.json               Portrait URLs (Wikimedia Commons via Wikipedia + OpenAustralia)
+  party_donations.json      Disclosed donations TO parties (AEC detailed receipts)
+  donor_info.json           Donor registry: link + sourced description per donor
+  party_positions.json      Federal party-platform fallbacks
+  sources/                  Committed inputs: AEC/OpenAustralia CSVs,
+                            states/*.json rosters, candidates/*.json election rosters
+db/
+  schema.sql                Relational schema for the SQLite layer
+  candidates.sql            Deterministic full-dataset SQL dump (diffable, committed)
+  README.md                 The relational model, donor consolidation, example queries
+index.html                  Searchable, filterable front-end (static, no build step)
+explore.html                In-browser SQL explorer (sql.js/WASM, fully client-side)
 assets/
-  style.css
-  app.js
-  photos.json              Member portrait URLs (Wikimedia Commons via Wikipedia)
-  party_donations.json     Disclosed donations TO parties (AEC detailed receipts)
+  style.css, app.js, explore.js
+  vendor/sqljs/             Vendored sql.js (no third-party requests)
 scripts/
-  build_candidates.py      Builds candidates.json from data/sources/
-  build_party_donations.py Builds party_donations.json from data/sources/
-  fetch_photos.py          Resolves member portraits from Wikipedia
-CONTRIBUTING.md            Sourcing standards and how to add/correct an entry
+  build_candidates.py       Builds candidates.json (rosters + positions + photos)
+  build_party_donations.py  Builds party_donations.json
+  build_db.py               JSON -> data/candidates.db (SQLite) + db/candidates.sql
+  db_to_json.py             SQLite -> JSON; --check verifies round-trip parity
+  consolidate_donors.py     Maps donor spelling variants to canonical entities
+  fetch_photos.py           Wikipedia portraits (merges; never clobbers)
+  backfill_photos.py        OpenAustralia portrait backfill (federal)
+CONTRIBUTING.md             Sourcing standards and how to add/correct an entry
 ```
 
 ## How the dataset is built
 
-`data/candidates.json` is generated by `scripts/build_candidates.py` from three
-public sources committed under `data/sources/`:
+`data/candidates.json` is generated by `scripts/build_candidates.py` from
+committed sources under `data/sources/`:
 
-| Source file | Origin | Provides |
+| Source | Origin | Provides |
 |---|---|---|
-| `aec_house_members_elected_2025.csv` | [AEC Tally Room — Members Elected](https://results.aec.gov.au/31496/Website/HouseDownloadsMenu-31496-Csv.htm) | 150 House members: division, state, party |
-| `openaustralia_senators.csv` | [OpenAustralia.org Senators](https://www.openaustralia.org.au/senators/) | 76 current senators: party, state |
-| `aec_mp_returns.csv`, `aec_mp_detailed_receipts.csv` | [AEC Member of Parliament returns](https://transparency.aec.gov.au/MemberOfParliament) | disclosed donor totals + itemised receipts |
+| `aec_house_members_elected_2025.csv` | [AEC Tally Room](https://results.aec.gov.au/31496/Website/HouseDownloadsMenu-31496-Csv.htm) | 150 House members |
+| `openaustralia_senators.csv` | [OpenAustralia.org](https://www.openaustralia.org.au/senators/) | 76 senators |
+| `aec_mp_returns.csv`, `aec_mp_detailed_receipts.csv` | [AEC Transparency Register](https://transparency.aec.gov.au/MemberOfParliament) | member donor data |
+| `states/*.json` | State parliament rosters (each cites its source) | 620 state/territory members |
+| `candidates/*.json` | Election candidate rosters (per-candidate citations) | announced candidates |
 
-To rebuild after updating any source file:
+To rebuild after updating any source:
 
 ```
-python3 scripts/build_candidates.py
+python3 scripts/build_candidates.py     # validates ids, warns on orphaned positions
+python3 scripts/build_party_donations.py
+python3 scripts/build_db.py             # SQLite + SQL dump (also run at deploy)
+python3 scripts/db_to_json.py --check   # round-trip parity check
 ```
 
-Every incumbent carries a `roster_source` citation for its party/electorate/
-state. Members who appear in the donor returns but are no longer in parliament
-(e.g. lost their seat in 2025) are retained as `former` so their disclosed
-donor data is preserved.
+Every member carries a `roster_source` citation; every running candidate
+carries a `candidacy_source` confirming they are standing.
 
 **Donor-data scope caveat:** AEC *Member of Parliament* returns only capture
-donations made **directly to a member**. Most political money flows through
-party returns, which are not attributed to individuals — so this per-member
-donor data is partial and is weighted toward independents and crossbenchers, who
-are required to lodge member returns. Each record's summary states this.
-Foreign-vs-domestic status isn't flagged in the source data, so `source_type` is
-recorded as `unknown`.
+donations made **directly to a member** — most political money flows through
+party returns, so per-member donor data is partial and weighted toward
+independents. Itemised receipts are published for House members only. Each
+record's summary states this.
 
-## Party donations
+## Party donations & donor information
 
-The **Party donations** tab shows where the larger money goes: donations made
-*to political parties*, from the AEC Transparency Register's detailed receipts
-(`Donation Received` only, so public funding and electoral-commission payments
-are excluded), broken down **per financial year** across the four most recent
-(2021-22 to 2024-25). Branch returns (e.g. "ALP (N.S.W. Branch)", "Liberal Party
-NSW Division") are grouped into party families. Built by
-`scripts/build_party_donations.py` from `data/sources/aec_party_donations.csv`.
-Only donations above the AEC disclosure threshold are itemised.
+The **Party donations** tab shows donations made *to parties* (AEC detailed
+receipts, `Donation Received` only), per financial year (2021-22 to 2024-25),
+with branch returns grouped into party families. A **donor search** works
+across all parties. Donor names are kept exactly as disclosed (the same entity
+may appear under several spellings); the SQLite layer's `canonical_id` maps 152
+spelling variants to 112 entities for roll-up queries.
 
-A **donor search** box searches every disclosed donor across all parties and
-shows which parties they gave to, with per-year amounts. Donor names are kept
-exactly as disclosed to the AEC (the same entity may appear under several
-spellings); search by substring surfaces the variants together rather than
-fuzzy-merging potentially distinct entities.
+726 identifiable organisation donors carry a link to their own website/social
+media and a short, sourced description of who they are — so readers can see
+what the source of a donation actually is.
+
+## SQL explorer
+
+`explore.html` lets anyone run SQL over the whole dataset **in their browser**
+(sql.js/WASM, vendored — no server, no third-party requests, nothing sent
+anywhere). The GitHub Pages workflow builds `data/candidates.db` at deploy time.
+Example queries ship on the page; the relational model is documented in
+`db/README.md`.
 
 ## Running it
 
-It's a static site — no build step. Open `index.html` locally, or serve the
-folder:
+Static site — no build step:
 
 ```
 python3 -m http.server 8000
 # then visit http://localhost:8000
 ```
 
+## Position coverage
+
+Coverage is partial **by design**: a position is recorded only where it is
+concretely stated and backed by a source that was actually retrieved — never
+inferred from party membership, never guessed. Faith is recorded only where
+self-disclosed or publicly reported with a citation, never inferred from a
+name, ancestry, or schooling. The same evidence bar applies to every issue.
+
+Top issues by sourced positions: voluntary assisted dying (283), abortion
+(265), drugs & law and order (186), gender & LGBTQ+ (134), religious freedom
+(130), faith (102), immigration (95), First Nations & treaty (92), foreign
+policy (81), economic nationalism (73), sex work (63), nuclear (45). Issues
+decided by named Hansard divisions yield the deepest per-person coverage;
+executive-driven policy areas surface mainly ministers with sourced records.
+
+Portraits come from each member's Wikipedia article (Wikimedia Commons) via
+`scripts/fetch_photos.py`, with OpenAustralia backfill for federal members
+(`scripts/backfill_photos.py`, which rejects placeholder images). A portrait is
+attached only when the resolved page is described as a politician and the
+surname matches — the wrong person's photo is never shown. Each portrait links
+to its source page for attribution.
+
 ## Roadmap
 
-- [x] Federal House of Representatives + Senate schema and front-end
-- [x] Import AEC donor disclosures for members who lodged returns
-- [x] Full 48th Parliament roster (226 members) with party, electorate, state, status
-- [x] Faith & religion positions where explicitly self-disclosed / publicly reported (54 sourced)
-- [x] Immigration positions where concretely stated / on record (78 sourced)
-- [x] Foreign policy & aid positions where concretely stated / on record (82 sourced)
-- [x] Economic nationalism positions where concretely stated / on record (73 sourced)
-- [x] Section 44 citizenship-eligibility notes where on record (33 sourced)
-- [ ] State and territory parliaments
-
-### Position coverage (of 226 incumbents)
-
-| Issue | Sourced positions |
-|-------|-------------------|
-| Faith & religion | 54 |
-| Immigration | 78 |
-| Foreign policy & aid | 82 |
-| Economic nationalism | 73 |
-| Citizenship (s44 eligibility) | 33 |
-
-Member portraits (225 of 226) come primarily from each member's Wikipedia
-article (Wikimedia Commons, freely licensed) via `scripts/fetch_photos.py` — a
-portrait is attached only when the resolved page is described as a politician and
-the member's surname appears in the page title, so the wrong person's photo is
-never shown. Members with no free Wikipedia image are backfilled from
-OpenAustralia.org by `scripts/backfill_photos.py`, which rejects placeholder and
-blank images (by shared-byte hash and a minimum size). Each portrait links to its
-source page for attribution.
-
-The citizenship field records constitutional eligibility under s44 only —
-renunciations of foreign citizenship, overseas birth with citizenship resolved,
-and 2017–18 High Court referrals/rulings — never heritage or ancestry, and
-never inferred from a person's name or birthplace.
-
-151 of 226 members have at least one sourced position. Coverage is partial by
-design: a position is recorded only where it is concretely stated and backed by
-a source that was actually retrieved — never inferred from party or guessed.
-
-### Coverage note on faith
-
-Faith is recorded only where a member has **explicitly self-disclosed it or it is
-publicly reported with a citation** (maiden speeches, interviews, reputable
-reporting). It is never inferred from a person's name, ancestry, or schooling.
-Most members have no public statement of faith on record, so this field is
-deliberately sparse rather than guessed — 54 of 226 at present. The same
-evidence bar applies to every issue.
+- [x] Federal House + Senate roster, donors, positions, portraits
+- [x] All eight state/territory parliaments (ACT, NT, TAS, QLD, SA, NSW, VIC, WA)
+- [x] 19 state-issue categories incl. named conscience-vote divisions
+- [x] Party donations with per-year breakdown and donor search
+- [x] Donor-information registry (726 organisations profiled)
+- [x] SQLite relational layer + in-browser SQL explorer
+- [x] Running candidates for upcoming elections (Victoria 2026)
+- [ ] State electoral-commission donation disclosures (per-state regimes)
+- [ ] Victoria 2026 Legislative Council + minor-party candidates

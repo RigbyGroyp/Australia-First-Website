@@ -137,6 +137,7 @@ body {
 }
 .chip-donor { color: var(--ok); border-color: var(--ok); }
 .chip-empty { color: var(--muted); font-style: italic; }
+.chip-more { color: var(--muted); border-style: dashed; }
 
 .coverage {
   max-width: 1000px;

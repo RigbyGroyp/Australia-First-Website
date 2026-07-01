@@ -51,7 +51,7 @@
       <code>donor_info</code>, <code>party_donation</code>, <code>member_donation</code>,
       and a deduplicated <code>source</code>. The <code>donor.canonical_id</code> column
       links spelling variants of the same donor to one entity — use
-      <code>COALESCE(canonical_id, name)</code> to roll them up. Queries are read-only.
+      <code>COALESCE(canonical_id, name)</code> to roll them up. Changes don’t persist — the database reloads fresh on every page refresh.
     </p>
 
     <div class="sql-examples" id="examples" aria-label="Example queries"></div>
