@@ -29,11 +29,12 @@ import os
 import re
 from collections import defaultdict
 
+from build_config import BUILD_DATE
+
 HERE = os.path.dirname(os.path.abspath(__file__))
 SRC = os.path.join(HERE, "..", "data", "sources")
 POS_DIR = os.path.join(HERE, "..", "data", "positions")
 DEST = os.path.join(HERE, "..", "data", "candidates.json")
-BUILD_DATE = "2026-06-26"
 
 # Policy-position issue keys, in display priority order. Each may have a file
 # data/positions/<issue>.json mapping candidate id -> {summary, sources, verified}.
@@ -77,6 +78,24 @@ PARTY_FIX = {
     "sue-lines-wa": "Australian Labor Party",
 }
 
+# Same-party spelling variants collapsed to one canonical name. Applied to every
+# record's party field (ids never embed party, so this is rename-safe).
+PARTY_CANON = {
+    "Liberal": "Liberal Party",
+    "National Party": "The Nationals",
+    "The Greens": "Australian Greens",
+    "Katter's Australian Party (KAP)": "Katter's Australian Party",
+}
+
+# Donor-only "former" records carry no roster row; backfill their last-held
+# party and state (well-documented public facts) so the records aren't blank.
+FORMER_FIX = {
+    "andrew-laming": {"party": "Liberal National Party of Queensland", "state": "QLD"},
+    "maria-vamvakinou": {"party": "Australian Labor Party", "state": "VIC"},
+    "zoe-daniel": {"party": "Independent", "state": "VIC"},
+    "concetta-fierravanti-wells": {"party": "Liberal Party", "state": "NSW"},
+}
+
 # Normalised party groupings for clean filtering. The exact party (as the source
 # reported it) is preserved; party_group collapses source-labelling variants
 # (e.g. "Liberal"/"Liberal Party", "The Nationals"/"National Party") and the
@@ -101,7 +120,7 @@ PARTY_GROUP = {
     "Family First Party": "Other / minor party",
     "Independent": "Independent",
     "Fiona Carrick Independent": "Independent",
-    "Katter's Australian Party (KAP)": "Other / minor party",
+    "Katter's Australian Party": "Other / minor party",
     "Centre Alliance": "Other / minor party",
     "Jacqui Lambie Network": "Other / minor party",
     "United Australia Party": "Other / minor party",
@@ -170,11 +189,19 @@ def build_donors():
     items = defaultdict(list)    # name -> [(fy, donor, amount)]
     chamber_of = {}
 
+    def to_int(raw):
+        """Parse an AEC count/amount cell tolerantly ('1,500', '$1500', '1500.00')."""
+        cleaned = re.sub(r"[^0-9.\-]", "", raw or "")
+        try:
+            return int(float(cleaned)) if cleaned else 0
+        except ValueError:
+            return 0
+
     for row in read_csv(os.path.join(SRC, "aec_mp_returns.csv")):
         name = re.sub(r"\s+", " ", row["Name"]).strip()
         chamber_of[name] = "Senate" if "Senator" in row["Return Type"] else "House of Representatives"
-        totals[name].append((row["Financial Year"], int(row["Total Donations Received"] or 0),
-                             int(row["Number of Donors"] or 0)))
+        totals[name].append((row["Financial Year"], to_int(row["Total Donations Received"]),
+                             to_int(row["Number of Donors"])))
 
     for row in read_csv(os.path.join(SRC, "aec_mp_detailed_receipts.csv")):
         if row["Return Type"] != "Member of HOR Return":
@@ -190,6 +217,7 @@ def build_donors():
     for name in totals:
         yt = sorted(totals[name], reverse=True)
         grand_total = sum(total for _, total, _ in yt)
+        chamber = chamber_of.get(name, "House of Representatives")
         parts = [f"{fy}: ${total:,} across {cnt} donor(s)" for fy, total, cnt in yt if total or cnt]
         summary = (
             "Donations disclosed directly to this member in AEC Member of Parliament returns. "
@@ -197,6 +225,10 @@ def build_donors():
             + "Note: member returns capture only donations made directly to the member, "
             "not money received via a party; figures are partial."
         )
+        # The AEC detailed-receipts export itemises House returns only, so a
+        # senator can legitimately show a total with no itemised entries.
+        if chamber == "Senate" and grand_total and not items.get(name):
+            summary += " Itemised receipts are published for House members only."
         entries = []
         for fy, donor, amount in sorted(items.get(name, []), reverse=True):
             entry = {"donor": donor, "amount_aud": amount, "financial_year": fy,
@@ -208,7 +240,10 @@ def build_donors():
         latest_fy = yt[0][0] if yt else ""
         key = norm_key(name)
         key = ALIASES.get(key, key)
-        donors[key] = (name, chamber_of.get(name, "House of Representatives"), {
+        if key in donors:
+            print(f"WARNING: donor-return name collision on '{key}' "
+                  f"({donors[key][0]!r} vs {name!r}) — second entry wins; verify attribution.")
+        donors[key] = (name, chamber, {
             "summary": summary,
             "total_aud": grand_total,
             "entries": entries,
@@ -371,6 +406,12 @@ def load_positions():
     positions = defaultdict(dict)  # candidate id -> {issue: position}
     if not os.path.isdir(POS_DIR):
         return positions
+    # A position file for an issue missing from ISSUES would be silently
+    # ignored — that's how sourced data quietly disappears. Warn instead.
+    unknown = sorted(os.path.splitext(f)[0] for f in os.listdir(POS_DIR)
+                     if f.endswith(".json") and os.path.splitext(f)[0] not in ISSUES)
+    for stem in unknown:
+        print(f"WARNING: data/positions/{stem}.json is not in ISSUES and will be ignored.")
     for issue in ISSUES:
         path = os.path.join(POS_DIR, f"{issue}.json")
         if not os.path.isfile(path):
@@ -384,6 +425,11 @@ def load_positions():
 
 def attach_positions(records, positions):
     matched = 0
+    ids = {rec["id"] for rec in records}
+    orphans = sorted(set(positions) - ids)
+    if orphans:
+        print(f"WARNING: {len(orphans)} position key(s) match no roster id "
+              f"(sourced data NOT included): {orphans}")
     for rec in records:
         pos = positions.get(rec["id"])
         if not pos:
@@ -425,16 +471,21 @@ def main():
     for key, (name, chamber, donor_block) in donors.items():
         if key in roster_keys:
             continue
-        former.append({
-            "id": slugify(name),
+        rec_id = slugify(name)
+        fix = FORMER_FIX.get(rec_id, {})
+        rec = {
+            "id": rec_id,
             "name": name,
-            "party": "",
+            "party": fix.get("party", ""),
             "chamber": chamber,
             "status": "former",
             "last_updated": BUILD_DATE,
             "positions": {},
             "donors": donor_block,
-        })
+        }
+        if fix.get("state"):
+            rec["state"] = fix["state"]
+        former.append(rec)
 
     all_records = sorted(roster, key=lambda r: (r["chamber"], r.get("state", ""), r["name"])) + \
         sorted(former, key=lambda r: r["name"])
@@ -453,6 +504,23 @@ def main():
     all_records += load_state_rosters()
     all_records += load_candidate_rosters()
 
+    # Collapse party spelling variants, then recompute the group off the
+    # canonical name so both fields stay consistent.
+    for rec in all_records:
+        if rec.get("party") in PARTY_CANON:
+            rec["party"] = PARTY_CANON[rec["party"]]
+            rec["party_group"] = party_group(rec["party"])
+
+    # Ids are generated by five independent code paths; a collision would let
+    # positions/photos attach to the wrong person and crash build_db later.
+    seen, dupes = set(), set()
+    for rec in all_records:
+        if rec["id"] in seen:
+            dupes.add(rec["id"])
+        seen.add(rec["id"])
+    if dupes:
+        raise SystemExit(f"FATAL: duplicate candidate id(s): {sorted(dupes)}")
+
     photos = load_photos()
     for rec in all_records:
         ph = photos.get(rec["id"])
@@ -465,11 +533,14 @@ def main():
 
     out = {
         "meta": {
-            "description": "Australian candidate transparency dataset: the federal 48th Parliament "
-                           "plus state/territory parliaments (see jurisdiction field). Federal roster "
-                           "from AEC Members Elected (House) and OpenAustralia (Senate) with AEC donor "
-                           "data; state rosters from data/sources/states/. Policy positions are added "
-                           "separately with their own sources. See ../CONTRIBUTING.md.",
+            "description": "Australian candidate transparency dataset: the federal 48th Parliament, "
+                           "all eight state/territory parliaments (see jurisdiction field), and "
+                           "announced candidates for upcoming elections (status='candidate', e.g. "
+                           "Victoria 2026). Federal roster from AEC Members Elected (House) and "
+                           "OpenAustralia (Senate) with AEC donor data; state rosters from "
+                           "data/sources/states/; election candidates from data/sources/candidates/. "
+                           "Sourced positions across 24 issues (5 federal, 19 state) are added "
+                           "separately from data/positions/. See ../CONTRIBUTING.md.",
             "house_source": AEC_HOUSE_URL,
             "senate_source": "https://www.openaustralia.org.au/senators/",
             "donor_source": AEC_DONOR_URL,

@@ -21,17 +21,19 @@ import os
 from collections import defaultdict
 
 import donor_info as donor_info_mod
+from build_config import BUILD_DATE
 
 HERE = os.path.dirname(os.path.abspath(__file__))
 SRC = os.path.join(HERE, "..", "data", "sources", "aec_party_donations.csv")
 DEST = os.path.join(HERE, "..", "data", "party_donations.json")
-BUILD_DATE = "2026-06-26"
 REGISTER_URL = "https://transparency.aec.gov.au/AnnualDetailedReceipts"
 TOP_N = 20
 MIN_PARTY_TOTAL = 20000  # don't list parties with trivial disclosed donations
 
 
 def family(name):
+    # Rules are ordered most-specific-first: the bare "liberal"/"national"
+    # substrings must come after every compound name that contains them.
     n = name.lower()
     if "labor" in n:
         return "Labor (ALP)"
@@ -39,6 +41,8 @@ def family(name):
         return "Liberal National Party (Qld)"
     if "country liberal" in n:
         return "Country Liberal Party (NT)"
+    if "liberal democrat" in n or "libertarian" in n:
+        return "Libertarian Party (Liberal Democrats)"
     if "liberal" in n:
         return "Liberal Party"
     if "national" in n:
@@ -87,19 +91,24 @@ def main():
 
     parties = []
     for party, dmap in donors.items():
-        total = sum(sum(years.values()) for years in dmap.values())
+        # Round each (donor, year) amount ONCE, then derive every total by summing
+        # the rounded values. db_to_json.py recomputes totals from the stored
+        # per-year integers with SQL SUM(), so totals must be sums of rounded
+        # values or the round-trip parity check would fail on fractional amounts.
+        rounded = {donor: {fy: round(amt) for fy, amt in years.items()}
+                   for donor, years in dmap.items()}
+        total = sum(sum(years.values()) for years in rounded.values())
         if total < MIN_PARTY_TOTAL:
             continue
-        totals_by_year = defaultdict(float)
+        totals_by_year = defaultdict(int)
         donor_list = []
-        for donor, years in dmap.items():
-            dtotal = sum(years.values())
+        for donor, years in rounded.items():
             for fy, amt in years.items():
                 totals_by_year[fy] += amt
             entry = {
                 "donor": donor,
-                "total_aud": round(dtotal),
-                "by_year": {fy: round(amt) for fy, amt in sorted(years.items())},
+                "total_aud": sum(years.values()),
+                "by_year": dict(sorted(years.items())),
             }
             info = donor_info_mod.info_for(donor, registry)
             if info:
@@ -108,10 +117,10 @@ def main():
         donor_list.sort(key=lambda d: d["total_aud"], reverse=True)
         parties.append({
             "party": party,
-            "total_aud": round(total),
+            "total_aud": total,
             "donor_count": len(dmap),
             "financial_years": sorted(fys[party]),
-            "totals_by_year": {fy: round(totals_by_year[fy]) for fy in sorted(totals_by_year)},
+            "totals_by_year": {fy: totals_by_year[fy] for fy in sorted(totals_by_year)},
             "donors": donor_list,
             "source": {
                 "title": f"AEC Transparency Register — detailed receipts, {party}",

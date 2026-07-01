@@ -70,7 +70,11 @@ def lookup(name, context):
 def main():
     data = json.load(open(CANDIDATES))
     incumbents = [c for c in data["candidates"] if c.get("status") == "incumbent"]
-    results, unresolved = {}, []
+    # Merge into the existing photos.json rather than overwrite: entries this run
+    # doesn't resolve (OpenAustralia backfills, state portraits, candidate photos)
+    # must survive a refresh.
+    results = json.load(open(DEST)) if os.path.exists(DEST) else {}
+    resolved, unresolved = 0, []
 
     for c in incumbents:
         context = c.get("electorate") or c.get("state") or ""
@@ -86,12 +90,13 @@ def main():
                 "page_title": title,
                 "page_url": "https://en.wikipedia.org/wiki/" + urllib.parse.quote(title.replace(" ", "_")),
             }
+            resolved += 1
         else:
             unresolved.append((c["id"], f"title={title!r} desc={desc!r} thumb={bool(thumb)}"))
         time.sleep(0.1)
 
     json.dump(dict(sorted(results.items())), open(DEST, "w"), indent=2, ensure_ascii=False)
-    print(f"Resolved photos: {len(results)}/{len(incumbents)}")
+    print(f"Resolved photos: {resolved}/{len(incumbents)} (total on file: {len(results)})")
     print(f"Unresolved: {len(unresolved)}")
     for uid, why in unresolved:
         print(f"  - {uid}: {why}")

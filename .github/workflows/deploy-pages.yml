@@ -3,10 +3,11 @@ name: Deploy to GitHub Pages
 # Publishes the static site (index.html + assets/ + data/) to GitHub Pages.
 # No build step — the site is plain HTML/CSS/JS that fetches data/candidates.json.
 
+# Deploy from main only — work lands on main via PR, so publishing the working
+# branch would push unreviewed content to the live site.
 on:
   push:
     branches:
-      - claude/au-candidates-database-fkzef8
       - main
   workflow_dispatch:
 

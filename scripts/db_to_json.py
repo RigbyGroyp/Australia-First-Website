@@ -174,8 +174,14 @@ def main():
         ok1 = diff_report("candidates.json", cand, os.path.join(DATA, "candidates.json"))
         ok2 = diff_report("party_donations.json", party, os.path.join(DATA, "party_donations.json"), sort_lists=True)
         sys.exit(0 if (ok1 and ok2) else 1)
-    json.dump(cand, open(os.path.join(DATA, "candidates.json"), "w"), indent=2, ensure_ascii=False)
-    json.dump(party, open(os.path.join(DATA, "party_donations.json"), "w"), indent=2, ensure_ascii=False)
+    # Match the builders' file format (trailing newline) so write mode doesn't
+    # produce a spurious whole-file diff.
+    with open(os.path.join(DATA, "candidates.json"), "w", encoding="utf-8") as f:
+        json.dump(cand, f, indent=2, ensure_ascii=False)
+        f.write("\n")
+    with open(os.path.join(DATA, "party_donations.json"), "w", encoding="utf-8") as f:
+        json.dump(party, f, indent=2, ensure_ascii=False)
+        f.write("\n")
     print("Emitted candidates.json and party_donations.json from", DB)
 
 

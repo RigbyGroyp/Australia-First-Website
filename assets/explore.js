@@ -1,5 +1,5 @@
 // In-browser SQL explorer. Loads the published SQLite database with sql.js
-// (WASM) and runs read-only queries entirely client-side — no server.
+// (WASM) and runs queries entirely client-side — no server; nothing persists.
 
 const EXAMPLES = [
   {
@@ -111,6 +111,10 @@ function run() {
     return;
   }
   const { columns, values } = res[0];
+  // Cap the rendered rows — an unbounded query (missing LIMIT, cross join)
+  // would otherwise build tens of thousands of DOM rows and freeze the tab.
+  const MAX_ROWS = 1000;
+  const shown = values.slice(0, MAX_ROWS);
   const table = document.createElement('table');
   table.className = 'sqlout';
   const thead = document.createElement('thead');
@@ -123,7 +127,7 @@ function run() {
   thead.appendChild(htr);
   table.appendChild(thead);
   const tbody = document.createElement('tbody');
-  values.forEach((row) => {
+  shown.forEach((row) => {
     const tr = document.createElement('tr');
     row.forEach((val) => {
       const td = document.createElement('td');
@@ -136,7 +140,12 @@ function run() {
   });
   table.appendChild(tbody);
   results.appendChild(table);
-  $('count').textContent = `${values.length} row${values.length === 1 ? '' : 's'}.`;
+  $('count').textContent = values.length > MAX_ROWS
+    ? `Showing the first ${MAX_ROWS.toLocaleString()} of ${values.length.toLocaleString()} rows — add a LIMIT to narrow the query.`
+    : `${values.length} row${values.length === 1 ? '' : 's'}.`;
+  if (res.length > 1) {
+    $('count').textContent += ` (${res.length} result sets returned; showing the first.)`;
+  }
 }
 
 async function boot() {
@@ -149,7 +158,7 @@ async function boot() {
       return r.arrayBuffer();
     });
     db = new SQL.Database(new Uint8Array(buf));
-    $('status').textContent = 'Ready — read-only. Try an example or write your own.';
+    $('status').textContent = 'Ready — runs locally in your browser; changes don\u2019t persist. Try an example or write your own.';
     $('run').disabled = false;
     $('run').addEventListener('click', run);
     $('sql').addEventListener('keydown', (e) => {
