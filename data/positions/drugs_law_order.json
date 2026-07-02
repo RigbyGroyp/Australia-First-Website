@@ -2512,5 +2512,77 @@
       }
     ],
     "verified": true
+  },
+  "victoria-2026-reece-clark-werribee": {
+    "summary": "Argues Victoria's policing system is failing, saying Victoria Police has 1,600 vacancies statewide and 43 police stations have closed, and describing expanded shopping-centre patrols at Pacific Werribee as 'an admission of failure'.",
+    "sources": [
+      {
+        "title": "Pacific Werribee Gets Holiday Police Boost",
+        "url": "https://www.wyndhamtv.com.au/pacific-werribee-gets-holiday-police-boost/",
+        "publisher": "Wyndham TV",
+        "date": "2026-07-01"
+      }
+    ],
+    "verified": true
+  },
+  "victoria-2026-oskar-martin-williamstown": {
+    "summary": "Opposed the local council's introduction of private security guards in Footscray.",
+    "sources": [
+      {
+        "title": "Oskar Martin - Victorian Socialists candidate for Williamstown",
+        "url": "https://www.victoriansocialists.org.au/candidates/oskar-martin",
+        "publisher": "Victorian Socialists",
+        "date": null
+      }
+    ],
+    "verified": true
+  },
+  "victoria-2026-veronika-levchenkova-melton": {
+    "summary": "Lists \"safer communities\" among her campaign priorities.",
+    "sources": [
+      {
+        "title": "Veronika Levchenkova – Candidate for Melton",
+        "url": "https://greens.org.au/vic/person/veronika-levchenkova",
+        "publisher": "Australian Greens Victoria",
+        "date": null
+      }
+    ],
+    "verified": true
+  },
+  "victoria-2026-jo-armstrong-ripon": {
+    "summary": "Campaigns to \"crack down on crime\", citing increasing crime as a key concern for Ripon constituents.",
+    "sources": [
+      {
+        "title": "Nationals unveil their candidate for Ripon",
+        "url": "https://www.westvicnews.com.au/nationals-unveil-their-candidate-for-2026-04-14",
+        "publisher": "West Vic News",
+        "date": null
+      }
+    ],
+    "verified": true
+  },
+  "victoria-2026-amelia-hamer-malvern": {
+    "summary": "Campaigns on tackling crime, saying \"Locals are fed up with rising crime, rising cost of living and a government that is tired and completely out of touch. We will tackle crime, ease cost of living pressures and make it easier to do business here again.\"",
+    "sources": [
+      {
+        "title": "Amelia Hamer Selected as Liberals' Malvern Candidate",
+        "url": "https://www.miragenews.com/amelia-hamer-selected-as-liberals-malvern-1576001/",
+        "publisher": "Mirage News",
+        "date": "2025-11-23"
+      }
+    ],
+    "verified": true
+  },
+  "victoria-2026-jordan-van-den-lamb-melbourne": {
+    "summary": "Argues for redirecting resources away from incarceration, instead targeting \"property hoarders\" and unsafe rental operators.",
+    "sources": [
+      {
+        "title": "Jordan van den Lamb – Victorian Socialists candidate for Melbourne",
+        "url": "https://www.victoriansocialists.org.au/candidates/jordan-van-den-lamb",
+        "publisher": "Victorian Socialists",
+        "date": "2026"
+      }
+    ],
+    "verified": true
   }
 }

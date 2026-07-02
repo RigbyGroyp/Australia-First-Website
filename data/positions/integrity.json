@@ -136,5 +136,101 @@
       }
     ],
     "verified": true
+  },
+  "victoria-2026-gufran-mohammed-yan-yean": {
+    "summary": "Says the political system is 'rigged' against everyday Australians, criticises the protection of wealthy interests who provide political donations, and commits to 'unrig the system'; notes his party rejects corporate donations.",
+    "sources": [
+      {
+        "title": "Gufran Mohammed - Greens candidate for Yan Yean",
+        "url": "https://greens.org.au/vic/person/gufran-mohammed",
+        "publisher": "Australian Greens Victoria",
+        "date": null
+      }
+    ],
+    "verified": true
+  },
+  "victoria-2026-tracie-lund-morwell": {
+    "summary": "Campaigned in 2022 on restoring \"integrity and trust in government\".",
+    "sources": [
+      {
+        "title": "Councillor wants Morwell seat",
+        "url": "https://latrobevalleyexpress.com.au/news/2022/09/08/councillor-wants-morwell-seat/",
+        "publisher": "Latrobe Valley Express",
+        "date": "2022-09-08"
+      }
+    ],
+    "verified": true
+  },
+  "victoria-2026-connor-buchanan-mulgrave": {
+    "summary": "Opposes \"politicians... in the pockets of billionaires\".",
+    "sources": [
+      {
+        "title": "Connor Buchanan – Victorian Socialists candidate for Mulgrave",
+        "url": "https://www.victoriansocialists.org.au/candidates/connor-buchanan",
+        "publisher": "Victorian Socialists",
+        "date": null
+      }
+    ],
+    "verified": true
+  },
+  "victoria-2026-moss-page-narracan": {
+    "summary": "Commits to fighting \"corporate donation to political parties\" and advocates for transparency.",
+    "sources": [
+      {
+        "title": "Moss Page – Victorian Socialists candidate for Narracan",
+        "url": "https://www.victoriansocialists.org.au/candidates/moss-page",
+        "publisher": "Victorian Socialists",
+        "date": null
+      }
+    ],
+    "verified": true
+  },
+  "victoria-2026-tim-drylie-ripon": {
+    "summary": "Calls for \"honest representation, genuine consultation and decisions made in the public interest, not corporate greed\".",
+    "sources": [
+      {
+        "title": "Tim Drylie - Greens candidate for Ripon",
+        "url": "https://greens.org.au/vic/person/tim-drylie",
+        "publisher": "Australian Greens Victoria",
+        "date": null
+      }
+    ],
+    "verified": true
+  },
+  "victoria-2026-nasser-yawari-pakenham": {
+    "summary": "Criticises the major parties for accepting \"millions of donations from billionaires and big corporations\".",
+    "sources": [
+      {
+        "title": "Nasser Yawari, Candidate for Pakenham",
+        "url": "https://greens.org.au/vic/person/nasser-yawari",
+        "publisher": "Australian Greens Victoria",
+        "date": ""
+      }
+    ],
+    "verified": true
+  },
+  "victoria-2026-marley-mcrae-mcleod-macedon": {
+    "summary": "Names political integrity as a core campaign priority, advocating for politics with greater integrity.",
+    "sources": [
+      {
+        "title": "Marley McRae McLeod – Greens candidate for Macedon",
+        "url": "https://greens.org.au/vic/person/marley-mcrae-mcleod",
+        "publisher": "Australian Greens Victoria",
+        "date": "2026"
+      }
+    ],
+    "verified": true
+  },
+  "victoria-2026-jordan-van-den-lamb-melbourne": {
+    "summary": "Proposes cutting politicians' salaries and imposing \"real taxes on the super-rich\" to fund social programs.",
+    "sources": [
+      {
+        "title": "Jordan van den Lamb – Victorian Socialists candidate for Melbourne",
+        "url": "https://www.victoriansocialists.org.au/candidates/jordan-van-den-lamb",
+        "publisher": "Victorian Socialists",
+        "date": "2026"
+      }
+    ],
+    "verified": true
   }
 }

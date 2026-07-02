@@ -196,5 +196,83 @@
       }
     ],
     "verified": true
+  },
+  "victoria-2026-gufran-mohammed-yan-yean": {
+    "summary": "Opposes price-gouging by energy companies (as well as supermarkets).",
+    "sources": [
+      {
+        "title": "Gufran Mohammed - Greens candidate for Yan Yean",
+        "url": "https://greens.org.au/vic/person/gufran-mohammed",
+        "publisher": "Australian Greens Victoria",
+        "date": null
+      }
+    ],
+    "verified": true
+  },
+  "victoria-2026-veronika-levchenkova-melton": {
+    "summary": "Lists \"lower energy bills\" among her campaign priorities.",
+    "sources": [
+      {
+        "title": "Veronika Levchenkova – Candidate for Melton",
+        "url": "https://greens.org.au/vic/person/veronika-levchenkova",
+        "publisher": "Australian Greens Victoria",
+        "date": null
+      }
+    ],
+    "verified": true
+  },
+  "victoria-2026-tracie-lund-morwell": {
+    "summary": "Has said \"immediate action is required to achieve a just transition from coal-powered to renewable energy that is centred on the diversification of industry\", starting with support for workers displaced by coal-closure timelines (stated during her 2022 Morwell campaign).",
+    "sources": [
+      {
+        "title": "Councillor wants Morwell seat",
+        "url": "https://latrobevalleyexpress.com.au/news/2022/09/08/councillor-wants-morwell-seat/",
+        "publisher": "Latrobe Valley Express",
+        "date": "2022-09-08"
+      }
+    ],
+    "verified": true
+  },
+  "victoria-2026-brett-hosking-murray-plains": {
+    "summary": "Supports pausing the VNI West transmission line project pending review.",
+    "sources": [
+      {
+        "title": "Brett Hosking: National Party pre-selection for Murray Plains",
+        "url": "https://www.stockandland.com.au/story/9231566/brett-hosking-national-party-pre-selection-for-murray-plains/",
+        "publisher": "Stock & Land",
+        "date": "2026-04"
+      }
+    ],
+    "verified": true
+  },
+  "victoria-2026-jack-gardner-ringwood": {
+    "summary": "Says addressing the climate crisis requires reorganising \"society around clean energy, and a symbiotic relationship with our natural environment\".",
+    "sources": [
+      {
+        "title": "Jack Gardner - Victorian Socialists candidate for Ringwood",
+        "url": "https://www.victoriansocialists.org.au/candidates/jack-gardner",
+        "publisher": "Victorian Socialists",
+        "date": null
+      }
+    ],
+    "verified": true
+  },
+  "victoria-2026-campbell-gome-northcote": {
+    "summary": "Says Northcote \"deserves a representative who will fight to end new coal and gas projects\", and has criticised the state government for \"approving new areas for gas drilling\" and keeping brown coal power stations open longer than needed.",
+    "sources": [
+      {
+        "title": "Campbell Gome, Candidate for Northcote",
+        "url": "https://greens.org.au/vic/person/campbell-gome",
+        "publisher": "Australian Greens Victoria",
+        "date": ""
+      },
+      {
+        "title": "Public school teacher and climate advocate announced as Greens candidate for Northcote",
+        "url": "https://greens.org.au/vic/news/public-school-teacher-and-climate-advocate-announced-greens-candidate-northcote",
+        "publisher": "Australian Greens Victoria",
+        "date": "2022-04"
+      }
+    ],
+    "verified": true
   }
 }

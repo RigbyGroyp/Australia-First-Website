@@ -1168,5 +1168,41 @@
       }
     ],
     "verified": true
+  },
+  "victoria-2026-john-stanley-warrandyte": {
+    "summary": "States he is committed to justice for Aboriginal people.",
+    "sources": [
+      {
+        "title": "John Stanley - Victorian Socialists candidate for Warrandyte",
+        "url": "https://www.victoriansocialists.org.au/candidates/john-stanley",
+        "publisher": "Victorian Socialists",
+        "date": null
+      }
+    ],
+    "verified": true
+  },
+  "victoria-2026-connor-buchanan-mulgrave": {
+    "summary": "Campaigns against \"discrimination against First Nations people\".",
+    "sources": [
+      {
+        "title": "Connor Buchanan – Victorian Socialists candidate for Mulgrave",
+        "url": "https://www.victoriansocialists.org.au/candidates/connor-buchanan",
+        "publisher": "Victorian Socialists",
+        "date": null
+      }
+    ],
+    "verified": true
+  },
+  "victoria-2026-campbell-gome-northcote": {
+    "summary": "Has spoken in support of First Nations justice, including raising the age of criminal responsibility to 14 (2022 candidacy announcement).",
+    "sources": [
+      {
+        "title": "Public school teacher and climate advocate announced as Greens candidate for Northcote",
+        "url": "https://greens.org.au/vic/news/public-school-teacher-and-climate-advocate-announced-greens-candidate-northcote",
+        "publisher": "Australian Greens Victoria",
+        "date": "2022-04"
+      }
+    ],
+    "verified": true
   }
 }
