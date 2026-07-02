@@ -571,6 +571,24 @@ function renderCard(c) {
   sourceLink(c.roster_source, 'roster source');
   sourceLink(c.candidacy_source, 'candidacy source');
 
+  // Sourced biographical facts (occupation, public roles) — factual, cited.
+  if (c.background && c.background.summary) {
+    const bio = el('p', 'c-bio', c.background.summary);
+    const bsrc = (c.background.sources || [])[0];
+    if (bsrc && bsrc.url) {
+      bio.appendChild(document.createTextNode(' '));
+      const a = document.createElement('a');
+      a.className = 'roster-src';
+      a.href = bsrc.url;
+      a.target = '_blank';
+      a.rel = 'noopener noreferrer';
+      a.textContent = '[source]';
+      a.title = bsrc.title || '';
+      bio.appendChild(a);
+    }
+    node.querySelector('.c-headtext').appendChild(bio);
+  }
+
   // At-a-glance chips: which issues this member has data for. With 24 issue
   // categories a fully-documented member would swamp the header — cap the row.
   const MAX_CHIPS = 10;

@@ -1108,5 +1108,101 @@
       }
     ],
     "verified": true
+  },
+  "victoria-2026-liza-shaw-bendigo-west": {
+    "summary": "States she stands to 'fight for First Nations justice' as part of her campaign platform.",
+    "sources": [
+      {
+        "title": "Liza Shaw — Greens candidate for Bendigo West",
+        "url": "https://greens.org.au/vic/person/liza-shaw",
+        "publisher": "Australian Greens Victoria",
+        "date": null
+      }
+    ],
+    "verified": true
+  },
+  "victoria-2026-jack-mcmahon-dandenong": {
+    "summary": "His candidate profile lists advocacy for First Nations communities among his grassroots campaign involvement.",
+    "sources": [
+      {
+        "title": "Jack McMahon — Candidate for Dandenong",
+        "url": "https://www.victoriansocialists.org.au/candidates/jack-mcmahon",
+        "publisher": "Victorian Socialists",
+        "date": null
+      }
+    ],
+    "verified": true
+  },
+  "victoria-2026-james-williams-essendon": {
+    "summary": "States he is dedicated to \"improving opportunities in health, education, and employment for Aboriginal and Torres Strait Islander peoples\".",
+    "sources": [
+      {
+        "title": "James Williams",
+        "url": "https://greens.org.au/vic/person/james-williams",
+        "publisher": "Australian Greens (Victoria)",
+        "date": null
+      }
+    ],
+    "verified": true
+  },
+  "victoria-2026-jasmine-duff-footscray": {
+    "summary": "Her candidate profile states she has campaigned for Indigenous justice.",
+    "sources": [
+      {
+        "title": "Jasmine Duff – Victorian Socialists",
+        "url": "https://www.victoriansocialists.org.au/candidates/jasmine-duff",
+        "publisher": "Victorian Socialists",
+        "date": null
+      }
+    ],
+    "verified": true
+  },
+  "victoria-2026-kylie-rocha-hawthorn": {
+    "summary": "States support for justice for First Nations peoples and Treaty.",
+    "sources": [
+      {
+        "title": "Kylie Rocha — Greens candidate for Hawthorn",
+        "url": "https://greens.org.au/vic/person/kylie-rocha",
+        "publisher": "Australian Greens Victoria",
+        "date": null
+      }
+    ],
+    "verified": true
+  },
+  "victoria-2026-john-stanley-warrandyte": {
+    "summary": "States he is committed to justice for Aboriginal people.",
+    "sources": [
+      {
+        "title": "John Stanley - Victorian Socialists candidate for Warrandyte",
+        "url": "https://www.victoriansocialists.org.au/candidates/john-stanley",
+        "publisher": "Victorian Socialists",
+        "date": null
+      }
+    ],
+    "verified": true
+  },
+  "victoria-2026-connor-buchanan-mulgrave": {
+    "summary": "Campaigns against \"discrimination against First Nations people\".",
+    "sources": [
+      {
+        "title": "Connor Buchanan – Victorian Socialists candidate for Mulgrave",
+        "url": "https://www.victoriansocialists.org.au/candidates/connor-buchanan",
+        "publisher": "Victorian Socialists",
+        "date": null
+      }
+    ],
+    "verified": true
+  },
+  "victoria-2026-campbell-gome-northcote": {
+    "summary": "Has spoken in support of First Nations justice, including raising the age of criminal responsibility to 14 (2022 candidacy announcement).",
+    "sources": [
+      {
+        "title": "Public school teacher and climate advocate announced as Greens candidate for Northcote",
+        "url": "https://greens.org.au/vic/news/public-school-teacher-and-climate-advocate-announced-greens-candidate-northcote",
+        "publisher": "Australian Greens Victoria",
+        "date": "2022-04"
+      }
+    ],
+    "verified": true
   }
 }

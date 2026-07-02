@@ -75,6 +75,19 @@ CREATE TABLE position_source (
     PRIMARY KEY (position_id, ord)
 );
 
+-- Sourced biographical facts (occupation, public roles); at most one per candidate.
+CREATE TABLE background (
+    candidate_id TEXT PRIMARY KEY REFERENCES candidate(id),
+    summary      TEXT,
+    verified     INTEGER
+);
+CREATE TABLE background_source (
+    candidate_id TEXT NOT NULL REFERENCES background(candidate_id),
+    source_id    INTEGER NOT NULL REFERENCES source(id),
+    ord          INTEGER NOT NULL,
+    PRIMARY KEY (candidate_id, ord)
+);
+
 -- ---- Donors: the hub that used to be string-matched across files ----
 
 -- One row per donor name exactly as disclosed to the AEC. (The same real-world

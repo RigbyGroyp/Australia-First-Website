@@ -85,6 +85,14 @@ def main():
                 con.execute("INSERT INTO position_source(position_id,source_id,ord) VALUES (?,?,?)",
                             (pid, source_id(s), ord_))
 
+        bg = c.get("background")
+        if bg:
+            con.execute("INSERT INTO background(candidate_id,summary,verified) VALUES (?,?,?)",
+                        (c["id"], bg.get("summary"), 1 if bg.get("verified") else 0))
+            for ord_, s in enumerate(bg.get("sources") or []):
+                con.execute("INSERT INTO background_source(candidate_id,source_id,ord) VALUES (?,?,?)",
+                            (c["id"], source_id(s), ord_))
+
         for ord_, s in enumerate(donors.get("sources") or []):
             con.execute("INSERT INTO member_return_source(candidate_id,source_id,ord) VALUES (?,?,?)",
                         (c["id"], source_id(s), ord_))

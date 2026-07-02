@@ -62,6 +62,13 @@ def emit_candidates(c):
                                      "verified": bool(p["verified"])}
         rec["positions"] = positions
 
+        bg = c.execute("SELECT summary, verified FROM background WHERE candidate_id=?",
+                       (cand["id"],)).fetchone()
+        if bg:
+            rec["background"] = {"summary": bg["summary"],
+                                 "sources": sources_for(c, "background_source", "candidate_id", cand["id"]),
+                                 "verified": bool(bg["verified"])}
+
         if cand["roster_source_id"] is not None:
             s = c.execute("SELECT title,url,publisher,date FROM source WHERE id=?",
                           (cand["roster_source_id"],)).fetchone()

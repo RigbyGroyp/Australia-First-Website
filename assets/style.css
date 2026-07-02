@@ -151,6 +151,7 @@ body {
 .chip-donor { color: var(--ok); border-color: var(--ok); }
 .chip-empty { color: var(--muted); font-style: italic; }
 .chip-more { color: var(--muted); border-style: dashed; }
+.c-bio { margin: .3rem 0 0; color: var(--muted); font-size: .84rem; line-height: 1.45; }
 
 .coverage {
   max-width: 1000px;
