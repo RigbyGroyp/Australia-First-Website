@@ -76,5 +76,65 @@
       }
     ],
     "verified": true
+  },
+  "victoria-2026-tim-randall-ashwood": {
+    "summary": "Says he aims at \"restoring trust, integrity and long-term thinking to politics\".",
+    "sources": [
+      {
+        "title": "Tim Randall, Candidate for Ashwood",
+        "url": "https://greens.org.au/vic/person/tim-randall",
+        "publisher": "Australian Greens Victoria",
+        "date": "2026"
+      }
+    ],
+    "verified": true
+  },
+  "victoria-2026-angel-dolejs-caulfield": {
+    "summary": "States that \"corporate influence is damaging our democracy and our local community are the ones feeling the impacts\", and that representation should not be \"under the thumb of the corporations who profit from the crisis\".",
+    "sources": [
+      {
+        "title": "Angel Dolejsí - Greens candidate for Caulfield",
+        "url": "https://greens.org.au/vic/person/angel-dolejsi",
+        "publisher": "Australian Greens Victoria",
+        "date": null
+      }
+    ],
+    "verified": true
+  },
+  "victoria-2026-andrew-henley-evelyn": {
+    "summary": "Says \"integrity in government is the foundation for better healthcare, stronger schools, climate action and safer communities\", and that the root of many local problems is \"politics captured by big money rather than community needs\".",
+    "sources": [
+      {
+        "title": "Andrew Henley, Candidate for Evelyn",
+        "url": "https://greens.org.au/vic/person/andrew-henley",
+        "publisher": "Australian Greens Victoria",
+        "date": null
+      }
+    ],
+    "verified": true
+  },
+  "victoria-2026-andrew-cheeseman-frankston": {
+    "summary": "Pledges that, if elected, he would donate the portion of his parliamentary salary above the Frankston median wage to community campaigns, saying \"I won't rise out of this community, I'll rise with it, or not at all\".",
+    "sources": [
+      {
+        "title": "Andrew Cheeseman – Victorian Socialists",
+        "url": "https://www.victoriansocialists.org.au/candidates/andrew-cheeseman",
+        "publisher": "Victorian Socialists",
+        "date": null
+      }
+    ],
+    "verified": true
+  },
+  "victoria-2026-jackie-carter-kew": {
+    "summary": "Advocates for politicians independent from corporate influence, noting that her party takes no corporate donations and is funded by individual supporters.",
+    "sources": [
+      {
+        "title": "Jackie Carter — Greens candidate for Kew",
+        "url": "https://greens.org.au/vic/person/jackie-carter",
+        "publisher": "Australian Greens Victoria",
+        "date": null
+      }
+    ],
+    "verified": true
   }
 }

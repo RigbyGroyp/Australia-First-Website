@@ -43306,7 +43306,44 @@
       "election": "Victoria 2026",
       "poll_date": "2026-11-28",
       "last_updated": "2026-07-01",
-      "positions": {},
+      "positions": {
+        "housing_planning": {
+          "summary": "Says she is \"determined to ensure no one experiences homelessness in a country as wealthy as Australia\", citing her own experience of insecure housing as a renter; as a Greens candidate in 2021 she said \"Everyone deserves a secure place to live, and that's what I'll be fighting for in parliament.\"",
+          "sources": [
+            {
+              "title": "Sonya Semmens, Candidate for Albert Park",
+              "url": "https://greens.org.au/vic/person/sonya-semmens",
+              "publisher": "Australian Greens Victoria",
+              "date": "2026"
+            },
+            {
+              "title": "Greens announce candidate in most winnable Liberal seat",
+              "url": "https://www.miragenews.com/greens-announce-candidate-in-most-winnable-617155/",
+              "publisher": "Mirage News",
+              "date": "2021-08-20"
+            }
+          ],
+          "verified": true
+        },
+        "environment_water": {
+          "summary": "As Greens candidate for Higgins in 2021 she said: \"I will push the next government to go further and faster on the climate crisis so we can secure a better future for everyone\"; her Albert Park profile cites community advocacy on the climate crisis.",
+          "sources": [
+            {
+              "title": "Greens announce candidate in most winnable Liberal seat",
+              "url": "https://www.miragenews.com/greens-announce-candidate-in-most-winnable-617155/",
+              "publisher": "Mirage News",
+              "date": "2021-08-20"
+            },
+            {
+              "title": "Sonya Semmens, Candidate for Albert Park",
+              "url": "https://greens.org.au/vic/person/sonya-semmens",
+              "publisher": "Australian Greens Victoria",
+              "date": "2026"
+            }
+          ],
+          "verified": true
+        }
+      },
       "roster_source": {
         "title": "Candidates of the 2026 Victorian state election",
         "url": "https://en.wikipedia.org/wiki/Candidates_of_the_2026_Victorian_state_election",
@@ -43318,6 +43355,24 @@
         "url": "https://greens.org.au/vic/person/sonya-semmens",
         "publisher": "greens.org.au",
         "date": ""
+      },
+      "background": {
+        "summary": "Educator and NGO consultant who has worked in the not-for-profit sector, including on domestic violence prevention and health crisis support; grew up in Dandenong and was the Greens candidate for the federal seat of Higgins at the 2022 election.",
+        "sources": [
+          {
+            "title": "Sonya Semmens, Candidate for Albert Park",
+            "url": "https://greens.org.au/vic/person/sonya-semmens",
+            "publisher": "Australian Greens Victoria",
+            "date": "2026"
+          },
+          {
+            "title": "Greens announce candidate in most winnable Liberal seat",
+            "url": "https://www.miragenews.com/greens-announce-candidate-in-most-winnable-617155/",
+            "publisher": "Mirage News",
+            "date": "2021-08-20"
+          }
+        ],
+        "verified": true
       }
     },
     {
@@ -43333,7 +43388,32 @@
       "election": "Victoria 2026",
       "poll_date": "2026-11-28",
       "last_updated": "2026-07-01",
-      "positions": {},
+      "positions": {
+        "housing_planning": {
+          "summary": "Advocates \"a building spree of public housing and rent caps\".",
+          "sources": [
+            {
+              "title": "Colleen Bolger — Victorian Socialists candidate for Albert Park",
+              "url": "https://www.victoriansocialists.org.au/candidates/colleen-bolger",
+              "publisher": "Victorian Socialists",
+              "date": "2026"
+            }
+          ],
+          "verified": true
+        },
+        "environment_water": {
+          "summary": "Calls for action \"to tackle climate change, to tax profits to fund public services\".",
+          "sources": [
+            {
+              "title": "Colleen Bolger — Victorian Socialists candidate for Albert Park",
+              "url": "https://www.victoriansocialists.org.au/candidates/colleen-bolger",
+              "publisher": "Victorian Socialists",
+              "date": "2026"
+            }
+          ],
+          "verified": true
+        }
+      },
       "roster_source": {
         "title": "Candidates of the 2026 Victorian state election",
         "url": "https://en.wikipedia.org/wiki/Candidates_of_the_2026_Victorian_state_election",
@@ -43345,6 +43425,18 @@
         "url": "https://www.victoriansocialists.org.au/candidates/colleen-bolger",
         "publisher": "victoriansocialists.org.au",
         "date": ""
+      },
+      "background": {
+        "summary": "Lawyer acting for people with asbestosis and other occupational diseases, and a union delegate; has been involved in campaigns against mandatory detention of refugees for more than 20 years.",
+        "sources": [
+          {
+            "title": "Colleen Bolger — Victorian Socialists candidate for Albert Park",
+            "url": "https://www.victoriansocialists.org.au/candidates/colleen-bolger",
+            "publisher": "Victorian Socialists",
+            "date": "2026"
+          }
+        ],
+        "verified": true
       }
     },
     {
@@ -43372,6 +43464,24 @@
         "url": "https://www.heraldsun.com.au/news/victoria/backroom-baz-jess-wilsons-public-snub-reveals-deep-party-division/news-story/87d9022c55a6f2f61ef9f0ed48ac3935?amp&nk=28f5a6a5d1966c2f77da070e0c1a7035-1779153598",
         "publisher": "heraldsun.com.au",
         "date": ""
+      },
+      "background": {
+        "summary": "Former City of Monash councillor, elected in 2012, 2016 and 2020 to represent Oakleigh, and a former federal Liberal candidate for Chisholm; did not seek re-election to Monash Council in 2024.",
+        "sources": [
+          {
+            "title": "Theo Zographos — official website",
+            "url": "https://theozographos.com/",
+            "publisher": "theozographos.com",
+            "date": "2026"
+          },
+          {
+            "title": "Freshwater Strategy: Labor 23, Coalition 27, One Nation 25 in Victoria",
+            "url": "https://www.pollbludger.net/2026/06/08/freshwater-strategy-labor-23-coalition-27-one-nation-25-in-victoria/",
+            "publisher": "The Poll Bludger",
+            "date": "2026-06-08"
+          }
+        ],
+        "verified": true
       }
     },
     {
@@ -43387,7 +43497,44 @@
       "election": "Victoria 2026",
       "poll_date": "2026-11-28",
       "last_updated": "2026-07-01",
-      "positions": {},
+      "positions": {
+        "integrity": {
+          "summary": "Says he aims at \"restoring trust, integrity and long-term thinking to politics\".",
+          "sources": [
+            {
+              "title": "Tim Randall, Candidate for Ashwood",
+              "url": "https://greens.org.au/vic/person/tim-randall",
+              "publisher": "Australian Greens Victoria",
+              "date": "2026"
+            }
+          ],
+          "verified": true
+        },
+        "housing_planning": {
+          "summary": "Says \"secure, affordable homes are essential for a fair and resilient society\" and that housing \"sits at the intersection of climate, cost of living and equity\"; names housing among the issues he wants to tackle with \"practical, responsible solutions\".",
+          "sources": [
+            {
+              "title": "Tim Randall, Candidate for Ashwood",
+              "url": "https://greens.org.au/vic/person/tim-randall",
+              "publisher": "Australian Greens Victoria",
+              "date": "2026"
+            }
+          ],
+          "verified": true
+        },
+        "environment_water": {
+          "summary": "Lists climate change among the issues he wants to address: \"practical, responsible solutions that tackle housing, cost of living, community safety and climate change\".",
+          "sources": [
+            {
+              "title": "Tim Randall, Candidate for Ashwood",
+              "url": "https://greens.org.au/vic/person/tim-randall",
+              "publisher": "Australian Greens Victoria",
+              "date": "2026"
+            }
+          ],
+          "verified": true
+        }
+      },
       "roster_source": {
         "title": "Candidates of the 2026 Victorian state election",
         "url": "https://en.wikipedia.org/wiki/Candidates_of_the_2026_Victorian_state_election",
@@ -43399,6 +43546,18 @@
         "url": "https://greens.org.au/vic/person/tim-randall",
         "publisher": "greens.org.au",
         "date": ""
+      },
+      "background": {
+        "summary": "Architect specialising in accessible housing; grew up in Hobart and has lived in Melbourne's east for more than 15 years.",
+        "sources": [
+          {
+            "title": "Tim Randall, Candidate for Ashwood",
+            "url": "https://greens.org.au/vic/person/tim-randall",
+            "publisher": "Australian Greens Victoria",
+            "date": "2026"
+          }
+        ],
+        "verified": true
       }
     },
     {
@@ -43414,7 +43573,32 @@
       "election": "Victoria 2026",
       "poll_date": "2026-11-28",
       "last_updated": "2026-07-01",
-      "positions": {},
+      "positions": {
+        "housing_planning": {
+          "summary": "States \"Housing is a human right—we need policy that foregrounds people's right to a home over the power of mega-investors to turn a profit.\"",
+          "sources": [
+            {
+              "title": "Jacob van der Eynden — Victorian Socialists candidate for Ashwood",
+              "url": "https://www.victoriansocialists.org.au/candidates/jacob-van-der-eynden",
+              "publisher": "Victorian Socialists",
+              "date": "2026"
+            }
+          ],
+          "verified": true
+        },
+        "environment_water": {
+          "summary": "Says \"We also need to see urgent action on climate change—the profits of billionaires cannot be prioritised over the health of our planet.\"",
+          "sources": [
+            {
+              "title": "Jacob van der Eynden — Victorian Socialists candidate for Ashwood",
+              "url": "https://www.victoriansocialists.org.au/candidates/jacob-van-der-eynden",
+              "publisher": "Victorian Socialists",
+              "date": "2026"
+            }
+          ],
+          "verified": true
+        }
+      },
       "roster_source": {
         "title": "Candidates of the 2026 Victorian state election",
         "url": "https://en.wikipedia.org/wiki/Candidates_of_the_2026_Victorian_state_election",
@@ -43426,6 +43610,18 @@
         "url": "https://www.victoriansocialists.org.au/candidates/jacob-van-der-eynden",
         "publisher": "victoriansocialists.org.au",
         "date": ""
+      },
+      "background": {
+        "summary": "Digital media designer and student, and a lifelong Mount Waverley resident; a community organiser involved in the Campaign Against Racism and Fascism, refugee and migrant rights activism and Palestine solidarity rallies.",
+        "sources": [
+          {
+            "title": "Jacob van der Eynden — Victorian Socialists candidate for Ashwood",
+            "url": "https://www.victoriansocialists.org.au/candidates/jacob-van-der-eynden",
+            "publisher": "Victorian Socialists",
+            "date": "2026"
+          }
+        ],
+        "verified": true
       }
     },
     {
@@ -43453,6 +43649,24 @@
         "url": "https://www.sgst.com.au/news/labor-names-chris-buckingham-as-its-candidate-for-bass",
         "publisher": "sgst.com.au",
         "date": ""
+      },
+      "background": {
+        "summary": "Chief executive of consultancy firm The Fair Co, a social procurement advisory firm; former CEO of Casey Cardinia Libraries, former head of the Latrobe Valley Authority, and Labor's candidate for the federal seat of McMillan (now Monash) in 2016.",
+        "sources": [
+          {
+            "title": "Labor names Chris Buckingham as its candidate for Bass",
+            "url": "https://www.sgst.com.au/news/labor-names-chris-buckingham-as-its-candidate-for-bass",
+            "publisher": "South Gippsland Sentinel Times",
+            "date": "2025"
+          },
+          {
+            "title": "Buckingham back for round two",
+            "url": "https://www.basscoastpost.com/news/buckingham-back-for-round-two",
+            "publisher": "Bass Coast Post",
+            "date": "2025"
+          }
+        ],
+        "verified": true
       }
     },
     {
@@ -43480,6 +43694,24 @@
         "url": "https://www.sgst.com.au/liberals-rochelle-halstead-aims-to-take-care-of-unfinished-business/",
         "publisher": "sgst.com.au",
         "date": ""
+      },
+      "background": {
+        "summary": "Mayor of Bass Coast Shire Council and a small business owner in hospitality; a Bass Coast councillor for Westernport Ward since 2020 and previously a councillor and mayor at Frankston City Council, she was the Liberal candidate for Frankston at the 2006 state election.",
+        "sources": [
+          {
+            "title": "Liberals' Rochelle Halstead aims to take care of unfinished business",
+            "url": "https://www.sgst.com.au/liberals-rochelle-halstead-aims-to-take-care-of-unfinished-business/",
+            "publisher": "South Gippsland Sentinel Times",
+            "date": "2026"
+          },
+          {
+            "title": "Leader lauds Liberal candidate",
+            "url": "https://www.pisra.com.au/leader-lauds-liberal-candidate/",
+            "publisher": "Phillip Island & San Remo Advertiser",
+            "date": "2026"
+          }
+        ],
+        "verified": true
       }
     },
     {
@@ -43495,7 +43727,44 @@
       "election": "Victoria 2026",
       "poll_date": "2026-11-28",
       "last_updated": "2026-07-01",
-      "positions": {},
+      "positions": {
+        "housing_planning": {
+          "summary": "Says people in Bass are doing it tough \"with a lack of affordable housing\" and commits to \"build more affordable homes\".",
+          "sources": [
+            {
+              "title": "Sophie Thorn, Candidate for Bass",
+              "url": "https://greens.org.au/vic/person/sophie-thorn",
+              "publisher": "Australian Greens Victoria",
+              "date": "2026"
+            }
+          ],
+          "verified": true
+        },
+        "health": {
+          "summary": "Pledges to \"fix our health system so everyone has access to the care they need\".",
+          "sources": [
+            {
+              "title": "Sophie Thorn, Candidate for Bass",
+              "url": "https://greens.org.au/vic/person/sophie-thorn",
+              "publisher": "Australian Greens Victoria",
+              "date": "2026"
+            }
+          ],
+          "verified": true
+        },
+        "environment_water": {
+          "summary": "Pledges to \"protect our environment\", pointing to the climate crisis already threatening homes at risk of coastal flooding in the electorate.",
+          "sources": [
+            {
+              "title": "Sophie Thorn, Candidate for Bass",
+              "url": "https://greens.org.au/vic/person/sophie-thorn",
+              "publisher": "Australian Greens Victoria",
+              "date": "2026"
+            }
+          ],
+          "verified": true
+        }
+      },
       "roster_source": {
         "title": "Candidates of the 2026 Victorian state election",
         "url": "https://en.wikipedia.org/wiki/Candidates_of_the_2026_Victorian_state_election",
@@ -43507,6 +43776,18 @@
         "url": "https://greens.org.au/vic/person/sophie-thorn",
         "publisher": "greens.org.au",
         "date": ""
+      },
+      "background": {
+        "summary": "Youth mental health worker who has lived and worked in the Bass electorate throughout her professional career.",
+        "sources": [
+          {
+            "title": "Sophie Thorn, Candidate for Bass",
+            "url": "https://greens.org.au/vic/person/sophie-thorn",
+            "publisher": "Australian Greens Victoria",
+            "date": "2026"
+          }
+        ],
+        "verified": true
       }
     },
     {
@@ -43534,6 +43815,18 @@
         "url": "https://www.facebook.com/JacksonTaylorMP/posts/ive-got-some-exciting-news-meet-julie-buxton-shes-labors-candidate-for-bayswater/1466501571933900/",
         "publisher": "facebook.com",
         "date": ""
+      },
+      "background": {
+        "summary": "Former electorate staffer to retiring Bayswater MP Jackson Taylor; she was Labor's candidate for Ferntree Gully at the 2018 state election.",
+        "sources": [
+          {
+            "title": "Bayswater – Victoria 2026",
+            "url": "https://www.tallyroom.com.au/vic2026/bayswater2026",
+            "publisher": "The Tally Room",
+            "date": "2026"
+          }
+        ],
+        "verified": true
       }
     },
     {
@@ -43561,6 +43854,18 @@
         "url": "https://vic.liberal.org.au/team/david-kitchen",
         "publisher": "vic.liberal.org.au",
         "date": ""
+      },
+      "background": {
+        "summary": "Finance manager for a food processing company.",
+        "sources": [
+          {
+            "title": "Freshwater Strategy: Labor 23, Coalition 27, One Nation 25 in Victoria",
+            "url": "https://www.pollbludger.net/2026/06/08/freshwater-strategy-labor-23-coalition-27-one-nation-25-in-victoria/",
+            "publisher": "The Poll Bludger",
+            "date": "2026-06-08"
+          }
+        ],
+        "verified": true
       }
     },
     {
@@ -43576,7 +43881,32 @@
       "election": "Victoria 2026",
       "poll_date": "2026-11-28",
       "last_updated": "2026-07-01",
-      "positions": {},
+      "positions": {
+        "housing_planning": {
+          "summary": "Identifies \"the housing crisis and the cost of living\" as urgent issues, saying \"No one should be deprived of good quality housing, access to healthcare, and everything else needed to live a decent life.\"",
+          "sources": [
+            {
+              "title": "Alec Ferguson — Victorian Socialists candidate for Bayswater",
+              "url": "https://www.victoriansocialists.org.au/candidates/alec-ferguson",
+              "publisher": "Victorian Socialists",
+              "date": "2026"
+            }
+          ],
+          "verified": true
+        },
+        "health": {
+          "summary": "Says no one should be deprived of \"access to healthcare\" as part of what is needed to live a decent life.",
+          "sources": [
+            {
+              "title": "Alec Ferguson — Victorian Socialists candidate for Bayswater",
+              "url": "https://www.victoriansocialists.org.au/candidates/alec-ferguson",
+              "publisher": "Victorian Socialists",
+              "date": "2026"
+            }
+          ],
+          "verified": true
+        }
+      },
       "roster_source": {
         "title": "Candidates of the 2026 Victorian state election",
         "url": "https://en.wikipedia.org/wiki/Candidates_of_the_2026_Victorian_state_election",
@@ -43588,6 +43918,18 @@
         "url": "https://www.victoriansocialists.org.au/candidates/alec-ferguson",
         "publisher": "victoriansocialists.org.au",
         "date": ""
+      },
+      "background": {
+        "summary": "Deakin University student of Arabic language and a Bayswater-area local; a community activist since 2021 who helped organise the student movement for Palestine at Deakin, including the Gaza Solidarity Encampment.",
+        "sources": [
+          {
+            "title": "Alec Ferguson — Victorian Socialists candidate for Bayswater",
+            "url": "https://www.victoriansocialists.org.au/candidates/alec-ferguson",
+            "publisher": "Victorian Socialists",
+            "date": "2026"
+          }
+        ],
+        "verified": true
       }
     },
     {
@@ -43603,7 +43945,44 @@
       "election": "Victoria 2026",
       "poll_date": "2026-11-28",
       "last_updated": "2026-07-01",
-      "positions": {},
+      "positions": {
+        "housing_planning": {
+          "summary": "Names \"better housing affordability\" among the priorities he will fight for.",
+          "sources": [
+            {
+              "title": "Libs choose Steve Martin for Benambra",
+              "url": "https://www.wangarattachronicle.com.au/news/politics-and-government/libs-choose-steve-martin-for-benambra-tmtzgaqr",
+              "publisher": "Wangaratta Chronicle",
+              "date": "2026"
+            }
+          ],
+          "verified": true
+        },
+        "health": {
+          "summary": "Says he will fight for \"improved access to health services\" in the region.",
+          "sources": [
+            {
+              "title": "Libs choose Steve Martin for Benambra",
+              "url": "https://www.wangarattachronicle.com.au/news/politics-and-government/libs-choose-steve-martin-for-benambra-tmtzgaqr",
+              "publisher": "Wangaratta Chronicle",
+              "date": "2026"
+            }
+          ],
+          "verified": true
+        },
+        "transport_infrastructure": {
+          "summary": "Says \"I will fight for better and safer roads\" for the Benambra region.",
+          "sources": [
+            {
+              "title": "Libs choose Steve Martin for Benambra",
+              "url": "https://www.wangarattachronicle.com.au/news/politics-and-government/libs-choose-steve-martin-for-benambra-tmtzgaqr",
+              "publisher": "Wangaratta Chronicle",
+              "date": "2026"
+            }
+          ],
+          "verified": true
+        }
+      },
       "roster_source": {
         "title": "Candidates of the 2026 Victorian state election",
         "url": "https://en.wikipedia.org/wiki/Candidates_of_the_2026_Victorian_state_election",
@@ -43615,6 +43994,24 @@
         "url": "https://www.wangarattachronicle.com.au/news/politics-and-government/libs-choose-steve-martin-for-benambra-tmtzgaqr",
         "publisher": "wangarattachronicle.com.au",
         "date": ""
+      },
+      "background": {
+        "summary": "Chartered civil engineer and engineering manager at property development company Nordcon Land, previously with Mars Petcare and Seeley International; a Wodonga resident of 11 years, he was the Liberal candidate for the federal seat of Indi in 2019.",
+        "sources": [
+          {
+            "title": "Libs choose Steve Martin for Benambra",
+            "url": "https://www.wangarattachronicle.com.au/news/politics-and-government/libs-choose-steve-martin-for-benambra-tmtzgaqr",
+            "publisher": "Wangaratta Chronicle",
+            "date": "2026"
+          },
+          {
+            "title": "Freshwater Strategy: Labor 23, Coalition 27, One Nation 25 in Victoria",
+            "url": "https://www.pollbludger.net/2026/06/08/freshwater-strategy-labor-23-coalition-27-one-nation-25-in-victoria/",
+            "publisher": "The Poll Bludger",
+            "date": "2026-06-08"
+          }
+        ],
+        "verified": true
       }
     },
     {
@@ -43642,6 +44039,42 @@
             }
           ],
           "verified": true
+        },
+        "housing_planning": {
+          "summary": "Named housing affordability as one of the key focus areas of his campaign announcement for Bendigo East.",
+          "sources": [
+            {
+              "title": "Nationals Candidate Andrew Lethlean to Challenge Premier Jacinta Allan in Bendigo East",
+              "url": "https://abnewsinternational.com/nationals-candidate-andrew-lethlean-to-challenge-premier-jacinta-allan-in-bendigo-east/",
+              "publisher": "AB News International",
+              "date": "2026-04-05"
+            }
+          ],
+          "verified": true
+        },
+        "health": {
+          "summary": "Listed health among the priority issues of his campaign for Bendigo East in his campaign announcement.",
+          "sources": [
+            {
+              "title": "Nationals Candidate Andrew Lethlean to Challenge Premier Jacinta Allan in Bendigo East",
+              "url": "https://abnewsinternational.com/nationals-candidate-andrew-lethlean-to-challenge-premier-jacinta-allan-in-bendigo-east/",
+              "publisher": "AB News International",
+              "date": "2026-04-05"
+            }
+          ],
+          "verified": true
+        },
+        "education": {
+          "summary": "Listed education among the priority issues of his campaign for Bendigo East in his campaign announcement.",
+          "sources": [
+            {
+              "title": "Nationals Candidate Andrew Lethlean to Challenge Premier Jacinta Allan in Bendigo East",
+              "url": "https://abnewsinternational.com/nationals-candidate-andrew-lethlean-to-challenge-premier-jacinta-allan-in-bendigo-east/",
+              "publisher": "AB News International",
+              "date": "2026-04-05"
+            }
+          ],
+          "verified": true
         }
       },
       "roster_source": {
@@ -43655,6 +44088,18 @@
         "url": "https://www.abc.net.au/news/2026-04-04/andrew-lethlean-to-challenge-jacinta-allan-victorian-election/106531610",
         "publisher": "abc.net.au",
         "date": ""
+      },
+      "background": {
+        "summary": "Publican and hospitality operator in Bendigo. He previously contested the federal seat of Bendigo for the Nationals at the last federal election, losing to the Labor incumbent.",
+        "sources": [
+          {
+            "title": "Nationals Candidate Andrew Lethlean to Challenge Premier Jacinta Allan in Bendigo East",
+            "url": "https://abnewsinternational.com/nationals-candidate-andrew-lethlean-to-challenge-premier-jacinta-allan-in-bendigo-east/",
+            "publisher": "AB News International",
+            "date": "2026-04-05"
+          }
+        ],
+        "verified": true
       }
     },
     {
@@ -43670,7 +44115,44 @@
       "election": "Victoria 2026",
       "poll_date": "2026-11-28",
       "last_updated": "2026-07-01",
-      "positions": {},
+      "positions": {
+        "housing_planning": {
+          "summary": "Advocates state-led public housing development, including medium-density public housing in the Bendigo city centre, saying 'public housing should be available to all who want to live where they work, not just the most vulnerable in our society'.",
+          "sources": [
+            {
+              "title": "Owen Cosgriff — Victorian Socialists candidate for Bendigo East",
+              "url": "https://www.victoriansocialists.org.au/candidates/owen-cosgriff",
+              "publisher": "Victorian Socialists",
+              "date": null
+            }
+          ],
+          "verified": true
+        },
+        "transport_infrastructure": {
+          "summary": "Says inadequate public transport is a policy failure, noting only 5% of Bendigo CBD trips use public transport at peak times, and argues Bendigo's compact size means most residents should be serviced by existing train lines or frequent buses.",
+          "sources": [
+            {
+              "title": "Owen Cosgriff — Victorian Socialists candidate for Bendigo East",
+              "url": "https://www.victoriansocialists.org.au/candidates/owen-cosgriff",
+              "publisher": "Victorian Socialists",
+              "date": null
+            }
+          ],
+          "verified": true
+        },
+        "energy": {
+          "summary": "Prioritises investigating local renewable energy options, suggesting 'solar on unproductive land or Bendigo Hydro using pumped mine water' as possibilities.",
+          "sources": [
+            {
+              "title": "Owen Cosgriff — Victorian Socialists candidate for Bendigo East",
+              "url": "https://www.victoriansocialists.org.au/candidates/owen-cosgriff",
+              "publisher": "Victorian Socialists",
+              "date": null
+            }
+          ],
+          "verified": true
+        }
+      },
       "roster_source": {
         "title": "Candidates of the 2026 Victorian state election",
         "url": "https://en.wikipedia.org/wiki/Candidates_of_the_2026_Victorian_state_election",
@@ -43709,6 +44191,42 @@
             }
           ],
           "verified": true
+        },
+        "first_nations": {
+          "summary": "States she stands to 'fight for First Nations justice' as part of her campaign platform.",
+          "sources": [
+            {
+              "title": "Liza Shaw — Greens candidate for Bendigo West",
+              "url": "https://greens.org.au/vic/person/liza-shaw",
+              "publisher": "Australian Greens Victoria",
+              "date": null
+            }
+          ],
+          "verified": true
+        },
+        "housing_planning": {
+          "summary": "Lists expanding affordable housing as a campaign priority for Bendigo West.",
+          "sources": [
+            {
+              "title": "Liza Shaw — Greens candidate for Bendigo West",
+              "url": "https://greens.org.au/vic/person/liza-shaw",
+              "publisher": "Australian Greens Victoria",
+              "date": null
+            }
+          ],
+          "verified": true
+        },
+        "environment_water": {
+          "summary": "Describes herself as a climate advocate and says running her Muckleford fruit farm has given her 'firsthand insight into how climate pressures and rising living costs are affecting regional families'.",
+          "sources": [
+            {
+              "title": "Liza Shaw — Greens candidate for Bendigo West",
+              "url": "https://greens.org.au/vic/person/liza-shaw",
+              "publisher": "Australian Greens Victoria",
+              "date": null
+            }
+          ],
+          "verified": true
         }
       },
       "roster_source": {
@@ -43722,6 +44240,18 @@
         "url": "https://greens.org.au/vic/person/liza-shaw",
         "publisher": "greens.org.au",
         "date": ""
+      },
+      "background": {
+        "summary": "Community health worker who operates a small fruit farm in Muckleford, with over a decade living and working in the Bendigo West and Mount Alexander area.",
+        "sources": [
+          {
+            "title": "Liza Shaw — Greens candidate for Bendigo West",
+            "url": "https://greens.org.au/vic/person/liza-shaw",
+            "publisher": "Australian Greens Victoria",
+            "date": null
+          }
+        ],
+        "verified": true
       }
     },
     {
@@ -43749,6 +44279,18 @@
         "url": "https://www.victoriansocialists.org.au/candidates/tayne-shalevski",
         "publisher": "victoriansocialists.org.au",
         "date": ""
+      },
+      "background": {
+        "summary": "Foreman for a building company who has worked in construction across regional Victoria; he grew up and lives in Bendigo West and recently contested a local council by-election.",
+        "sources": [
+          {
+            "title": "Tayne Shalevski — Victorian Socialists candidate for Bendigo West",
+            "url": "https://www.victoriansocialists.org.au/candidates/tayne-shalevski",
+            "publisher": "Victorian Socialists",
+            "date": null
+          }
+        ],
+        "verified": true
       }
     },
     {
@@ -43791,7 +44333,56 @@
       "election": "Victoria 2026",
       "poll_date": "2026-11-28",
       "last_updated": "2026-07-01",
-      "positions": {},
+      "positions": {
+        "housing_planning": {
+          "summary": "Prioritises 'secure housing for all' and tackling the housing shortage.",
+          "sources": [
+            {
+              "title": "Nalinda Amarasiri Gunawardana — Victorian Socialists candidate for Berwick",
+              "url": "https://www.victoriansocialists.org.au/candidates/nalinda-amarasiri-gunawardana",
+              "publisher": "Victorian Socialists",
+              "date": null
+            }
+          ],
+          "verified": true
+        },
+        "health": {
+          "summary": "Advocates 'free healthcare for everyone' as a campaign priority.",
+          "sources": [
+            {
+              "title": "Nalinda Amarasiri Gunawardana — Victorian Socialists candidate for Berwick",
+              "url": "https://www.victoriansocialists.org.au/candidates/nalinda-amarasiri-gunawardana",
+              "publisher": "Victorian Socialists",
+              "date": null
+            }
+          ],
+          "verified": true
+        },
+        "education": {
+          "summary": "Lists 'enhancing quality of public schools' among her campaign priorities.",
+          "sources": [
+            {
+              "title": "Nalinda Amarasiri Gunawardana — Victorian Socialists candidate for Berwick",
+              "url": "https://www.victoriansocialists.org.au/candidates/nalinda-amarasiri-gunawardana",
+              "publisher": "Victorian Socialists",
+              "date": null
+            }
+          ],
+          "verified": true
+        },
+        "transport_infrastructure": {
+          "summary": "Pledges to fight for 'better road infrastructure in our community' in the Berwick area.",
+          "sources": [
+            {
+              "title": "Nalinda Amarasiri Gunawardana — Victorian Socialists candidate for Berwick",
+              "url": "https://www.victoriansocialists.org.au/candidates/nalinda-amarasiri-gunawardana",
+              "publisher": "Victorian Socialists",
+              "date": null
+            }
+          ],
+          "verified": true
+        }
+      },
       "roster_source": {
         "title": "Candidates of the 2026 Victorian state election",
         "url": "https://en.wikipedia.org/wiki/Candidates_of_the_2026_Victorian_state_election",
@@ -43803,6 +44394,18 @@
         "url": "https://www.victoriansocialists.org.au/candidates/nalinda-amarasiri-gunawardana",
         "publisher": "victoriansocialists.org.au",
         "date": ""
+      },
+      "background": {
+        "summary": "Civil engineer and member of Engineers Australia; a community organiser and activist for over 25 years, she is a former coordinator of Amnesty International's Western Australian branch.",
+        "sources": [
+          {
+            "title": "Nalinda Amarasiri Gunawardana — Victorian Socialists candidate for Berwick",
+            "url": "https://www.victoriansocialists.org.au/candidates/nalinda-amarasiri-gunawardana",
+            "publisher": "Victorian Socialists",
+            "date": null
+          }
+        ],
+        "verified": true
       }
     },
     {
@@ -43845,7 +44448,56 @@
       "election": "Victoria 2026",
       "poll_date": "2026-11-28",
       "last_updated": "2026-07-01",
-      "positions": {},
+      "positions": {
+        "drugs_law_order": {
+          "summary": "Lists 'safe streets and support for local safety initiatives' among his campaign priorities for Box Hill.",
+          "sources": [
+            {
+              "title": "Aaron Qin — Greens candidate for Box Hill",
+              "url": "https://greens.org.au/vic/person/aaron-qin",
+              "publisher": "Australian Greens Victoria",
+              "date": null
+            }
+          ],
+          "verified": true
+        },
+        "housing_planning": {
+          "summary": "Calls for 'more housing that is well planned and genuinely affordable' in the growing Box Hill area.",
+          "sources": [
+            {
+              "title": "Aaron Qin — Greens candidate for Box Hill",
+              "url": "https://greens.org.au/vic/person/aaron-qin",
+              "publisher": "Australian Greens Victoria",
+              "date": null
+            }
+          ],
+          "verified": true
+        },
+        "health": {
+          "summary": "Campaigns for 'healthcare and aged care that people can rely on', drawing on his experience as a registered nurse.",
+          "sources": [
+            {
+              "title": "Aaron Qin — Greens candidate for Box Hill",
+              "url": "https://greens.org.au/vic/person/aaron-qin",
+              "publisher": "Australian Greens Victoria",
+              "date": null
+            }
+          ],
+          "verified": true
+        },
+        "environment_water": {
+          "summary": "Lists 'better green spaces and protected local environment and waterways' among his campaign priorities.",
+          "sources": [
+            {
+              "title": "Aaron Qin — Greens candidate for Box Hill",
+              "url": "https://greens.org.au/vic/person/aaron-qin",
+              "publisher": "Australian Greens Victoria",
+              "date": null
+            }
+          ],
+          "verified": true
+        }
+      },
       "roster_source": {
         "title": "Candidates of the 2026 Victorian state election",
         "url": "https://en.wikipedia.org/wiki/Candidates_of_the_2026_Victorian_state_election",
@@ -43857,6 +44509,18 @@
         "url": "https://greens.org.au/vic/person/aaron-qin",
         "publisher": "greens.org.au",
         "date": ""
+      },
+      "background": {
+        "summary": "Registered nurse with over eight years of frontline experience across hospitals, aged care and disability services; he founded a local care service for older people and people with disability and leads a multicultural not-for-profit organisation in Melbourne's east.",
+        "sources": [
+          {
+            "title": "Aaron Qin — Greens candidate for Box Hill",
+            "url": "https://greens.org.au/vic/person/aaron-qin",
+            "publisher": "Australian Greens Victoria",
+            "date": null
+          }
+        ],
+        "verified": true
       }
     },
     {
@@ -43884,6 +44548,54 @@
             }
           ],
           "verified": true
+        },
+        "housing_planning": {
+          "summary": "Committed to tackling 'the housing shortage and cost of living crisis' and to ensuring everyone has access to affordable housing.",
+          "sources": [
+            {
+              "title": "Saravina Afaj — Victorian Socialists candidate for Box Hill",
+              "url": "https://www.victoriansocialists.org.au/candidates/saravina-afaj",
+              "publisher": "Victorian Socialists",
+              "date": null
+            }
+          ],
+          "verified": true
+        },
+        "health": {
+          "summary": "Says she aims to ensure everyone has access to quality healthcare as part of ending economic inequality.",
+          "sources": [
+            {
+              "title": "Saravina Afaj — Victorian Socialists candidate for Box Hill",
+              "url": "https://www.victoriansocialists.org.au/candidates/saravina-afaj",
+              "publisher": "Victorian Socialists",
+              "date": null
+            }
+          ],
+          "verified": true
+        },
+        "education": {
+          "summary": "Says she aims to 'ensure that everyone has access to quality education' as part of ending economic inequality.",
+          "sources": [
+            {
+              "title": "Saravina Afaj — Victorian Socialists candidate for Box Hill",
+              "url": "https://www.victoriansocialists.org.au/candidates/saravina-afaj",
+              "publisher": "Victorian Socialists",
+              "date": null
+            }
+          ],
+          "verified": true
+        },
+        "energy": {
+          "summary": "Advocates 'ambitious policies that prioritise renewable energy and sustainable practices' to address the climate crisis.",
+          "sources": [
+            {
+              "title": "Saravina Afaj — Victorian Socialists candidate for Box Hill",
+              "url": "https://www.victoriansocialists.org.au/candidates/saravina-afaj",
+              "publisher": "Victorian Socialists",
+              "date": null
+            }
+          ],
+          "verified": true
         }
       },
       "roster_source": {
@@ -43897,6 +44609,18 @@
         "url": "https://www.victoriansocialists.org.au/candidates/saravina-afaj",
         "publisher": "victoriansocialists.org.au",
         "date": ""
+      },
+      "background": {
+        "summary": "Box Hill local who describes herself as an aspiring librarian and teacher's aide; she has been involved in campaigns against racism, homophobia and transphobia, climate justice protests, and Palestine solidarity campaigning.",
+        "sources": [
+          {
+            "title": "Saravina Afaj — Victorian Socialists candidate for Box Hill",
+            "url": "https://www.victoriansocialists.org.au/candidates/saravina-afaj",
+            "publisher": "Victorian Socialists",
+            "date": null
+          }
+        ],
+        "verified": true
       }
     },
     {
@@ -43912,7 +44636,32 @@
       "election": "Victoria 2026",
       "poll_date": "2026-11-28",
       "last_updated": "2026-07-01",
-      "positions": {},
+      "positions": {
+        "housing_planning": {
+          "summary": "Says she understands 'the cost of living challenges facing the Brighton community, from unaffordable housing to groceries and healthcare', identifying housing affordability as a campaign concern.",
+          "sources": [
+            {
+              "title": "Ebony Bain — Greens candidate for Brighton",
+              "url": "https://greens.org.au/vic/person/ebony-bain",
+              "publisher": "Australian Greens Victoria",
+              "date": null
+            }
+          ],
+          "verified": true
+        },
+        "environment_water": {
+          "summary": "States that her work as an educator focused on climate change communication has given her 'firsthand insight into the need for more action on climate change'.",
+          "sources": [
+            {
+              "title": "Ebony Bain — Greens candidate for Brighton",
+              "url": "https://greens.org.au/vic/person/ebony-bain",
+              "publisher": "Australian Greens Victoria",
+              "date": null
+            }
+          ],
+          "verified": true
+        }
+      },
       "roster_source": {
         "title": "Candidates of the 2026 Victorian state election",
         "url": "https://en.wikipedia.org/wiki/Candidates_of_the_2026_Victorian_state_election",
@@ -43924,6 +44673,18 @@
         "url": "https://greens.org.au/vic/person/ebony-bain",
         "publisher": "greens.org.au",
         "date": ""
+      },
+      "background": {
+        "summary": "Educator with a background in science communication whose academic work has focused on communication's role in climate change; she is a Bayside local and renter.",
+        "sources": [
+          {
+            "title": "Ebony Bain — Greens candidate for Brighton",
+            "url": "https://greens.org.au/vic/person/ebony-bain",
+            "publisher": "Australian Greens Victoria",
+            "date": null
+          }
+        ],
+        "verified": true
       }
     },
     {
@@ -43951,6 +44712,42 @@
             }
           ],
           "verified": true
+        },
+        "housing_planning": {
+          "summary": "Prioritises expanding public housing stock, calling for 'high-quality, well-maintained public housing, and much more of it'.",
+          "sources": [
+            {
+              "title": "Jessica Smith — Victorian Socialists candidate for Brighton",
+              "url": "https://www.victoriansocialists.org.au/candidates/jessica-smith",
+              "publisher": "Victorian Socialists",
+              "date": null
+            }
+          ],
+          "verified": true
+        },
+        "education": {
+          "summary": "Advocates fully funded public schools with well-paid staff, criticises that the 'state government rations out funding for capital works so stingily', and opposes the school funding freeze.",
+          "sources": [
+            {
+              "title": "Jessica Smith — Victorian Socialists candidate for Brighton",
+              "url": "https://www.victoriansocialists.org.au/candidates/jessica-smith",
+              "publisher": "Victorian Socialists",
+              "date": null
+            }
+          ],
+          "verified": true
+        },
+        "transport_infrastructure": {
+          "summary": "Advocates 'better-connected and higher-frequency public transport' so it is accessible to all.",
+          "sources": [
+            {
+              "title": "Jessica Smith — Victorian Socialists candidate for Brighton",
+              "url": "https://www.victoriansocialists.org.au/candidates/jessica-smith",
+              "publisher": "Victorian Socialists",
+              "date": null
+            }
+          ],
+          "verified": true
         }
       },
       "roster_source": {
@@ -43964,6 +44761,18 @@
         "url": "https://www.victoriansocialists.org.au/candidates/jessica-smith",
         "publisher": "victoriansocialists.org.au",
         "date": ""
+      },
+      "background": {
+        "summary": "Teacher who has worked in primary schools across the Brighton and Hampton area, and a Hampton resident of more than a decade.",
+        "sources": [
+          {
+            "title": "Jessica Smith — Victorian Socialists candidate for Brighton",
+            "url": "https://www.victoriansocialists.org.au/candidates/jessica-smith",
+            "publisher": "Victorian Socialists",
+            "date": null
+          }
+        ],
+        "verified": true
       }
     },
     {
@@ -43979,7 +44788,32 @@
       "election": "Victoria 2026",
       "poll_date": "2026-11-28",
       "last_updated": "2026-07-01",
-      "positions": {},
+      "positions": {
+        "housing_planning": {
+          "summary": "Says rental units lack adequate standards, public housing is being dismantled, and parks and green spaces are disappearing in the Broadmeadows area.",
+          "sources": [
+            {
+              "title": "Mutullah Can Yolbulan — Victorian Socialists candidate for Broadmeadows",
+              "url": "https://www.victoriansocialists.org.au/candidates/mutullah-can-yolbulan",
+              "publisher": "Victorian Socialists",
+              "date": null
+            }
+          ],
+          "verified": true
+        },
+        "health": {
+          "summary": "Says healthcare services are insufficient in Melbourne's northern suburbs and calls for investment in essential services for the community.",
+          "sources": [
+            {
+              "title": "Mutullah Can Yolbulan — Victorian Socialists candidate for Broadmeadows",
+              "url": "https://www.victoriansocialists.org.au/candidates/mutullah-can-yolbulan",
+              "publisher": "Victorian Socialists",
+              "date": null
+            }
+          ],
+          "verified": true
+        }
+      },
       "roster_source": {
         "title": "Candidates of the 2026 Victorian state election",
         "url": "https://en.wikipedia.org/wiki/Candidates_of_the_2026_Victorian_state_election",
@@ -43991,6 +44825,18 @@
         "url": "https://www.victoriansocialists.org.au/candidates/mutullah-can-yolbulan",
         "publisher": "victoriansocialists.org.au",
         "date": ""
+      },
+      "background": {
+        "summary": "Application developer in the IT industry who migrated to Australia from Türkiye in 2013 and lives in Jacana; he has been a community activist in the Hume area, including helping a successful campaign for a park development in Broadmeadows.",
+        "sources": [
+          {
+            "title": "Mutullah Can Yolbulan — Victorian Socialists candidate for Broadmeadows",
+            "url": "https://www.victoriansocialists.org.au/candidates/mutullah-can-yolbulan",
+            "publisher": "Victorian Socialists",
+            "date": null
+          }
+        ],
+        "verified": true
       }
     },
     {
@@ -44018,6 +44864,18 @@
         "url": "https://brunswickvoice.com.au/labor-opts-for-fresh-face-in-battle-for-brunswick/",
         "publisher": "brunswickvoice.com.au",
         "date": ""
+      },
+      "background": {
+        "summary": "Adviser on gender-based violence prevention policy in the office of federal minister Ged Kearney, having previously worked at the Department of the Prime Minister and Cabinet, the Attorney-General's Department and Asialink Business. He holds a Bachelor of Arts from the University of Melbourne, speaks Mandarin, and has volunteered with the Asylum Seeker Resource Centre and the Young Workers Centre.",
+        "sources": [
+          {
+            "title": "Labor opts for fresh face in battle for Brunswick",
+            "url": "https://brunswickvoice.com.au/labor-opts-for-fresh-face-in-battle-for-brunswick/",
+            "publisher": "Brunswick Voice",
+            "date": "2026-04-13"
+          }
+        ],
+        "verified": true
       }
     },
     {
@@ -44033,7 +44891,74 @@
       "election": "Victoria 2026",
       "poll_date": "2026-11-28",
       "last_updated": "2026-07-01",
-      "positions": {},
+      "positions": {
+        "housing_planning": {
+          "summary": "Campaigns \"for affordable rents and housing\", naming cost of living and housing among his central campaign issues; notes he is himself a renter in Brunswick East.",
+          "sources": [
+            {
+              "title": "Adam Pulford, Councillor for Merri-bek City Council - Warrk-Warrk Ward",
+              "url": "https://greens.org.au/vic/person/adam-pulford",
+              "publisher": "Australian Greens Victoria",
+              "date": null
+            },
+            {
+              "title": "Greens opt for Pulford to contest state election",
+              "url": "https://brunswickvoice.com.au/greens-opt-for-pulford-to-contest-state-election/",
+              "publisher": "Brunswick Voice",
+              "date": "2026-03-13"
+            }
+          ],
+          "verified": true
+        },
+        "health": {
+          "summary": "Calls for \"fully-funded public schools, hospitals and health services\" as part of his campaign platform.",
+          "sources": [
+            {
+              "title": "Adam Pulford, Councillor for Merri-bek City Council - Warrk-Warrk Ward",
+              "url": "https://greens.org.au/vic/person/adam-pulford",
+              "publisher": "Australian Greens Victoria",
+              "date": null
+            }
+          ],
+          "verified": true
+        },
+        "education": {
+          "summary": "Calls for \"fully-funded public schools\" as part of his campaign platform.",
+          "sources": [
+            {
+              "title": "Adam Pulford, Councillor for Merri-bek City Council - Warrk-Warrk Ward",
+              "url": "https://greens.org.au/vic/person/adam-pulford",
+              "publisher": "Australian Greens Victoria",
+              "date": null
+            }
+          ],
+          "verified": true
+        },
+        "transport_infrastructure": {
+          "summary": "Nominated more frequent trains on the Upfield line and traffic congestion on Sydney Road among the local issues of his Brunswick campaign.",
+          "sources": [
+            {
+              "title": "Greens opt for Pulford to contest state election",
+              "url": "https://brunswickvoice.com.au/greens-opt-for-pulford-to-contest-state-election/",
+              "publisher": "Brunswick Voice",
+              "date": "2026-03-13"
+            }
+          ],
+          "verified": true
+        },
+        "energy": {
+          "summary": "States: \"We can act on climate by getting off coal and gas and ensuring Victoria is powered by renewables, while making the big polluters pay for the climate damage.\"",
+          "sources": [
+            {
+              "title": "Adam Pulford, Councillor for Merri-bek City Council - Warrk-Warrk Ward",
+              "url": "https://greens.org.au/vic/person/adam-pulford",
+              "publisher": "Australian Greens Victoria",
+              "date": null
+            }
+          ],
+          "verified": true
+        }
+      },
       "roster_source": {
         "title": "Candidates of the 2026 Victorian state election",
         "url": "https://en.wikipedia.org/wiki/Candidates_of_the_2026_Victorian_state_election",
@@ -44045,6 +44970,24 @@
         "url": "https://www.instagram.com/reels/DVzXgb2E_7u/",
         "publisher": "instagram.com",
         "date": ""
+      },
+      "background": {
+        "summary": "Merri-bek City councillor for Warrk-Warrk Ward since 2020 and mayor of Merri-bek in 2023-24; works as press secretary for the First Peoples' Assembly of Victoria. He previously worked as an adviser to federal Greens leaders Adam Bandt and Richard Di Natale and contested the federal seat of Wills in 2019.",
+        "sources": [
+          {
+            "title": "Greens opt for Pulford to contest state election",
+            "url": "https://brunswickvoice.com.au/greens-opt-for-pulford-to-contest-state-election/",
+            "publisher": "Brunswick Voice",
+            "date": "2026-03-13"
+          },
+          {
+            "title": "Adam Pulford, Councillor for Merri-bek City Council - Warrk-Warrk Ward",
+            "url": "https://greens.org.au/vic/person/adam-pulford",
+            "publisher": "Australian Greens Victoria",
+            "date": null
+          }
+        ],
+        "verified": true
       }
     },
     {
@@ -44072,6 +45015,18 @@
             }
           ],
           "verified": true
+        },
+        "environment_water": {
+          "summary": "States she is committed to addressing \"the climate catastrophe\", and continues to organise a community campaign arising from the Hazelwood mine fire environmental disaster.",
+          "sources": [
+            {
+              "title": "Naomi Farmer - Victorian Socialists candidate for Brunswick",
+              "url": "https://www.victoriansocialists.org.au/candidates/naomi-farmer",
+              "publisher": "Victorian Socialists",
+              "date": null
+            }
+          ],
+          "verified": true
         }
       },
       "roster_source": {
@@ -44085,6 +45040,18 @@
         "url": "https://www.victoriansocialists.org.au/candidates/naomi-farmer",
         "publisher": "victoriansocialists.org.au",
         "date": ""
+      },
+      "background": {
+        "summary": "Works in disability services and has been an activist for more than 20 years, including in Palestine solidarity, refugee rights and marriage equality campaigns. She grew up in the Latrobe Valley, where she helped organise the initial protest response to the Hazelwood mine fire and continues to organise the ongoing community campaign.",
+        "sources": [
+          {
+            "title": "Naomi Farmer - Victorian Socialists candidate for Brunswick",
+            "url": "https://www.victoriansocialists.org.au/candidates/naomi-farmer",
+            "publisher": "Victorian Socialists",
+            "date": null
+          }
+        ],
+        "verified": true
       }
     },
     {
@@ -44100,7 +45067,20 @@
       "election": "Victoria 2026",
       "poll_date": "2026-11-28",
       "last_updated": "2026-07-01",
-      "positions": {},
+      "positions": {
+        "transport_infrastructure": {
+          "summary": "States that \"The Bulleen District lacks crucial public transport and free community spaces\".",
+          "sources": [
+            {
+              "title": "Dimitrios Tafidis - Victorian Socialists candidate for Bulleen",
+              "url": "https://www.victoriansocialists.org.au/candidates/dimitrios-tafidis",
+              "publisher": "Victorian Socialists",
+              "date": null
+            }
+          ],
+          "verified": true
+        }
+      },
       "roster_source": {
         "title": "Candidates of the 2026 Victorian state election",
         "url": "https://en.wikipedia.org/wiki/Candidates_of_the_2026_Victorian_state_election",
@@ -44112,6 +45092,24 @@
         "url": "https://www.victoriansocialists.org.au/candidates/Dimitrios-Tafidis",
         "publisher": "victoriansocialists.org.au",
         "date": ""
+      },
+      "background": {
+        "summary": "Stood as the Victorian Socialists candidate for Bolin Ward (covering Bulleen) at the 2024 Manningham City Council election, and has written articles on Greek politics for the socialist publication Red Flag.",
+        "sources": [
+          {
+            "title": "Manningham council election, 2024",
+            "url": "https://tallyroom.com.au/viccouncil2024/manningham2024/comment-page-1",
+            "publisher": "The Tally Room",
+            "date": null
+          },
+          {
+            "title": "Dimitrios Tafidis - author page",
+            "url": "https://redflag.org.au/author/dimitrios-tafidis/",
+            "publisher": "Red Flag",
+            "date": null
+          }
+        ],
+        "verified": true
       }
     },
     {
@@ -44139,6 +45137,18 @@
         "url": "https://greens.org.au/vic/person/nina-laitala",
         "publisher": "greens.org.au",
         "date": ""
+      },
+      "background": {
+        "summary": "Works nationally in governance and leadership training, advising boards and volunteers. She served seven years as CEO of the Victorian Student Representative Council and has more than 20 years' experience working with not-for-profit organisations and government agencies.",
+        "sources": [
+          {
+            "title": "Nina Laitala - Greens candidate for Bundoora",
+            "url": "https://greens.org.au/vic/person/nina-laitala",
+            "publisher": "Australian Greens Victoria",
+            "date": null
+          }
+        ],
+        "verified": true
       }
     },
     {
@@ -44154,7 +45164,44 @@
       "election": "Victoria 2026",
       "poll_date": "2026-11-28",
       "last_updated": "2026-07-01",
-      "positions": {},
+      "positions": {
+        "drugs_law_order": {
+          "summary": "His candidate profile states that he opposes police overreach and racial profiling.",
+          "sources": [
+            {
+              "title": "Sagar Sanyal - Victorian Socialists candidate for Bundoora",
+              "url": "https://www.victoriansocialists.org.au/candidates/sagar-sanyal",
+              "publisher": "Victorian Socialists",
+              "date": null
+            }
+          ],
+          "verified": true
+        },
+        "housing_planning": {
+          "summary": "States: \"If elected in November, I will fight against every pro-developer, pro-corporate policy that sells out ordinary working people\", and says the housing crisis should be addressed without scapegoating migrants.",
+          "sources": [
+            {
+              "title": "Sagar Sanyal - Victorian Socialists candidate for Bundoora",
+              "url": "https://www.victoriansocialists.org.au/candidates/sagar-sanyal",
+              "publisher": "Victorian Socialists",
+              "date": null
+            }
+          ],
+          "verified": true
+        },
+        "environment_water": {
+          "summary": "Lists taking climate action and preventing bushfire and flood disasters among his stated priorities.",
+          "sources": [
+            {
+              "title": "Sagar Sanyal - Victorian Socialists candidate for Bundoora",
+              "url": "https://www.victoriansocialists.org.au/candidates/sagar-sanyal",
+              "publisher": "Victorian Socialists",
+              "date": null
+            }
+          ],
+          "verified": true
+        }
+      },
       "roster_source": {
         "title": "Candidates of the 2026 Victorian state election",
         "url": "https://en.wikipedia.org/wiki/Candidates_of_the_2026_Victorian_state_election",
@@ -44166,6 +45213,18 @@
         "url": "https://www.victoriansocialists.org.au/candidates/sagar-sanyal",
         "publisher": "victoriansocialists.org.au",
         "date": ""
+      },
+      "background": {
+        "summary": "A long-term outer north-east Melbourne resident who has worked in tertiary education, school reception and factory jobs, and has been active in the NTEU and AMWU unions.",
+        "sources": [
+          {
+            "title": "Sagar Sanyal - Victorian Socialists candidate for Bundoora",
+            "url": "https://www.victoriansocialists.org.au/candidates/sagar-sanyal",
+            "publisher": "Victorian Socialists",
+            "date": null
+          }
+        ],
+        "verified": true
       }
     },
     {
@@ -44193,6 +45252,30 @@
         "url": "https://www.facebook.com/johnbergermp/posts/it-was-great-to-join-labor-candidate-mikaela-stafrace-at-the-caufield-campaign-l/956988920429651/",
         "publisher": "facebook.com",
         "date": ""
+      },
+      "background": {
+        "summary": "An MBA-qualified lawyer who founded and leads the charity WomenCAN Australia (established 2019) and previously served as CEO of Kidney Health Australia. She has worked in corporate insurance, risk, governance and regulatory compliance, and served as Chief Examiner for insurance law at Monash and Melbourne universities.",
+        "sources": [
+          {
+            "title": "Founder and CEO of WomenCAN Australia - speaker profile",
+            "url": "https://www.rotaryclubcentralmelbourne.org.au/Speakers/1d6be718-49aa-4e74-a579-357b2a91e6c9",
+            "publisher": "Rotary Club of Central Melbourne",
+            "date": null
+          },
+          {
+            "title": "Ms Mikaela Stafrace - NHMRC Chronic Kidney Disease Centre of Research Excellence",
+            "url": "https://cre-ckd.centre.uq.edu.au/profile/365/mikaela-stafrace",
+            "publisher": "University of Queensland",
+            "date": null
+          },
+          {
+            "title": "Candidates of the 2026 Victorian state election",
+            "url": "https://en.wikipedia.org/wiki/Candidates_of_the_2026_Victorian_state_election",
+            "publisher": "Wikipedia",
+            "date": null
+          }
+        ],
+        "verified": true
       }
     },
     {
@@ -44208,7 +45291,32 @@
       "election": "Victoria 2026",
       "poll_date": "2026-11-28",
       "last_updated": "2026-07-01",
-      "positions": {},
+      "positions": {
+        "integrity": {
+          "summary": "States that \"corporate influence is damaging our democracy and our local community are the ones feeling the impacts\", and that representation should not be \"under the thumb of the corporations who profit from the crisis\".",
+          "sources": [
+            {
+              "title": "Angel Dolejsí - Greens candidate for Caulfield",
+              "url": "https://greens.org.au/vic/person/angel-dolejsi",
+              "publisher": "Australian Greens Victoria",
+              "date": null
+            }
+          ],
+          "verified": true
+        },
+        "housing_planning": {
+          "summary": "Identifies \"enormous pressure from rising housing costs, insecure work, and public services stretched to breaking point\" as a central concern of his campaign.",
+          "sources": [
+            {
+              "title": "Angel Dolejsí - Greens candidate for Caulfield",
+              "url": "https://greens.org.au/vic/person/angel-dolejsi",
+              "publisher": "Australian Greens Victoria",
+              "date": null
+            }
+          ],
+          "verified": true
+        }
+      },
       "roster_source": {
         "title": "Candidates of the 2026 Victorian state election",
         "url": "https://en.wikipedia.org/wiki/Candidates_of_the_2026_Victorian_state_election",
@@ -44220,6 +45328,18 @@
         "url": "https://greens.org.au/vic/person/angel-dolejsi",
         "publisher": "greens.org.au",
         "date": ""
+      },
+      "background": {
+        "summary": "Works as a national operations manager.",
+        "sources": [
+          {
+            "title": "Angel Dolejsí - Greens candidate for Caulfield",
+            "url": "https://greens.org.au/vic/person/angel-dolejsi",
+            "publisher": "Australian Greens Victoria",
+            "date": null
+          }
+        ],
+        "verified": true
       }
     },
     {
@@ -44235,7 +45355,44 @@
       "election": "Victoria 2026",
       "poll_date": "2026-11-28",
       "last_updated": "2026-07-01",
-      "positions": {},
+      "positions": {
+        "housing_planning": {
+          "summary": "Advocates \"expanding public housing\" as part of her platform of redirecting wealth into public services.",
+          "sources": [
+            {
+              "title": "Malak Ababneh - Victorian Socialists candidate for Caulfield",
+              "url": "https://www.victoriansocialists.org.au/candidates/malak-ababneh",
+              "publisher": "Victorian Socialists",
+              "date": null
+            }
+          ],
+          "verified": true
+        },
+        "health": {
+          "summary": "Calls to \"put this wealth into fully funding our hospitals, schools and communities, expanding public housing, ensuring dignified and fair wages\".",
+          "sources": [
+            {
+              "title": "Malak Ababneh - Victorian Socialists candidate for Caulfield",
+              "url": "https://www.victoriansocialists.org.au/candidates/malak-ababneh",
+              "publisher": "Victorian Socialists",
+              "date": null
+            }
+          ],
+          "verified": true
+        },
+        "education": {
+          "summary": "Calls for fully funding schools, as part of her statement to \"put this wealth into fully funding our hospitals, schools and communities\".",
+          "sources": [
+            {
+              "title": "Malak Ababneh - Victorian Socialists candidate for Caulfield",
+              "url": "https://www.victoriansocialists.org.au/candidates/malak-ababneh",
+              "publisher": "Victorian Socialists",
+              "date": null
+            }
+          ],
+          "verified": true
+        }
+      },
       "roster_source": {
         "title": "Candidates of the 2026 Victorian state election",
         "url": "https://en.wikipedia.org/wiki/Candidates_of_the_2026_Victorian_state_election",
@@ -44247,6 +45404,18 @@
         "url": "https://www.victoriansocialists.org.au/candidates/malak-ababneh",
         "publisher": "victoriansocialists.org.au",
         "date": ""
+      },
+      "background": {
+        "summary": "A history student at Monash University with a background in healthcare, and a lifelong resident of south-east Melbourne. She is a community activist who organised anti-fascist demonstrations and the Gaza solidarity encampment at her university.",
+        "sources": [
+          {
+            "title": "Malak Ababneh - Victorian Socialists candidate for Caulfield",
+            "url": "https://www.victoriansocialists.org.au/candidates/malak-ababneh",
+            "publisher": "Victorian Socialists",
+            "date": null
+          }
+        ],
+        "verified": true
       }
     },
     {
@@ -44262,7 +45431,20 @@
       "election": "Victoria 2026",
       "poll_date": "2026-11-28",
       "last_updated": "2026-07-01",
-      "positions": {},
+      "positions": {
+        "housing_planning": {
+          "summary": "States: \"We need to tackle the cost of living and housing crisis now so everyone can live a decent life.\"",
+          "sources": [
+            {
+              "title": "Kit Message - Victorian Socialists candidate for Clarinda",
+              "url": "https://www.victoriansocialists.org.au/candidates/kit-message",
+              "publisher": "Victorian Socialists",
+              "date": null
+            }
+          ],
+          "verified": true
+        }
+      },
       "roster_source": {
         "title": "Candidates of the 2026 Victorian state election",
         "url": "https://en.wikipedia.org/wiki/Candidates_of_the_2026_Victorian_state_election",
@@ -44274,6 +45456,18 @@
         "url": "https://www.victoriansocialists.org.au/candidates/kit-message",
         "publisher": "victoriansocialists.org.au",
         "date": ""
+      },
+      "background": {
+        "summary": "A Clayton local studying science at Monash University; a renter and community organiser active in anti-racism and anti-fascism campaigns, including efforts to shut down a Nazi-operated gym in Melbourne's western suburbs.",
+        "sources": [
+          {
+            "title": "Kit Message - Victorian Socialists candidate for Clarinda",
+            "url": "https://www.victoriansocialists.org.au/candidates/kit-message",
+            "publisher": "Victorian Socialists",
+            "date": null
+          }
+        ],
+        "verified": true
       }
     },
     {
@@ -44289,7 +45483,44 @@
       "election": "Victoria 2026",
       "poll_date": "2026-11-28",
       "last_updated": "2026-07-01",
-      "positions": {},
+      "positions": {
+        "housing_planning": {
+          "summary": "Lists \"affordable housing\" first among her stated priorities for Cranbourne of \"affordable housing, public transport, health services, safer communities and green spaces\".",
+          "sources": [
+            {
+              "title": "Annalise Mercer - Greens candidate for Cranbourne",
+              "url": "https://greens.org.au/vic/person/annalise-mercer",
+              "publisher": "Australian Greens Victoria",
+              "date": null
+            }
+          ],
+          "verified": true
+        },
+        "health": {
+          "summary": "Lists health services among her stated priorities for Cranbourne.",
+          "sources": [
+            {
+              "title": "Annalise Mercer - Greens candidate for Cranbourne",
+              "url": "https://greens.org.au/vic/person/annalise-mercer",
+              "publisher": "Australian Greens Victoria",
+              "date": null
+            }
+          ],
+          "verified": true
+        },
+        "transport_infrastructure": {
+          "summary": "Lists public transport among her stated priorities, and says \"people are feeling the pressures of rapid growth that has not been matched with the infrastructure and services we need\".",
+          "sources": [
+            {
+              "title": "Annalise Mercer - Greens candidate for Cranbourne",
+              "url": "https://greens.org.au/vic/person/annalise-mercer",
+              "publisher": "Australian Greens Victoria",
+              "date": null
+            }
+          ],
+          "verified": true
+        }
+      },
       "roster_source": {
         "title": "Candidates of the 2026 Victorian state election",
         "url": "https://en.wikipedia.org/wiki/Candidates_of_the_2026_Victorian_state_election",
@@ -44301,6 +45532,18 @@
         "url": "https://greens.org.au/vic/person/annalise-mercer",
         "publisher": "greens.org.au",
         "date": ""
+      },
+      "background": {
+        "summary": "A psychiatric nurse and business owner; she is a former park ranger and an emergency services volunteer.",
+        "sources": [
+          {
+            "title": "Annalise Mercer - Greens candidate for Cranbourne",
+            "url": "https://greens.org.au/vic/person/annalise-mercer",
+            "publisher": "Australian Greens Victoria",
+            "date": null
+          }
+        ],
+        "verified": true
       }
     },
     {
@@ -44316,7 +45559,44 @@
       "election": "Victoria 2026",
       "poll_date": "2026-11-28",
       "last_updated": "2026-07-01",
-      "positions": {},
+      "positions": {
+        "housing_planning": {
+          "summary": "States that \"grocery and rental prices are out of control\", identifying rental costs as a key campaign concern.",
+          "sources": [
+            {
+              "title": "Reem Yunis - Victorian Socialists candidate for Cranbourne",
+              "url": "https://www.victoriansocialists.org.au/candidates/reem-yunis",
+              "publisher": "Victorian Socialists",
+              "date": null
+            }
+          ],
+          "verified": true
+        },
+        "health": {
+          "summary": "Prioritises funding \"better childcare, schools, and hospitals\" and opposes privatisation of public services.",
+          "sources": [
+            {
+              "title": "Reem Yunis - Victorian Socialists candidate for Cranbourne",
+              "url": "https://www.victoriansocialists.org.au/candidates/reem-yunis",
+              "publisher": "Victorian Socialists",
+              "date": null
+            }
+          ],
+          "verified": true
+        },
+        "education": {
+          "summary": "Prioritises funding \"better childcare, schools, and hospitals\" and opposes privatisation, arguing against \"letting private companies profiteer by increasing costs and lowering standards\".",
+          "sources": [
+            {
+              "title": "Reem Yunis - Victorian Socialists candidate for Cranbourne",
+              "url": "https://www.victoriansocialists.org.au/candidates/reem-yunis",
+              "publisher": "Victorian Socialists",
+              "date": null
+            }
+          ],
+          "verified": true
+        }
+      },
       "roster_source": {
         "title": "Candidates of the 2026 Victorian state election",
         "url": "https://en.wikipedia.org/wiki/Candidates_of_the_2026_Victorian_state_election",
@@ -44328,6 +45608,18 @@
         "url": "https://www.victoriansocialists.org.au/candidates/reem-yunis",
         "publisher": "victoriansocialists.org.au",
         "date": ""
+      },
+      "background": {
+        "summary": "A Palestinian-Australian high school teacher with 26 years of teaching experience.",
+        "sources": [
+          {
+            "title": "Reem Yunis - Victorian Socialists candidate for Cranbourne",
+            "url": "https://www.victoriansocialists.org.au/candidates/reem-yunis",
+            "publisher": "Victorian Socialists",
+            "date": null
+          }
+        ],
+        "verified": true
       }
     },
     {
@@ -44343,7 +45635,26 @@
       "election": "Victoria 2026",
       "poll_date": "2026-11-28",
       "last_updated": "2026-07-01",
-      "positions": {},
+      "positions": {
+        "transport_infrastructure": {
+          "summary": "States his priorities include \"improving public transport and fixing roads to get you home sooner\", and campaigns on the new Croydon Station and added train services on the Belgrave and Lilydale lines.",
+          "sources": [
+            {
+              "title": "Richard Farr — Our Team",
+              "url": "https://www.viclabor.org.au/our-team/richard-farr",
+              "publisher": "Victorian Labor",
+              "date": null
+            },
+            {
+              "title": "Campaign post: Richard Farr at Croydon station on new Belgrave/Lilydale line services",
+              "url": "https://www.instagram.com/p/DXaO8XDkuo1/",
+              "publisher": "Instagram",
+              "date": null
+            }
+          ],
+          "verified": true
+        }
+      },
       "roster_source": {
         "title": "Candidates of the 2026 Victorian state election",
         "url": "https://en.wikipedia.org/wiki/Candidates_of_the_2026_Victorian_state_election",
@@ -44355,6 +45666,18 @@
         "url": "https://www.instagram.com/p/DXaO8XDkuo1/",
         "publisher": "instagram.com",
         "date": ""
+      },
+      "background": {
+        "summary": "Lifelong Croydon resident who grew up locally and lives in Croydon with his wife; his father was a technician with the state-owned SEC and his mother works in the disability sector.",
+        "sources": [
+          {
+            "title": "Richard Farr — Our Team",
+            "url": "https://www.viclabor.org.au/our-team/richard-farr",
+            "publisher": "Victorian Labor",
+            "date": null
+          }
+        ],
+        "verified": true
       }
     },
     {
@@ -44382,6 +45705,24 @@
         "url": "https://vic.liberal.org.au/team/grant-hutchinson",
         "publisher": "vic.liberal.org.au",
         "date": ""
+      },
+      "background": {
+        "summary": "Lawyer and founder of Ringwood-based firm Hutchinson Legal, where he was managing partner until November 2024 and now leads the wills and estates practice; he holds economics and law degrees from Monash University and worked for the Commonwealth Department of Treasury during university.",
+        "sources": [
+          {
+            "title": "Grant Hutchinson — Partner",
+            "url": "https://www.hutchinsonlegal.com.au/people/grant-hutchinson",
+            "publisher": "Hutchinson Legal",
+            "date": null
+          },
+          {
+            "title": "Candidates of the 2026 Victorian state election",
+            "url": "https://en.wikipedia.org/wiki/Candidates_of_the_2026_Victorian_state_election",
+            "publisher": "Wikipedia",
+            "date": null
+          }
+        ],
+        "verified": true
       }
     },
     {
@@ -44397,7 +45738,32 @@
       "election": "Victoria 2026",
       "poll_date": "2026-11-28",
       "last_updated": "2026-07-01",
-      "positions": {},
+      "positions": {
+        "housing_planning": {
+          "summary": "States she is running to fight \"for affordable housing\" and identifies housing stress as a major concern for the electorate.",
+          "sources": [
+            {
+              "title": "Lini Fernando",
+              "url": "https://greens.org.au/vic/person/lini-fernando",
+              "publisher": "Australian Greens (Victoria)",
+              "date": null
+            }
+          ],
+          "verified": true
+        },
+        "environment_water": {
+          "summary": "Campaigns for \"real climate action\", stating that \"social justice and environmental justice go hand in hand\" and citing climate impacts as a key local concern.",
+          "sources": [
+            {
+              "title": "Lini Fernando",
+              "url": "https://greens.org.au/vic/person/lini-fernando",
+              "publisher": "Australian Greens (Victoria)",
+              "date": null
+            }
+          ],
+          "verified": true
+        }
+      },
       "roster_source": {
         "title": "Candidates of the 2026 Victorian state election",
         "url": "https://en.wikipedia.org/wiki/Candidates_of_the_2026_Victorian_state_election",
@@ -44409,6 +45775,18 @@
         "url": "https://greens.org.au/vic/person/lini-fernando",
         "publisher": "greens.org.au",
         "date": ""
+      },
+      "background": {
+        "summary": "Lawyer with experience in environmental, anti-corruption and human rights law; a migrant and Croydon resident raising a young family.",
+        "sources": [
+          {
+            "title": "Lini Fernando",
+            "url": "https://greens.org.au/vic/person/lini-fernando",
+            "publisher": "Australian Greens (Victoria)",
+            "date": null
+          }
+        ],
+        "verified": true
       }
     },
     {
@@ -44424,7 +45802,68 @@
       "election": "Victoria 2026",
       "poll_date": "2026-11-28",
       "last_updated": "2026-07-01",
-      "positions": {},
+      "positions": {
+        "drugs_law_order": {
+          "summary": "Has campaigned against what he describes as over-policing in the Dandenong area.",
+          "sources": [
+            {
+              "title": "Jack McMahon — Candidate for Dandenong",
+              "url": "https://www.victoriansocialists.org.au/candidates/jack-mcmahon",
+              "publisher": "Victorian Socialists",
+              "date": null
+            }
+          ],
+          "verified": true
+        },
+        "first_nations": {
+          "summary": "His candidate profile lists advocacy for First Nations communities among his grassroots campaign involvement.",
+          "sources": [
+            {
+              "title": "Jack McMahon — Candidate for Dandenong",
+              "url": "https://www.victoriansocialists.org.au/candidates/jack-mcmahon",
+              "publisher": "Victorian Socialists",
+              "date": null
+            }
+          ],
+          "verified": true
+        },
+        "housing_planning": {
+          "summary": "A renter himself, he prioritises addressing housing shortages and rental regulation.",
+          "sources": [
+            {
+              "title": "Jack McMahon — Candidate for Dandenong",
+              "url": "https://www.victoriansocialists.org.au/candidates/jack-mcmahon",
+              "publisher": "Victorian Socialists",
+              "date": null
+            }
+          ],
+          "verified": true
+        },
+        "health": {
+          "summary": "Advocates for \"free and universal healthcare, child care, schooling and support programs\".",
+          "sources": [
+            {
+              "title": "Jack McMahon — Candidate for Dandenong",
+              "url": "https://www.victoriansocialists.org.au/candidates/jack-mcmahon",
+              "publisher": "Victorian Socialists",
+              "date": null
+            }
+          ],
+          "verified": true
+        },
+        "education": {
+          "summary": "Advocates for free and universal child care and schooling as part of his platform of universal public services.",
+          "sources": [
+            {
+              "title": "Jack McMahon — Candidate for Dandenong",
+              "url": "https://www.victoriansocialists.org.au/candidates/jack-mcmahon",
+              "publisher": "Victorian Socialists",
+              "date": null
+            }
+          ],
+          "verified": true
+        }
+      },
       "roster_source": {
         "title": "Candidates of the 2026 Victorian state election",
         "url": "https://en.wikipedia.org/wiki/Candidates_of_the_2026_Victorian_state_election",
@@ -44436,6 +45875,18 @@
         "url": "https://www.victoriansocialists.org.au/candidates/jack-mcmahon",
         "publisher": "victoriansocialists.org.au",
         "date": ""
+      },
+      "background": {
+        "summary": "Community organiser and socialist activist born and raised in Dandenong, involved in grassroots campaigns in Melbourne's south-eastern suburbs including anti-racism work and advocacy for migrants and First Nations communities.",
+        "sources": [
+          {
+            "title": "Jack McMahon — Candidate for Dandenong",
+            "url": "https://www.victoriansocialists.org.au/candidates/jack-mcmahon",
+            "publisher": "Victorian Socialists",
+            "date": null
+          }
+        ],
+        "verified": true
       }
     },
     {
@@ -44463,6 +45914,18 @@
         "url": "https://vic.liberal.org.au/team/paul-byrnes",
         "publisher": "vic.liberal.org.au",
         "date": ""
+      },
+      "background": {
+        "summary": "Public service legal officer and former staffer to Liberal MPs Matthew Bach and Mary Wooldridge.",
+        "sources": [
+          {
+            "title": "Freshwater Strategy: Labor 23, Coalition 27, One Nation 25 in Victoria",
+            "url": "https://www.pollbludger.net/2026/06/08/freshwater-strategy-labor-23-coalition-27-one-nation-25-in-victoria/",
+            "publisher": "The Poll Bludger",
+            "date": "2026-06-08"
+          }
+        ],
+        "verified": true
       }
     },
     {
@@ -44478,7 +45941,56 @@
       "election": "Victoria 2026",
       "poll_date": "2026-11-28",
       "last_updated": "2026-07-01",
-      "positions": {},
+      "positions": {
+        "health": {
+          "summary": "Advocates for proper investment in healthcare as part of her campaign platform.",
+          "sources": [
+            {
+              "title": "Rachel Busbridge",
+              "url": "https://greens.org.au/vic/person/rachel-busbridge",
+              "publisher": "Australian Greens (Victoria)",
+              "date": null
+            }
+          ],
+          "verified": true
+        },
+        "education": {
+          "summary": "Advocates for proper investment in schools as part of her campaign platform.",
+          "sources": [
+            {
+              "title": "Rachel Busbridge",
+              "url": "https://greens.org.au/vic/person/rachel-busbridge",
+              "publisher": "Australian Greens (Victoria)",
+              "date": null
+            }
+          ],
+          "verified": true
+        },
+        "transport_infrastructure": {
+          "summary": "Advocates for \"proper investment in public transport ... and active transport\".",
+          "sources": [
+            {
+              "title": "Rachel Busbridge",
+              "url": "https://greens.org.au/vic/person/rachel-busbridge",
+              "publisher": "Australian Greens (Victoria)",
+              "date": null
+            }
+          ],
+          "verified": true
+        },
+        "environment_water": {
+          "summary": "Pledges to \"fight for strong, practical climate action\", including protecting tree canopy and biodiversity and preparing the community for bushfire risk.",
+          "sources": [
+            {
+              "title": "Rachel Busbridge",
+              "url": "https://greens.org.au/vic/person/rachel-busbridge",
+              "publisher": "Australian Greens (Victoria)",
+              "date": null
+            }
+          ],
+          "verified": true
+        }
+      },
       "roster_source": {
         "title": "Candidates of the 2026 Victorian state election",
         "url": "https://en.wikipedia.org/wiki/Candidates_of_the_2026_Victorian_state_election",
@@ -44490,6 +46002,18 @@
         "url": "https://greens.org.au/vic/person/rachel-busbridge",
         "publisher": "greens.org.au",
         "date": ""
+      },
+      "background": {
+        "summary": "University lecturer in sociology and union advocate for staff and students; an Eltham resident since 2019.",
+        "sources": [
+          {
+            "title": "Rachel Busbridge",
+            "url": "https://greens.org.au/vic/person/rachel-busbridge",
+            "publisher": "Australian Greens (Victoria)",
+            "date": null
+          }
+        ],
+        "verified": true
       }
     },
     {
@@ -44517,6 +46041,24 @@
         "url": "https://www.viclabor.org.au/our-team/katerine-theodosis",
         "publisher": "viclabor.org.au",
         "date": ""
+      },
+      "background": {
+        "summary": "Merri-bek councillor and Labor's candidate to succeed retiring Essendon MP Danny Pearson; her preselection was backed by the Australian Workers' Union and referred to the party's national executive.",
+        "sources": [
+          {
+            "title": "Freshwater Strategy: Labor 23, Coalition 27, One Nation 25 in Victoria",
+            "url": "https://www.pollbludger.net/2026/06/08/freshwater-strategy-labor-23-coalition-27-one-nation-25-in-victoria/",
+            "publisher": "The Poll Bludger",
+            "date": "2026-06-08"
+          },
+          {
+            "title": "Katerine Theodosis — Our Team",
+            "url": "https://www.viclabor.org.au/our-team/katerine-theodosis",
+            "publisher": "Victorian Labor",
+            "date": null
+          }
+        ],
+        "verified": true
       }
     },
     {
@@ -44532,7 +46074,44 @@
       "election": "Victoria 2026",
       "poll_date": "2026-11-28",
       "last_updated": "2026-07-01",
-      "positions": {},
+      "positions": {
+        "drugs_law_order": {
+          "summary": "Identifies community safety as one of the key local concerns of his campaign.",
+          "sources": [
+            {
+              "title": "Campaign announcement post: Tommy Le Deux, Liberal candidate for Essendon",
+              "url": "https://www.instagram.com/p/DXkqhxej9JV/",
+              "publisher": "Instagram",
+              "date": null
+            }
+          ],
+          "verified": true
+        },
+        "housing_planning": {
+          "summary": "Identifies housing affordability, alongside rising living costs, as a key concern of his campaign, noting he is a renter himself.",
+          "sources": [
+            {
+              "title": "Campaign announcement post: Tommy Le Deux, Liberal candidate for Essendon",
+              "url": "https://www.instagram.com/p/DXkqhxej9JV/",
+              "publisher": "Instagram",
+              "date": null
+            }
+          ],
+          "verified": true
+        },
+        "health": {
+          "summary": "Identifies access to healthcare as one of the key local concerns of his campaign.",
+          "sources": [
+            {
+              "title": "Campaign announcement post: Tommy Le Deux, Liberal candidate for Essendon",
+              "url": "https://www.instagram.com/p/DXkqhxej9JV/",
+              "publisher": "Instagram",
+              "date": null
+            }
+          ],
+          "verified": true
+        }
+      },
       "roster_source": {
         "title": "Candidates of the 2026 Victorian state election",
         "url": "https://en.wikipedia.org/wiki/Candidates_of_the_2026_Victorian_state_election",
@@ -44544,6 +46123,18 @@
         "url": "https://www.instagram.com/p/DXkqhxej9JV/",
         "publisher": "instagram.com",
         "date": ""
+      },
+      "background": {
+        "summary": "A renter who works two jobs, in finance and as a bartender at The Laurel Hotel in Ascot Vale.",
+        "sources": [
+          {
+            "title": "Campaign announcement post: Tommy Le Deux, Liberal candidate for Essendon",
+            "url": "https://www.instagram.com/p/DXkqhxej9JV/",
+            "publisher": "Instagram",
+            "date": null
+          }
+        ],
+        "verified": true
       }
     },
     {
@@ -44559,7 +46150,44 @@
       "election": "Victoria 2026",
       "poll_date": "2026-11-28",
       "last_updated": "2026-07-01",
-      "positions": {},
+      "positions": {
+        "first_nations": {
+          "summary": "States he is dedicated to \"improving opportunities in health, education, and employment for Aboriginal and Torres Strait Islander peoples\".",
+          "sources": [
+            {
+              "title": "James Williams",
+              "url": "https://greens.org.au/vic/person/james-williams",
+              "publisher": "Australian Greens (Victoria)",
+              "date": null
+            }
+          ],
+          "verified": true
+        },
+        "transport_infrastructure": {
+          "summary": "Supports improved cycling and public transport infrastructure.",
+          "sources": [
+            {
+              "title": "James Williams",
+              "url": "https://greens.org.au/vic/person/james-williams",
+              "publisher": "Australian Greens (Victoria)",
+              "date": null
+            }
+          ],
+          "verified": true
+        },
+        "energy": {
+          "summary": "States that \"innovation through clean solar and wind technology is essential to our environmental future\" and campaigns on sustainability and renewable energy.",
+          "sources": [
+            {
+              "title": "James Williams",
+              "url": "https://greens.org.au/vic/person/james-williams",
+              "publisher": "Australian Greens (Victoria)",
+              "date": null
+            }
+          ],
+          "verified": true
+        }
+      },
       "roster_source": {
         "title": "Candidates of the 2026 Victorian state election",
         "url": "https://en.wikipedia.org/wiki/Candidates_of_the_2026_Victorian_state_election",
@@ -44571,6 +46199,18 @@
         "url": "https://greens.org.au/vic/person/james-williams",
         "publisher": "greens.org.au",
         "date": ""
+      },
+      "background": {
+        "summary": "Wakka Wakka man who has worked as a computer engineer and ICT manager for a major not-for-profit and is currently an emergency services officer; a Moonee Valley resident of nearly 20 years and member of Friends of Moonee Ponds Creek.",
+        "sources": [
+          {
+            "title": "James Williams",
+            "url": "https://greens.org.au/vic/person/james-williams",
+            "publisher": "Australian Greens (Victoria)",
+            "date": null
+          }
+        ],
+        "verified": true
       }
     },
     {
@@ -44598,6 +46238,42 @@
             }
           ],
           "verified": true
+        },
+        "housing_planning": {
+          "summary": "Calls for more funding for housing, as part of his platform of redirecting spending from police, prisons and defence.",
+          "sources": [
+            {
+              "title": "Michal Kedem — Candidate for Essendon",
+              "url": "https://www.victoriansocialists.org.au/candidates/michal-kedem",
+              "publisher": "Victorian Socialists",
+              "date": null
+            }
+          ],
+          "verified": true
+        },
+        "health": {
+          "summary": "States: \"We need more funding for healthcare, education including childcare, and housing, not more police, prisons, defence or deportations.\"",
+          "sources": [
+            {
+              "title": "Michal Kedem — Candidate for Essendon",
+              "url": "https://www.victoriansocialists.org.au/candidates/michal-kedem",
+              "publisher": "Victorian Socialists",
+              "date": null
+            }
+          ],
+          "verified": true
+        },
+        "education": {
+          "summary": "Calls for more funding for education including childcare, as part of his platform of redirecting spending from police, prisons and defence.",
+          "sources": [
+            {
+              "title": "Michal Kedem — Candidate for Essendon",
+              "url": "https://www.victoriansocialists.org.au/candidates/michal-kedem",
+              "publisher": "Victorian Socialists",
+              "date": null
+            }
+          ],
+          "verified": true
         }
       },
       "roster_source": {
@@ -44611,6 +46287,18 @@
         "url": "https://www.victoriansocialists.org.au/candidates/michal-kedem",
         "publisher": "victoriansocialists.org.au",
         "date": ""
+      },
+      "background": {
+        "summary": "Community lawyer who runs police accountability cases for homeless people, marginalised communities and protesters, and a union organiser in the community sector; he lives in the Essendon area with his child.",
+        "sources": [
+          {
+            "title": "Michal Kedem — Candidate for Essendon",
+            "url": "https://www.victoriansocialists.org.au/candidates/michal-kedem",
+            "publisher": "Victorian Socialists",
+            "date": null
+          }
+        ],
+        "verified": true
       }
     },
     {
@@ -44626,7 +46314,44 @@
       "election": "Victoria 2026",
       "poll_date": "2026-11-28",
       "last_updated": "2026-07-01",
-      "positions": {},
+      "positions": {
+        "housing_planning": {
+          "summary": "Names housing as one of his three main campaign areas, citing housing pressure as a key community concern.",
+          "sources": [
+            {
+              "title": "Sam McColl",
+              "url": "https://greens.org.au/vic/person/sam-mccoll",
+              "publisher": "Australian Greens (Victoria)",
+              "date": null
+            }
+          ],
+          "verified": true
+        },
+        "health": {
+          "summary": "Names health as one of his three main campaign areas, citing limited access to services in regional Victoria.",
+          "sources": [
+            {
+              "title": "Sam McColl",
+              "url": "https://greens.org.au/vic/person/sam-mccoll",
+              "publisher": "Australian Greens (Victoria)",
+              "date": null
+            }
+          ],
+          "verified": true
+        },
+        "environment_water": {
+          "summary": "Names climate justice for regional Victoria as one of his three main campaign areas.",
+          "sources": [
+            {
+              "title": "Sam McColl",
+              "url": "https://greens.org.au/vic/person/sam-mccoll",
+              "publisher": "Australian Greens (Victoria)",
+              "date": null
+            }
+          ],
+          "verified": true
+        }
+      },
       "roster_source": {
         "title": "Candidates of the 2026 Victorian state election",
         "url": "https://en.wikipedia.org/wiki/Candidates_of_the_2026_Victorian_state_election",
@@ -44638,6 +46363,18 @@
         "url": "https://greens.org.au/vic/person/sam-mccoll",
         "publisher": "greens.org.au",
         "date": ""
+      },
+      "background": {
+        "summary": "A renter, community volunteer and frontline worker based in the Eureka electorate.",
+        "sources": [
+          {
+            "title": "Sam McColl",
+            "url": "https://greens.org.au/vic/person/sam-mccoll",
+            "publisher": "Australian Greens (Victoria)",
+            "date": null
+          }
+        ],
+        "verified": true
       }
     },
     {
@@ -44653,7 +46390,56 @@
       "election": "Victoria 2026",
       "poll_date": "2026-11-28",
       "last_updated": "2026-07-01",
-      "positions": {},
+      "positions": {
+        "housing_planning": {
+          "summary": "Identifies housing shortages as a key issue affecting the regional electorate that her campaign addresses.",
+          "sources": [
+            {
+              "title": "Alysia Regan",
+              "url": "https://greens.org.au/vic/person/alysia-regan",
+              "publisher": "Australian Greens (Victoria)",
+              "date": null
+            }
+          ],
+          "verified": true
+        },
+        "health": {
+          "summary": "Identifies limited healthcare access as a key issue affecting the regional electorate that her campaign addresses.",
+          "sources": [
+            {
+              "title": "Alysia Regan",
+              "url": "https://greens.org.au/vic/person/alysia-regan",
+              "publisher": "Australian Greens (Victoria)",
+              "date": null
+            }
+          ],
+          "verified": true
+        },
+        "transport_infrastructure": {
+          "summary": "Identifies public transport gaps as a key issue affecting the regional electorate that her campaign addresses.",
+          "sources": [
+            {
+              "title": "Alysia Regan",
+              "url": "https://greens.org.au/vic/person/alysia-regan",
+              "publisher": "Australian Greens (Victoria)",
+              "date": null
+            }
+          ],
+          "verified": true
+        },
+        "environment_water": {
+          "summary": "Identifies climate impacts on farming and communities as a key issue affecting the regional electorate that her campaign addresses.",
+          "sources": [
+            {
+              "title": "Alysia Regan",
+              "url": "https://greens.org.au/vic/person/alysia-regan",
+              "publisher": "Australian Greens (Victoria)",
+              "date": null
+            }
+          ],
+          "verified": true
+        }
+      },
       "roster_source": {
         "title": "Candidates of the 2026 Victorian state election",
         "url": "https://en.wikipedia.org/wiki/Candidates_of_the_2026_Victorian_state_election",
@@ -44665,6 +46451,18 @@
         "url": "https://greens.org.au/vic/person/alysia-regan",
         "publisher": "greens.org.au",
         "date": ""
+      },
+      "background": {
+        "summary": "Municipal Recovery Manager working in emergency management, supporting people recovering from emergencies and helping them navigate services.",
+        "sources": [
+          {
+            "title": "Alysia Regan",
+            "url": "https://greens.org.au/vic/person/alysia-regan",
+            "publisher": "Australian Greens (Victoria)",
+            "date": null
+          }
+        ],
+        "verified": true
       }
     },
     {
@@ -44707,7 +46505,68 @@
       "election": "Victoria 2026",
       "poll_date": "2026-11-28",
       "last_updated": "2026-07-01",
-      "positions": {},
+      "positions": {
+        "integrity": {
+          "summary": "Says \"integrity in government is the foundation for better healthcare, stronger schools, climate action and safer communities\", and that the root of many local problems is \"politics captured by big money rather than community needs\".",
+          "sources": [
+            {
+              "title": "Andrew Henley, Candidate for Evelyn",
+              "url": "https://greens.org.au/vic/person/andrew-henley",
+              "publisher": "Australian Greens Victoria",
+              "date": null
+            }
+          ],
+          "verified": true
+        },
+        "health": {
+          "summary": "A healthcare worker who says families in Evelyn \"are struggling to access childcare, healthcare, education and reliable transport\" and that he is fighting for the services the electorate deserves.",
+          "sources": [
+            {
+              "title": "Andrew Henley, Candidate for Evelyn",
+              "url": "https://greens.org.au/vic/person/andrew-henley",
+              "publisher": "Australian Greens Victoria",
+              "date": null
+            }
+          ],
+          "verified": true
+        },
+        "education": {
+          "summary": "Names education access among the services families in Evelyn are struggling with, and links integrity in government to \"stronger schools\".",
+          "sources": [
+            {
+              "title": "Andrew Henley, Candidate for Evelyn",
+              "url": "https://greens.org.au/vic/person/andrew-henley",
+              "publisher": "Australian Greens Victoria",
+              "date": null
+            }
+          ],
+          "verified": true
+        },
+        "transport_infrastructure": {
+          "summary": "Names access to \"reliable transport\" among the key services families in Evelyn are struggling with.",
+          "sources": [
+            {
+              "title": "Andrew Henley, Candidate for Evelyn",
+              "url": "https://greens.org.au/vic/person/andrew-henley",
+              "publisher": "Australian Greens Victoria",
+              "date": null
+            }
+          ],
+          "verified": true
+        },
+        "environment_water": {
+          "summary": "Says \"climate impacts place growing pressure on our local emergency services such as the CFA and SES\" and calls for these local organisations to be adequately resourced; links integrity in government to climate action.",
+          "sources": [
+            {
+              "title": "Andrew Henley, Candidate for Evelyn",
+              "url": "https://greens.org.au/vic/person/andrew-henley",
+              "publisher": "Australian Greens Victoria",
+              "date": null
+            }
+          ],
+          "verified": true
+        }
+      },
       "roster_source": {
         "title": "Candidates of the 2026 Victorian state election",
         "url": "https://en.wikipedia.org/wiki/Candidates_of_the_2026_Victorian_state_election",
@@ -44721,7 +46580,19 @@
         "date": ""
       },
       "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/BramshillHouse%28AndrewSmith%29Jun2006.jpg/330px-BramshillHouse%28AndrewSmith%29Jun2006.jpg",
-      "photo_credit_url": "https://en.wikipedia.org/wiki/Sir_Andrew_Henley%2C_1st_Baronet"
+      "photo_credit_url": "https://en.wikipedia.org/wiki/Sir_Andrew_Henley%2C_1st_Baronet",
+      "background": {
+        "summary": "Andrew Henley is a healthcare worker who has lived in Mooroolbark for 14 years.",
+        "sources": [
+          {
+            "title": "Andrew Henley, Candidate for Evelyn",
+            "url": "https://greens.org.au/vic/person/andrew-henley",
+            "publisher": "Australian Greens Victoria",
+            "date": null
+          }
+        ],
+        "verified": true
+      }
     },
     {
       "id": "victoria-2026-elena-pereyra-footscray",
@@ -44736,7 +46607,20 @@
       "election": "Victoria 2026",
       "poll_date": "2026-11-28",
       "last_updated": "2026-07-01",
-      "positions": {},
+      "positions": {
+        "housing_planning": {
+          "summary": "Says \"sustainable community-focused building and living are key to reducing inequality\" and commits to working for \"sustainable community-focused development, affordable housing and living\"; her PhD research is on housing as an urban commons and she sits on the board of CoHousing Australia.",
+          "sources": [
+            {
+              "title": "Elena Pereyra, Candidate for Footscray and Councillor for Maribyrnong City Council - Wattle",
+              "url": "https://greens.org.au/vic/person/elena-pereyra",
+              "publisher": "Australian Greens Victoria",
+              "date": null
+            }
+          ],
+          "verified": true
+        }
+      },
       "roster_source": {
         "title": "Candidates of the 2026 Victorian state election",
         "url": "https://en.wikipedia.org/wiki/Candidates_of_the_2026_Victorian_state_election",
@@ -44748,6 +46632,18 @@
         "url": "https://greens.org.au/vic/person/elena-pereyra",
         "publisher": "greens.org.au",
         "date": ""
+      },
+      "background": {
+        "summary": "Elena Pereyra is a Maribyrnong City Councillor for Wattle Ward, a PhD candidate whose dissertation examines housing as an urban commons, a foster carer, a board member of CoHousing Australia and a volunteer with BikeWest.",
+        "sources": [
+          {
+            "title": "Elena Pereyra, Candidate for Footscray and Councillor for Maribyrnong City Council - Wattle",
+            "url": "https://greens.org.au/vic/person/elena-pereyra",
+            "publisher": "Australian Greens Victoria",
+            "date": null
+          }
+        ],
+        "verified": true
       }
     },
     {
@@ -44775,6 +46671,78 @@
             }
           ],
           "verified": true
+        },
+        "first_nations": {
+          "summary": "Her candidate profile states she has campaigned for Indigenous justice.",
+          "sources": [
+            {
+              "title": "Jasmine Duff – Victorian Socialists",
+              "url": "https://www.victoriansocialists.org.au/candidates/jasmine-duff",
+              "publisher": "Victorian Socialists",
+              "date": null
+            }
+          ],
+          "verified": true
+        },
+        "housing_planning": {
+          "summary": "Says \"instead of Labor's public housing sell-off, I'll fight for a mass increase of public homes and funding to housing organisations\"; has campaigned against public housing privatisation and supported Altona residents facing eviction.",
+          "sources": [
+            {
+              "title": "Jasmine Duff – Victorian Socialists",
+              "url": "https://www.victoriansocialists.org.au/candidates/jasmine-duff",
+              "publisher": "Victorian Socialists",
+              "date": null
+            }
+          ],
+          "verified": true
+        },
+        "health": {
+          "summary": "Calls for government investment in hospitals as part of infrastructure for the growing western Melbourne region.",
+          "sources": [
+            {
+              "title": "Jasmine Duff – Victorian Socialists",
+              "url": "https://www.victoriansocialists.org.au/candidates/jasmine-duff",
+              "publisher": "Victorian Socialists",
+              "date": null
+            }
+          ],
+          "verified": true
+        },
+        "education": {
+          "summary": "Calls for government investment in schools as part of infrastructure for the growing western Melbourne region.",
+          "sources": [
+            {
+              "title": "Jasmine Duff – Victorian Socialists",
+              "url": "https://www.victoriansocialists.org.au/candidates/jasmine-duff",
+              "publisher": "Victorian Socialists",
+              "date": null
+            }
+          ],
+          "verified": true
+        },
+        "transport_infrastructure": {
+          "summary": "Advocates fare-free public transport and calls for government investment in public transport to address shortages in Melbourne's rapidly growing western suburbs.",
+          "sources": [
+            {
+              "title": "Jasmine Duff – Victorian Socialists",
+              "url": "https://www.victoriansocialists.org.au/candidates/jasmine-duff",
+              "publisher": "Victorian Socialists",
+              "date": null
+            }
+          ],
+          "verified": true
+        },
+        "environment_water": {
+          "summary": "Her candidate profile states she has campaigned for climate action.",
+          "sources": [
+            {
+              "title": "Jasmine Duff – Victorian Socialists",
+              "url": "https://www.victoriansocialists.org.au/candidates/jasmine-duff",
+              "publisher": "Victorian Socialists",
+              "date": null
+            }
+          ],
+          "verified": true
         }
       },
       "roster_source": {
@@ -44788,6 +46756,18 @@
         "url": "https://www.victoriansocialists.org.au/candidates/jasmine-duff",
         "publisher": "victoriansocialists.org.au",
         "date": ""
+      },
+      "background": {
+        "summary": "Jasmine Duff is a community organiser, lighting technician and trade unionist who previously worked for the NSW State Emergency Service, including during major flooding events; she has campaigned against public housing privatisation and supported residents facing eviction.",
+        "sources": [
+          {
+            "title": "Jasmine Duff – Victorian Socialists",
+            "url": "https://www.victoriansocialists.org.au/candidates/jasmine-duff",
+            "publisher": "Victorian Socialists",
+            "date": null
+          }
+        ],
+        "verified": true
       }
     },
     {
@@ -44803,7 +46783,56 @@
       "election": "Victoria 2026",
       "poll_date": "2026-11-28",
       "last_updated": "2026-07-01",
-      "positions": {},
+      "positions": {
+        "drugs_law_order": {
+          "summary": "Names \"safer communities\" as part of her advocacy platform; is studying Justice and Criminology and volunteers as an advocate for children in juvenile detention.",
+          "sources": [
+            {
+              "title": "Katie Goulas, Candidate for Frankston",
+              "url": "https://greens.org.au/vic/person/katie-goulas",
+              "publisher": "Australian Greens Victoria",
+              "date": null
+            }
+          ],
+          "verified": true
+        },
+        "housing_planning": {
+          "summary": "Names affordable housing as a primary advocacy area, saying that when \"services like healthcare, education and affordable housing are limited, the repercussions are vast\".",
+          "sources": [
+            {
+              "title": "Katie Goulas, Candidate for Frankston",
+              "url": "https://greens.org.au/vic/person/katie-goulas",
+              "publisher": "Australian Greens Victoria",
+              "date": null
+            }
+          ],
+          "verified": true
+        },
+        "health": {
+          "summary": "Names health services as a campaign focus, saying limited access to services like healthcare has vast repercussions for the community.",
+          "sources": [
+            {
+              "title": "Katie Goulas, Candidate for Frankston",
+              "url": "https://greens.org.au/vic/person/katie-goulas",
+              "publisher": "Australian Greens Victoria",
+              "date": null
+            }
+          ],
+          "verified": true
+        },
+        "environment_water": {
+          "summary": "Prioritises \"strong climate action\" and says she cares about environmental sustainability.",
+          "sources": [
+            {
+              "title": "Katie Goulas, Candidate for Frankston",
+              "url": "https://greens.org.au/vic/person/katie-goulas",
+              "publisher": "Australian Greens Victoria",
+              "date": null
+            }
+          ],
+          "verified": true
+        }
+      },
       "roster_source": {
         "title": "Candidates of the 2026 Victorian state election",
         "url": "https://en.wikipedia.org/wiki/Candidates_of_the_2026_Victorian_state_election",
@@ -44815,6 +46844,18 @@
         "url": "https://greens.org.au/vic/person/katie-goulas",
         "publisher": "greens.org.au",
         "date": ""
+      },
+      "background": {
+        "summary": "Katie Goulas is a retail worker and Frankston resident studying a Masters in Justice and Criminology; she volunteers as an advocate for children in juvenile detention.",
+        "sources": [
+          {
+            "title": "Katie Goulas, Candidate for Frankston",
+            "url": "https://greens.org.au/vic/person/katie-goulas",
+            "publisher": "Australian Greens Victoria",
+            "date": null
+          }
+        ],
+        "verified": true
       }
     },
     {
@@ -44842,6 +46883,30 @@
             }
           ],
           "verified": true
+        },
+        "integrity": {
+          "summary": "Pledges that, if elected, he would donate the portion of his parliamentary salary above the Frankston median wage to community campaigns, saying \"I won't rise out of this community, I'll rise with it, or not at all\".",
+          "sources": [
+            {
+              "title": "Andrew Cheeseman – Victorian Socialists",
+              "url": "https://www.victoriansocialists.org.au/candidates/andrew-cheeseman",
+              "publisher": "Victorian Socialists",
+              "date": null
+            }
+          ],
+          "verified": true
+        },
+        "housing_planning": {
+          "summary": "Says \"I stand for taxing landlords until they scream, then taxing them some more\", as part of a platform of rebuilding privatised public services and taxing the rich.",
+          "sources": [
+            {
+              "title": "Andrew Cheeseman – Victorian Socialists",
+              "url": "https://www.victoriansocialists.org.au/candidates/andrew-cheeseman",
+              "publisher": "Victorian Socialists",
+              "date": null
+            }
+          ],
+          "verified": true
         }
       },
       "roster_source": {
@@ -44855,6 +46920,18 @@
         "url": "https://www.victoriansocialists.org.au/candidates/andrew-cheeseman",
         "publisher": "victoriansocialists.org.au",
         "date": ""
+      },
+      "background": {
+        "summary": "Andrew Cheeseman, 44, is a lifelong resident of the Frankston area with decades of involvement in activist campaigns, including against the Iraq War, anti-union legislation and austerity measures, and in support of marriage equality.",
+        "sources": [
+          {
+            "title": "Andrew Cheeseman – Victorian Socialists",
+            "url": "https://www.victoriansocialists.org.au/candidates/andrew-cheeseman",
+            "publisher": "Victorian Socialists",
+            "date": null
+          }
+        ],
+        "verified": true
       }
     },
     {
@@ -44870,7 +46947,44 @@
       "election": "Victoria 2026",
       "poll_date": "2026-11-28",
       "last_updated": "2026-07-01",
-      "positions": {},
+      "positions": {
+        "housing_planning": {
+          "summary": "Names rising cost of living and housing pressures facing Geelong residents as a key campaign issue, saying \"everyone deserves a safe home, fair wages and a healthy planet\".",
+          "sources": [
+            {
+              "title": "Emilie Flynn, Candidate for Geelong",
+              "url": "https://greens.org.au/vic/person/emilie-flynn",
+              "publisher": "Australian Greens Victoria",
+              "date": null
+            }
+          ],
+          "verified": true
+        },
+        "energy": {
+          "summary": "Opposes the Viva gas terminal project proposed for Geelong.",
+          "sources": [
+            {
+              "title": "Emilie Flynn, Candidate for Geelong",
+              "url": "https://greens.org.au/vic/person/emilie-flynn",
+              "publisher": "Australian Greens Victoria",
+              "date": null
+            }
+          ],
+          "verified": true
+        },
+        "environment_water": {
+          "summary": "A climate advocate who supports community-led climate action and says \"climate justice and social justice must go hand in hand\".",
+          "sources": [
+            {
+              "title": "Emilie Flynn, Candidate for Geelong",
+              "url": "https://greens.org.au/vic/person/emilie-flynn",
+              "publisher": "Australian Greens Victoria",
+              "date": null
+            }
+          ],
+          "verified": true
+        }
+      },
       "roster_source": {
         "title": "Candidates of the 2026 Victorian state election",
         "url": "https://en.wikipedia.org/wiki/Candidates_of_the_2026_Victorian_state_election",
@@ -44882,6 +46996,18 @@
         "url": "https://timesnewsgroup.com.au/geelongtimes/news/greens-lock-in-geelong-challenger/",
         "publisher": "timesnewsgroup.com.au",
         "date": ""
+      },
+      "background": {
+        "summary": "Emilie Flynn is a former teacher and climate advocate who lives in Geelong West.",
+        "sources": [
+          {
+            "title": "Emilie Flynn, Candidate for Geelong",
+            "url": "https://greens.org.au/vic/person/emilie-flynn",
+            "publisher": "Australian Greens Victoria",
+            "date": null
+          }
+        ],
+        "verified": true
       }
     },
     {
@@ -44897,7 +47023,32 @@
       "election": "Victoria 2026",
       "poll_date": "2026-11-28",
       "last_updated": "2026-07-01",
-      "positions": {},
+      "positions": {
+        "housing_planning": {
+          "summary": "Names rising costs and housing stress among the key concerns affecting East Gippsland.",
+          "sources": [
+            {
+              "title": "Ash Munro, Candidate for Gippsland East",
+              "url": "https://greens.org.au/vic/person/ash-munro",
+              "publisher": "Australian Greens Victoria",
+              "date": null
+            }
+          ],
+          "verified": true
+        },
+        "environment_water": {
+          "summary": "Names climate impacts among the key concerns affecting East Gippsland, and says they prioritise policies for \"a future where our kids can grow up safe, supported, and connected to Country\".",
+          "sources": [
+            {
+              "title": "Ash Munro, Candidate for Gippsland East",
+              "url": "https://greens.org.au/vic/person/ash-munro",
+              "publisher": "Australian Greens Victoria",
+              "date": null
+            }
+          ],
+          "verified": true
+        }
+      },
       "roster_source": {
         "title": "Candidates of the 2026 Victorian state election",
         "url": "https://en.wikipedia.org/wiki/Candidates_of_the_2026_Victorian_state_election",
@@ -44909,6 +47060,18 @@
         "url": "https://greens.org.au/vic/person/ash-munro",
         "publisher": "greens.org.au",
         "date": ""
+      },
+      "background": {
+        "summary": "Ash Munro lives, works, studies and raises children in East Gippsland, with professional experience in community cultural safety work, youth support and health roles.",
+        "sources": [
+          {
+            "title": "Ash Munro, Candidate for Gippsland East",
+            "url": "https://greens.org.au/vic/person/ash-munro",
+            "publisher": "Australian Greens Victoria",
+            "date": null
+          }
+        ],
+        "verified": true
       }
     },
     {
@@ -44924,7 +47087,44 @@
       "election": "Victoria 2026",
       "poll_date": "2026-11-28",
       "last_updated": "2026-07-01",
-      "positions": {},
+      "positions": {
+        "native_forest_logging": {
+          "summary": "Names native forests among his stated priority issues for Gippsland South, alongside land use and bushfire risk.",
+          "sources": [
+            {
+              "title": "Zave Evans, Candidate for Gippsland South",
+              "url": "https://greens.org.au/vic/person/zave-evans",
+              "publisher": "Australian Greens Victoria",
+              "date": null
+            }
+          ],
+          "verified": true
+        },
+        "energy": {
+          "summary": "Names offshore gas and the role of multinational corporations in regional Australia among his stated priority issues.",
+          "sources": [
+            {
+              "title": "Zave Evans, Candidate for Gippsland South",
+              "url": "https://greens.org.au/vic/person/zave-evans",
+              "publisher": "Australian Greens Victoria",
+              "date": null
+            }
+          ],
+          "verified": true
+        },
+        "environment_water": {
+          "summary": "Says his priorities focus on bushfire risk and land use, seeking solutions that \"benefit people and place and deliver a resilient future for Gippsland South\"; his background is in conservation work and frontline bushfire response.",
+          "sources": [
+            {
+              "title": "Zave Evans, Candidate for Gippsland South",
+              "url": "https://greens.org.au/vic/person/zave-evans",
+              "publisher": "Australian Greens Victoria",
+              "date": null
+            }
+          ],
+          "verified": true
+        }
+      },
       "roster_source": {
         "title": "Candidates of the 2026 Victorian state election",
         "url": "https://en.wikipedia.org/wiki/Candidates_of_the_2026_Victorian_state_election",
@@ -44936,6 +47136,18 @@
         "url": "https://greens.org.au/vic/person/zave-evans",
         "publisher": "greens.org.au",
         "date": ""
+      },
+      "background": {
+        "summary": "Zave Evans is an environmentalist whose work background includes conservation, seasonal land management, community projects and frontline bushfire response across regional Australia.",
+        "sources": [
+          {
+            "title": "Zave Evans, Candidate for Gippsland South",
+            "url": "https://greens.org.au/vic/person/zave-evans",
+            "publisher": "Australian Greens Victoria",
+            "date": null
+          }
+        ],
+        "verified": true
       }
     },
     {
@@ -44978,7 +47190,44 @@
       "election": "Victoria 2026",
       "poll_date": "2026-11-28",
       "last_updated": "2026-07-01",
-      "positions": {},
+      "positions": {
+        "housing_planning": {
+          "summary": "Campaigns for \"affordable renting and housing\" for Glen Waverley.",
+          "sources": [
+            {
+              "title": "Toyo White, Candidate for Glen Waverley",
+              "url": "https://greens.org.au/vic/person/toyo-white",
+              "publisher": "Australian Greens Victoria",
+              "date": null
+            }
+          ],
+          "verified": true
+        },
+        "education": {
+          "summary": "Says they are intent on \"ensuring we have properly funded schools\".",
+          "sources": [
+            {
+              "title": "Toyo White, Candidate for Glen Waverley",
+              "url": "https://greens.org.au/vic/person/toyo-white",
+              "publisher": "Australian Greens Victoria",
+              "date": null
+            }
+          ],
+          "verified": true
+        },
+        "environment_water": {
+          "summary": "Campaigns for \"real climate action\"; a climate activist who was involved in the \"Stop Woodside Monash\" campaign and has served on council environmental bodies.",
+          "sources": [
+            {
+              "title": "Toyo White, Candidate for Glen Waverley",
+              "url": "https://greens.org.au/vic/person/toyo-white",
+              "publisher": "Australian Greens Victoria",
+              "date": null
+            }
+          ],
+          "verified": true
+        }
+      },
       "roster_source": {
         "title": "Candidates of the 2026 Victorian state election",
         "url": "https://en.wikipedia.org/wiki/Candidates_of_the_2026_Victorian_state_election",
@@ -44990,6 +47239,18 @@
         "url": "https://greens.org.au/vic/person/toyo-white",
         "publisher": "greens.org.au",
         "date": ""
+      },
+      "background": {
+        "summary": "Toyo White is a lifelong Forest Hill resident and community organiser who has been involved in climate activism from a young age, has served on council environmental bodies, and was involved in the \"Stop Woodside Monash\" campaign.",
+        "sources": [
+          {
+            "title": "Toyo White, Candidate for Glen Waverley",
+            "url": "https://greens.org.au/vic/person/toyo-white",
+            "publisher": "Australian Greens Victoria",
+            "date": null
+          }
+        ],
+        "verified": true
       }
     },
     {
@@ -45005,7 +47266,20 @@
       "election": "Victoria 2026",
       "poll_date": "2026-11-28",
       "last_updated": "2026-07-01",
-      "positions": {},
+      "positions": {
+        "housing_planning": {
+          "summary": "Names the housing shortage as one of his three main policy focuses, saying \"our community deserves a representative in parliament who will fight for working-class people against the entrenched corporate interests\".",
+          "sources": [
+            {
+              "title": "Nicholas Siow – Victorian Socialists",
+              "url": "https://www.victoriansocialists.org.au/candidates/nicholas-siow",
+              "publisher": "Victorian Socialists",
+              "date": null
+            }
+          ],
+          "verified": true
+        }
+      },
       "roster_source": {
         "title": "Candidates of the 2026 Victorian state election",
         "url": "https://en.wikipedia.org/wiki/Candidates_of_the_2026_Victorian_state_election",
@@ -45017,6 +47291,18 @@
         "url": "https://www.victoriansocialists.org.au/candidates/nicholas-siow",
         "publisher": "victoriansocialists.org.au",
         "date": ""
+      },
+      "background": {
+        "summary": "Nicholas Siow is a lifelong Glen Waverley local and community activist who has participated in campaigns against racism and in Palestine solidarity activism.",
+        "sources": [
+          {
+            "title": "Nicholas Siow – Victorian Socialists",
+            "url": "https://www.victoriansocialists.org.au/candidates/nicholas-siow",
+            "publisher": "Victorian Socialists",
+            "date": null
+          }
+        ],
+        "verified": true
       }
     },
     {
@@ -45032,7 +47318,44 @@
       "election": "Victoria 2026",
       "poll_date": "2026-11-28",
       "last_updated": "2026-07-01",
-      "positions": {},
+      "positions": {
+        "health": {
+          "summary": "Advocates for properly funded public hospitals as part of his call for communities to have properly funded basic services.",
+          "sources": [
+            {
+              "title": "Kirill Smelov — Victorian Socialists candidate for Greenvale",
+              "url": "https://www.victoriansocialists.org.au/candidates/kirill-smelov",
+              "publisher": "Victorian Socialists",
+              "date": null
+            }
+          ],
+          "verified": true
+        },
+        "education": {
+          "summary": "Advocates for properly funded schools as part of his call for communities to have properly funded public services.",
+          "sources": [
+            {
+              "title": "Kirill Smelov — Victorian Socialists candidate for Greenvale",
+              "url": "https://www.victoriansocialists.org.au/candidates/kirill-smelov",
+              "publisher": "Victorian Socialists",
+              "date": null
+            }
+          ],
+          "verified": true
+        },
+        "environment_water": {
+          "summary": "Has been involved in climate action campaigning, and criticises politicians for serving property developers and corporations over residents' environmental concerns.",
+          "sources": [
+            {
+              "title": "Kirill Smelov — Victorian Socialists candidate for Greenvale",
+              "url": "https://www.victoriansocialists.org.au/candidates/kirill-smelov",
+              "publisher": "Victorian Socialists",
+              "date": null
+            }
+          ],
+          "verified": true
+        }
+      },
       "roster_source": {
         "title": "Candidates of the 2026 Victorian state election",
         "url": "https://en.wikipedia.org/wiki/Candidates_of_the_2026_Victorian_state_election",
@@ -45044,6 +47367,18 @@
         "url": "https://www.victoriansocialists.org.au/candidates/kirill-smelov",
         "publisher": "victoriansocialists.org.au",
         "date": ""
+      },
+      "background": {
+        "summary": "IT worker, union member and community activist based locally in the Greenvale area, with experience as a union organiser and in campaigns including anti-racism and climate action.",
+        "sources": [
+          {
+            "title": "Kirill Smelov — Victorian Socialists candidate for Greenvale",
+            "url": "https://www.victoriansocialists.org.au/candidates/kirill-smelov",
+            "publisher": "Victorian Socialists",
+            "date": null
+          }
+        ],
+        "verified": true
       }
     },
     {
@@ -45071,6 +47406,18 @@
         "url": "https://vic.liberal.org.au/team/frank-schiefler",
         "publisher": "vic.liberal.org.au",
         "date": ""
+      },
+      "background": {
+        "summary": "Political adviser who formerly served in the army. Preselected as the Liberal candidate for Hastings after a rival contender withdrew; the candidate was endorsed by the party's state executive.",
+        "sources": [
+          {
+            "title": "Resolve Strategic: Labor 27, Coalition 29, One Nation 21 in Victoria",
+            "url": "https://www.pollbludger.net/2026/04/22/resolve-strategic-labor-27-coalition-29-one-nation-21-in-victoria/",
+            "publisher": "The Poll Bludger",
+            "date": "2026-04-22"
+          }
+        ],
+        "verified": true
       }
     },
     {
@@ -45086,7 +47433,32 @@
       "election": "Victoria 2026",
       "poll_date": "2026-11-28",
       "last_updated": "2026-07-01",
-      "positions": {},
+      "positions": {
+        "housing_planning": {
+          "summary": "Names housing affordability in the Hastings area as a key issue of his campaign.",
+          "sources": [
+            {
+              "title": "Isaac Willoughby — Greens candidate for Hastings",
+              "url": "https://greens.org.au/vic/person/isaac-willoughby",
+              "publisher": "Australian Greens Victoria",
+              "date": null
+            }
+          ],
+          "verified": true
+        },
+        "transport_infrastructure": {
+          "summary": "Names neglect of public transport infrastructure in the Hastings area as a key issue that those in power have done little to address.",
+          "sources": [
+            {
+              "title": "Isaac Willoughby — Greens candidate for Hastings",
+              "url": "https://greens.org.au/vic/person/isaac-willoughby",
+              "publisher": "Australian Greens Victoria",
+              "date": null
+            }
+          ],
+          "verified": true
+        }
+      },
       "roster_source": {
         "title": "Candidates of the 2026 Victorian state election",
         "url": "https://en.wikipedia.org/wiki/Candidates_of_the_2026_Victorian_state_election",
@@ -45098,6 +47470,18 @@
         "url": "https://greens.org.au/vic/person/isaac-willoughby",
         "publisher": "greens.org.au",
         "date": ""
+      },
+      "background": {
+        "summary": "Musician and teacher who lives on the Mornington Peninsula.",
+        "sources": [
+          {
+            "title": "Isaac Willoughby — Greens candidate for Hastings",
+            "url": "https://greens.org.au/vic/person/isaac-willoughby",
+            "publisher": "Australian Greens Victoria",
+            "date": null
+          }
+        ],
+        "verified": true
       }
     },
     {
@@ -45113,7 +47497,32 @@
       "election": "Victoria 2026",
       "poll_date": "2026-11-28",
       "last_updated": "2026-07-01",
-      "positions": {},
+      "positions": {
+        "housing_planning": {
+          "summary": "Backs Labor's plan to make renting fairer, faster and more affordable, including banning rental bidding, ending no-fault evictions and removing fees on rental apps.",
+          "sources": [
+            {
+              "title": "Clive Crosby — Labor candidate for Hawthorn",
+              "url": "https://www.viclabor.org.au/our-team/clive-crosby",
+              "publisher": "Victorian Labor",
+              "date": null
+            }
+          ],
+          "verified": true
+        },
+        "transport_infrastructure": {
+          "summary": "A regular public transport user, he backs half-price public transport and more train services on the Belgrave and Lilydale lines.",
+          "sources": [
+            {
+              "title": "Clive Crosby — Labor candidate for Hawthorn",
+              "url": "https://www.viclabor.org.au/our-team/clive-crosby",
+              "publisher": "Victorian Labor",
+              "date": null
+            }
+          ],
+          "verified": true
+        }
+      },
       "roster_source": {
         "title": "Candidates of the 2026 Victorian state election",
         "url": "https://en.wikipedia.org/wiki/Candidates_of_the_2026_Victorian_state_election",
@@ -45125,6 +47534,24 @@
         "url": "https://www.viclabor.org.au/our-team/clive-crosby",
         "publisher": "viclabor.org.au",
         "date": ""
+      },
+      "background": {
+        "summary": "Hawthorn local who grew up in the area; he was Labor's candidate for the federal seat of Kooyong at the 2025 federal election before standing for Hawthorn in 2026.",
+        "sources": [
+          {
+            "title": "Clive Crosby — Labor candidate for Hawthorn",
+            "url": "https://www.viclabor.org.au/our-team/clive-crosby",
+            "publisher": "Victorian Labor",
+            "date": null
+          },
+          {
+            "title": "Kooyong Candidates Forum 2025",
+            "url": "https://lighterfootprints.org/event/kooyong-candidates-2025/",
+            "publisher": "Lighter Footprints",
+            "date": "2025-04-02"
+          }
+        ],
+        "verified": true
       }
     },
     {
@@ -45140,7 +47567,44 @@
       "election": "Victoria 2026",
       "poll_date": "2026-11-28",
       "last_updated": "2026-07-01",
-      "positions": {},
+      "positions": {
+        "first_nations": {
+          "summary": "States support for justice for First Nations peoples and Treaty.",
+          "sources": [
+            {
+              "title": "Kylie Rocha — Greens candidate for Hawthorn",
+              "url": "https://greens.org.au/vic/person/kylie-rocha",
+              "publisher": "Australian Greens Victoria",
+              "date": null
+            }
+          ],
+          "verified": true
+        },
+        "housing_planning": {
+          "summary": "Campaigns for real solutions to tackle affordability and housing stress.",
+          "sources": [
+            {
+              "title": "Kylie Rocha — Greens candidate for Hawthorn",
+              "url": "https://greens.org.au/vic/person/kylie-rocha",
+              "publisher": "Australian Greens Victoria",
+              "date": null
+            }
+          ],
+          "verified": true
+        },
+        "environment_water": {
+          "summary": "Says she is standing to protect the environment through action.",
+          "sources": [
+            {
+              "title": "Kylie Rocha — Greens candidate for Hawthorn",
+              "url": "https://greens.org.au/vic/person/kylie-rocha",
+              "publisher": "Australian Greens Victoria",
+              "date": null
+            }
+          ],
+          "verified": true
+        }
+      },
       "roster_source": {
         "title": "Candidates of the 2026 Victorian state election",
         "url": "https://en.wikipedia.org/wiki/Candidates_of_the_2026_Victorian_state_election",
@@ -45152,6 +47616,18 @@
         "url": "https://greens.org.au/vic/person/kylie-rocha",
         "publisher": "greens.org.au",
         "date": ""
+      },
+      "background": {
+        "summary": "Engineer who has worked in the energy and manufacturing sectors; she has lived in the Hawthorn area for 15 years.",
+        "sources": [
+          {
+            "title": "Kylie Rocha — Greens candidate for Hawthorn",
+            "url": "https://greens.org.au/vic/person/kylie-rocha",
+            "publisher": "Australian Greens Victoria",
+            "date": null
+          }
+        ],
+        "verified": true
       }
     },
     {
@@ -45167,7 +47643,44 @@
       "election": "Victoria 2026",
       "poll_date": "2026-11-28",
       "last_updated": "2026-07-01",
-      "positions": {},
+      "positions": {
+        "housing_planning": {
+          "summary": "Identifies the housing crisis as a central problem of her campaign, attributing it to economic decisions focused primarily on the pursuit of private profit.",
+          "sources": [
+            {
+              "title": "Tess McEnearney — Victorian Socialists candidate for Hawthorn",
+              "url": "https://www.victoriansocialists.org.au/candidates/tess-mcenearney",
+              "publisher": "Victorian Socialists",
+              "date": null
+            }
+          ],
+          "verified": true
+        },
+        "health": {
+          "summary": "Works in medical research and has been involved in advocacy against cuts to community healthcare.",
+          "sources": [
+            {
+              "title": "Tess McEnearney — Victorian Socialists candidate for Hawthorn",
+              "url": "https://www.victoriansocialists.org.au/candidates/tess-mcenearney",
+              "publisher": "Victorian Socialists",
+              "date": null
+            }
+          ],
+          "verified": true
+        },
+        "environment_water": {
+          "summary": "Names the destruction of the climate and environment as a key issue and has been involved in climate justice organising.",
+          "sources": [
+            {
+              "title": "Tess McEnearney — Victorian Socialists candidate for Hawthorn",
+              "url": "https://www.victoriansocialists.org.au/candidates/tess-mcenearney",
+              "publisher": "Victorian Socialists",
+              "date": null
+            }
+          ],
+          "verified": true
+        }
+      },
       "roster_source": {
         "title": "Candidates of the 2026 Victorian state election",
         "url": "https://en.wikipedia.org/wiki/Candidates_of_the_2026_Victorian_state_election",
@@ -45179,6 +47692,18 @@
         "url": "https://www.victoriansocialists.org.au/candidates/tess-mcenearney",
         "publisher": "victoriansocialists.org.au",
         "date": ""
+      },
+      "background": {
+        "summary": "Medical researcher completing a PhD in neurodegeneration; a Hawthorn local and self-described socialist activist and organiser involved in climate justice campaigns and advocacy against community healthcare cuts.",
+        "sources": [
+          {
+            "title": "Tess McEnearney — Victorian Socialists candidate for Hawthorn",
+            "url": "https://www.victoriansocialists.org.au/candidates/tess-mcenearney",
+            "publisher": "Victorian Socialists",
+            "date": null
+          }
+        ],
+        "verified": true
       }
     },
     {
@@ -45221,7 +47746,44 @@
       "election": "Victoria 2026",
       "poll_date": "2026-11-28",
       "last_updated": "2026-07-01",
-      "positions": {},
+      "positions": {
+        "health": {
+          "summary": "Lists accessible health services and better healthcare among her campaign priorities.",
+          "sources": [
+            {
+              "title": "Nina Crawley — Greens candidate for Ivanhoe",
+              "url": "https://greens.org.au/vic/person/nina-crawley",
+              "publisher": "Australian Greens Victoria",
+              "date": null
+            }
+          ],
+          "verified": true
+        },
+        "education": {
+          "summary": "Lists better schools and safe, well-funded schools among her campaign priorities.",
+          "sources": [
+            {
+              "title": "Nina Crawley — Greens candidate for Ivanhoe",
+              "url": "https://greens.org.au/vic/person/nina-crawley",
+              "publisher": "Australian Greens Victoria",
+              "date": null
+            }
+          ],
+          "verified": true
+        },
+        "transport_infrastructure": {
+          "summary": "Lists better transport among her campaign priorities for Ivanhoe.",
+          "sources": [
+            {
+              "title": "Nina Crawley — Greens candidate for Ivanhoe",
+              "url": "https://greens.org.au/vic/person/nina-crawley",
+              "publisher": "Australian Greens Victoria",
+              "date": null
+            }
+          ],
+          "verified": true
+        }
+      },
       "roster_source": {
         "title": "Candidates of the 2026 Victorian state election",
         "url": "https://en.wikipedia.org/wiki/Candidates_of_the_2026_Victorian_state_election",
@@ -45233,6 +47795,18 @@
         "url": "https://greens.org.au/vic/person/nina-crawley",
         "publisher": "greens.org.au",
         "date": ""
+      },
+      "background": {
+        "summary": "Teacher and human rights advocate who has lived, worked and raised her family in Ivanhoe.",
+        "sources": [
+          {
+            "title": "Nina Crawley — Greens candidate for Ivanhoe",
+            "url": "https://greens.org.au/vic/person/nina-crawley",
+            "publisher": "Australian Greens Victoria",
+            "date": null
+          }
+        ],
+        "verified": true
       }
     },
     {
@@ -45248,7 +47822,20 @@
       "election": "Victoria 2026",
       "poll_date": "2026-11-28",
       "last_updated": "2026-07-01",
-      "positions": {},
+      "positions": {
+        "housing_planning": {
+          "summary": "A renter himself, he highlights rising rents and mortgages, and wealth flowing to landlords, developers and banks rather than working people, as key issues of his campaign.",
+          "sources": [
+            {
+              "title": "Ben Milne — Victorian Socialists candidate for Ivanhoe",
+              "url": "https://www.victoriansocialists.org.au/candidates/ben-milne",
+              "publisher": "Victorian Socialists",
+              "date": null
+            }
+          ],
+          "verified": true
+        }
+      },
       "roster_source": {
         "title": "Candidates of the 2026 Victorian state election",
         "url": "https://en.wikipedia.org/wiki/Candidates_of_the_2026_Victorian_state_election",
@@ -45260,6 +47847,18 @@
         "url": "https://www.victoriansocialists.org.au/candidates/ben-milne",
         "publisher": "victoriansocialists.org.au",
         "date": ""
+      },
+      "background": {
+        "summary": "Supermarket worker and member of the Retail and Fast Food Workers' Union (RAFFWU); a renter in Ivanhoe with a long history as a community organiser and union activist.",
+        "sources": [
+          {
+            "title": "Ben Milne — Victorian Socialists candidate for Ivanhoe",
+            "url": "https://www.victoriansocialists.org.au/candidates/ben-milne",
+            "publisher": "Victorian Socialists",
+            "date": null
+          }
+        ],
+        "verified": true
       }
     },
     {
@@ -45287,6 +47886,42 @@
             }
           ],
           "verified": true
+        },
+        "housing_planning": {
+          "summary": "Says the housing crisis is the result of treating housing as a commodity instead of a human right; calls for large-scale public housing, rent freezes and a crackdown on vacant investment properties.",
+          "sources": [
+            {
+              "title": "Courtney Millett — Victorian Socialists candidate for Kalkallo",
+              "url": "https://www.victoriansocialists.org.au/candidates/courtney-millett",
+              "publisher": "Victorian Socialists",
+              "date": null
+            }
+          ],
+          "verified": true
+        },
+        "health": {
+          "summary": "Calls for stronger, properly funded and publicly owned services including healthcare, affordable childcare and aged care.",
+          "sources": [
+            {
+              "title": "Courtney Millett — Victorian Socialists candidate for Kalkallo",
+              "url": "https://www.victoriansocialists.org.au/candidates/courtney-millett",
+              "publisher": "Victorian Socialists",
+              "date": null
+            }
+          ],
+          "verified": true
+        },
+        "education": {
+          "summary": "Committed to defending and expanding public education, stating that fully funded, inclusive public schools are essential to a just and democratic society.",
+          "sources": [
+            {
+              "title": "Courtney Millett — Victorian Socialists candidate for Kalkallo",
+              "url": "https://www.victoriansocialists.org.au/candidates/courtney-millett",
+              "publisher": "Victorian Socialists",
+              "date": null
+            }
+          ],
+          "verified": true
         }
       },
       "roster_source": {
@@ -45300,6 +47935,18 @@
         "url": "https://www.victoriansocialists.org.au/candidates/courtney-millett",
         "publisher": "victoriansocialists.org.au",
         "date": ""
+      },
+      "background": {
+        "summary": "Public school teacher, union member and Craigieburn resident.",
+        "sources": [
+          {
+            "title": "Courtney Millett — Victorian Socialists candidate for Kalkallo",
+            "url": "https://www.victoriansocialists.org.au/candidates/courtney-millett",
+            "publisher": "Victorian Socialists",
+            "date": null
+          }
+        ],
+        "verified": true
       }
     },
     {
@@ -45327,6 +47974,18 @@
         "url": "https://www.viclabor.org.au/our-team/david-sun?sourcePage=/our-team/david-sun",
         "publisher": "viclabor.org.au",
         "date": ""
+      },
+      "background": {
+        "summary": "Kew resident raising his family locally; Labor's candidate for Kew at the 2026 state election.",
+        "sources": [
+          {
+            "title": "David Sun — Labor candidate for Kew",
+            "url": "https://www.viclabor.org.au/our-team/david-sun",
+            "publisher": "Victorian Labor",
+            "date": null
+          }
+        ],
+        "verified": true
       }
     },
     {
@@ -45342,7 +48001,44 @@
       "election": "Victoria 2026",
       "poll_date": "2026-11-28",
       "last_updated": "2026-07-01",
-      "positions": {},
+      "positions": {
+        "integrity": {
+          "summary": "Advocates for politicians independent from corporate influence, noting that her party takes no corporate donations and is funded by individual supporters.",
+          "sources": [
+            {
+              "title": "Jackie Carter — Greens candidate for Kew",
+              "url": "https://greens.org.au/vic/person/jackie-carter",
+              "publisher": "Australian Greens Victoria",
+              "date": null
+            }
+          ],
+          "verified": true
+        },
+        "housing_planning": {
+          "summary": "Names the housing and cost of living crises among the major challenges motivating her candidacy.",
+          "sources": [
+            {
+              "title": "Jackie Carter — Greens candidate for Kew",
+              "url": "https://greens.org.au/vic/person/jackie-carter",
+              "publisher": "Australian Greens Victoria",
+              "date": null
+            }
+          ],
+          "verified": true
+        },
+        "environment_water": {
+          "summary": "Names the climate emergency as a major challenge motivating her candidacy, saying politicians have the solutions but lack the will to implement them.",
+          "sources": [
+            {
+              "title": "Jackie Carter — Greens candidate for Kew",
+              "url": "https://greens.org.au/vic/person/jackie-carter",
+              "publisher": "Australian Greens Victoria",
+              "date": null
+            }
+          ],
+          "verified": true
+        }
+      },
       "roster_source": {
         "title": "Candidates of the 2026 Victorian state election",
         "url": "https://en.wikipedia.org/wiki/Candidates_of_the_2026_Victorian_state_election",
@@ -45354,6 +48050,18 @@
         "url": "https://greens.org.au/vic/person/jackie-carter",
         "publisher": "greens.org.au",
         "date": ""
+      },
+      "background": {
+        "summary": "IT professional with over 20 years' experience in the pharmaceutical sector; born in Kew and a resident of the area for more than 15 years.",
+        "sources": [
+          {
+            "title": "Jackie Carter — Greens candidate for Kew",
+            "url": "https://greens.org.au/vic/person/jackie-carter",
+            "publisher": "Australian Greens Victoria",
+            "date": null
+          }
+        ],
+        "verified": true
       }
     },
     {

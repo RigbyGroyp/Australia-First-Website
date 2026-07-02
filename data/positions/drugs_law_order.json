@@ -2452,5 +2452,65 @@
       }
     ],
     "verified": true
+  },
+  "victoria-2026-aaron-qin-box-hill": {
+    "summary": "Lists 'safe streets and support for local safety initiatives' among his campaign priorities for Box Hill.",
+    "sources": [
+      {
+        "title": "Aaron Qin — Greens candidate for Box Hill",
+        "url": "https://greens.org.au/vic/person/aaron-qin",
+        "publisher": "Australian Greens Victoria",
+        "date": null
+      }
+    ],
+    "verified": true
+  },
+  "victoria-2026-sagar-sanyal-bundoora": {
+    "summary": "His candidate profile states that he opposes police overreach and racial profiling.",
+    "sources": [
+      {
+        "title": "Sagar Sanyal - Victorian Socialists candidate for Bundoora",
+        "url": "https://www.victoriansocialists.org.au/candidates/sagar-sanyal",
+        "publisher": "Victorian Socialists",
+        "date": null
+      }
+    ],
+    "verified": true
+  },
+  "victoria-2026-jack-mcmahon-dandenong": {
+    "summary": "Has campaigned against what he describes as over-policing in the Dandenong area.",
+    "sources": [
+      {
+        "title": "Jack McMahon — Candidate for Dandenong",
+        "url": "https://www.victoriansocialists.org.au/candidates/jack-mcmahon",
+        "publisher": "Victorian Socialists",
+        "date": null
+      }
+    ],
+    "verified": true
+  },
+  "victoria-2026-tommy-le-deux-essendon": {
+    "summary": "Identifies community safety as one of the key local concerns of his campaign.",
+    "sources": [
+      {
+        "title": "Campaign announcement post: Tommy Le Deux, Liberal candidate for Essendon",
+        "url": "https://www.instagram.com/p/DXkqhxej9JV/",
+        "publisher": "Instagram",
+        "date": null
+      }
+    ],
+    "verified": true
+  },
+  "victoria-2026-katie-goulas-frankston": {
+    "summary": "Names \"safer communities\" as part of her advocacy platform; is studying Justice and Criminology and volunteers as an advocate for children in juvenile detention.",
+    "sources": [
+      {
+        "title": "Katie Goulas, Candidate for Frankston",
+        "url": "https://greens.org.au/vic/person/katie-goulas",
+        "publisher": "Australian Greens Victoria",
+        "date": null
+      }
+    ],
+    "verified": true
   }
 }

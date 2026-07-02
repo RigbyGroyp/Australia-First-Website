@@ -100,5 +100,545 @@
       }
     ],
     "verified": true
+  },
+  "victoria-2026-sonya-semmens-albert-park": {
+    "summary": "Says she is \"determined to ensure no one experiences homelessness in a country as wealthy as Australia\", citing her own experience of insecure housing as a renter; as a Greens candidate in 2021 she said \"Everyone deserves a secure place to live, and that's what I'll be fighting for in parliament.\"",
+    "sources": [
+      {
+        "title": "Sonya Semmens, Candidate for Albert Park",
+        "url": "https://greens.org.au/vic/person/sonya-semmens",
+        "publisher": "Australian Greens Victoria",
+        "date": "2026"
+      },
+      {
+        "title": "Greens announce candidate in most winnable Liberal seat",
+        "url": "https://www.miragenews.com/greens-announce-candidate-in-most-winnable-617155/",
+        "publisher": "Mirage News",
+        "date": "2021-08-20"
+      }
+    ],
+    "verified": true
+  },
+  "victoria-2026-colleen-bolger-albert-park": {
+    "summary": "Advocates \"a building spree of public housing and rent caps\".",
+    "sources": [
+      {
+        "title": "Colleen Bolger — Victorian Socialists candidate for Albert Park",
+        "url": "https://www.victoriansocialists.org.au/candidates/colleen-bolger",
+        "publisher": "Victorian Socialists",
+        "date": "2026"
+      }
+    ],
+    "verified": true
+  },
+  "victoria-2026-tim-randall-ashwood": {
+    "summary": "Says \"secure, affordable homes are essential for a fair and resilient society\" and that housing \"sits at the intersection of climate, cost of living and equity\"; names housing among the issues he wants to tackle with \"practical, responsible solutions\".",
+    "sources": [
+      {
+        "title": "Tim Randall, Candidate for Ashwood",
+        "url": "https://greens.org.au/vic/person/tim-randall",
+        "publisher": "Australian Greens Victoria",
+        "date": "2026"
+      }
+    ],
+    "verified": true
+  },
+  "victoria-2026-jacob-van-der-eynden-ashwood": {
+    "summary": "States \"Housing is a human right—we need policy that foregrounds people's right to a home over the power of mega-investors to turn a profit.\"",
+    "sources": [
+      {
+        "title": "Jacob van der Eynden — Victorian Socialists candidate for Ashwood",
+        "url": "https://www.victoriansocialists.org.au/candidates/jacob-van-der-eynden",
+        "publisher": "Victorian Socialists",
+        "date": "2026"
+      }
+    ],
+    "verified": true
+  },
+  "victoria-2026-sophie-thorn-bass": {
+    "summary": "Says people in Bass are doing it tough \"with a lack of affordable housing\" and commits to \"build more affordable homes\".",
+    "sources": [
+      {
+        "title": "Sophie Thorn, Candidate for Bass",
+        "url": "https://greens.org.au/vic/person/sophie-thorn",
+        "publisher": "Australian Greens Victoria",
+        "date": "2026"
+      }
+    ],
+    "verified": true
+  },
+  "victoria-2026-alec-ferguson-bayswater": {
+    "summary": "Identifies \"the housing crisis and the cost of living\" as urgent issues, saying \"No one should be deprived of good quality housing, access to healthcare, and everything else needed to live a decent life.\"",
+    "sources": [
+      {
+        "title": "Alec Ferguson — Victorian Socialists candidate for Bayswater",
+        "url": "https://www.victoriansocialists.org.au/candidates/alec-ferguson",
+        "publisher": "Victorian Socialists",
+        "date": "2026"
+      }
+    ],
+    "verified": true
+  },
+  "victoria-2026-steve-martin-benambra": {
+    "summary": "Names \"better housing affordability\" among the priorities he will fight for.",
+    "sources": [
+      {
+        "title": "Libs choose Steve Martin for Benambra",
+        "url": "https://www.wangarattachronicle.com.au/news/politics-and-government/libs-choose-steve-martin-for-benambra-tmtzgaqr",
+        "publisher": "Wangaratta Chronicle",
+        "date": "2026"
+      }
+    ],
+    "verified": true
+  },
+  "victoria-2026-andrew-lethlean-bendigo-east": {
+    "summary": "Named housing affordability as one of the key focus areas of his campaign announcement for Bendigo East.",
+    "sources": [
+      {
+        "title": "Nationals Candidate Andrew Lethlean to Challenge Premier Jacinta Allan in Bendigo East",
+        "url": "https://abnewsinternational.com/nationals-candidate-andrew-lethlean-to-challenge-premier-jacinta-allan-in-bendigo-east/",
+        "publisher": "AB News International",
+        "date": "2026-04-05"
+      }
+    ],
+    "verified": true
+  },
+  "victoria-2026-owen-cosgriff-bendigo-east": {
+    "summary": "Advocates state-led public housing development, including medium-density public housing in the Bendigo city centre, saying 'public housing should be available to all who want to live where they work, not just the most vulnerable in our society'.",
+    "sources": [
+      {
+        "title": "Owen Cosgriff — Victorian Socialists candidate for Bendigo East",
+        "url": "https://www.victoriansocialists.org.au/candidates/owen-cosgriff",
+        "publisher": "Victorian Socialists",
+        "date": null
+      }
+    ],
+    "verified": true
+  },
+  "victoria-2026-liza-shaw-bendigo-west": {
+    "summary": "Lists expanding affordable housing as a campaign priority for Bendigo West.",
+    "sources": [
+      {
+        "title": "Liza Shaw — Greens candidate for Bendigo West",
+        "url": "https://greens.org.au/vic/person/liza-shaw",
+        "publisher": "Australian Greens Victoria",
+        "date": null
+      }
+    ],
+    "verified": true
+  },
+  "victoria-2026-nalinda-amarasiri-gunawardana-berwick": {
+    "summary": "Prioritises 'secure housing for all' and tackling the housing shortage.",
+    "sources": [
+      {
+        "title": "Nalinda Amarasiri Gunawardana — Victorian Socialists candidate for Berwick",
+        "url": "https://www.victoriansocialists.org.au/candidates/nalinda-amarasiri-gunawardana",
+        "publisher": "Victorian Socialists",
+        "date": null
+      }
+    ],
+    "verified": true
+  },
+  "victoria-2026-aaron-qin-box-hill": {
+    "summary": "Calls for 'more housing that is well planned and genuinely affordable' in the growing Box Hill area.",
+    "sources": [
+      {
+        "title": "Aaron Qin — Greens candidate for Box Hill",
+        "url": "https://greens.org.au/vic/person/aaron-qin",
+        "publisher": "Australian Greens Victoria",
+        "date": null
+      }
+    ],
+    "verified": true
+  },
+  "victoria-2026-saravina-afaj-box-hill": {
+    "summary": "Committed to tackling 'the housing shortage and cost of living crisis' and to ensuring everyone has access to affordable housing.",
+    "sources": [
+      {
+        "title": "Saravina Afaj — Victorian Socialists candidate for Box Hill",
+        "url": "https://www.victoriansocialists.org.au/candidates/saravina-afaj",
+        "publisher": "Victorian Socialists",
+        "date": null
+      }
+    ],
+    "verified": true
+  },
+  "victoria-2026-ebony-bain-brighton": {
+    "summary": "Says she understands 'the cost of living challenges facing the Brighton community, from unaffordable housing to groceries and healthcare', identifying housing affordability as a campaign concern.",
+    "sources": [
+      {
+        "title": "Ebony Bain — Greens candidate for Brighton",
+        "url": "https://greens.org.au/vic/person/ebony-bain",
+        "publisher": "Australian Greens Victoria",
+        "date": null
+      }
+    ],
+    "verified": true
+  },
+  "victoria-2026-jessica-smith-brighton": {
+    "summary": "Prioritises expanding public housing stock, calling for 'high-quality, well-maintained public housing, and much more of it'.",
+    "sources": [
+      {
+        "title": "Jessica Smith — Victorian Socialists candidate for Brighton",
+        "url": "https://www.victoriansocialists.org.au/candidates/jessica-smith",
+        "publisher": "Victorian Socialists",
+        "date": null
+      }
+    ],
+    "verified": true
+  },
+  "victoria-2026-mutullah-can-yolbulan-broadmeadows": {
+    "summary": "Says rental units lack adequate standards, public housing is being dismantled, and parks and green spaces are disappearing in the Broadmeadows area.",
+    "sources": [
+      {
+        "title": "Mutullah Can Yolbulan — Victorian Socialists candidate for Broadmeadows",
+        "url": "https://www.victoriansocialists.org.au/candidates/mutullah-can-yolbulan",
+        "publisher": "Victorian Socialists",
+        "date": null
+      }
+    ],
+    "verified": true
+  },
+  "victoria-2026-adam-pulford-brunswick": {
+    "summary": "Campaigns \"for affordable rents and housing\", naming cost of living and housing among his central campaign issues; notes he is himself a renter in Brunswick East.",
+    "sources": [
+      {
+        "title": "Adam Pulford, Councillor for Merri-bek City Council - Warrk-Warrk Ward",
+        "url": "https://greens.org.au/vic/person/adam-pulford",
+        "publisher": "Australian Greens Victoria",
+        "date": null
+      },
+      {
+        "title": "Greens opt for Pulford to contest state election",
+        "url": "https://brunswickvoice.com.au/greens-opt-for-pulford-to-contest-state-election/",
+        "publisher": "Brunswick Voice",
+        "date": "2026-03-13"
+      }
+    ],
+    "verified": true
+  },
+  "victoria-2026-sagar-sanyal-bundoora": {
+    "summary": "States: \"If elected in November, I will fight against every pro-developer, pro-corporate policy that sells out ordinary working people\", and says the housing crisis should be addressed without scapegoating migrants.",
+    "sources": [
+      {
+        "title": "Sagar Sanyal - Victorian Socialists candidate for Bundoora",
+        "url": "https://www.victoriansocialists.org.au/candidates/sagar-sanyal",
+        "publisher": "Victorian Socialists",
+        "date": null
+      }
+    ],
+    "verified": true
+  },
+  "victoria-2026-angel-dolejs-caulfield": {
+    "summary": "Identifies \"enormous pressure from rising housing costs, insecure work, and public services stretched to breaking point\" as a central concern of his campaign.",
+    "sources": [
+      {
+        "title": "Angel Dolejsí - Greens candidate for Caulfield",
+        "url": "https://greens.org.au/vic/person/angel-dolejsi",
+        "publisher": "Australian Greens Victoria",
+        "date": null
+      }
+    ],
+    "verified": true
+  },
+  "victoria-2026-malak-ababneh-caulfield": {
+    "summary": "Advocates \"expanding public housing\" as part of her platform of redirecting wealth into public services.",
+    "sources": [
+      {
+        "title": "Malak Ababneh - Victorian Socialists candidate for Caulfield",
+        "url": "https://www.victoriansocialists.org.au/candidates/malak-ababneh",
+        "publisher": "Victorian Socialists",
+        "date": null
+      }
+    ],
+    "verified": true
+  },
+  "victoria-2026-kit-message-clarinda": {
+    "summary": "States: \"We need to tackle the cost of living and housing crisis now so everyone can live a decent life.\"",
+    "sources": [
+      {
+        "title": "Kit Message - Victorian Socialists candidate for Clarinda",
+        "url": "https://www.victoriansocialists.org.au/candidates/kit-message",
+        "publisher": "Victorian Socialists",
+        "date": null
+      }
+    ],
+    "verified": true
+  },
+  "victoria-2026-annalise-mercer-cranbourne": {
+    "summary": "Lists \"affordable housing\" first among her stated priorities for Cranbourne of \"affordable housing, public transport, health services, safer communities and green spaces\".",
+    "sources": [
+      {
+        "title": "Annalise Mercer - Greens candidate for Cranbourne",
+        "url": "https://greens.org.au/vic/person/annalise-mercer",
+        "publisher": "Australian Greens Victoria",
+        "date": null
+      }
+    ],
+    "verified": true
+  },
+  "victoria-2026-reem-yunis-cranbourne": {
+    "summary": "States that \"grocery and rental prices are out of control\", identifying rental costs as a key campaign concern.",
+    "sources": [
+      {
+        "title": "Reem Yunis - Victorian Socialists candidate for Cranbourne",
+        "url": "https://www.victoriansocialists.org.au/candidates/reem-yunis",
+        "publisher": "Victorian Socialists",
+        "date": null
+      }
+    ],
+    "verified": true
+  },
+  "victoria-2026-lini-fernando-croydon": {
+    "summary": "States she is running to fight \"for affordable housing\" and identifies housing stress as a major concern for the electorate.",
+    "sources": [
+      {
+        "title": "Lini Fernando",
+        "url": "https://greens.org.au/vic/person/lini-fernando",
+        "publisher": "Australian Greens (Victoria)",
+        "date": null
+      }
+    ],
+    "verified": true
+  },
+  "victoria-2026-jack-mcmahon-dandenong": {
+    "summary": "A renter himself, he prioritises addressing housing shortages and rental regulation.",
+    "sources": [
+      {
+        "title": "Jack McMahon — Candidate for Dandenong",
+        "url": "https://www.victoriansocialists.org.au/candidates/jack-mcmahon",
+        "publisher": "Victorian Socialists",
+        "date": null
+      }
+    ],
+    "verified": true
+  },
+  "victoria-2026-tommy-le-deux-essendon": {
+    "summary": "Identifies housing affordability, alongside rising living costs, as a key concern of his campaign, noting he is a renter himself.",
+    "sources": [
+      {
+        "title": "Campaign announcement post: Tommy Le Deux, Liberal candidate for Essendon",
+        "url": "https://www.instagram.com/p/DXkqhxej9JV/",
+        "publisher": "Instagram",
+        "date": null
+      }
+    ],
+    "verified": true
+  },
+  "victoria-2026-michal-kedem-essendon": {
+    "summary": "Calls for more funding for housing, as part of his platform of redirecting spending from police, prisons and defence.",
+    "sources": [
+      {
+        "title": "Michal Kedem — Candidate for Essendon",
+        "url": "https://www.victoriansocialists.org.au/candidates/michal-kedem",
+        "publisher": "Victorian Socialists",
+        "date": null
+      }
+    ],
+    "verified": true
+  },
+  "victoria-2026-sam-mccoll-eureka": {
+    "summary": "Names housing as one of his three main campaign areas, citing housing pressure as a key community concern.",
+    "sources": [
+      {
+        "title": "Sam McColl",
+        "url": "https://greens.org.au/vic/person/sam-mccoll",
+        "publisher": "Australian Greens (Victoria)",
+        "date": null
+      }
+    ],
+    "verified": true
+  },
+  "victoria-2026-alysia-regan-euroa": {
+    "summary": "Identifies housing shortages as a key issue affecting the regional electorate that her campaign addresses.",
+    "sources": [
+      {
+        "title": "Alysia Regan",
+        "url": "https://greens.org.au/vic/person/alysia-regan",
+        "publisher": "Australian Greens (Victoria)",
+        "date": null
+      }
+    ],
+    "verified": true
+  },
+  "victoria-2026-elena-pereyra-footscray": {
+    "summary": "Says \"sustainable community-focused building and living are key to reducing inequality\" and commits to working for \"sustainable community-focused development, affordable housing and living\"; her PhD research is on housing as an urban commons and she sits on the board of CoHousing Australia.",
+    "sources": [
+      {
+        "title": "Elena Pereyra, Candidate for Footscray and Councillor for Maribyrnong City Council - Wattle",
+        "url": "https://greens.org.au/vic/person/elena-pereyra",
+        "publisher": "Australian Greens Victoria",
+        "date": null
+      }
+    ],
+    "verified": true
+  },
+  "victoria-2026-jasmine-duff-footscray": {
+    "summary": "Says \"instead of Labor's public housing sell-off, I'll fight for a mass increase of public homes and funding to housing organisations\"; has campaigned against public housing privatisation and supported Altona residents facing eviction.",
+    "sources": [
+      {
+        "title": "Jasmine Duff – Victorian Socialists",
+        "url": "https://www.victoriansocialists.org.au/candidates/jasmine-duff",
+        "publisher": "Victorian Socialists",
+        "date": null
+      }
+    ],
+    "verified": true
+  },
+  "victoria-2026-katie-goulas-frankston": {
+    "summary": "Names affordable housing as a primary advocacy area, saying that when \"services like healthcare, education and affordable housing are limited, the repercussions are vast\".",
+    "sources": [
+      {
+        "title": "Katie Goulas, Candidate for Frankston",
+        "url": "https://greens.org.au/vic/person/katie-goulas",
+        "publisher": "Australian Greens Victoria",
+        "date": null
+      }
+    ],
+    "verified": true
+  },
+  "victoria-2026-andrew-cheeseman-frankston": {
+    "summary": "Says \"I stand for taxing landlords until they scream, then taxing them some more\", as part of a platform of rebuilding privatised public services and taxing the rich.",
+    "sources": [
+      {
+        "title": "Andrew Cheeseman – Victorian Socialists",
+        "url": "https://www.victoriansocialists.org.au/candidates/andrew-cheeseman",
+        "publisher": "Victorian Socialists",
+        "date": null
+      }
+    ],
+    "verified": true
+  },
+  "victoria-2026-emilie-flynn-geelong": {
+    "summary": "Names rising cost of living and housing pressures facing Geelong residents as a key campaign issue, saying \"everyone deserves a safe home, fair wages and a healthy planet\".",
+    "sources": [
+      {
+        "title": "Emilie Flynn, Candidate for Geelong",
+        "url": "https://greens.org.au/vic/person/emilie-flynn",
+        "publisher": "Australian Greens Victoria",
+        "date": null
+      }
+    ],
+    "verified": true
+  },
+  "victoria-2026-ash-munro-gippsland-east": {
+    "summary": "Names rising costs and housing stress among the key concerns affecting East Gippsland.",
+    "sources": [
+      {
+        "title": "Ash Munro, Candidate for Gippsland East",
+        "url": "https://greens.org.au/vic/person/ash-munro",
+        "publisher": "Australian Greens Victoria",
+        "date": null
+      }
+    ],
+    "verified": true
+  },
+  "victoria-2026-toyo-white-glen-waverley": {
+    "summary": "Campaigns for \"affordable renting and housing\" for Glen Waverley.",
+    "sources": [
+      {
+        "title": "Toyo White, Candidate for Glen Waverley",
+        "url": "https://greens.org.au/vic/person/toyo-white",
+        "publisher": "Australian Greens Victoria",
+        "date": null
+      }
+    ],
+    "verified": true
+  },
+  "victoria-2026-nicholas-siow-glen-waverley": {
+    "summary": "Names the housing shortage as one of his three main policy focuses, saying \"our community deserves a representative in parliament who will fight for working-class people against the entrenched corporate interests\".",
+    "sources": [
+      {
+        "title": "Nicholas Siow – Victorian Socialists",
+        "url": "https://www.victoriansocialists.org.au/candidates/nicholas-siow",
+        "publisher": "Victorian Socialists",
+        "date": null
+      }
+    ],
+    "verified": true
+  },
+  "victoria-2026-isaac-willoughby-hastings": {
+    "summary": "Names housing affordability in the Hastings area as a key issue of his campaign.",
+    "sources": [
+      {
+        "title": "Isaac Willoughby — Greens candidate for Hastings",
+        "url": "https://greens.org.au/vic/person/isaac-willoughby",
+        "publisher": "Australian Greens Victoria",
+        "date": null
+      }
+    ],
+    "verified": true
+  },
+  "victoria-2026-clive-crosby-hawthorn": {
+    "summary": "Backs Labor's plan to make renting fairer, faster and more affordable, including banning rental bidding, ending no-fault evictions and removing fees on rental apps.",
+    "sources": [
+      {
+        "title": "Clive Crosby — Labor candidate for Hawthorn",
+        "url": "https://www.viclabor.org.au/our-team/clive-crosby",
+        "publisher": "Victorian Labor",
+        "date": null
+      }
+    ],
+    "verified": true
+  },
+  "victoria-2026-kylie-rocha-hawthorn": {
+    "summary": "Campaigns for real solutions to tackle affordability and housing stress.",
+    "sources": [
+      {
+        "title": "Kylie Rocha — Greens candidate for Hawthorn",
+        "url": "https://greens.org.au/vic/person/kylie-rocha",
+        "publisher": "Australian Greens Victoria",
+        "date": null
+      }
+    ],
+    "verified": true
+  },
+  "victoria-2026-tess-mcenearney-hawthorn": {
+    "summary": "Identifies the housing crisis as a central problem of her campaign, attributing it to economic decisions focused primarily on the pursuit of private profit.",
+    "sources": [
+      {
+        "title": "Tess McEnearney — Victorian Socialists candidate for Hawthorn",
+        "url": "https://www.victoriansocialists.org.au/candidates/tess-mcenearney",
+        "publisher": "Victorian Socialists",
+        "date": null
+      }
+    ],
+    "verified": true
+  },
+  "victoria-2026-ben-milne-ivanhoe": {
+    "summary": "A renter himself, he highlights rising rents and mortgages, and wealth flowing to landlords, developers and banks rather than working people, as key issues of his campaign.",
+    "sources": [
+      {
+        "title": "Ben Milne — Victorian Socialists candidate for Ivanhoe",
+        "url": "https://www.victoriansocialists.org.au/candidates/ben-milne",
+        "publisher": "Victorian Socialists",
+        "date": null
+      }
+    ],
+    "verified": true
+  },
+  "victoria-2026-courtney-millett-kalkallo": {
+    "summary": "Says the housing crisis is the result of treating housing as a commodity instead of a human right; calls for large-scale public housing, rent freezes and a crackdown on vacant investment properties.",
+    "sources": [
+      {
+        "title": "Courtney Millett — Victorian Socialists candidate for Kalkallo",
+        "url": "https://www.victoriansocialists.org.au/candidates/courtney-millett",
+        "publisher": "Victorian Socialists",
+        "date": null
+      }
+    ],
+    "verified": true
+  },
+  "victoria-2026-jackie-carter-kew": {
+    "summary": "Names the housing and cost of living crises among the major challenges motivating her candidacy.",
+    "sources": [
+      {
+        "title": "Jackie Carter — Greens candidate for Kew",
+        "url": "https://greens.org.au/vic/person/jackie-carter",
+        "publisher": "Australian Greens Victoria",
+        "date": null
+      }
+    ],
+    "verified": true
   }
 }

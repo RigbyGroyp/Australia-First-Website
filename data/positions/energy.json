@@ -124,5 +124,77 @@
       }
     ],
     "verified": true
+  },
+  "victoria-2026-owen-cosgriff-bendigo-east": {
+    "summary": "Prioritises investigating local renewable energy options, suggesting 'solar on unproductive land or Bendigo Hydro using pumped mine water' as possibilities.",
+    "sources": [
+      {
+        "title": "Owen Cosgriff — Victorian Socialists candidate for Bendigo East",
+        "url": "https://www.victoriansocialists.org.au/candidates/owen-cosgriff",
+        "publisher": "Victorian Socialists",
+        "date": null
+      }
+    ],
+    "verified": true
+  },
+  "victoria-2026-saravina-afaj-box-hill": {
+    "summary": "Advocates 'ambitious policies that prioritise renewable energy and sustainable practices' to address the climate crisis.",
+    "sources": [
+      {
+        "title": "Saravina Afaj — Victorian Socialists candidate for Box Hill",
+        "url": "https://www.victoriansocialists.org.au/candidates/saravina-afaj",
+        "publisher": "Victorian Socialists",
+        "date": null
+      }
+    ],
+    "verified": true
+  },
+  "victoria-2026-adam-pulford-brunswick": {
+    "summary": "States: \"We can act on climate by getting off coal and gas and ensuring Victoria is powered by renewables, while making the big polluters pay for the climate damage.\"",
+    "sources": [
+      {
+        "title": "Adam Pulford, Councillor for Merri-bek City Council - Warrk-Warrk Ward",
+        "url": "https://greens.org.au/vic/person/adam-pulford",
+        "publisher": "Australian Greens Victoria",
+        "date": null
+      }
+    ],
+    "verified": true
+  },
+  "victoria-2026-james-williams-essendon": {
+    "summary": "States that \"innovation through clean solar and wind technology is essential to our environmental future\" and campaigns on sustainability and renewable energy.",
+    "sources": [
+      {
+        "title": "James Williams",
+        "url": "https://greens.org.au/vic/person/james-williams",
+        "publisher": "Australian Greens (Victoria)",
+        "date": null
+      }
+    ],
+    "verified": true
+  },
+  "victoria-2026-emilie-flynn-geelong": {
+    "summary": "Opposes the Viva gas terminal project proposed for Geelong.",
+    "sources": [
+      {
+        "title": "Emilie Flynn, Candidate for Geelong",
+        "url": "https://greens.org.au/vic/person/emilie-flynn",
+        "publisher": "Australian Greens Victoria",
+        "date": null
+      }
+    ],
+    "verified": true
+  },
+  "victoria-2026-zave-evans-gippsland-south": {
+    "summary": "Names offshore gas and the role of multinational corporations in regional Australia among his stated priority issues.",
+    "sources": [
+      {
+        "title": "Zave Evans, Candidate for Gippsland South",
+        "url": "https://greens.org.au/vic/person/zave-evans",
+        "publisher": "Australian Greens Victoria",
+        "date": null
+      }
+    ],
+    "verified": true
   }
 }
