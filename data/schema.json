@@ -76,6 +76,10 @@
       "allOf": [{ "$ref": "#/definitions/source" }],
       "description": "Running candidates only: citation confirming the person is standing at the election."
     },
+    "background": {
+      "allOf": [{ "$ref": "#/definitions/position" }],
+      "description": "Sourced biographical facts: occupation and current/former public roles (e.g. councillor, mayor, union official). Factual only — no characterisation."
+    },
     "positions": {
       "type": "object",
       "description": "Each key holds a sourced factual position. Omit a key if no sourced information exists yet.",

@@ -400,6 +400,16 @@ def load_photos():
         return json.load(f)
 
 
+def load_backgrounds():
+    """Sourced biographical facts (occupation, current/former public roles) keyed
+    by candidate id — data/backgrounds.json, rebuild-safe like positions."""
+    path = os.path.join(HERE, "..", "data", "backgrounds.json")
+    if not os.path.isfile(path):
+        return {}
+    with open(path, encoding="utf-8") as f:
+        return json.load(f)
+
+
 def load_positions():
     """Load hand-sourced positions, merged by candidate id. Rebuild-safe:
     positions live in data/positions/<issue>.json, never in candidates.json."""
@@ -527,6 +537,15 @@ def main():
         if ph:
             rec["photo_url"] = ph["photo_url"]
             rec["photo_credit_url"] = ph.get("page_url", "")
+
+    backgrounds = load_backgrounds()
+    bg_orphans = sorted(set(backgrounds) - {r["id"] for r in all_records})
+    if bg_orphans:
+        print(f"WARNING: {len(bg_orphans)} background key(s) match no roster id: {bg_orphans}")
+    for rec in all_records:
+        bg = backgrounds.get(rec["id"])
+        if bg:
+            rec["background"] = bg
 
     positions = load_positions()
     pos_matched = attach_positions(all_records, positions)
